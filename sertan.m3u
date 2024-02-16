@@ -1937,6 +1937,12 @@ https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonaMusicTV.cr" tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="00.KIL-MÜZİK", 18.Zona Music
 https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-MÜZİK", 19.k pop YouTube
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-MÜZİK", 19.k pop YouTube 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="00.KIL-MÜZİK", 19.KpopTV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 
@@ -2810,14 +2816,14 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp" group-title="03.KIL-BELGESEL", 6.gusto yemek tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="03.KIL-BELGESEL", Yaban TV
-http://50.7.218.154:1935/canlitv/yabantv.stream/playlist.m3u8?hash=65a4af69332d400dda664c6000fc8920
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="03.KIL-BELGESEL", Yaban TV
+https://m3u-editor.com/serve/dea-thl-ess-56145416532556/1082803199
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://birakmamseniturkiyem.org/images/logo-bjk-120.png" group-title="05.KIL-SPOR KARIŞIK", 01.Beşiktaş
 https://s01.vpis.io/besiktas/besiktas.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="05.KIL-SPOR KARIŞIK", 01.FB TV
-https://trn10.tulix.tv/gt-fbtv/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/fbtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="05.KIL-SPOR KARIŞIK", 01.Galatasaray tv
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
@@ -3287,6 +3293,15 @@ https://radyodinle1.turkhosted.com/yayin?uri=stream.taksimbilisim.com:8024/&tkn=
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mediacdns.karnaval.com/media/station_media/51/logos/logo_web_female.png" group-title="06.KIL-RADYO", Fm yılın radyosu
 https://25493.live.streamtheworld.com/SC001_SO1AAC.aac?ttag=vehicle&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gdpr=0&burst-time=15&sbmid=c9cbb9e9-3727-4fc4-f18e-b7e39308243b
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 1.Earth tv
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_original.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 2Eearth tv 2
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_showcase.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 3.earth tv USA
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_whouse.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", İstanbul Anadolu Hisarı
 https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w792953491.m3u8
 
@@ -3399,10 +3414,13 @@ https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="09.KIL-ÇOCUK", 0.Minika Go
-https://ecanlitv3.etvserver.com/minikago.m3u8?tkn=YERBsPIiF1UdemakPKSjEA&tms=1708040833
+https://m3u-editor.com/serve/dea-thl-ess-56145416532556/1082803209
 
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="09.KIL-ÇOCUK", 0.Minika Çocuk
-https://ecanlitv3.etvserver.com/minikacocuk.m3u8?tkn=jpHteFaoHsFRS2BeUwvQOg&tms=1708040887
+https://m3u-editor.com/serve/dea-thl-ess-56145416532556/1082803208
+
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://image.hurimg.com/i/hurriyet/75/750x422/617fc3aa4e3fe11174c0e47f.jpg" group-title="09.KIL-ÇOCUK", 0.TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="09.KIL-ÇOCUK", Cumburlop TV
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/cumburloptv.m3u8
