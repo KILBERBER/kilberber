@@ -59,7 +59,7 @@ http://xsmartiptv.xyz:8080/tst1223/nht.8064/263057
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 HD
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428027
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 HD [VIP]
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 HD [VIP]
 http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263054
 
 #EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 J HD
@@ -83,20 +83,23 @@ http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428028
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 01.-➾SPOR WEB➾-
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyOTIyMDcyMDhkYTBhMWJlNDExYzk=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 web
-https://corsproxy.org/?https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 265
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODQwNjE3MTI4NzNhNDMwMGQxZTQ=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport 2 web
-https://corsproxy.org/?https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 web
+https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport 3 web
-https://corsproxy.org/?https://odin.7545c95540dc.shop/3/chunk_hd.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 2 web
+https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 3 web
+https://odin.7545c95540dc.shop/3/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport Max 1 web
-https://corsproxy.org/?https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
+https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-SPOR", 02.EUROSPORT 1 blutv
 https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
@@ -108,10 +111,16 @@ https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI2MDMzNzE4MDBjYzZiODcwYzA2NDU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (1080 HD)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792848
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (1080 HD+)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792849
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (4K FEED+)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNzQwMTMyNzY0M2RkZWRlOGZhYmM=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (4K FEED+)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792855
@@ -120,13 +129,25 @@ https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792855
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792854
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 FEED)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzQ5NTg2NzkzY2FhODFhZjYwZjQ=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 FEED)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792850
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzgyMjc3MDUwMWMwMzc3ODdmNjBjMQ==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 HD)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792846
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 HD+)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzk4MDQyNDYwMDQxODk1MDY1YjExYg==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 HD+)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792847
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (FHD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMxMTgwMjkzMzVjNTRkNTA4ODI1Yzk=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (FHD)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792852
@@ -135,7 +156,37 @@ https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792852
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792851
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (UHD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NzM5Njk5NjYxMGU3ZGZmYWMzZmU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (UHD)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792853
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 2 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI4MDcxODg3MzQzNjRiMjRkOWU2OGQ=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 2 (720 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNjkzNTExMTFlNzNjZTY2NzM1NTU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 3 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1ODY5OTM5OThhODRjNTc4OTY5MWU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 3 (720 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNzMxOTc5NDNjNmMzZmIzNjAwYzQ=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 4 (1080 UHD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM1NTMzNzkxOTZjZDJhZGJlOGM1MjY=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 5 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyNTAzNzY3MjQyYjkzOTg5OTIwODk=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 5 (720 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEyODA5NjU4NDdmMjJiY2FjY2ZlOTI=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport Max 1 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzczNjg3NDk4MWJhNDQwOGRmMjg2YQ==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport Max 2 (1080 HD)
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTY4OTgzNTcwMmI5NzY5MTc5NDM=
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FHD
 http://851775804747740815.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/740815.ts
@@ -2390,14 +2441,17 @@ https://tivi44.ozelip.com:3463/stream/play.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", 1ON MEDYA
 https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri1onmedya.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Aksiyon 1 (1080 HD)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Aksiyon 1
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792868
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Aksiyon 2 (1080 HD)
-https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792869
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Premier (1080 HD)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Premier
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792871
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Premier 
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzE4OTU5MDY5MzdlYjg3YzVhYTc=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="00.KIL-ONLİNE FİLM", beiN Türk
+https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI5NTI0NTRhYzYyNjE0NjZjYWE=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", FİLM ATÖLYESİ
 https://github.com/rideordie16/YouTube/raw/main/film/filmatolyesi.m3u8
