@@ -56,62 +56,47 @@ https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m3u-editor.com/storage/channel-logos/95548030-c5aa-11ee-9654-910bef251147/6205433/1078580974.jpeg" group-title="0.KIL-SPOR", 00.7/24 SPOR TV
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.Bein Sports 1 A
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.Bein Sports 1
 http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263058
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 B
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263058
+#EXTINF:-1 tvg-id="TR: Bein Sport 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1
+http://tv.1230.pro:80/live:duygulu__68/xSucnh4vPA/486
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 C
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/334643
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="0.KIL-SPOR", 00.beIN Sports 1
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/78345
 
-#EXTINF:-1 tvg-id="|TR| BEINSPORTS 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 D
+#EXTINF:-1 tvg-id="|TR| BEINSPORTS 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1
 http://s1.czxbexchange.xyz:8080/live/429661816553/709267507642/48972.ts
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 E uydu
-http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428031
-
-#EXTINF:-1 tvg-id="| TR | BEIN SPORTS 1 [ 4K ]" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 F
+#EXTINF:-1 tvg-id="| TR | BEIN SPORTS 1 [ 4K ]" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/411955
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 G 50 FPS
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 50 FPS
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428030
 
-#EXTINF:-1 tvg-id="| TR | BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 H 50 FPS
+#EXTINF:-1 tvg-id="| TR | BEIN SPORTS 1 FHD¹ 50 FPS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 50 FPS
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/409462
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 hd
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263057
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 [VIP]
+http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263054
+
+#EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 FHD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 FHD
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399650
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 FHD
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428028
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 HD
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428027
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 HD [VIP]
-http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263054
-
-#EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 J HD
+#EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 HD
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399652
 
-#EXTINF:-1 tvg-id="yedek yayin" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 K
-http://bilkl.ddns.me:8000/havuzdan.cikis/12cemoVAR./68354
-
-#EXTINF:-1 tvg-id="TR: Bein Sport 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 L
-http://tv.1230.pro:80/live:duygulu__68/xSucnh4vPA/486
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 M
-http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/78345
-
-#EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 FHD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.beIN Sports 1 I FHD
-http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399650
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN-SPORTS 1 FHD
-http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428028
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.BEIN SPORTS 1 uydu
+http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/428031
 
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 01.-➾SPOR WEB➾-
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1
-https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyOTIyMDcyMDhkYTBhMWJlNDExYzk=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 265
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2ODQwNjE3MTI4NzNhNDMwMGQxZTQ=
@@ -151,9 +136,6 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (4K FEED+)
 https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792855
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (50 FPS)
-https://m3u-editor.com/serve/dea-thl-ess-541616541651656/1082792854
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport 1 (720 FEED)
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMzQ5NTg2NzkzY2FhODFhZjYwZjQ=
@@ -215,20 +197,905 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/45wSum0" group-title="0.KIL-SPOR", beiN Sport Max 2 (1080 HD)
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4MTY4OTgzNTcwMmI5NzY5MTc5NDM=
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FHD
-http://851775804747740815.ofd0208.xyz:80/play/fe1222416/nb5q3TpUQg/740815.ts
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 FEED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FEED
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/139
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 FEED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FEED
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/139
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 FEED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FEED
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/139
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 FEED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 FEED
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/139
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/138
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/138
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/138
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/138
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/138
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p SUPERONLINE
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/136
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p SUPERONLINE
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/136
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p SUPERONLINE
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/136
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p SUPERONLINE
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/136
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p SUPERONLINE
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/136
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/19607
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/19607
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/19607
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/19607
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/19607
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/137
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/137
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/137
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/137
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 1080p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/137
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/133
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/133
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/133
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/133
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p DEUTSCHE TELEKOM
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/133
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p SUPERONLINE
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/131
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p SUPERONLINE
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/131
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p SUPERONLINE
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/131
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p SUPERONLINE
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/131
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p SUPERONLINE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p SUPERONLINE
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/131
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/130
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/130
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/130
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/130
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD 720p TURK TELEKOM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURK TELEKOM
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/130
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/132
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/132
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/132
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/132
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 1 HD 720p TURKSAT KABLO
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/132
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/142
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/142
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/142
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/142
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/142
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/143
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/143
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/143
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/143
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/143
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/145
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/145
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/145
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/145
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/145
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/147
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/147
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/147
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/147
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 3 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/147
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/150
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/150
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/150
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/150
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/150
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/151
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/151
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/151
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/151
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/151
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4K / IZ TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4K / IZ TV
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/125
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4K / IZ TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4K / IZ TV
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/125
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4K / IZ TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4K / IZ TV
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/125
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4K / IZ TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4K / IZ TV
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/125
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 4K / IZ TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 4K / IZ TV
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/125
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/82978
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/82978
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/82978
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/82978
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/82978
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/82979
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/82979
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/82979
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/82979
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS 5 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/82979
+
+#EXTINF:-1 tvg-id="beIN SPORTS HABER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS HABER HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/123
+
+#EXTINF:-1 tvg-id="beIN SPORTS HABER" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS HABER HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/124
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/153
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/153
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/153
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/153
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/153
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/154
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/154
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/154
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/154
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 1 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/154
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/156
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/156
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/156
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/156
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/156
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/157
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/157
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/157
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/157
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS MAX 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-2-qa-tr.png" group-title="0.KIL-SPOR", TR: BEIN SPORTS MAX 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/157
+
+#EXTINF:-1 tvg-id="TR: EDGE SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EDGE SPORT HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/63573
+
+#EXTINF:-1 tvg-id="TR: EDGE SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EDGE SPORT HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/63573
+
+#EXTINF:-1 tvg-id="TR: EDGE SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EDGE SPORT HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/63573
+
+#EXTINF:-1 tvg-id="TR: EDGE SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EDGE SPORT HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/63573
+
+#EXTINF:-1 tvg-id="TR: EDGE SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EDGE SPORT HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/63573
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="0.KIL-SPOR", TR: EUROSPORT 1 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/172
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="0.KIL-SPOR", TR: EUROSPORT 1 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/172
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="0.KIL-SPOR", TR: EUROSPORT 1 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/172
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="0.KIL-SPOR", TR: EUROSPORT 1 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/172
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="0.KIL-SPOR", TR: EUROSPORT 1 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/172
 
 #EXTINF:-1 tvg-id="TR: Eurosport 1 ᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: Eurosport 1 ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107214
 
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="0.KIL-SPOR", TR: EUROSPORT 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/173
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="0.KIL-SPOR", TR: EUROSPORT 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/173
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="0.KIL-SPOR", TR: EUROSPORT 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/173
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="0.KIL-SPOR", TR: EUROSPORT 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/173
+
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="0.KIL-SPOR", TR: EUROSPORT 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/173
+
 #EXTINF:-1 tvg-id="TR: Eurosport 2 ᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: Eurosport 2 ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107215
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/63987
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/63987
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/63987
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/63987
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/63987
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64067
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64067
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64067
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64067
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64067
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64076
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64076
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64076
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64076
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64076
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64068
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64068
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64068
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64068
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 2 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64068
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64069
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64069
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64069
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64069
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 3 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64069
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64365
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64365
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64365
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64365
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 4 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64365
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64367
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64367
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64367
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64367
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 5 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64367
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/64369
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/64369
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/64369
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/64369
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 6 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/64369
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/65033
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/65033
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/65033
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/65033
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 7 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/65033
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/65035
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/65035
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/65035
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/65035
+
+#EXTINF:-1 tvg-id="TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN SPORTS 8 HD ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/65035
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/110761
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/110761
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/110761
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/110761
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/110761
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/110762
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/110762
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/110762
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/110762
+
+#EXTINF:-1 tvg-id="TR: EXXEN TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: EXXEN TV HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/110762
+
+#EXTINF:-1 tvg-id="TR: FIGHT BOX" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: FIGHT BOX
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/52448
+
+#EXTINF:-1 tvg-id="TR: FIGHT BOX" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: FIGHT BOX
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/52448
+
+#EXTINF:-1 tvg-id="TR: FIGHT BOX" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: FIGHT BOX
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/52448
+
+#EXTINF:-1 tvg-id="TR: FIGHT BOX" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: FIGHT BOX
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/52448
+
+#EXTINF:-1 tvg-id="TR: FIGHT BOX" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: FIGHT BOX
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/52448
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/176
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/176
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/176
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/176
+
+#EXTINF:-1 tvg-id="TR: NBA TV" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/176
+
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/177
+
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/177
+
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/177
+
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/177
+
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: NBA TV HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/177
+
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/55537
+
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/55537
+
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/55537
+
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/55537
+
+#EXTINF:-1 tvg-id="S Sport Plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/55537
+
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/168
+
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/168
+
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/168
+
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/168
+
+#EXTINF:-1 tvg-id="S Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 1 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/168
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/169
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/169
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/169
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/169
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/169
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/170
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/170
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/170
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/170
+
+#EXTINF:-1 tvg-id="S Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S SPORT 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/170
 
 #EXTINF:-1 tvg-id="TR: S Sport 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/ssport-2-tr.png" group-title="0.KIL-SPOR", TR: S Sport 2 ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107218
 
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111127
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111127
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111127
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111127
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 1 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111127
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111136
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111136
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111136
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111136
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 10 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111136
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111128
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111128
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111128
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111128
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 2 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111128
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111129
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111129
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111129
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111129
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 3 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111129
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111130
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111130
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111130
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111130
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 4 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111130
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111131
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111131
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111131
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111131
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 5 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111131
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111132
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111132
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111132
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111132
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 6 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111132
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111133
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111133
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111133
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111133
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 7 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111133
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111134
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111134
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111134
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111134
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 8 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111134
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/111135
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/111135
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/111135
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/111135
+
+#EXTINF:-1 tvg-id="TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: S SPORT PLUS 9 HD+ ( YAYIN ZAMANI AKTIF )
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/111135
+
 #EXTINF:-1 tvg-id="TR: S Sport ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s_sport_tr.png" group-title="0.KIL-SPOR", TR: S Sport ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107217
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/47229
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/47229
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/47229
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/47229
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/47229
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/47230
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/47230
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/47230
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/47230
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/47230
+
+#EXTINF:-1 tvg-id="Spor Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/166
+
+#EXTINF:-1 tvg-id="Spor Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/166
+
+#EXTINF:-1 tvg-id="Spor Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/166
+
+#EXTINF:-1 tvg-id="Spor Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/166
+
+#EXTINF:-1 tvg-id="Spor Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spor-smart-tr.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/166
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/41608
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/41608
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/41608
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/41608
+
+#EXTINF:-1 tvg-id="TR: SPOR SMART HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR: SPOR SMART HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/41608
+
+#EXTINF:-1 tvg-id="TR: SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: SPORTS TV
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/171
+
+#EXTINF:-1 tvg-id="TR: SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: SPORTS TV
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/171
+
+#EXTINF:-1 tvg-id="TR: SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: SPORTS TV
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/171
+
+#EXTINF:-1 tvg-id="TR: SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: SPORTS TV
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/171
+
+#EXTINF:-1 tvg-id="TR: SPORTS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: SPORTS TV
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/171
 
 #EXTINF:-1 tvg-id="TR: Sports TV ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png" group-title="0.KIL-SPOR", TR: Sports TV ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107213
@@ -242,1100 +1109,80 @@ http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107208
 #EXTINF:-1 tvg-id="TR: Tivibu Spor 3 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: Tivibu Spor 3 ᴴᴰ
 http://zyniptv.com:8080/netsports/As9AgWr4QE9e/107209
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 2 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68356
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 1 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 2 HD+
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68357
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 1 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 2 HD+ (FEED)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68358
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 1 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 3 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68360
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 1 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 3 HD+
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68361
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 1 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 3 SD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68359
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 2 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/162
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 4 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68363
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 2 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/162
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 4 HD+
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68364
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 2 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/162
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 4 SD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68362
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 2 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/162
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 5 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68366
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_2.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 2 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/162
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS 5 SD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68365
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 3 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS MAX 1 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68367
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 3 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:BEIN SPORTS MAX 2 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68368
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 3 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 1 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68388
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 3 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 1 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68389
+#EXTINF:-1 tvg-id="TR: TIVIBU SPOR 3 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_3.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 3 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 1 SD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68387
+#EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 4 HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/70258
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 2 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68390
+#EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 4 HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/70258
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 2 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68391
+#EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 4 HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/70258
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 3 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68392
+#EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 4 HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/70258
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 3 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68393
+#EXTINF:-1 tvg-id="Tivibu Spor 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor_4.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR 4 HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/70258
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 4 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68394
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR HD+
+http://wurtembergiptv.xyz:8080/mehmet0685879/SkxYaKdFj7jf/70260
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 4 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68395
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR HD+
+http://wurtembergiptv.xyz:8080/EnesNurullah/bksSTHRvSZ8a/70260
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 5 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68396
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR HD+
+http://wurtembergiptv.xyz:8080/neco43259816/89RqZ96rHGCh/70260
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 5 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68397
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR HD+
+http://wurtembergiptv.xyz:8080/pinar8330602/C2g386PpfRpz/70260
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 6 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68398
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 6 HD+ (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68399
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 7 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68400
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 8 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68401
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:EXXEN SPORT 9 HD (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68402
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT 2 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68377
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68375
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT HD+
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68376
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 1 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68378
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 2 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68379
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 3 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68380
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 4 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68381
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 5 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68382
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:S SPORT PLUS HD 6 (MAC ZAMANI)
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68383
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:SMARTSPOR 2 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68386
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:SMARTSPOR HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68384
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:SMARTSPOR HD+
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68385
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:SPORTS TV HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68422
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:TIVIBUSPOR 1 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68371
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:TIVIBUSPOR 2 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68372
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:TIVIBUSPOR 3 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68373
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:TIVIBUSPOR 4 HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68374
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR:TIVIBUSPOR HD
-http://ahmet.ddns.me:8000/tuhafiyeriza01/04mart2020Y/68370
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263057
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263057
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263057
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/syn2980/syn00/263057
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263058
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263058
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263058
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/syn2980/syn00/263058
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 [360p] Mobile
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/334574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 [360p] Mobile
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/334574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 [360p] Mobile
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/334574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 [360p] Mobile
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/334574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 [360p] Mobile
-http://xsmartiptv.xyz:8080/syn2980/syn00/334574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/334643
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/334643
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/334643
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/334643
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/syn2980/syn00/263054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/syn2980/syn00/263053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263060
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263060
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263060
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263060
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263060
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263063
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263063
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263063
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263063
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263063
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263066
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263066
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263066
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263066
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263066
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/syn2980/syn00/263088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263089
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263089
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263089
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/syn2980/syn00/263089
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263089
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/syn2980/syn00/263077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263075
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263075
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263075
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263075
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263075
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263078
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263078
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263078
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263078
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263078
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263079
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263079
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263079
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263079
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263079
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263080
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263080
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263080
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263080
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263080
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263081
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263082
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263082
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263082
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263082
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263082
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263083
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263083
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263083
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263083
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263083
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263084
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263084
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263084
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263084
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263084
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 1 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263090
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 1 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263090
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 1 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263090
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 1 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263090
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 1 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263090
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 2 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263091
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 2 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263091
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 2 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263091
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 2 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263091
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport 2 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263091
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263092
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263092
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263092
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/syn2980/syn00/263092
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263092
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/syn2980/syn00/263093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263094
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263094
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263094
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/syn2980/syn00/263094
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263094
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263095
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263095
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263095
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/syn2980/syn00/263095
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263095
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263096
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263096
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263096
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/syn2980/syn00/263096
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263096
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263085
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263085
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263085
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263085
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263085
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263087
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263087
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263087
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263087
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263087
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/mr8457/bh.mr203/263101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/ppp3410/p.0258/263101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/brhm3313/brhm.3313/263101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/syn2980/syn00/263101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |GM| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/tst1223/nht.8064/263101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/35650
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/9349547817/9646215877/35650
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 4K [Feed]
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/35650
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/191152
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/9349547817/9646215877/191152
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 8K [Feed]
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/191152
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/126272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/126272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/126272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/98925
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/9349547817/9646215877/98925
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 HD [VIP]
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/98925
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/9349547817/9646215877/35762
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 SD [480p]
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/35762
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 SD Mobile
-http://xsmartiptv.xyz:8080/9349547817/9646215877/334642
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 SD Mobile
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/334642
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 VIP H265
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/190072
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 VIP H265
-http://xsmartiptv.xyz:8080/9349547817/9646215877/190072
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 1 VIP H265
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/190072
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/35730
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/35730
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/35730
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 SD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/196216
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 SD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/196216
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 UHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/195811
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 UHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/195811
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 2 UHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/195811
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6097
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6097
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6097
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 SD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/196217
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 SD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/196217
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 UHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/195812
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 UHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/195812
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 3 UHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/195812
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6098
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 SD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/196218
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 SD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/196218
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 SD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/196218
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 UHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/195813
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 UHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/195813
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 4 UHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/195813
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/125936
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/125936
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports 5 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/125936
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Haber
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/103337
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 1
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 1
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 1
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6099
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 2
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 2
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6100
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| beIN Sports Max 2
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6100
-
-#EXTINF:-1 tvg-id="|TR| BEINSPORT 4 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e02891586e1d0c6c50cb655a8342356.png" group-title="0.KIL-SPOR", |TR| BEINSPORT 4 HD
-http://s1.czxbexchange.xyz:8080/live/429661816553/709267507642/85799.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6106
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6106
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 1
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6106
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6107
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6107
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| D-Smart EuroSport 2
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6107
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/194949
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/9349547817/9646215877/194949
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 FEED
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/194949
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/167579
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/167579
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/167579
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/198062
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 SD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/198062
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/190754
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/190754
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 1 UHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/190754
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/98878
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/98878
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 2 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/98878
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/98926
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/98926
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 3 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/98926
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/101132
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/101132
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 4 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/101132
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/101133
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/101133
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 5 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/101133
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/101134
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/101134
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 6 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/101134
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/101135
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/101135
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 7 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/101135
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/101137
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/101137
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Exxen Spor 8 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/101137
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 1 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/115598
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 1 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/115598
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 1 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/115598
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 2 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6105
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 2 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6105
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport 2 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6105
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/137713
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/9349547817/9646215877/137713
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+1 Mac Saati
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/137713
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/137714
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/9349547817/9646215877/137714
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+2 Mac Saati
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/137714
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/137715
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/9349547817/9646215877/137715
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+3 Mac Saati
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/137715
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/137716
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/9349547817/9646215877/137716
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+4 Mac Saati
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/137716
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/137717
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/9349547817/9646215877/137717
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| S Sport+5 Mac Saati
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/137717
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6108
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6108
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6108
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/121246
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/121246
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 1 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/121246
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/113272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/113272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Spor Smart 2 HD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/113272
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Sports TV
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/20772
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Sports TV
-http://xsmartiptv.xyz:8080/9349547817/9646215877/20772
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Sports TV
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/20772
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6102
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6102
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 1 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6102
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6103
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6103
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 2 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6103
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/113254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/113254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 3 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/113254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/115600
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/115600
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor 4 FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/115600
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor FHD
-http://xsmartiptv.xyz:8080/BXuJN7Fy53/dCmjFCAqxK/6101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor FHD
-http://xsmartiptv.xyz:8080/9349547817/9646215877/6101
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", |TR| Tivibu Spor FHD
-http://xsmartiptv.xyz:8080/isaciraci/Re3MVMaCWi/6101
+#EXTINF:-1 tvg-id="Tivibu Spor" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png" group-title="0.KIL-SPOR", TR: TIVIBU SPOR HD+
+http://wurtembergiptv.xyz:8080/kemal2035891/5LMzF4KQEvjN/70260
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
@@ -2507,23 +2354,86 @@ https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahnele
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", ŞABAN TV 4 B
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kemalsunalfilmleri.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ilkhaber-gazetesi.com/static/ma/mahsun-jj-1706434248-796.jpeg" group-title="00.KIL-TRENT DİZİ", 1.Mahsun J 1
-http://bilkl.ddns.me:8000/series/havuzdan.cikis/12cemoVAR./217336.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ilkhaber-gazetesi.com/static/ma/mahsun-jj-1706434248-796.jpeg" group-title="00.KIL-TRENT DİZİ", 1.Mahsun J 2
-http://bilkl.ddns.me:8000/series/havuzdan.cikis/12cemoVAR./217337.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ilkhaber-gazetesi.com/static/ma/mahsun-jj-1706434248-796.jpeg" group-title="00.KIL-TRENT DİZİ", 1.Mahsun J 3
-http://bilkl.ddns.me:8000/series/havuzdan.cikis/12cemoVAR./217338.mkv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ilkhaber-gazetesi.com/static/ma/mahsun-jj-1706434248-796.jpeg" group-title="00.KIL-TRENT DİZİ", 1.Mahsun J 4
-http://bilkl.ddns.me:8000/series/havuzdan.cikis/12cemoVAR./217379.mkv
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/c8b09a02-18e2-4952-8ba3-5a5f8b2c5f2e.png" group-title="00.KIL-TRENT DİZİ", Cennet Mahallesi
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cennetmahallesi.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/c8b09a02-18e2-4952-8ba3-5a5f8b2c5f2e.png" group-title="00.KIL-TRENT DİZİ", Cennet mahallesi
 https://raw.githubusercontent.com/rideordie16/YouTube/main/dizi/cennetmahallesi.m3u8
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRSlC8lhHYa5MlNR5eDS7asVkVf.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E01
+http://wurtembergiptv.xyz:8080/series/mehmet0685879/SkxYaKdFj7jf/117829.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRSlC8lhHYa5MlNR5eDS7asVkVf.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E01
+http://wurtembergiptv.xyz:8080/series/EnesNurullah/bksSTHRvSZ8a/117829.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRSlC8lhHYa5MlNR5eDS7asVkVf.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E01
+http://wurtembergiptv.xyz:8080/series/neco43259816/89RqZ96rHGCh/117829.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRSlC8lhHYa5MlNR5eDS7asVkVf.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E01
+http://wurtembergiptv.xyz:8080/series/pinar8330602/C2g386PpfRpz/117829.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRSlC8lhHYa5MlNR5eDS7asVkVf.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E01
+http://wurtembergiptv.xyz:8080/series/kemal2035891/5LMzF4KQEvjN/117829.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E02
+http://wurtembergiptv.xyz:8080/series/mehmet0685879/SkxYaKdFj7jf/117830.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E02
+http://wurtembergiptv.xyz:8080/series/EnesNurullah/bksSTHRvSZ8a/117830.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E02
+http://wurtembergiptv.xyz:8080/series/neco43259816/89RqZ96rHGCh/117830.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E02
+http://wurtembergiptv.xyz:8080/series/pinar8330602/C2g386PpfRpz/117830.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KcHRaXH0PBSzCOoMMRO2i0H40n.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E02
+http://wurtembergiptv.xyz:8080/series/kemal2035891/5LMzF4KQEvjN/117830.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eIJktHSNbz3trs9BS0KzAnAalyc.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E03
+http://wurtembergiptv.xyz:8080/series/mehmet0685879/SkxYaKdFj7jf/117876.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eIJktHSNbz3trs9BS0KzAnAalyc.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E03
+http://wurtembergiptv.xyz:8080/series/EnesNurullah/bksSTHRvSZ8a/117876.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eIJktHSNbz3trs9BS0KzAnAalyc.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E03
+http://wurtembergiptv.xyz:8080/series/neco43259816/89RqZ96rHGCh/117876.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eIJktHSNbz3trs9BS0KzAnAalyc.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E03
+http://wurtembergiptv.xyz:8080/series/pinar8330602/C2g386PpfRpz/117876.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/eIJktHSNbz3trs9BS0KzAnAalyc.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E03
+http://wurtembergiptv.xyz:8080/series/kemal2035891/5LMzF4KQEvjN/117876.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/620rhkq0mjeOuVNe3awyTsDLKce.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E04
+http://wurtembergiptv.xyz:8080/series/mehmet0685879/SkxYaKdFj7jf/117984.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/620rhkq0mjeOuVNe3awyTsDLKce.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E04
+http://wurtembergiptv.xyz:8080/series/EnesNurullah/bksSTHRvSZ8a/117984.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/620rhkq0mjeOuVNe3awyTsDLKce.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E04
+http://wurtembergiptv.xyz:8080/series/neco43259816/89RqZ96rHGCh/117984.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/620rhkq0mjeOuVNe3awyTsDLKce.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E04
+http://wurtembergiptv.xyz:8080/series/pinar8330602/C2g386PpfRpz/117984.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/620rhkq0mjeOuVNe3awyTsDLKce.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E04
+http://wurtembergiptv.xyz:8080/series/kemal2035891/5LMzF4KQEvjN/117984.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ooKY27vKLGumsFF8pymHJ66uiEa.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E05
+http://wurtembergiptv.xyz:8080/series/mehmet0685879/SkxYaKdFj7jf/118264.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ooKY27vKLGumsFF8pymHJ66uiEa.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E05
+http://wurtembergiptv.xyz:8080/series/EnesNurullah/bksSTHRvSZ8a/118264.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ooKY27vKLGumsFF8pymHJ66uiEa.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E05
+http://wurtembergiptv.xyz:8080/series/neco43259816/89RqZ96rHGCh/118264.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ooKY27vKLGumsFF8pymHJ66uiEa.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E05
+http://wurtembergiptv.xyz:8080/series/pinar8330602/C2g386PpfRpz/118264.mp4
+
+#EXTINF:-1 tvg-id="GAIN TV: Mahsun J S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/ooKY27vKLGumsFF8pymHJ66uiEa.jpg" group-title="00.KIL-TRENT DİZİ", GAIN TV: Mahsun J S01 E05
+http://wurtembergiptv.xyz:8080/series/kemal2035891/5LMzF4KQEvjN/118264.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="00.KIL-TRENT DİZİ", Güldür Güldür
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/guldurguldur.m3u8
@@ -2538,13 +2448,13 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kizilcikse
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cghb.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="01.E SPOR ONLİNE TViCH", 0 ESLCS
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CoYFTVHERffI3K-AsWN0HiDzXiFblnupk24rU-qP5FHZmTQpW7vDBB_xBoDLz0xRP0m8neXIiDvaiOqiz7P22vVagzZTKVc4WJprejTrnpJS0Lt0-RCNuDXs0gp9IrEumjE4Hc7Hmp5wUyh6pDPDURAROeOqGx5SuH_3LPYrRqoIZ4JBVmDG0UrMIUBFoyORnkDOAkIKlUn7GOwDeylcEqJcD3dFpcDIgbZ5ImI6pc1XOBhAt6cWGN4eShcsOoi2JqPNFiOS8SnVBGYT_ay-YzI47Jx9sHHwh4aiEwYtU-S4OR_XbWBnlphSq_ubQICoWro6TpHn774v3BxuSgC854eB9QQCtx260Ux8vjQj3PcAvW7Ze0s6p1m-ub63u6aFfCYrCSHlNywfrSyyNmr3lzXTETb_YyL7ciDwXg9It2IUfU2q7bgBlzt_Bmg-8VZSSXL3x9QyJRLUDY9kABtinTCh93DOY59OV7uNPiqYw0M5wMg7E5udgq2pUrzUpgjfvowLqqhvVFU69pU5XFa4Iai7MQw4IHUy5qPtqvIFyzu1rzGf8w4wzFAekaon9eG9JSdTc5GFw-76ZJLYK33umPL9kUpCXj9edXpGcXVUPCjO4b3uQ7p0TFvmmiIF84_pkVFR6EjW17xlcxLs4O0C9fBVOozqnfaIzSXUwWEiMBCn-ewyPf8ZxI9IimfNSM6gYbCkFFm9X5ZYZbBEzIUU_LB3jZ7MgWlaLxy2MCNm26aT7itFuRGQ0bjmJWoSmboO5trIPyPJc95LhVhw7Jp3kx3NAR6pQiZni-Yhr7l0HUoSBOaxAPVUCiw0m0c8P4ylokmAjw0VstRMAjDF-98C7OtqTh4gZ2hP7RoMi50QBF14RmrtRejFIAEqCWV1LXdlc3QtMjDgCA.m3u8
+https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/Cv4E-5_SSG-s1R5KGizZWuJxSg2pwc59a2wZRrfxQvDjS-_taAfly6vJqCBbmzu3kiwhPGc67XS5YXYajuk01CgUSK5Mfu3XHDab9qiPVE0BdkNV_MfR61tsgue4TwsAoR9_de0ek0EYv_BvwfA-SLxVx0wLsjH7mkgpZ3CQOd_9RuHJfo5k7DoByRCafIevdDlfdlR_xbo56LySclHyaCOqo8WuMseXWJEeAZPCMt1fmjOZIK4SY81ELc3bdA1y85d-zO_yLptNbN30UpEW2oS-VVrIaeGpSHa-0izR8sPBrXHYnOBWQE1dSsBFFOj5JiDnZwtUmzgFi9R_Akc96XeWK-JIdBBqnI6664s1K0QsQ-t6_SR0nRsOgM3jvmkGoCOljXrQGXK2RNddP4btS9gemYjp8XYA-SZmjXmr0Yo1z_yYO8jt_DX3779lBGTGn-NGnlcNUWFmO37E4GiLYsQuGumJIwlflI22d8b6ALtbjFd4TVHdsxQIbdOGO8xEhoNl6JtpFczMNDjnr4H1WDoghPdg3DG22zdQHwPtUOj8RLEPwqxECo4tKqrxae3wH1vlOAa9R35AN4_jHNSPc2iU1_R6JkWg779-nxTgDLNqtZWUQYVqegU0Owg7cKmM2isPhDagnNAcchzEqr15D19fEZ-tSdlVKmvJ1P9QP5h9AR_xGJIwuXDNIEl10aCv2iK5yWdAIldQTFIlaZ93hxaa-EW_6cOdPhG13lnl7U8uq1qRIOTZE-btL6u86yWn7Jz4bbrgCLDJ0uqH8FubIPQLO0bSSpkfvpaFm5_80TdinxHUHx3iIPJloKAPAOEIoQFiMzHhGOtGuxKCXBzeQbwaDC5ekaCJay8KMcUpwSABKglldS13ZXN0LTIw4Qg.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="01.E SPOR ONLİNE TViCH", 0.eplcs_en
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CroF5Tl7RVIjnSomEyJ7YBeltqODnynFTVWOlgvVqYwwe-ZJ1gX6pJ3Csd1Nj_-5bXtzUVtYxBNBUB7_3kFFHY4yaPiTt_G0iHYgTod3EQqb9_AYBdfAUxvg_N_fwDpLLdMyXSQxMWeu_tRVLg7THGiG2AVqZmP4eL4XprorZLEbHl_jF2x4voL5ZQwv41_F_5NQ_-W0DAQI9w-z98qj5wEsqlLvsNY7J8h_2T-LXcocjPVmljWDYBnDfxezigDXi2-ExUL73wkA6ofBvDQkJT89Def5LjT1_BmqWl6nWUOdvI8l0t_vMbOaYdZFQpGRTQ8ChNfNnWTG8kxX0uLnqnchTGZBuaDZvWz5kst2Pd82r-82Rq3E7AGnrKF127SmcIHWLSZEFoMZWcoZChLj_4B2EiAPOEPm_95ohqUqVeIErjRXlintF5zwJXvCf9yqQuJZRraEY49hIg9ZDGuzbcprSZBZb8jfeqttXG8Ntx_FHirH-5-ZeaF5XkUFHHgId-y0oPb2rI4bAdxUvMhfnOfH41OusnILaI75g954avHDjLUSaCpJeIEr8Aq5q0AzQ772XYuskvgI_OUs5GV4GF2B5CWgTBhkrDLAwuvAkfCYsrqSVbwsCPGnpH4xHl3HW1ZD9DX4IBL7gu0spCXX_jZY3cmwwbb2K6bwC-DeOKsA3klcrB3xgjsQBKkyxCuJHZiGULGqKKHD7ZlyXiU2Rq3IVhVk3ZINY8y6X2MJK9LFz8FXlsChzPVT90X5hwRGOv7-jHWICqXeYFzh4xdvkk-ENArB694-TCFw0THXpP7HxJILMu_tF263R-X6K3hcPvbGqPjIu-smE1PxfDkaz1OP3ws6IU1ABhsT2FjVCevZdyM2IglhpwuREKsr5zxfNkHQHv-efdF8J1XQrgU8FpuVt-_OouPXFsEHtroaDOPbs4zUAFve6qSkxyABKglldS13ZXN0LTIw4Ag.m3u8
+https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/Co4F3AxyxQ9-ghRlN4F7GiH7GpEy9d_4FdWVvUk9YjUFOJ4eYWASc8pNc10XQsN39kT1V5bm7SggYpf5qXrjoyl8JpL5eNNcI6qm2tGOBExfdRk8uL5E66DvNgo4XjF-GVLoKJ4FYPy3LUQ3CqAg_y10KxtMY9Aptlmkua_B5j-ygIAlgiVL9PBzudubhAoilQWlVuoYr4e51ixMkyy5RV6g5stiout4uh8CmAI1QmIxJo3g5He7AUlAKuYnpY_UbDY3c6Mks3cWvkfHW_h7L6pnCkIh6hWTLuuV3z7jo7YhODrH2_wW7lXbkdRSFVXUyLbBOn0XdNHPNmPxlckUiqh-Pz-NyBvRalcP9aVed9eHyq7v5XOQ2RhX-yx0uwDYn_n_o3M5vr7JDVucpOhOgMocacSjJRRnXNvEx1IXvDaCJUOd-yTo_2WfEfOcE2RC8QJGgBpN5ejci9Mb-lkH2JuA4o_eE28IJHgF88pnC6YcjCz3nDs1nUUW-fRuBd-mZj_oXaWwdgwBOxQ9Oy6An1dTpqY6qCTxEOm55WRoME80aII_aVc8_TDeBBSQs570b4yMY1xULSwQtgC14dyYW1WeukSIQAThemNIvoPly2O8yiHcbOecm-dgDQbbL0vw8YmHKbsJeQayRAmEgLrdtZCdkImLHvjCyy0yH853Ui1FmY1Umth36QBSXKiDA4klgmKJtLdyTBCCm9F070Gxq8yY0VBJEzNImyrvJUUoujncAludcCzP-BusUfyHeY7BXPZ1hf-5n2a-S-KjNsiuMFM-8lqEenVujlv2Rt4vsf295VdGkhuIUeCw6Rt-2H11VuekFPTHU0x4s3pVG_S-ctABw5wepFEUmVE8jRgxCXSTGgwvYzSWzQ1zXV8c7BkgASoJZXUtd2VzdC0yMOEI.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="01.E SPOR ONLİNE TViCH", 0 ESLCSb
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CpUF2jx-vRG8zkZcMTZjjcaBR_L0f7Y-N21IwCkqxiRPPICNtXeBjUPV8yX2kDuH_J9wMGdUyoE5wZj1nfTs9p3UpK-BVxsJb56xa34dPZ55UvOvVCWG9t_UKHswEAJ79gPV1zS1NNm-f4ovsP9MJjmsFEdnhbXQw_ZThAT9PKQfHAMbby6y-HeHZ3p67pFmWsPxjblcN_r7gi3QIq8EAAwxtRfsZXnF0r7tsHHWBDTFD9yDDPS7mRAuktcfvVloVisZUGrrTy18MbGrIbT34gHdD7kxmIBIxa8mfw-ejQayKws-R4zkPsIjM6X5t4pMeRTIs22EA66umtuxRQVrshfylVnaSAgm8Uq58NakL5tTfkKdxcq9f8hfWQ1ri4d3LksdT4B25_6UbPpC-QhTCXv7hyAQ495MDaZJFm_quVUdmSHjXdV-L1_NG14iaQZJy-o-0flfX3mwJpvXNKX5mayQEkOthFuBmLQje1Kls4GCKYLQIW9gDmAUeeZ-bMx2sIorRRGVLz-pFXsuScLAieLp0egtzLozIcavteQBJwsLTjYVWDQNgUAZ6J8Flx83FtcOsmDORY_2VpVX8-6h0ZcT_SUl8jZRCrGyNJfNwB4-4whjsBO33ZmdSxDPA7NV4OEm54D5nef7cpxAHPmQL2f0_pDWfaDvfpj-QJL_qcEpdPSnqkWdaRPguUwBMW6PSf0H4VVsutq81Ms1FTShPRqUJs2vztY2IZ-UE29GmG7K5oJFjZCz9DKI9cAJfe3aBmP4PkvAgCl3Phk0LUwGcsapEFySdzlVMu2ZsJzyAVHe0tH1q7Wqw-A0hcxJkGyqqH_YYxkOCOHd_Y4SGttwq5gzJ_amX33Ca1KzVG4x8WM6wYIUBGAxyBoMSjjPGSNftSxQIrO5IAEqCWV1LXdlc3QtMjDUCA.m3u8
+https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqQF4Gged-aYxDUUL8FjXLxWEjups-PEhYjl7MZ7-jnpAq1eLahynKytbPc9VnxWssLPNmT_5Pv-d__yOmNtLpHDQfSUOZS088xDgtOrvVHPzhT5AmnJEeKBMjqkn8jNM3sk3F2zcP1VrTXxXvJSd5Jg_RSxfy4PUwCJNFsMJbYSgpfwkMSElhvHhaIM24AuAL6Yha4uYM-lBxzeNO2bjWzC5P_P72BsHNX2VVersYYEc0uegaI5Osj1dQsWVH5sOCkCTjeNnr-7ePdWVepGj4DXmpCb3cw8cmXLEWLFCcLlBGG3K_Jwm8GABx1egv7qQPKEY1e8wXDQiI8crLeLCvAJbFeRNe0YQ8V-vLqyfJUc2aPI-Ufsj30q4tp3ABCCAZEwEj84hBvu97Sk_Y7ms8i3XxIaWpXUpu343Obx6bztvqqS4qn9xAtdY53NvUjARxGNIsMqW1U66E5h-6oZI6JzEylpaN0UpN6ybqMzBhIDBhWhbSwSF_nL7YIbhf2DYR20yg5Bo0NvflbqOAzxje-viwQZquAvWZVt7_cfcUM9c9fwoEGu92UrXHEcm836FykoM5Po0WDgBKHbPzYTHfpj8_QjRnPX57YdXVChHLgS5xDh5AWyCyG5cqsRI1HLS3r_d1-K5T_DTO2OIMOTyVkm_3XGIfb-u0cigVkTAf4UG39SxCZL5xTtFlhmPX3g-Gvz34Hwlt950TvEGdPQWJebw4zwHsxyf6l5JSEHAGCW-1hv4xkSMI6H3jGjnOlX-sm_gTx9bWARM3Yd01CgbnWY_eg68IEPht_aLraFy5te5ncfZR-WLUOgR696fQjYr1NIrc0u3n9ziAFG5mCnZs7nrl1PR12CI7rXIf8zoV1XWEkuKee54UVmuFXbJ7XnWuXUnkWpcBoMaFRRWYteboUHG4p3IAEqCWV1LXdlc3QtMjDhCA.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="01.E SPOR ONLİNE TViCH", 01 csgomc_ua
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqkFvKbrq3kjqUCbdBJ9TpE1jL1TaDqEJbH5SAD-0EiAvBbKFUyi-8-4mzmOOA7QXXhSSkp44El96Ebi9EET3o7tu6SJ3Ds-e6edh7kJItjjBF8y0KpNZi2X8oqJo0tL6EbgXgSMgUOyrGOpsuZ8rM1iaA5XtvBfJM20_nCmDKmMU56ljVsVwXsXXOjtYzcTAGHhiRO3FW8FfrkQ7PZpSB1MFFQuz8jDoMSOIGuwivilTNd8vz3tLQAzqHP0ghRJoisFnHRjdMbltv-t3hhglmG8RemW5FWTnL-bAW91f3k_18tG_fyWm3A3XKN32KmDLZOxhIEudIa1cFh2iUkLAbLLgpYtvq7YTib-fMfiiJh6KNl5orq3gNqhqUaNYbHKyrDnYgMs0gjFrReYjf4zMV4ET8sPqOGDf0O6qkLlpoWTpuP_rw9ZhMuZ8ODuYgzBPx4HXUPq1h4H2fg1E4kAIMYhHw6_K14MWla7ubMBDIKd27Q8OJuunz4tagmtEu3lIKC4lV7aI9q-x6pDxZFnJJsJ6k2zEzz2hqF6n1czf6lUfiZwVB7nC4aRaD-oRf4RIklLwyiHfDJBmr-GqKTeNOXBTDAD5s1xLT7_ObSEzN2DRx0HEjNo3h9MiJSExHYyGw7smt_O9-hu7MoYK6FaYciIzzwXT-wspk7VcQ9q5j1JXgjzN7wEPbw-dNA9chz2HfWNCm00U0tpHx-0C0X3X5JIzUpRGzbviSpC-PXdLyQB7scQG621hoc6qi_sIEQsLe3KEmR4Azr9XFgapFXFEdFSW7FPkf8puBuzAbulTUcpTZjCmAZdqHTPAGyl4hwfqqedUzqbwb5lUV4UqeTNQ1_JFH0zKeiM2SM-FyNwuCL32W6QVqpnO97IoUwSAmn3Izw6Tl9kVDaS44G3Ggx_q3DSPgmGAagWO-0gASoJZXUtd2VzdC0xMMoE.m3u8
@@ -3743,5 +3653,8 @@ https://raw.githubusercontent.com/KILBERBER/kilberber/main/5.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="KIL :)", :)))))
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mp4
 
-#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="KIL :)", Skai TV Survivor Yunanistan
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="KIL :)", Skai TV Survivor Yunanistan 22.00
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="KIL :)", Skai TV Survivor Yunanistan 22.00
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
