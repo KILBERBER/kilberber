@@ -287,7 +287,7 @@ https://www.youtube.com/watch?v=9PgkeuyY4hs
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Relax jaz müzik
 https://www.youtube.com/watch?v=xl0NMRAnqbA
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Sakin Meditasyon, Şifalı Uyku Müziği
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Şifalı Uyku Müziği
 https://www.youtube.com/watch?v=QcBT3PG1kE8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Sinirler için yatıştırıcı müzik
@@ -479,6 +479,9 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0
 #EXTINF:-1 tvg-id="| TR | b**N SPORTS 1 FHD HEVC" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein SPORTS 1 FHD HEVC
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399649
 
+#EXTINF:-1 tvg-id="[TR] LIG TV 2 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEIN 2 HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6Im8rc09zY0NSa3hqdnRjTjRqd3V2YXc9PSIsInZhbHVlIjoiVjNMK0tBamRKalZsdEI5c3dGdkJOb24vYzhINWpZVVA0S0J4WVBUcFU2T0lSN3dmT2cvcnl5VmYrd2hHb2dNeWhKbFpLRnA5MFl2bTc3dWtrMVZBaVE9PSIsIm1hYyI6ImU1N2RjM2I2NzQ4YjQyYzM4ZDMwOWJiYTUxZDBlMDExYTA1N2E5N2VhNGVhMTA1ZmRiNDMwNmU0ZWMwOThlMjQiLCJ0YWciOiIifQ==/6d3fc2b5-5697-474f-800e-6a5354317fef.m3u8?lvtoken=eyJpdiI6ImdWN01sNWNvTnRnVUhZUCtYclZmeUE9PSIsInZhbHVlIjoiUkNtVmxCNEdGNzFJMWZBRmhVWm1nYnFEa1cwd0xGeCtGY2VkUFhLV2JhLzQrRDVIRWhJSEl2K1JNR1VtOXd2WlNTbTlnR01XdWRtd3B4cHg5UU9CTGhzSnFBT3hBYWhoY0NWb0t4a0g0ZHZEMnJlaGpLUFc4OWpuOTU5MXk1SGpyaWFMaUowem8yaWQ3RFJldDBIRXpjVXk3cGFGa3VjVmdnZTlqa1M3c3JISEs3OGxINDZEVlE0MGtycUZCMnBLUzNKdENqRlVWZ0xpQmgvNURQN2haQT09IiwibWFjIjoiMGJmOGI3N2MwZjJiZDI5MDU4MDEzY2U0MTA3MjAxZWE2MTgzZmNkNDg3ZWM1NmRkNDQ5NTAzYjcxMDVmNzZlYyIsInRhZyI6IiJ9&r=06105f&rt=1afa2b04ec02ac06926745979caaacf9
+
 #EXTINF:-1 tvg-id="beIN Connect 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 1 Hd
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122770.ts
 
@@ -589,6 +592,9 @@ http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399661
 
 #EXTINF:-1 tvg-id="| TR | BEIN SPORTS 4 SD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN SPORTS 4 SD
 http://103.161.34.2:8080/eEdCALdwG6fQ/q8Mjv8jYrB6367sh/399662
+
+#EXTINF:-1 tvg-id="[TR] LIG TV 1 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEIN1 HD
+http://141.94.141.66:8080/play/hls/eyJpdiI6ImNrL0EyUXVKM2thbmZHVzRCUHU4eXc9PSIsInZhbHVlIjoieHp4aGdUYjRnL2JxZURCdXNpb0dxTWY5US83THlsakUySUljTWIrSnduZ1JzQlhPVXA3OEFTcnRrbURtU2lIYWduL3FjQ05MQmhqcUhRQklsb09TK0E9PSIsIm1hYyI6IjVkMzY0ZDk1YTI3MWUzNWIzNjFkMTc5ZTBiZjQzZTdhY2VmZDUwNTcyMGVmNTM3NWUzMGQzYzVlYjk5NWM2OGUiLCJ0YWciOiIifQ==/7c67b6ce-4809-4fa3-bcf8-cd5b45abd976.m3u8?lvtoken=eyJpdiI6InJlZ2p1Uk9PSXNwaVlmWHhnY2d4c1E9PSIsInZhbHVlIjoiRnlVSlhvSkRTOC9UMjFxTDhyOG5yaTkzNVBQS242UjVkU3RaL0hmd3I2NC9NVzFNdnRSbzI0V0pNY09CeTdtQmJGUXpZQ29uMzRwTUQzRHJsamhOWm16MmxzaEdTMTdNeVRYdzErNXljbmRiam0zQmo4eERRbmJHNWhnZEJDUHpGVndFR1ZWbnlHSVJ3bTVxNm1HR0FFdjVLZ0tHeVJ1dk0wZ1hlUldkRUU1YzUzazJ1Z2drT1c2bzlHa3B1UTNxZG5oMXdSaVNFNnRNbC9RUmJFemR0QT09IiwibWFjIjoiM2Q0ZmM4OTY4NjYxYjY3NDZlNGZiYTcyNWYxNDMzMzNhMTY0YjE3YzJmOWJjYzNhYzBkYjU4OGQ3MDM3NGI2NCIsInRhZyI6IiJ9&r=effee3&rt=1710a884738258998550b60d5ce9357a
 
 #EXTINF:-1 tvg-id="D Smart Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Smart-spor-2.png" group-title="0.KIL-SPOR", D Smart Spor 2 Hd
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/100140.ts
@@ -2666,7 +2672,7 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="00.KIL-MÜZİK", 19.KpopTV Play
 http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="00.KIL-MÜZİK", 19.Music Japan
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png" group-title="00.KIL-MÜZİK", 19.Music Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-MÜZİK", 19.The K-POP
@@ -2678,7 +2684,7 @@ https://www.youtube.com/watch?v=jCg2DzrukDo
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/xRJDVR3.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu2
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="00.KIL-MÜZİK", 21.Deejay TV
@@ -3107,7 +3113,7 @@ http://gineu9.bozztv.com/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 3
 http://gineu9.bozztv.com/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycsN7PRKH0d4aRGmaP99pAZv9zgE1NGFoiA&usqp=CAU" group-title="00.KIL-ONLİNE FİLM", 0.YANSIMA TV  SİNEMA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.YANSIMA TV  SİNEMA
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 0.Yeşilçam TV 1
@@ -3131,7 +3137,7 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="00.KIL-ONLİNE FİLM", beiN Aksiyon 2
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyODUyMjg5NjhjNWEzOTJjNTRmNzE=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="00.KIL-ONLİNE FİLM", beiN Premier 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="00.KIL-ONLİNE FİLM", beiN Premier
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwMzE4OTU5MDY5MzdlYjg3YzVhYTc=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="00.KIL-ONLİNE FİLM", beiN Stars
@@ -3140,11 +3146,20 @@ https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg" group-title="00.KIL-ONLİNE FİLM", beiN Türk
 https://cze.proxy.zelcore.io/https://platinumwep.site/sbots/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyNTI5NTI0NTRhYzYyNjE0NjZjYWE=
 
+#EXTINF:-1 tvg-id="[TR] BEIN MOVIES ACTION HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="00.KIL-ONLİNE FİLM", BEIN MOVIES ACTION HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6InR1NFpmdHhSNzBrbEpiTzZHNXdLbFE9PSIsInZhbHVlIjoiM1V5Q0xTRjI3VFBnWWFReXdVR2piL2I4QlVBTFQ4ZkQzMldURUR3UnIwZ3NEU0pQUGVPT21sNll0dzArSURreXFXQkdXbDlsZUptNWt6UXFHMGZVbGc9PSIsIm1hYyI6IjQ5MTZjMTk2Y2I2ODRlZGIxODJhNmQxOTk1MDQ1YmMxMDkwYzJlN2IyODk0ZTg2Yzk0NWFmM2NmYTc4Yjc2NjkiLCJ0YWciOiIifQ==/19b925e3-1f85-4d98-8d81-73a638048dd9.m3u8?lvtoken=eyJpdiI6IjJRYWNhTW02SlIySWtWNHJQMmNMd3c9PSIsInZhbHVlIjoiUFRSZmNVUVRSK3g5YUErcDZmVEh0KzdscXMxQkNrVEQ5TkdnNU9UTkpSaXAycHRSSklRZlB3SlJjM1ZNWjVKMWV1d1QyWUo3dFJaRDUyYzd0S3pESGZTRzRrd3dUckhzUWE0NWJHcTRtUUxobnVTeFhLSVU3QUtDV0JLTWFIOE53N3drYjdtd3VWOCtOUUxmM2d5TzFZTEl3SGNBYmQyeFdjQnd2SzlHU1BrTVIzUVl6eVBTck5sYngyUzFSTlo2REEwS0lZL1ZEa3NPaXhpNlh1UUdSQT09IiwibWFjIjoiYzJiODMxOTY5NWQwMmFhZDk1MjFlZjY0OTIyZjVjZmZiMzg4ZDljMWE5Zjc1MmNmZjdlNTQzMDVhODNlZmNiMCIsInRhZyI6IiJ9&r=87e11c&rt=355b831621a6232c67939ef198c86ef2
+
+#EXTINF:-1 tvg-id="[TR] BEIN MOVIES PREMIERE HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="00.KIL-ONLİNE FİLM", BEIN MOVIES PREMIERE HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6ImFoa2hSSUgyNUNFVnhHdHhoZm1ET3c9PSIsInZhbHVlIjoidFJEaUVhRnFjaC9ubklqSmJJVFpIT0I4dDNvN3I0aWZ5aVhZYWZkVnFUOXJOZldUWWx4bk1iY3AreGI4SFdWK1R6Q25FWloybFhpQVBqUmkzN1JBbkE9PSIsIm1hYyI6IjE4ZDNmMjMzNjNlZGU4MTU3ZDgwNDAyYjBhNDRkMTY0ZWQxZjFhZmYxZjA0MWFkMGZhNTVmMjk3MGUzMjJlMWMiLCJ0YWciOiIifQ==/f5a4cbe0-d224-4a49-9a3c-7755a0e5c62b.m3u8?lvtoken=eyJpdiI6InFUSzh2c3RweUpKbjA4OHNvRERZS3c9PSIsInZhbHVlIjoiNDdIemc4eTAwcHVURzZYdTFKM3FmcG5aclpGdHBDL3RJV291aytZSUFQK00wbEdpZDZnYjZ1K01FcVhMUXlPWnJUaUhpRHhNck8rSTZjbzdVaVllelg3TkdsTHRHcDdSSmJCNGVYWWIweFlsVFIvRWVZUUovdFhwK25ObFMyN0IyV3BTVGlYR1dBeDZVOGIvdm5GK1RvNWdwa2ZzZ3ZpdGVLdmdhcllQRE9DbVpRL3ZSRWp1aSt5VlRkQklBejFWWGZLN0E5YXdteTJFa2JTU3l1aXJCZz09IiwibWFjIjoiMWJjY2Y5OTNiMzlmOTNlY2E4NjdmZGZhYzg4OGU3YWZjMDA4ZWIzZWIzZWYxYTFmZTQ3ZmJhZmJkYTQ2MWQ0NiIsInRhZyI6IiJ9&r=4e1c1e&rt=945c4b3de7d32f1edcf3378bfe0d5eec
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", FİLM ATÖLYESİ
 https://github.com/rideordie16/YouTube/raw/main/film/filmatolyesi.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", MURAT FİLM
 https://github.com/rideordie16/YouTube/raw/main/film/muratfilm.m3u8
+
+#EXTINF:-1 tvg-id="[TR] BEiN Series Comedy HD" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="00.KIL-ONLİNE FİLM", Sinema Yerli
+http://167.235.36.229:8080/play/hls/eyJpdiI6IkpocmdUNTZDZ0tJSkxvcDVINVBRTFE9PSIsInZhbHVlIjoidjc1TkxhSW1YcDNGVWl4Q3FHT0RMY044TVlUNlZhSzgwOTJBRVVBZjRPaHM4VVRYQmpyTTU0eHVaSVBoRjhpb3A4d3EyZ0o5bUtwejVMdXlHMlRGYUE9PSIsIm1hYyI6ImUzMDlkNThkOGMyYzdmNTVkMThjYjQ2NGE5MmRhMDg5NmE4NmM1MGUxYjkxMDMwZmY1YzlkOWQxNmZiNGE1YWIiLCJ0YWciOiIifQ==/c667792d-f078-4039-bf43-95434489ccae.m3u8?lvtoken=eyJpdiI6InRDWEExWVBUQm9Eckt0L1YrQmlrbkE9PSIsInZhbHVlIjoiMmhybVdER3p3VXREOWNnQ0daNXo0d0t6TnE3RmhhcEd0RklmZzF4QkVCdHFxMnJaemdoM3VGclF1S3FoM2pDNk4reXNjQktTc21sZm1saGRtQTdxTnlocjk5b200QWZiL284SFJacEdPbkZaamVLbU1aREhIR3pIeGRRNnB2VTF4OEd4Ti9JWVd5dnFyckllUUxsSW5oTDhJcktkblBWTTJsUGlQNlk1QTJmaW9aRUN6RGJRcHcwZU4wUFExekIvNjc5ajBnRzVsMmhFcGY0QUJSV3ZxQT09IiwibWFjIjoiNjYxMWVlZDI0MzJiN2QwZDg5NWRlOGU1ZjEzMTg4NmEyMjc2MWYzYTFmYzVhYWI0NGJjYWY1MzcyM2ExOTMxMiIsInRhZyI6IiJ9&r=946f7a&rt=4ef88a40542c10254405594be4574073
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", Zeki & Metin
 https://github.com/rideordie16/YouTube/raw/main/film/turkfilmleri.m3u8
@@ -3713,20 +3728,47 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="03.KIL-BELGESEL", Crime 360
 https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BR: Fish TV" tvg-logo="noimage.png" group-title="03.KIL-BELGESEL", Fish TV
+#EXTINF:-1 tvg-id="[TR] DA VINCI HD" tvg-logo="https://www-iefimerida-gr.cdn.ampproject.org/ii/F1/s/www.iefimerida.gr/sites/default/files/styles/medium_article_image/public/2022-12/da-vinci-nova.jpg" group-title="03.KIL-BELGESEL", DA VINCI HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6InVnTTRwSXBJSTNLQkRVaXBpVXk3K0E9PSIsInZhbHVlIjoiK0tGdEk2UnhQdWU0cjB4UDR5RjV6TTJ1TVF6RWNQeG9PMUpPVzg0cXdoSTBHcFdLMEdneUdXVEpNWDFlelRUL1lPWTh2QlphVlVmbGl1UXJqYTlmSXc9PSIsIm1hYyI6ImYyMzIxNTU4ODBjMjQ2OWEyNTg0MDIxYWE3ZTMyYmYyYzM4YTJmNWJmOGMzMDAyZGE3ZWU0NWIzNTlmNDRkMTciLCJ0YWciOiIifQ==/dee5857e-ee17-461c-959f-6411b8494a35.m3u8?lvtoken=eyJpdiI6IlZuTEhqMWwrWlB0VzZDMkxHTGRVTlE9PSIsInZhbHVlIjoiNlMwNkJ2dkdiZDhjSXZrVU5ZSSs1MWhJQ0M3LzVpbzBaRlh2UjU2Z2lHMjBsYi9QYVZOeFcwMTBSZVRiZWlHWGVRNXpmU0F5cGpuWmNveUtDeHRkTDNxdU5ETW9DZFk4djgrWmlZRzlWdDRHNjE5L1BtUzA1M2YwMHdJVW15SDU0cERGUFZKSXdUZkNzZksycStvMm5XaTlKd21NUmM0ZHBBM3hKNUJERERqVFRaUXJzc3Y3djFDbXVZNnRVbWY2SkFlY1ZhcUkyTUFHME5TeUh6WFVxZz09IiwibWFjIjoiYjBkYjFmY2NlYTUxYzY3MWI5MTVmMDY5NmI0ZjU4MzhmMjU3YTgxNjg3YjJhZDJmNWMxOTEyNmUxMDlmN2RhNiIsInRhZyI6IiJ9&r=0cd0a7&rt=d707ad1ca01f2b5223dbd903575758fc
+
+#EXTINF:-1 tvg-id="[TR] DMAX HD" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="03.KIL-BELGESEL", DMAX HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6IjU5eXpkeHZudWZxY3dFL0dYYjlCeWc9PSIsInZhbHVlIjoibkgvN2VieWdyb0xMRHd6QWRRUnpucTU5S2RHdlZUZUc5MmdwcUhDazJobEd1S2QzMTVHVnZ6SzdZTTZxSHQ0T0FpYStiODZ4RndLSG1kNE9IdDNhUGc9PSIsIm1hYyI6IjZiYTc2ZmM1YzhmODczNWVlNGU2MjUyNGE5Y2Y1NDY5OTc5NDVmNmY5MjA1OTJhMzIxZjY1ZGJkYzgxNzRlYjQiLCJ0YWciOiIifQ==/a0909de3-2acb-446a-8165-39afd19731af.m3u8?lvtoken=eyJpdiI6IlpXQk9GNllrVnVxUEVPR0JDblU3WlE9PSIsInZhbHVlIjoiUHBnYlZrR3BKK3FmWkR3V2ZaRkZpVWNRYlRqQzRGNlVhczF4QjNkQUw0b2FaUzFQTnFUSldDNGRsOXhLQ0M1L1ZJUGZqUGhGbytlV2U5NG9remVydFVOUThvc3djZTVCL0c2TFVESDVHRmdTbVYrdjd5WEVjenVXZUpvdXUwQ3NGTHJRcXlOV2lKaHRpRnczeU9ybXk0Yy9DOXpLV1Z4RlU4T01SVTBhMm1ySEtWa2xCNzdlbExEUzBLSHVLRDBGbUFONEJrN0MrSXJvWlNRS0t5eHk4QT09IiwibWFjIjoiMjU1YjMyNzFjY2NjY2VjYzJlOTViMTJjMWUzODgwYTU2ZDU2ZTY4NjVmNjY1ZjJhMmRiZGVhOTg1YzFiMDg1NSIsInRhZyI6IiJ9&r=3fc4f9&rt=e13f8bc424eb5c1329641ac3b8b3fb84
+
+#EXTINF:-1 tvg-id="[TR] DISCOVERY CHANNEL HD" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="03.KIL-BELGESEL", DISCOVERY CHANNEL HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6IjBSdjZQWGlxOGtzdVBrNm44WWhTNmc9PSIsInZhbHVlIjoiQlJaZkg5RDNMeXphQm1MbmRlZkpScktQZUhFMjhSZS9Ob3VZMVZaWEtFSVN5UWY0Z3FMVkk5TFQyWVRJdWovZUl3RXhMV0NxUUxpVzk2aFRPTldocHc9PSIsIm1hYyI6IjRmNjIxOGQ5Njc1YzExZDEyMGQwMTNjNzIxNjMyYWU5MDkwNGJjMmQwMjEwNTAzYjRkZmQyMmY4YTExMmQ1YTUiLCJ0YWciOiIifQ==/97cf8c3b-9f69-44a5-a57b-6bcc652e9655.m3u8?lvtoken=eyJpdiI6IkVodlBKakk0UkxJNEhTN0JOOVUyUmc9PSIsInZhbHVlIjoiMzluOFMyeTE0ZUhPdEJjUWFHUTZtYTczK3FZMUp5dVcxdTNvbFRkK3E5MjluSS9ocWYrQ1RRek1JY1p1MWxnM2l0ZnFlYXM4S1JqTlBFdFFuclZJZ2NlMEtuL3NLbG14c05Zb0x1cWZEb3dZUzQxZEJvTThOc3N3Qzl6c3dWSVNZMnhndWZHU2FWdmxHK2VHcHZ3cEdBSnM0Rm9nK1Q1ano2bWUxd3BKTTAvTGZwVlVUbnREWU0yQU5wanBIOE1IbUhjMWo5a3ZwaWhSTllNQlI3SWFDZz09IiwibWFjIjoiYjc5ZDQ5MjE3ZTNhMjA4ZTY5YzBmYTU2ZTFiMGM5OGIwZDlkM2ZjMDI1NjY5NjI4NTRhN2JiYTM2OWQyZTRhZSIsInRhZyI6IiJ9&r=71fc80&rt=1b1957aafb8d198f8c31d17fc4765332
+
+#EXTINF:-1 tvg-id="BR: Fish TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/631a9559060d6165dc953c2f/cb787910-6958-4c6d-937d-294ba029ebd7/Fish+TV+Vector.png?format=1500w" group-title="03.KIL-BELGESEL", Fish TV
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/238251.ts
+
+#EXTINF:-1 tvg-id="[TR] History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="03.KIL-BELGESEL", History Channel
+http://167.235.36.229:8080/play/hls/eyJpdiI6Ik5qOEdzYjc3Y1A2aVk2UE5ZRHNBOEE9PSIsInZhbHVlIjoiSXFLbmdYOG5pbnkrUjdOYURHZ0RweDM4OFJ0Vm4xdjNicGE1bjJKUGVxdXlZSFVXOGpEMXhoNFhCU25tVnU3U2ZoblRtK0V0aVBKSmh2bWNabm13anc9PSIsIm1hYyI6ImFlMmNiNjBjMjMxZGI4MmU4ZTdiMTUzZjc3YzRkNmNlNjVkYzc0Nzg4OTYzYzc4ZDM4MmY5OTYyNzQ3Zjc1ZjQiLCJ0YWciOiIifQ==/3000db0c-9a01-45fc-b639-bde0c7867f22.m3u8?lvtoken=eyJpdiI6IjM3WG15a014K0ZQM1NqMFZDOUh2UEE9PSIsInZhbHVlIjoic0E0NkhqaE5laWRJNGRYbXhHS2FMOUtwcUZZQU1kWEZpSGFwb0t4TURwQ3pqR3p6dW5mek5GTEtsYnAzaS96MzBTNFdHc2MrNE1TbkljRFIvVnZ4MERvOTN2VWhkZkd1VTdjek9jUlNLRUlHaER4UmR0NTh3ZDJKTzFVUFhFQWIyTWhjNGdRU0hlc3U5K0srOXlVaXpDVkpiMDA2bEgzazJjMWkzLzBwYXVsRFBlQnlNQ2JZWFR6bC94amhNaDRkaGo1OTBlSG9FWmJDdE8zSy9rVXc4dz09IiwibWFjIjoiNjVhYjI0ZGZmMjFhYzA0MWJiM2JjNjFmODU2ODZjYWU4OGEwOWZhOGY3ODM0M2E1YjRhYTE3YzBkMzE4ZjhmMSIsInRhZyI6IiJ9&r=2f5908&rt=158acd24f9cae28eceb75410f5c77e34
 
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="03.KIL-BELGESEL", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/cSBBqQ7.png" group-title="03.KIL-BELGESEL", Love Nature 4K
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="03.KIL-BELGESEL", italian Fishing TV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="[TR] LOVE NATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", LOVE NATURE HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6IlBNSy9IQ3QxdW41WGMxeGIva2ZiOFE9PSIsInZhbHVlIjoiY3lHNDgvK0ROWjdXTmU0d3RPRG5KUEtvQjdNY01FcjhBdGpuaG1uZEtPWmZxTHY3bjRSZXdJbElDUS85aDBHbkFySlc2RWtyNFcxc1RLMUcyRnh2dGc9PSIsIm1hYyI6ImYyYTE3N2VmNWQyODkxNjdhMjE4MDVhYzgxNDI1M2ZjYmY5OGFhYjRiZDFiN2NjOGM1ZWI0ZTFhMDVhM2VlYWEiLCJ0YWciOiIifQ==/18547ba3-6eb1-4654-9bd6-2dbd05ada618.m3u8?lvtoken=eyJpdiI6Ik5Ca1pIOVdxdGt2ajlNYmlkWHNYSXc9PSIsInZhbHVlIjoiOVpLNVN1YkV5V3JtTzFBK2ZTV0RhUmtMSlRKeXZOeHhaVno2YVlXZU8xNUQrY1M5L3dYc1RaM2ZQekhoQ0hiVTJwdVpLdWNRMzN3UC9FMVlGMEZuQzI1R1lRQ3VvK096UXZUNDBHNDA2MHF4OUhXMGh4cG5FTVdCeDRjL2UvTU5BQ3hWT1B0L1JtOHpINjZJeVhLb0NXOEY2QVZyRHdDL1gxa21mdzhJWHdoNFZxY3cyNFRDZVMrSzBzY1d2OWk5a1IzRlB4ZTMxYUkvNGhTdjUyL1Vxdz09IiwibWFjIjoiNmNlODI4ODMyNzBlZGM3NjIxZTg0M2Y4NzJmZDc4N2NkZDFlZjI2MWRlNWY0MGVjOWVlN2QzMmRkOWU3MGZhZCIsInRhZyI6IiJ9&r=ce6111&rt=927776be677e463a8ee7f364dc28fba3
 
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="03.KIL-BELGESEL", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="03.KIL-BELGESEL", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="[TR] NAT GEO PEOPLE" tvg-logo="noimage.png" group-title="03.KIL-BELGESEL", NAT GEO PEOPLE
+http://167.235.36.229:8080/play/hls/eyJpdiI6IjB3TUw1Z3I4QVkxaG5pWExUdVJ2Y0E9PSIsInZhbHVlIjoid0VnY2dGeHlGdnpEVWp2OWhLWXdqQmhoZ1RmOWx1QWpLN3M0WnpyUkNnRFdxN3ByK2VDalE4N1FoWkhaa0haNkZ5VktMRXRySzJWUlNQbTFsWnVkMUE9PSIsIm1hYyI6IjEzOTc1ZDM0NDZiZmY2Zjc5NzJjYjI3YWU5MTE5NWY3NDUyMGQ2NWI1ODAzZTFjYzhhZTZiZmJiYmM3MjVmY2MiLCJ0YWciOiIifQ==/3671b89f-955e-41f4-9e3a-eb6d519607c8.m3u8?lvtoken=eyJpdiI6ImEwVUVveGw5M1NjTXNPMnNjUFFHQWc9PSIsInZhbHVlIjoidDBiT1Y2dzZreTdyU2dVQmV3VkRqS1h3bHFqbjVaVUpQOUtvVlNSRVVkaHYzSUNQSW9Jbk9ONkVlK3R4dGFYMWtqMTVkQ0ltYUlGNk9mcWJuU0RJcEpYMnh1c0JobHZ1QUNBbVJZUDRvc2RYVnNXQzZxOWhwd0gybDBvbERRdEw5bW9CRW9Vbis2NmdINEh0ZFFFNC8yVEprS1JLNTlsZFB0UlA3S2FHYVh3VWV5Yk1waGIvcjBwdWRUVzUyQTZHMVRKNEhUWUIwb2dtYWVmdTAwc3piZz09IiwibWFjIjoiOTQ3YWU3ZjU0OTBiZWRmMTAyOGY3MThmNmFhYTVjZjlhOWFiMjNmNjdkN2IxY2UwM2UxZTA4NjdkZjBhMmViYiIsInRhZyI6IiJ9&r=5a35d2&rt=1f417a1548ea895a0da93c9db132fc39
+
+#EXTINF:-1 tvg-id="[TR] NATIONAL GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="03.KIL-BELGESEL", NATIONAL GEO HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6IlZuYnd3VlFUTzN4WmpRVGU4UDZKNWc9PSIsInZhbHVlIjoiMGp4UlFtdjN6R2tkRXovaElWZ2dqaFRpT0QwRTRMQkwweXBmdE93S0lxUng4Zk9aZ21ZNHpCV3p6ck91ZmU2dk1JTzhoWVF6ZG96YTFsMUZyY21LOVE9PSIsIm1hYyI6ImUyOTA0NWZmZjVlODRlZDU4ZDkzMjNhMmVhZGZkNmU1YmZlYjcyNGQwNjk5MmY1NDdiNDQ2MTQ3YTFlZWUwM2YiLCJ0YWciOiIifQ==/039e62ad-59df-4ed6-8c27-f72e90f82ba7.m3u8?lvtoken=eyJpdiI6IlJoVWlqYnFTRnpHNkJUV3lFT3dhSHc9PSIsInZhbHVlIjoidU9FR3YxZm5oMFFWTk0vTXc5VUtBQVoxWEd4akZ2R1lvTXQvYXlKT2RuVDU3VkFmckQ3cllCTFpGbkVYMmVTenFOY2hXcTU5Z0JXWGdGS3FDSmt1NEROdTZ6alB4TVpFOGZmcnI3MGI3ekhKZ1J1TzNpY2xTczBabmZoNUFaaSt4YU82S3l5cXlKU0tKeTZ2bERFcEt4U2xQcDhqNllkbytsM1dRcnhJVk1rdEgzMmsvaDhmenpMNmkrMExsTGU1VVVMckhhQytkck5pT0RUb2VCRXpNQT09IiwibWFjIjoiZjYzNGVlZjc4OTZhOTliOGYwZWE2MmMxZjliNDIxOThjODdkODVkODExNTExMDViYjhmMGU1MGMxODc2MGQwYSIsInRhZyI6IiJ9&r=5d5bd8&rt=a0f329278b540a1987787260790d99d2
+
+#EXTINF:-1 tvg-id="[TR] NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="03.KIL-BELGESEL", NATIONAL GEOGRAPHIC WILD HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6ImR4VWpBUFdBaWdKMFVRcjBDZmhxd2c9PSIsInZhbHVlIjoiZFY4MDZ2TUc4cjBST3F2YUNwa2grYmpFVDErQkhQRzFBUFNsanArOWM4MEQrOWhIMm1hd2I2dEppUm4rQU0xVVgrUXpwY2M0bXBoRFA0U1g2eWw5Rmc9PSIsIm1hYyI6ImExYTc1YjUwYTQzMmU2NmU3ODliZjg5YjQxZDRhNDYwOTJjMjcxMmQxNTM4NDJmMjk4NWQ2NTY0YTEwM2UxZDUiLCJ0YWciOiIifQ==/cf2dae7a-d953-4e36-a25d-fce88d1dca68.m3u8?lvtoken=eyJpdiI6ImNnL1ZXcHhxbG5xSU9yd1JVRk1QY2c9PSIsInZhbHVlIjoiQzcxVXN1cFZrdHk1U0NDT3psdHNlcmdLQ0FuSkowdUpoeWM0TWRZb3owUGJ4dzd4YzR5R3lEQ2ZML3JuTFdrSHpSYTZtSjhIL01PQnRka1JmeVZQb0kySUpDa2xMQ0EraGxROUp5QVliQkpwU3NuZ3hJcjRRSXFiZTdoNXdWK3h1N0w0c1ZybElZZ1NsdlVrRTVFS2p2MkNJZmlla0JXeXpleDNUWm9rQUlNSmpNRGIrS1BCQitacitTTWlmeVZSbEkyUm1rZVFCUmVsVTZMS2FEZ0dEZz09IiwibWFjIjoiYjZjZDljN2NkYWJhNTEyMjA4NGYxNGJiMjBkZGRlMjc5ZGIwZjEzNjNhYjBmZWUwNjBjNGIwMzBjZDNmMmJmNyIsInRhZyI6IiJ9&r=75fc41&rt=3b62d9447959bb29e8ab61a49eae2676
 
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="03.KIL-BELGESEL", Ohotnik i rybolov
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -3749,14 +3791,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af3951
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="03.KIL-BELGESEL", Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="03.KIL-BELGESEL", Italian Fishing TV
-https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="[TR] YABAN TV HD" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="03.KIL-BELGESEL", YABAN TV HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6ImZ2K2VIZ05rOHZtZ3BRSE9yYUllTFE9PSIsInZhbHVlIjoiSGpJR1JhQlNWY2tHTGtydUtVcXozZyt1NzJxRTNHUncySHM5bExBVnd1b0JXZUE3OW5tQVNMMzhNd0FSMkdQL0RLTE1hNVpYeEZLODZKODBrandrTGc9PSIsIm1hYyI6IjUxMWY1ZWJhZTAxZWJkNjEyM2E3OGJhNTJhYTk1MTQxZmMxZjljMTg2MzJkOTU5YTBhYzk5Y2M5NGUzZTE0ZWEiLCJ0YWciOiIifQ==/edf9f3ca-9420-4ce3-82f4-e5c1f8951f8c.m3u8?lvtoken=eyJpdiI6IkNVQ3lWbVFDM2dncUhWbWZvb2lDRHc9PSIsInZhbHVlIjoiM2lPa1F6TCtEek1SNldLc2EvejdmdDZGanRqK1dMUnR5VC9vVGs1K3cxQzhUQ3FFL0EvbndKenNZc2tGQmpBRlhHTnVDS0RxOFNNLzl2UDBsSS9aazU4NjRLQldraWVxTXc0MkNFVEh3OE9NQWgyTjB2QmZZTlN2a1c0SVNFUjJJcnFGaW1VaE16V2tnWU56ZUszbm9JenFKT0w5ZVh4dWdSMWlkazNnVDhxd2Z2V0hwRExBdWpxL3JLVS9IRDMzemw4OUhmMmxYUytYV3NBZUNrNzRvQT09IiwibWFjIjoiYjMxMzY5Yzg2ZGE1MzhlOGM1NWU0NTUyODNiZWIyYjJhZmYyNzM5Yzg0YjJkNTUyMDJkYjJkZTY4ZjVlNDBjMiIsInRhZyI6IiJ9&r=f64f70&rt=c1f2e1058f753f91f3e2fbabfa018199
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://birakmamseniturkiyem.org/images/logo-bjk-120.png" group-title="05.KIL-SPOR KARIŞIK", 01.Beşiktaş
 https://s01.vpis.io/besiktas/besiktas.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="05.KIL-SPOR KARIŞIK", 01.FB TV
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/fbtv.m3u8
+
+#EXTINF:-1 tvg-id="[TR] FB TV HD" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="05.KIL-SPOR KARIŞIK", 01.FB TV HD
+http://167.235.36.229:8080/play/hls/eyJpdiI6Ijd5SmlvNWh6NDIxNTE3M3J1K2F1S0E9PSIsInZhbHVlIjoiVDQ4cnVHNHBoWDlnWHRtMEt2YVJLZ2laVmc4dlZDMHFUZTJGdFVoc2RPcVNUSHI4ajI5TU9ObVd0OEQvUGdDNnUxdkZVQnN4UnU0NEREWmRGVzNaTWc9PSIsIm1hYyI6IjcxN2RmMWZhYjA5MjVjZmU2OTE5MWU3MTM3NWZiNjFiMTYyNWI5MTkyYTRiOTJjNjk0YTI0ZTg2YmZiMTdiZWYiLCJ0YWciOiIifQ==/4284dbca-c8d2-4061-917c-8a284a3de522.m3u8?lvtoken=eyJpdiI6IlF2RDVldTFrZkNUaEhlbi9GOHpSMVE9PSIsInZhbHVlIjoiK0F6L3I3YTh5cXBsQnVXSGpFY1JPbzIzVm00eDh5ci91OXYvbHd0aXM5eUdNNXljaGRob2pCWjY0RU04QVFrd1FhcmlSay9tRUorVnN4aTUzMVZQeHMwUWs1SHZXSllXVzBYeUVuNmZwM0tPdC9KL2NxempsWVhiNEwzVFh5VnVBME1IcUh1NllYMkJaWlRaRDhIMGFINFRTRzdOR3FMM3FkVTN6NWs5N2ltQkRmSHRhSWIwdEpMT3lORDRHWUZWQlhJbXdNZUFiOXBUOWJOTUpxWGhJQT09IiwibWFjIjoiNjA2Nzk4YzEzM2YxZWYwZThhYWNhNTFjNDU4YTcyNjQ2OTk4NTA2NjAxYjc5YWEyNmM3NDFmNGMyZjYyMWMzMCIsInRhZyI6IiJ9&r=90edf9&rt=0be867272e494c58057b9379283b60d7
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="05.KIL-SPOR KARIŞIK", 01.Galatasaray tv
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
@@ -4409,136 +4454,136 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/kucuk
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/5bc78cad-9532-427d-91c2-683ea2b63318.jpeg" group-title="09.KIL-ÇOCUK", Mutlu Çocuk
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/mutlucocuk.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Bein spor haber
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Bein spor haber
 https://www.youtube.com/watch?v=OypUpUTYAHI
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Bloomberg Ht
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Bloomberg Ht
 https://www.youtube.com/watch?v=hHSmBJk6w0c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Cnn türk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Cnn türk
 https://www.youtube.com/watch?v=X_EWYemclKA
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Haber Global
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Haber Global
 https://www.youtube.com/watch?v=6BX-NUzBSp8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.HaberTürk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.HaberTürk
 https://www.youtube.com/watch?v=4cfMw3OeRpw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Kral Pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Kral Pop
 https://www.youtube.com/watch?v=GuFTuKoXepw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Ntv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Ntv
 https://www.youtube.com/watch?v=-RORLrBwJD0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Sözcü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Sözcü
 https://www.youtube.com/watch?v=2i8lfP9oqvk
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 0.Trt haber 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Trt haber
 https://www.youtube.com/watch?v=-Lrxv1_i3qc
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 1.İzmir mahal bomanti
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 1.İzmir mahal bomanti
 https://www.youtube.com/watch?v=NUp9CIX4AAE
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 2.Party poker
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 2.Party poker
 https://www.youtube.com/watch?v=ZuE0u4Zkq8A
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 2.World poker
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 2.World poker
 https://www.youtube.com/watch?v=ukBdassvQFg
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Beach Cam Hollywood Beach Broadwalk, Florida
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Florida
 https://www.youtube.com/watch?v=cmkAbDUEoyA
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Meiadinah live
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Meiadinah live
 https://www.youtube.com/watch?v=hi7_CQU5s44
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Mekke
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Mekke
 https://www.youtube.com/watch?v=K73Qome3hkk
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Nasa live
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Nasa live
 https://www.youtube.com/watch?v=21X5lGlDOfg
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Ski Panorama
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Ski Panorama
 https://www.youtube.com/watch?v=QXyhVPh1s7Y
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Space Station
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Space Station
 https://www.youtube.com/watch?v=0FBiyFpV__g
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.The World Live
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.The World Live
 https://www.youtube.com/watch?v=HfgIFGbdGJ0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Times Square
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Times Square
 https://www.youtube.com/watch?v=UVftxDFol90
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", 3.Tokyo Live Camera
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 3.Tokyo Live Camera
 https://www.youtube.com/watch?v=r74OyneNmg8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Anjuna deep
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Anjuna deep
 https://www.youtube.com/watch?v=D4MdHQOILdw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Ateş klasik piyano
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Ateş klasik piyano
 https://www.youtube.com/watch?v=tSlOlKRuudU
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Best Fitness & Gym Motivation Mix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Best Fitness & Gym Motivation Mix
 https://www.youtube.com/watch?v=kAUVOHB3XYM
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Blade tecno
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Blade tecno
 https://www.youtube.com/watch?v=G3Vr3KNHDF8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Cafe de anotolia
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Cafe de anotolia
 https://www.youtube.com/watch?v=zo9hsoLy5dM
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Enstrümantal Fon Müzikleri
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Enstrümantal Fon Müzikleri
 https://www.youtube.com/watch?v=EmdtE7sRMSY
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Feelings Good Mix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Feelings Good Mix
 https://www.youtube.com/watch?v=Ai5WGovmbbw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Gangsta Rap
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Gangsta Rap
 https://www.youtube.com/watch?v=0MOkLkTP-Jk
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Gangsta Rap underground
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Gangsta Rap underground
 https://www.youtube.com/watch?v=1y2R_i2OeFw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Green Saund
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Green Saund
 https://www.youtube.com/watch?v=Gz-3ygPpjjw
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Helios deep
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Helios deep
 https://www.youtube.com/watch?v=i_Opkdi1haM
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", House Relax
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", House Relax
 https://www.youtube.com/watch?v=F_I-9FBaxq8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Karadeniz Akustik
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Karadeniz Akustik
 https://www.youtube.com/watch?v=OVDXq8cdHqI
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Lounge Music 🍹 Live Radio
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Lounge Music 🍹 Live Radio
 https://www.youtube.com/watch?v=FvMNXvKaeEY
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", magic club
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", magic club
 https://www.youtube.com/watch?v=V99jaQyF-go
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Rap live radio 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Rap live radio
 https://www.youtube.com/watch?v=05689ErDUdM
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Summer mix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Summer mix
 https://www.youtube.com/watch?v=YmFasIFdQ2c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Summer music deep
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Summer music deep
 https://www.youtube.com/watch?v=NjQl_yY6XkU
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Tropikal House
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Tropikal House
 https://www.youtube.com/watch?v=hIf_x11fRxE
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Türkçe pop remix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Türkçe pop remix
 https://www.youtube.com/watch?v=Nsuz7Hv75X0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Türkçe rap remix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Türkçe rap remix
 https://www.youtube.com/watch?v=mOIEx1du7Pg
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", Ulustan Türküler
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", Ulustan Türküler
 https://www.youtube.com/watch?v=yM3iJ1DZW6c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET ", IBIZA SUMMER MIX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", IBIZA SUMMER MIX
 https://www.youtube.com/watch?v=TUAXew0hPx8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="11.KIL :)", :
@@ -4559,20 +4604,38 @@ https://raw.githubusercontent.com/KILBERBER/kilberber/main/5.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="11.KIL :)", :)))))
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mp4
 
-#EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="noimage.png" group-title="11.KIL :)", Big Brother 1
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237173.ts
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="11.KIL :)", A.Skai TV Survivor Yunanistan 22.00
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 
-#EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="noimage.png" group-title="11.KIL :)", Big Brother 2
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237174.ts
-
-#EXTINF:-1 tvg-id="BR: MasterChef" tvg-logo="noimage.png" group-title="11.KIL :)", MasterChef Brezilya 
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/238313.ts
-
-#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="11.KIL :)", Skai TV Survivor Yunanistan 22.00
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="11.KIL :)", B.Skai TV Survivor Yunanistan 22.00
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="11.KIL :)", Skai TV Survivor Yunanistan 22.00
-https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", Big Brother Alb 1
+http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237173.ts
+
+#EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", Big Brother Alb 2
+http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237174.ts
+
+#EXTINF:-1 tvg-id="ALB| BIG BROTHER ALBANIA 1 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", BIG BROTHER ALB
+http://141.94.141.66:8080/play/hls/eyJpdiI6IjA4K2hRaS9zNjMwczBDYW4vOFkvY3c9PSIsInZhbHVlIjoiMXRUU2ZBbUxhMlErNFQ0UTVFYlpwVXFxZEhKa1JJU3F1bUhnRU9MY0YvZWl0Tm1odHBQeWs5VXNoRm9GWUVQSHdPY0lya2pSYzVTZ1AvSmlqMXlyL2c9PSIsIm1hYyI6ImE4ZWU2NzA1YjJjOGM0Y2RmZmRhNWI4NmE3YjBlOWViNTM5MDliOTM3ZTZiMzljN2YyNTU3MGNlZWQ3ZDhiZGMiLCJ0YWciOiIifQ==/c2697668-7021-41d2-9d10-33b93837f972.m3u8?lvtoken=eyJpdiI6Im9ld3RrR3Vqd3BmU1ZWOHJidzdwMEE9PSIsInZhbHVlIjoieXZVLzJ6YUMyMGVNYVdHREs2NE1XUzFJLzNRanpWWnZ2akk3WkJ3SGxGTmhxTWwxZnQyMzM1TUxPN1NwTEpyNUtjckNDQS94VjZhNExRYzVtZVRiMVFIZEo1NXdPU1ZXbFNPMVRzNEw5cXZhcDNNYW5hL2tzM1U5aGtZL2g0WWdadC9kZXRTQS93bHNrL2ZiKzFUeFlvUmQvZCtuUzU5NmdIa1VQNUlJOTJoN2p3TjkySUFwZ3Vra29yaE1tYktLQldoUm53RXJlTHdoNnVjVm9DYXlzdz09IiwibWFjIjoiYWQ1NjAzOTU3MzMxNjQ1MDU3MjUyMDIzMTcwNTk1ODkyMjkwMTNlMDQ4MzFiYmVlNTlkZGQyNjllNmYzZmY0MCIsInRhZyI6IiJ9&r=63cc6f&rt=7de25cbc2c3dd7c14569949231fc5c78
+
+#EXTINF:-1 tvg-id="BR: MasterChef" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="11.KIL :)", MasterChef Brezilya
+http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/238313.ts
+
+#EXTINF:-1 tvg-id="pink-lol" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LOL.png" group-title="11.KIL :)", Pink LOL
+http://141.94.141.66:8080/play/hls/eyJpdiI6IlY0MStKZXRrbVV2ek5EQ3ExZkxkOHc9PSIsInZhbHVlIjoiU2R2Uzg3OVRuWmNyZ2V2REhla0ZPYU1GZnJuR3l6RVlVNm9zVmRudzlieDlRQWVIZi9JSENlbEt0SVJyM3g0NU1jWFVBTkNMSTBXdGZxZ1IxWFJQQ2c9PSIsIm1hYyI6IjhiYmZhZDU4MjgwNjllYjQ4ZGEyNGRlNDBhNDc4NWQ2ZTg0MmRjMThhNmY1NTI4OWVlNTU2NGM4NzA2Y2IyZjYiLCJ0YWciOiIifQ==/030037fa-d944-41f6-a935-246fbe8794d9.m3u8?lvtoken=eyJpdiI6ImhadmMrQU5ackg0UjQrbnl2bmZ5cnc9PSIsInZhbHVlIjoiYTY0ZXRnSy9UZm9oWFFCWnZ4WHJYZWcwaFg2SUNnTFlheGF2SERVRS9pUWpOTjA0dHlJTE9ObzdPVnRxSXF5NndmWTVnMldJYnhWUVhzZDNkMDJKOWdHeC8rN1hNVklGYkpDRDEyMzZCRElSckdzS0xxM3RCS3B1aFdrOU1IRklWWnJMcndTeGdKSWsrbGtybHFoMy9SR01zSU5BZE1HL1RpUnUyL2dXemUyekJ1NUQyK3BMd2xHZndibjRlZjB5WXZEdzVtYU9HbUg5Mzd2SWZXeG43dz09IiwibWFjIjoiZGY2MzkyYzIyZGI5MGFiMWViYzI5ZWU0NWFiMjAxMTQyNzljNTllMTdhMTc4NTllMzJkNWQyYmUxMTFiYzhhNSIsInRhZyI6IiJ9&r=0617bb&rt=2be652e55aac440e63b1faae93cd57b8
+
+#EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 1 LIVE
+http://167.235.36.229:8080/play/hls/eyJpdiI6InZPU0lVOWU3NXNzdGdVTGc0SXJDZ2c9PSIsInZhbHVlIjoiZFJyRmFqbTFUZVMxSzdOTlhrelYyOUZoZUFoRGw2dmlOc1lKRldxUmcvSGdGRWJCa0VSaGVKV3I4Slk2RExjMkNwaitNTGxEYUNvRWxzRm52WktJRWc9PSIsIm1hYyI6Ijc4NjZhYWM2YTZiNDU5YTYxM2I4MWQ5ZDczMGFlYTg2OTIxMDQ4NjNlOTFjNjVlY2VlYTEwNDE2NTcxMWU4ZDMiLCJ0YWciOiIifQ==/44895710-6877-4207-9a7c-f4de284774ad.m3u8?lvtoken=eyJpdiI6InRYVkxBWXkvc2piZHdyT05JaWZhUkE9PSIsInZhbHVlIjoiWWtsYWNYT0NCMEtha3hXTy9PZTYxdUE0eXpGVVg5cG04VlBvYWx6bVJsd21iNFg0dmRvbU4zL0RWbHlTVzhVemhVMTB6WDduUVYwMmVvbCsvK0lZem5jcGM3bVVYeCsvdzl0MzE4Rm0zNWJHT0Zid3EyVXpzM2E4WFZmYlVOdjJqeFMwTlUzN0FBRzhkRmhLTStZNWtPdngyVHBhazE1bHRzVjZXTHA2Smw4MWhXYXJkREIyZEJVdzh0MEw3UFZLSzJFdloxTWlwSDloVm85cTRhYVZPZz09IiwibWFjIjoiNDQyNmM3MWU1NGE5MDE2NTU5NGUzODk4MmQ3ZWNmYTRkMTAyZjMyZDQxOGQxY2IyODYwYmFlZTRjYWQ4ZDRiZiIsInRhZyI6IiJ9&r=123a72&rt=3acb6bf8be58147a63ddaedd316c5844
+
+#EXTINF:-1 tvg-id="Zadruga 2 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 2 LIVE
+http://167.235.36.229:8080/play/hls/eyJpdiI6InZPU0lVOWU3NXNzdGdVTGc0SXJDZ2c9PSIsInZhbHVlIjoiZFJyRmFqbTFUZVMxSzdOTlhrelYyOUZoZUFoRGw2dmlOc1lKRldxUmcvSGdGRWJCa0VSaGVKV3I4Slk2RExjMkNwaitNTGxEYUNvRWxzRm52WktJRWc9PSIsIm1hYyI6Ijc4NjZhYWM2YTZiNDU5YTYxM2I4MWQ5ZDczMGFlYTg2OTIxMDQ4NjNlOTFjNjVlY2VlYTEwNDE2NTcxMWU4ZDMiLCJ0YWciOiIifQ==/44895710-6877-4207-9a7c-f4de284774ad.m3u8?lvtoken=eyJpdiI6InRYVkxBWXkvc2piZHdyT05JaWZhUkE9PSIsInZhbHVlIjoiWWtsYWNYT0NCMEtha3hXTy9PZTYxdUE0eXpGVVg5cG04VlBvYWx6bVJsd21iNFg0dmRvbU4zL0RWbHlTVzhVemhVMTB6WDduUVYwMmVvbCsvK0lZem5jcGM3bVVYeCsvdzl0MzE4Rm0zNWJHT0Zid3EyVXpzM2E4WFZmYlVOdjJqeFMwTlUzN0FBRzhkRmhLTStZNWtPdngyVHBhazE1bHRzVjZXTHA2Smw4MWhXYXJkREIyZEJVdzh0MEw3UFZLSzJFdloxTWlwSDloVm85cTRhYVZPZz09IiwibWFjIjoiNDQyNmM3MWU1NGE5MDE2NTU5NGUzODk4MmQ3ZWNmYTRkMTAyZjMyZDQxOGQxY2IyODYwYmFlZTRjYWQ4ZDRiZiIsInRhZyI6IiJ9&r=123a72&rt=3acb6bf8be58147a63ddaedd316c5844
+
+#EXTINF:-1 tvg-id="Zadruga 3 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 3 LIVE
+http://167.235.36.229:8080/play/hls/eyJpdiI6IlJsV3RFbDVENGF4OXBtamJkRG9BSHc9PSIsInZhbHVlIjoibGY5SXNnUzhHRWFUbFpwSHFVNHhqYTNNbEM3eDFEODlDaSszT2JZMHdQMG5wWUVsZXVpNENsR3l4NnRCaEJ1akIxTlU1cVVWenc2S3NRcXROWTRnWXc9PSIsIm1hYyI6ImVmMmY4ZWY4ODY4NGZjYjY5N2FhZmYzNzc5NDcxN2I4NWMyMjBlYzI4Y2FiODA4NmU1ZjUxYjgxMTg4ZTExNjgiLCJ0YWciOiIifQ==/abdb40a4-6099-4ba4-84b7-b51c27a75619.m3u8?lvtoken=eyJpdiI6Ik9jM3NKVHI5SXZFeVlMUTN3QVQwZmc9PSIsInZhbHVlIjoiVGhMa2V5QUR4UGhLRVJXb2VIL1lVMzU4ZkVPZkFnTjgzNnJuZ3h1eXcyMlp6N2pLeWxZQmV4Vk80WHd1RlJDVnNZRXlVbngrd0kwZXhRR1UzL0EvM1IrL2U5SzFuTnJpL0JqOGgzNDY0OEw0akFqQlNEVWJ0a3NTbHd1WGtlLzF5MllqWnRySVBLWi96OG1sMnBwdWlwQkgvWjdhZ0pZTmRJZmpmSHRaWmFaRFVxQTJFQ2pUZ0FjR3FITWFLM0s3U2pKM2w0MzU5bmNmNWk4ejFtK01YUT09IiwibWFjIjoiM2Y2ZDgwNTZiNTMzYzhhZGQzMmQ0MDBmZTBjZWJjZmFhZTUwNmVlNzQ1YjUzMmUwNTNlZWIxNDU4OTg2NGRmYiIsInRhZyI6IiJ9&r=235e59&rt=d15f9680a5520b9587daad7310b238b4
+
+#EXTINF:-1 tvg-id="Zadruga 4 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 4 LIVE
+http://141.94.141.66:8080/play/hls/eyJpdiI6IkJiNjRLL1ArTnl4RklVZkRwZkg0SUE9PSIsInZhbHVlIjoibWc0dEcvUnRId09kRUlGeTlwRFovSUYzQStEWjZJNU05R1VXQ3lYZ3ovT0xHTFlGOW94c0l4N280MDdiWUY5RG1wR0ZhVUt3SnFuNzNERVNTRG9DRWc9PSIsIm1hYyI6IjJhNDMzZmY3ODgyM2U0ZGJmYzcyNzhjMDVlNTA1NTliZTBmYmUzYzI4YzQ5NmMzMjJjOTVhY2MwZGU2MzQwYmYiLCJ0YWciOiIifQ==/5d79b69c-8389-4f44-8ecb-45baf385809b.m3u8?lvtoken=eyJpdiI6IjB6ZDFTaDVYejI0SjYvS2M4UnJSTVE9PSIsInZhbHVlIjoiaS9JNUNlSUNiMC9mTnVFZTlHTDdtSi9uU0RaQ0taU1pxdXArNC9jbTE2eVlwaUdEeHdUTTlPSndlNHNTMHZoOTQwODJBcm94SXpsNE1UbWZQZWFYZEtUZC8rQXpYUTYwZ3NkRUlkaW8xYUcxWXZybUF5L3RFNW1NVnpUdWU2ajRveTZXZDdGYVppQTV0eVhZb2JQU1FzbEEzUDM5UkZCR2FqaGVWWEN6NU42UG4vb29TbHIxOXZBTk5FdlJQTWlFbWZYeEFYYTFOQ0FMTW9kTFFhNE9Jdz09IiwibWFjIjoiMTM2NDYxNzI0NTIwMDcwMTA2MmI5ZmIzNzFmY2ZkYTJjNjA0MTA0MzNkZjQwMGRhM2QyZDVmNDRkZjdlYTBkNyIsInRhZyI6IiJ9&r=3125b2&rt=fe6fdc62051a82ec81edcc33fad53bdd
 
 #EXTINF:-1 tvg-id="TRD 65 (2023)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YBNC TR DUBLAJ", 65
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10757.mp4
@@ -4802,7 +4865,7 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7535.mkv
 #EXTINF:-1 tvg-id="Western-Once Upon a Time in the West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Once_upon_a_Time_in_the_West.jpg" group-title="WESTERN", Bir zamanlar batıda
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7548.mkv
 
-#EXTINF:-1 tvg-id="Wester-Big Jake" tvg-logo="https://resizing.flixster.com/03Gfl3nZKr1qdYEqMVBMJFoSNvA=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p806_v_h9_af.jpg" group-title="WESTERN", Büyük Jake
+#EXTINF:-1 tvg-id="Wester-Big Jake" tvg-logo="noimage.png" group-title="WESTERN", Büyük Jake
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7532.mkv
 
 #EXTINF:-1 tvg-id="Western-A Genius Two Friends and an Idiot" tvg-logo="https://medias.unifrance.org/medias/122/102/91770/format_page/a-genius-two-friends-and-an-idiot.jpg" group-title="WESTERN", Dahi 2 arkadaş ve 1 Aptal
@@ -4811,19 +4874,19 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7536.mkv
 #EXTINF:-1 tvg-id="Western-Dallas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Dallas_FilmPoster.jpeg" group-title="WESTERN", Dallas
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7540.mkv
 
-#EXTINF:-1 tvg-id="Western-Trinity Is still My Name" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/TrinityIsStillMyName.jpg" group-title="WESTERN", Hala Benim Adım Trinity 
+#EXTINF:-1 tvg-id="Western-Trinity Is still My Name" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/TrinityIsStillMyName.jpg" group-title="WESTERN", Hala Benim Adım Trinity
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7561.mkv
 
 #EXTINF:-1 tvg-id="Western-The Man from Laramie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/The_Man_from_Laramie_Poster.jpg" group-title="WESTERN", intikam Kanunu
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7557.mkv
 
-#EXTINF:-1 tvg-id="Western-Hannie Caulder" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38821_v_v10_af.jpg" group-title="WESTERN", intikam meleği
+#EXTINF:-1 tvg-id="Western-Hannie Caulder" tvg-logo="noimage.png" group-title="WESTERN", intikam meleği
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7544.mkv
 
 #EXTINF:-1 tvg-id="Western-The Good The Bad and The Ugly-Iyi Kotu Cirkin" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/19395.jpg" group-title="WESTERN", iyi Kötü ve Çirkin
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7552.mkv
 
-#EXTINF:-1 tvg-id="Western-The Horse Soldiers" tvg-logo="https://i5.walmartimages.com/seo/The-Horse-Soldiers-DVD_813ae1c8-369a-43cb-9cc6-191752692074.981f002dda7c90e3cecd8a6acfce077a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF" group-title="WESTERN", Kahraman Süvariler
+#EXTINF:-1 tvg-id="Western-The Horse Soldiers" tvg-logo="noimage.png" group-title="WESTERN", Kahraman Süvariler
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7555.mkv
 
 #EXTINF:-1 tvg-id="Western-High Noon" tvg-logo="https://m.media-amazon.com/images/I/813zp5CdPtL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="WESTERN", Kahraman Şerif
@@ -4835,7 +4898,7 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7549.mkv
 #EXTINF:-1 tvg-id="Western-The Proposition" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/The_Proposition_5.jpg" group-title="WESTERN", Kanlı Teklif
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7559.mkv
 
-#EXTINF:-1 tvg-id="Western-The Outlaw Josey Wales" tvg-logo="https://resizing.flixster.com/lukBzUrybxLX573d5-pcxifKZvY=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p574_k_v10_ab.jpg" group-title="WESTERN", Kanunsuz Josey Wales
+#EXTINF:-1 tvg-id="Western-The Outlaw Josey Wales" tvg-logo="noimage.png" group-title="WESTERN", Kanunsuz Josey Wales
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7558.mkv
 
 #EXTINF:-1 tvg-id="Western-High Plains Drifter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/High_Plains_Drifter_poster.jpg" group-title="WESTERN", Kasabadaki Yabancı
@@ -4853,10 +4916,10 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7538.mkv
 #EXTINF:-1 tvg-id="Western-Maverick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Maverick_movie.jpg" group-title="WESTERN", Maverick
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7547.mkv
 
-#EXTINF:-1 tvg-id="Western-The Hateful Eight" tvg-logo="https://www.jbhifi.com.au/cdn/shop/products/940618-Product-0-I_9bb84406-d204-49d4-b5b5-f5310b611836.jpg?v=1571712356" group-title="WESTERN", Nefret Sekizlisi
+#EXTINF:-1 tvg-id="Western-The Hateful Eight" tvg-logo="noimage.png" group-title="WESTERN", Nefret Sekizlisi
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7554.mkv
 
-#EXTINF:-1 tvg-id="Western-Hang Em High" tvg-logo="https://resizing.flixster.com/5rj6wyTfvdKyEf1QGbUC--2MXGE=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2203_p_v10_aa.jpg" group-title="WESTERN", Onları yükseğe as
+#EXTINF:-1 tvg-id="Western-Hang Em High" tvg-logo="noimage.png" group-title="WESTERN", Onları yükseğe as
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7543.mkv
 
 #EXTINF:-1 tvg-id="Western-Rooster Cogburn" tvg-logo="https://m.media-amazon.com/images/I/81jwDxe0EKL._UF1000,1000_QL80_FMwebp_.jpg" group-title="WESTERN", Rooster Cogburn
@@ -4874,7 +4937,7 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7553.mkv
 #EXTINF:-1 tvg-id="Western-Chino" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Chino_FilmPoster.jpeg" group-title="WESTERN", Vahşi Melez
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7539.mkv
 
-#EXTINF:-1 tvg-id="Western-The Magnificent Seven" tvg-logo="https://resizing.flixster.com/vBocrKhKn-pSdYdHS13S79xFCQk=/300x300/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12541171_v_h9_aa.jpg" group-title="WESTERN", Yedi Silahşörler
+#EXTINF:-1 tvg-id="Western-The Magnificent Seven" tvg-logo="noimage.png" group-title="WESTERN", Yedi Silahşörler
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7556.mkv
 
 #EXTINF:-1 tvg-id="Western-3 Godfathers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/3_Godfathers_1948_poster.jpg" group-title="WESTERN", Çöl Yavrusu
