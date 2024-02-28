@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=dXIyMS61B68
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", //➾SPOR GÜNCEL➾///
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m3u-editor.com/storage/channel-logos/95548030-c5aa-11ee-9654-910bef251147/6205433/1078580974.jpeg" group-title="0.KIL-SPOR", 00.7/24 SPOR TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Roundel_flag_of_Turkey.svg/1200px-Roundel_flag_of_Turkey.svg.png" group-title="0.KIL-SPOR", 00.7/24 SPOR TV
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 00.Bein Sports 1
@@ -92,11 +92,29 @@ https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 03.⬇️SPOR İP TVLER⬇️
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein Sports 1 (low)
+http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100961.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein Sports 1 HD+
+http://s1.czxbexchange.xyz:8080/live/152099191638481/152024397627367/100962.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein Sports 1 HD+
+http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100962.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein Sports Yedek 1
+http://s1.czxbexchange.xyz:8080/live/152099191638481/152024397627367/100972.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", Bein Sports Yedek 1
+http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100972.ts
+
 #EXTINF:-1 tvg-id="[TR] LIG TV 1 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEIN 1 HD
 http://141.94.141.66:8080/play/hls/eyJpdiI6ImNrL0EyUXVKM2thbmZHVzRCUHU4eXc9PSIsInZhbHVlIjoieHp4aGdUYjRnL2JxZURCdXNpb0dxTWY5US83THlsakUySUljTWIrSnduZ1JzQlhPVXA3OEFTcnRrbURtU2lIYWduL3FjQ05MQmhqcUhRQklsb09TK0E9PSIsIm1hYyI6IjVkMzY0ZDk1YTI3MWUzNWIzNjFkMTc5ZTBiZjQzZTdhY2VmZDUwNTcyMGVmNTM3NWUzMGQzYzVlYjk5NWM2OGUiLCJ0YWciOiIifQ==/7c67b6ce-4809-4fa3-bcf8-cd5b45abd976.m3u8?lvtoken=eyJpdiI6InJlZ2p1Uk9PSXNwaVlmWHhnY2d4c1E9PSIsInZhbHVlIjoiRnlVSlhvSkRTOC9UMjFxTDhyOG5yaTkzNVBQS242UjVkU3RaL0hmd3I2NC9NVzFNdnRSbzI0V0pNY09CeTdtQmJGUXpZQ29uMzRwTUQzRHJsamhOWm16MmxzaEdTMTdNeVRYdzErNXljbmRiam0zQmo4eERRbmJHNWhnZEJDUHpGVndFR1ZWbnlHSVJ3bTVxNm1HR0FFdjVLZ0tHeVJ1dk0wZ1hlUldkRUU1YzUzazJ1Z2drT1c2bzlHa3B1UTNxZG5oMXdSaVNFNnRNbC9RUmJFemR0QT09IiwibWFjIjoiM2Q0ZmM4OTY4NjYxYjY3NDZlNGZiYTcyNWYxNDMzMzNhMTY0YjE3YzJmOWJjYzNhYzBkYjU4OGQ3MDM3NGI2NCIsInRhZyI6IiJ9&r=effee3&rt=1710a884738258998550b60d5ce9357a
 
 #EXTINF:-1 tvg-id="[TR] LIG TV 2 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEIN 2 HD
 http://167.235.36.229:8080/play/hls/eyJpdiI6Im8rc09zY0NSa3hqdnRjTjRqd3V2YXc9PSIsInZhbHVlIjoiVjNMK0tBamRKalZsdEI5c3dGdkJOb24vYzhINWpZVVA0S0J4WVBUcFU2T0lSN3dmT2cvcnl5VmYrd2hHb2dNeWhKbFpLRnA5MFl2bTc3dWtrMVZBaVE9PSIsIm1hYyI6ImU1N2RjM2I2NzQ4YjQyYzM4ZDMwOWJiYTUxZDBlMDExYTA1N2E5N2VhNGVhMTA1ZmRiNDMwNmU0ZWMwOThlMjQiLCJ0YWciOiIifQ==/6d3fc2b5-5697-474f-800e-6a5354317fef.m3u8?lvtoken=eyJpdiI6ImdWN01sNWNvTnRnVUhZUCtYclZmeUE9PSIsInZhbHVlIjoiUkNtVmxCNEdGNzFJMWZBRmhVWm1nYnFEa1cwd0xGeCtGY2VkUFhLV2JhLzQrRDVIRWhJSEl2K1JNR1VtOXd2WlNTbTlnR01XdWRtd3B4cHg5UU9CTGhzSnFBT3hBYWhoY0NWb0t4a0g0ZHZEMnJlaGpLUFc4OWpuOTU5MXk1SGpyaWFMaUowem8yaWQ3RFJldDBIRXpjVXk3cGFGa3VjVmdnZTlqa1M3c3JISEs3OGxINDZEVlE0MGtycUZCMnBLUzNKdENqRlVWZ0xpQmgvNURQN2haQT09IiwibWFjIjoiMGJmOGI3N2MwZjJiZDI5MDU4MDEzY2U0MTA3MjAxZWE2MTgzZmNkNDg3ZWM1NmRkNDQ5NTAzYjcxMDVmNzZlYyIsInRhZyI6IiJ9&r=06105f&rt=1afa2b04ec02ac06926745979caaacf9
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN CONNECT 1
+http://ahmet.ddns.me:8000/hkn15045/4temmuz.2023/68403
 
 #EXTINF:-1 tvg-id="beIN Connect 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 1 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122770.ts
@@ -262,6 +280,18 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244765.ts
 
 #EXTINF:-1 tvg-id="beIN Sport Max 2 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd [ 1080p ]
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244765.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BeIN SPORTS 1 4K HECV
+http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428029
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN SPORTS 1 4K UYDU
+http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428031
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN SPORTS 1 FHD¹ 50 FPS
+http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428030
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN SPORTS 1 HD
+http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428027
 
 #EXTINF:-1 tvg-id="D Smart Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Smart-spor-2.png" group-title="0.KIL-SPOR", D Smart Spor 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/100140.ts
@@ -2846,6 +2876,9 @@ https://radyodinle1.turkhosted.com/yayin?uri=stream.taksimbilisim.com:8024/&tkn=
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mediacdns.karnaval.com/media/station_media/51/logos/logo_web_female.png" group-title="06.KIL-RADYO", Fm yılın radyosu
 https://25493.live.streamtheworld.com/SC001_SO1AAC.aac?ttag=vehicle&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gdpr=0&burst-time=15&sbmid=c9cbb9e9-3727-4fc4-f18e-b7e39308243b
 
+#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="07.KIL-Kamera", 0.earthTV
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 1.Earth tv
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_original.m3u8
 
@@ -2855,8 +2888,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_sh
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 3.earth tv USA
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_whouse.m3u8
 
-#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="07.KIL-Kamera", earthTV
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 4.izmir mahall
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/izm-mahall.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 5.antalya kam
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/ant-kamelya.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 7.yaban cam
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/tjk-pinarbeyli3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", İstanbul Anadolu Hisarı
 https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w792953491.m3u8
