@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
-https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w63326066.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280x720_3291200/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 02.Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -20,6 +20,9 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217328
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 07.Relax
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217327
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 08.Relax
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w63326066.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
 
@@ -35,9 +38,6 @@ https://www.youtube.com/watch?v=9PgkeuyY4hs
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Relax jaz müzik
 https://www.youtube.com/watch?v=xl0NMRAnqbA
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Şifalı Uyku Müziği
-https://www.youtube.com/watch?v=QcBT3PG1kE8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Sinirler için yatıştırıcı müzik
 https://www.youtube.com/watch?v=B333awQIcJg
 
@@ -49,6 +49,9 @@ https://www.youtube.com/watch?v=hRW-wSkdIf8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Tropical Shores
 https://www.youtube.com/watch?v=dXIyMS61B68
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", Şifalı Uyku Müziği
+https://www.youtube.com/watch?v=QcBT3PG1kE8
 
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", //➾SPOR GÜNCEL➾///
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
@@ -1286,7 +1289,7 @@ https://www.youtube.com/watch?v=G3NX_hzCuFM
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-MÜZİK", 19.Kbs World Tv
 https://www.youtube.com/watch?v=FrWldCxToAQ
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="00.KIL-MÜZİK", 19.KpopTV Play
+#EXTINF:-1 tvg-id="http://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8?nimblesessionid=147969910" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="00.KIL-MÜZİK", 19.KpopTV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="00.KIL-MÜZİK", 19.KpopTV Play
@@ -1310,11 +1313,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu2
+#EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="00.KIL-MÜZİK", 20.Trace Urban Eu2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="00.KIL-MÜZİK", 21.Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="00.KIL-MÜZİK", 21.Pluto TV MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="00.KIL-MÜZİK", 21.ТНТ MUSIC
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="00.KIL-MÜZİK", 22.MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -1399,6 +1408,9 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="00.KIL-MÜZİK", 32.RU TV
 https://edge02.odtv.az/o7/rutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-MÜZİK", 32.russian music box
+http://strm.yandex.ru/kal/rmbox/ysign1=4cf4f6acf145e7146d21e4beff880fb396e1263142331d4f8f0f3e22b8bdaf1a,atrack=audio1_rus,pfx,sfx,ts=65ee57aa,unsafe=1,vtrack=169_240p/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="00.KIL-MÜZİK", 32.Ля-Минор
 http://camera.global-x.ru/Lya-Minor/index.m3u8
@@ -1586,6 +1598,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-logo="https://i.imgur.com/YteKXJy.png" group-title="00.KIL-MÜZİK", 50.Navahang
 https://hls.navahang.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBE_BTB6NYZAl3Wf0gy_zZjvYpfxIM8GJ9wzSVpkYoFQ&s" group-title="00.KIL-MÜZİK", 50.Paryawaran TV
+http://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/chunks.m3u8?nimblesessionid=271044539
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="00.KIL-MÜZİK", 50.PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
@@ -1679,6 +1694,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="00.KIL-MÜZİK", POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
+#EXTINF:-1 tvg-id="QwestTV.fr" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="00.KIL-MÜZİK", QwestTV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="00.KIL-MÜZİK", Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
@@ -1687,6 +1705,9 @@ https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RLVTV.ve" tvg-logo="https://i.imgur.com/hI8tXKW.png" group-title="00.KIL-MÜZİK", RLV TV
 https://tv.mundostreaming.cl:3083/live/radiolatinavzlalive.m3u8
+
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-logo="https://i.imgur.com/AJIN8Dc.png" group-title="00.KIL-MÜZİK", ShowVen
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SomosTopoPointTV.do" tvg-logo="https://i.imgur.com/7Jx45yQ.png" group-title="00.KIL-MÜZİK", Somos Topo Point TV
 https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
@@ -1780,6 +1801,9 @@ http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="00.KIL-ONLİNE FİLM", 0.ŞABAN TV
 https://tivi44.ozelip.com:3463/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="00.KIL-ONLİNE FİLM", 1.amc +
+http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d9181fd0-491f-4939-9154-daefc24bc480.png" group-title="00.KIL-ONLİNE FİLM", 1.Doğanay TV
 http://145.239.58.133:28008/doganaytv/doganaytv/playlist.m3u8
@@ -2360,6 +2384,9 @@ http://167.235.36.229:8080/play/hls/eyJpdiI6ImR4VWpBUFdBaWdKMFVRcjBDZmhxd2c9PSIs
 #EXTINF:-1 tvg-id="[TR] YABAN TV HD" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="03.KIL-BELGESEL", 6.YABAN TV HD
 http://167.235.36.229:8080/play/hls/eyJpdiI6ImZ2K2VIZ05rOHZtZ3BRSE9yYUllTFE9PSIsInZhbHVlIjoiSGpJR1JhQlNWY2tHTGtydUtVcXozZyt1NzJxRTNHUncySHM5bExBVnd1b0JXZUE3OW5tQVNMMzhNd0FSMkdQL0RLTE1hNVpYeEZLODZKODBrandrTGc9PSIsIm1hYyI6IjUxMWY1ZWJhZTAxZWJkNjEyM2E3OGJhNTJhYTk1MTQxZmMxZjljMTg2MzJkOTU5YTBhYzk5Y2M5NGUzZTE0ZWEiLCJ0YWciOiIifQ==/edf9f3ca-9420-4ce3-82f4-e5c1f8951f8c.m3u8?lvtoken=eyJpdiI6IkNVQ3lWbVFDM2dncUhWbWZvb2lDRHc9PSIsInZhbHVlIjoiM2lPa1F6TCtEek1SNldLc2EvejdmdDZGanRqK1dMUnR5VC9vVGs1K3cxQzhUQ3FFL0EvbndKenNZc2tGQmpBRlhHTnVDS0RxOFNNLzl2UDBsSS9aazU4NjRLQldraWVxTXc0MkNFVEh3OE9NQWgyTjB2QmZZTlN2a1c0SVNFUjJJcnFGaW1VaE16V2tnWU56ZUszbm9JenFKT0w5ZVh4dWdSMWlkazNnVDhxd2Z2V0hwRExBdWpxL3JLVS9IRDMzemw4OUhmMmxYUytYV3NBZUNrNzRvQT09IiwibWFjIjoiYjMxMzY5Yzg2ZGE1MzhlOGM1NWU0NTUyODNiZWIyYjJhZmYyNzM5Yzg0YjJkNTUyMDJkYjJkZTY4ZjVlNDBjMiIsInRhZyI6IiJ9&r=f64f70&rt=c1f2e1058f753f91f3e2fbabfa018199
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/America%27s_Test_Kitchen_Logo_New.svg/1024px-America%27s_Test_Kitchen_Logo_New.svg.png" group-title="03.KIL-BELGESEL", Americas test kitchen
+http://lnc-americas-test-kitchen.tubi.video/index_1.m3u8
+
 #EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="03.KIL-BELGESEL", Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
 
@@ -2372,8 +2399,14 @@ https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="BR: Fish TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/631a9559060d6165dc953c2f/cb787910-6958-4c6d-937d-294ba029ebd7/Fish+TV+Vector.png?format=1500w" group-title="03.KIL-BELGESEL", Fish TV
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/238251.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp" group-title="03.KIL-BELGESEL", gusto yemek tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp" group-title="03.KIL-BELGESEL", gusto tv
+http://gustotv-gustotv-2-se.samsung.wurl.tv/089025e8e07edc059504b28ffd897267.m3u8
+
+#EXTINF:-1 tvg-id="http://gustotv-gustotv-2-se.samsung.wurl.tv/089025e8e07edc059504b28ffd897267.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp" group-title="03.KIL-BELGESEL", gusto yemek tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="03.KIL-BELGESEL", Horse & Country TV
+http://hnc-free-viewlift.amagi.tv/playlist1080_P.m3u8
 
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="03.KIL-BELGESEL", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -2381,11 +2414,11 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="03.KIL-BELGESEL", italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", Love nature
+http://lnc-love-nature.tubi.video/playlistR_1080p.m3u8
+
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-id="[TR] LOVE NATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="03.KIL-BELGESEL", LOVE NATURE HD
 http://167.235.36.229:8080/play/hls/eyJpdiI6IlBNSy9IQ3QxdW41WGMxeGIva2ZiOFE9PSIsInZhbHVlIjoiY3lHNDgvK0ROWjdXTmU0d3RPRG5KUEtvQjdNY01FcjhBdGpuaG1uZEtPWmZxTHY3bjRSZXdJbElDUS85aDBHbkFySlc2RWtyNFcxc1RLMUcyRnh2dGc9PSIsIm1hYyI6ImYyYTE3N2VmNWQyODkxNjdhMjE4MDVhYzgxNDI1M2ZjYmY5OGFhYjRiZDFiN2NjOGM1ZWI0ZTFhMDVhM2VlYWEiLCJ0YWciOiIifQ==/18547ba3-6eb1-4654-9bd6-2dbd05ada618.m3u8?lvtoken=eyJpdiI6Ik5Ca1pIOVdxdGt2ajlNYmlkWHNYSXc9PSIsInZhbHVlIjoiOVpLNVN1YkV5V3JtTzFBK2ZTV0RhUmtMSlRKeXZOeHhaVno2YVlXZU8xNUQrY1M5L3dYc1RaM2ZQekhoQ0hiVTJwdVpLdWNRMzN3UC9FMVlGMEZuQzI1R1lRQ3VvK096UXZUNDBHNDA2MHF4OUhXMGh4cG5FTVdCeDRjL2UvTU5BQ3hWT1B0L1JtOHpINjZJeVhLb0NXOEY2QVZyRHdDL1gxa21mdzhJWHdoNFZxY3cyNFRDZVMrSzBzY1d2OWk5a1IzRlB4ZTMxYUkvNGhTdjUyL1Vxdz09IiwibWFjIjoiNmNlODI4ODMyNzBlZGM3NjIxZTg0M2Y4NzJmZDc4N2NkZDFlZjI2MWRlNWY0MGVjOWVlN2QzMmRkOWU3MGZhZCIsInRhZyI6IiJ9&r=ce6111&rt=927776be677e463a8ee7f364dc28fba3
@@ -2395,6 +2428,9 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="03.KIL-BELGESEL", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="03.KIL-BELGESEL", NatGeo Wild eng.rus
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="03.KIL-BELGESEL", Ohotnik i rybolov
 http://ott-cdn.ucom.am/s62/index.m3u8
@@ -2414,8 +2450,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009
 #EXTINF:-1 tvg-id="PlutoTVFishing.us" tvg-logo="https://i.imgur.com/ZaHOk8j.png" group-title="03.KIL-BELGESEL", Pluto TV Fishing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://americanaoutdoors.com/wp-content/uploads/2023/01/Pursuit-Channel-705x705.jpg" group-title="03.KIL-BELGESEL", PursuitUP
+http://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist_1280x720.m3u8
+
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="03.KIL-BELGESEL", Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg" group-title="03.KIL-BELGESEL", wildside
+http://versatile-wildsidetv-1-fr.samsung.wurl.tv/subtitles.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://birakmamseniturkiyem.org/images/logo-bjk-120.png" group-title="05.KIL-SPOR KARIŞIK", 01.Beşiktaş
 https://s01.vpis.io/besiktas/besiktas.m3u8
@@ -2480,8 +2522,14 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="05.KIL-SPOR KARIŞIK", 05.idman TV
 https://edge02.odtv.az/o7/idman/playlist.m3u8
 
+#EXTINF:-1 tvg-id="http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/79a006c725e9acfef6f097f790ecc0b2.webp" group-title="05.KIL-SPOR KARIŞIK", 05.Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="05.KIL-SPOR KARIŞIK", 05.Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg" group-title="05.KIL-SPOR KARIŞIK", 05.Viasatsport
+https://edge02.odtv.az/o7/viasatsport/q_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="05.KIL-SPOR KARIŞIK", 06.Bric ve Satranc
 https://139.162.182.79/live/test/index.m3u8
@@ -2638,9 +2686,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="05.KIL-SPOR KARIŞIK", TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/79a006c725e9acfef6f097f790ecc0b2.webp" group-title="05.KIL-SPOR KARIŞIK", Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="05.KIL-SPOR KARIŞIK", WAPA-DT2
 https://live.field59.com/wapa/wapa2/playlist.m3u8
@@ -2953,6 +2998,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/izm-mahall
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 5.antalya kam
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/ant-kamelya.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 6.rusya cam
+http://lova.me/hls/hithd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="07.KIL-Kamera", 7.yaban cam
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/tjk-pinarbeyli3.m3u8
@@ -3337,6 +3385,9 @@ http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/238313.ts
 
 #EXTINF:-1 tvg-id="pink-lol" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LOL.png" group-title="11.KIL :)", Pink LOL
 http://141.94.141.66:8080/play/hls/eyJpdiI6IlY0MStKZXRrbVV2ek5EQ3ExZkxkOHc9PSIsInZhbHVlIjoiU2R2Uzg3OVRuWmNyZ2V2REhla0ZPYU1GZnJuR3l6RVlVNm9zVmRudzlieDlRQWVIZi9JSENlbEt0SVJyM3g0NU1jWFVBTkNMSTBXdGZxZ1IxWFJQQ2c9PSIsIm1hYyI6IjhiYmZhZDU4MjgwNjllYjQ4ZGEyNGRlNDBhNDc4NWQ2ZTg0MmRjMThhNmY1NTI4OWVlNTU2NGM4NzA2Y2IyZjYiLCJ0YWciOiIifQ==/030037fa-d944-41f6-a935-246fbe8794d9.m3u8?lvtoken=eyJpdiI6ImhadmMrQU5ackg0UjQrbnl2bmZ5cnc9PSIsInZhbHVlIjoiYTY0ZXRnSy9UZm9oWFFCWnZ4WHJYZWcwaFg2SUNnTFlheGF2SERVRS9pUWpOTjA0dHlJTE9ObzdPVnRxSXF5NndmWTVnMldJYnhWUVhzZDNkMDJKOWdHeC8rN1hNVklGYkpDRDEyMzZCRElSckdzS0xxM3RCS3B1aFdrOU1IRklWWnJMcndTeGdKSWsrbGtybHFoMy9SR01zSU5BZE1HL1RpUnUyL2dXemUyekJ1NUQyK3BMd2xHZndibjRlZjB5WXZEdzVtYU9HbUg5Mzd2SWZXeG43dz09IiwibWFjIjoiZGY2MzkyYzIyZGI5MGFiMWViYzI5ZWU0NWFiMjAxMTQyNzljNTllMTdhMTc4NTllMzJkNWQyYmUxMTFiYzhhNSIsInRhZyI6IiJ9&r=0617bb&rt=2be652e55aac440e63b1faae93cd57b8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/440px-Game_Show_Network_2018.svg.png" group-title="11.KIL :)", usa game show
+http://lnc-game-show-central.tubi.video/1200.m3u8
 
 #EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 1 LIVE
 http://167.235.36.229:8080/play/hls/eyJpdiI6InZPU0lVOWU3NXNzdGdVTGc0SXJDZ2c9PSIsInZhbHVlIjoiZFJyRmFqbTFUZVMxSzdOTlhrelYyOUZoZUFoRGw2dmlOc1lKRldxUmcvSGdGRWJCa0VSaGVKV3I4Slk2RExjMkNwaitNTGxEYUNvRWxzRm52WktJRWc9PSIsIm1hYyI6Ijc4NjZhYWM2YTZiNDU5YTYxM2I4MWQ5ZDczMGFlYTg2OTIxMDQ4NjNlOTFjNjVlY2VlYTEwNDE2NTcxMWU4ZDMiLCJ0YWciOiIifQ==/44895710-6877-4207-9a7c-f4de284774ad.m3u8?lvtoken=eyJpdiI6InRYVkxBWXkvc2piZHdyT05JaWZhUkE9PSIsInZhbHVlIjoiWWtsYWNYT0NCMEtha3hXTy9PZTYxdUE0eXpGVVg5cG04VlBvYWx6bVJsd21iNFg0dmRvbU4zL0RWbHlTVzhVemhVMTB6WDduUVYwMmVvbCsvK0lZem5jcGM3bVVYeCsvdzl0MzE4Rm0zNWJHT0Zid3EyVXpzM2E4WFZmYlVOdjJqeFMwTlUzN0FBRzhkRmhLTStZNWtPdngyVHBhazE1bHRzVjZXTHA2Smw4MWhXYXJkREIyZEJVdzh0MEw3UFZLSzJFdloxTWlwSDloVm85cTRhYVZPZz09IiwibWFjIjoiNDQyNmM3MWU1NGE5MDE2NTU5NGUzODk4MmQ3ZWNmYTRkMTAyZjMyZDQxOGQxY2IyODYwYmFlZTRjYWQ4ZDRiZiIsInRhZyI6IiJ9&r=123a72&rt=3acb6bf8be58147a63ddaedd316c5844
