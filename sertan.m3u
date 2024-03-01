@@ -6,21 +6,6 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 03.Relax
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217329
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 04.Relax
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217331
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 05.Relax
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217330
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 06.Relax
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217328
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 07.Relax
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/217327
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 08.Relax
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w63326066.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
@@ -655,18 +640,6 @@ http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/169636.ts
 
 #EXTINF:-1 tvg-id="Tivibu Spor Hd" tvg-logo="https://kanallogo2.com/images/spor/Tivibu_Spor_hd.png" group-title="0.KIL-SPOR", Tivibu Spor Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/169636.ts
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 2 FHD (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR⋮ beIN SPORTS 2 FHD (MODUL)
-http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/18322
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 2 HD (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR⋮ beIN SPORTS 2 HD (MODUL)
-http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/18323
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 2 RAW (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR⋮ beIN SPORTS 2 RAW (MODUL)
-http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/18321
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 2 SD (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", TR⋮ beIN SPORTS 2 SD (MODUL)
-http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/18324
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
@@ -1385,6 +1358,9 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="00.KIL-MÜZİK", 25.Xite
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-MÜZİK", 25.XITE HD
+http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kisskiss.it/wp-content/uploads/2021/02/logo_kisskiss-1024x771.png.webp" group-title="00.KIL-MÜZİK", 26.kiss kiss
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist_w1934789365.m3u8
 
@@ -1403,7 +1379,7 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a22e908b9ea3f6316c95eff053e0ac6.webp" group-title="00.KIL-MÜZİK", 27.4 fun tv
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="00.KIL-MÜZİK", 27.Óčko Expres
+#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="00.KIL-MÜZİK", 27.Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="00.KIL-MÜZİK", 28.Deluxe Music
@@ -1460,7 +1436,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="00.KIL-MÜZİK", 33.Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4de469aba222436d95cdeb20f6e3d5bd.webp" group-title="00.KIL-MÜZİK", 34.Ocko
+#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4de469aba222436d95cdeb20f6e3d5bd.webp" group-title="00.KIL-MÜZİK", 34.Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/30cbd253a49803e01f43373bd0824c18.webp" group-title="00.KIL-MÜZİK", 34.Ocko Gold
@@ -1496,7 +1472,7 @@ https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="00.KIL-MÜZİK", 37.Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="00.KIL-MÜZİK", 38.KroneHit
+#EXTINF:-1 tvg-id="http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="00.KIL-MÜZİK", 38.KroneHit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="00.KIL-MÜZİK", 38.Kronehit
@@ -1616,7 +1592,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="00.KIL-MÜZİK", 48.balle balle müzik
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bx-tv.com/wp-content/uploads/2023/12/mn-music.jpg" group-title="00.KIL-MÜZİK", 48.MN TV Music Tamil
+#EXTINF:-1 tvg-id="http://mntv.livebox.co.in/musichls/live.m3u8" tvg-logo="https://bx-tv.com/wp-content/uploads/2023/12/mn-music.jpg" group-title="00.KIL-MÜZİK", 48.MN TV Music Tamil
 https://mntv.livebox.co.in/musichls/live.m3u8
 
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="00.KIL-MÜZİK", 48.Vaanavil TV
@@ -2516,6 +2492,9 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg" group-title="03.KIL-BELGESEL", wildside
 http://versatile-wildsidetv-1-fr.samsung.wurl.tv/subtitles.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://zoostreamtv.com/wp-content/uploads/2023/10/cropped-5.png" group-title="03.KIL-BELGESEL", ZOO Stream
+http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://birakmamseniturkiyem.org/images/logo-bjk-120.png" group-title="05.KIL-SPOR KARIŞIK", 01.Beşiktaş
 https://s01.vpis.io/besiktas/besiktas.m3u8
 
@@ -2582,7 +2561,7 @@ https://edge02.odtv.az/o7/idman/playlist.m3u8
 #EXTINF:-1 tvg-id="http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/79a006c725e9acfef6f097f790ecc0b2.webp" group-title="05.KIL-SPOR KARIŞIK", 05.Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="05.KIL-SPOR KARIŞIK", 05.Türkmenistan Sport
+#EXTINF:-1 tvg-id="http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="05.KIL-SPOR KARIŞIK", 05.Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Viasat_Sport_HD.jpg" group-title="05.KIL-SPOR KARIŞIK", 05.Viasatsport
@@ -2630,7 +2609,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="05.KIL-SPOR KARIŞIK", 10.Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="05.KIL-SPOR KARIŞIK", 10.FightBox
+#EXTINF:-1 tvg-id="http://iptv.prosto.tv:7000/ch118/video.m3u8" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="05.KIL-SPOR KARIŞIK", 10.FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 
 #EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="05.KIL-SPOR KARIŞIK", 10.Fite
