@@ -44,17 +44,23 @@ https://github.com/KILBERBER/kilberber/raw/main/bayrak.mp4
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 01.-➾SPOR WEB➾-
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 web
-https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+#EXTINF:-1 tvg-id="TR: beIN Sport 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 A
+http://cors.tundracast.com:2000/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/469
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 B
+http://cors.tundracast.com:2000/https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 C
+http://cors.tundracast.com:2000/https://cakal.click/yayinstar.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 2 web
-https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
+http://cors.tundracast.com:2000/https://odin.7545c95540dc.shop/2/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 02.beiN Sport 3 web
-https://odin.7545c95540dc.shop/3/chunk_hd.m3u8
+http://cors.tundracast.com:2000/https://odin.7545c95540dc.shop/3/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 02.beiN Sport Max 1 web
-https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
+http://cors.tundracast.com:2000/https://odin.7545c95540dc.shop/7/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-SPOR", 02.EUROSPORT 1 blutv
 https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
@@ -65,86 +71,35 @@ https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 03.⬇️SPOR İP TVLER⬇️
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 1.Bein Sports 1
-http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263058
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.Bein Sports 1 (low)
-http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100961.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.Bein Sports 1 HD+
-http://s1.czxbexchange.xyz:8080/live/152099191638481/152024397627367/100962.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.Bein Sports 1 HD+
-http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100962.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.Bein Sports Yedek 1
-http://s1.czxbexchange.xyz:8080/live/152099191638481/152024397627367/100972.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.Bein Sports Yedek 1
-http://s1.czxbexchange.xyz:8080/live/3914692158/65a94437464ea/100972.ts
-
 #EXTINF:-1 tvg-id="BEIN CONNECT AND TRANSCODED" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.BEIN CONNECT AND TRANSCODED
 http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/19377
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/52977.ts
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/52977.ts
-
 #EXTINF:-1 tvg-id="beIN Sport 1 [ 4K ] H.265" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ 4K ] H.265
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/245687.ts
-
-#EXTINF:-1 tvg-id="beIN Sport 1 [ 4K ] H.265" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ 4K ] H.265
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/245687.ts
 
 #EXTINF:-1 tvg-id="beIN Sport 1 [ Feed 4K ]" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ Feed 4K ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/230645.ts
 
-#EXTINF:-1 tvg-id="beIN Sport 1 [ Feed 4K ]" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ Feed 4K ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/230645.ts
-
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/52974.ts
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/52974.ts
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Hd [Europe ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/58659.ts
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Hd [Europe ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/58659.ts
-
 #EXTINF:-1 tvg-id="beIN Sport 1 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 Sd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/118246.ts
 
-#EXTINF:-1 tvg-id="beIN Sport 1 Sd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 Sd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/118246.ts
-
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Sd [ Mobile ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/7042.ts
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Sd [ Mobile ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/7042.ts
 
 #EXTINF:-1 tvg-id="TR: Bein Sport 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 1.beIN Sports 1
 http://tv.1230.pro:80/live:duygulu__68/xSucnh4vPA/486
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.BeIN SPORTS 1 4K HECV
 http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428029
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.BEIN SPORTS 1 4K UYDU
-http://103.161.34.2:8080/cPmDhJRSmStk/dhyVk8bHAuw2/428031
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 1.beIN Sports 1 [VIP]
-http://kulidiptvci.xyz:8080/smsttn9582/sm00xxy/263054
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 1 FHD (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.beIN SPORTS 1 FHD (MODUL)
-http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/17978
-
-#EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 1 FHD (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.beIN SPORTS 1 FHD (MODUL)
-http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/17978
 
 #EXTINF:-1 tvg-id="TR► BEIN SPORTS 1 FHD [ʟᴏᴄᴀʟ ᴛʀᴀɴsᴄᴏᴅᴇᴅ]" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.BEIN SPORTS 1 FHD [ʟᴏᴄᴀʟ ᴛʀᴀɴsᴄᴏᴅᴇᴅ]
 http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/19366
@@ -200,12 +155,6 @@ http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/19358
 #EXTINF:-1 tvg-id="TR⋮ beIN SPORTS 1 TICARI (MODUL)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.beIN SPORTS 1 TICARI (MODUL)
 http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/19358
 
-#EXTINF:-1 tvg-id="BEIN SPORTS MODUL AND TRANSCODED" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.BEIN SPORTS MODUL AND TRANSCODED
-http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/19359
-
-#EXTINF:-1 tvg-id="[TR] BEINSPORT 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SPOR", 1.BEINSPORT 1 HD
-http://dpteam.hopto.org:8080/live/b3eb18f514a246c9/4bcf4ca098fbf450/1252.m3u
-
 #EXTINF:-1 tvg-id="TR⋮ DIAMONDX SPORTS 1 4K 10MBIT [MAÇ ZAMANI]" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 1.DIAMONDX SPORTS 1 4K 10MBIT [MAÇ ZAMANI]
 http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/18009
 
@@ -230,17 +179,11 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/245545.ts
 #EXTINF:-1 tvg-id="Filbox Spor 2 Hd" tvg-logo="https://i.hizliresim.com/e2a7hs8.png" group-title="0.KIL-SPOR", 1.Filbox Spor 2 Hd
 http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/245545.ts
 
-#EXTINF:-1 tvg-id="[TR] LIG TV 2 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEIN 2 HD
-http://167.235.36.229:8080/play/hls/eyJpdiI6Im8rc09zY0NSa3hqdnRjTjRqd3V2YXc9PSIsInZhbHVlIjoiVjNMK0tBamRKalZsdEI5c3dGdkJOb24vYzhINWpZVVA0S0J4WVBUcFU2T0lSN3dmT2cvcnl5VmYrd2hHb2dNeWhKbFpLRnA5MFl2bTc3dWtrMVZBaVE9PSIsIm1hYyI6ImU1N2RjM2I2NzQ4YjQyYzM4ZDMwOWJiYTUxZDBlMDExYTA1N2E5N2VhNGVhMTA1ZmRiNDMwNmU0ZWMwOThlMjQiLCJ0YWciOiIifQ==/6d3fc2b5-5697-474f-800e-6a5354317fef.m3u8?lvtoken=eyJpdiI6ImdWN01sNWNvTnRnVUhZUCtYclZmeUE9PSIsInZhbHVlIjoiUkNtVmxCNEdGNzFJMWZBRmhVWm1nYnFEa1cwd0xGeCtGY2VkUFhLV2JhLzQrRDVIRWhJSEl2K1JNR1VtOXd2WlNTbTlnR01XdWRtd3B4cHg5UU9CTGhzSnFBT3hBYWhoY0NWb0t4a0g0ZHZEMnJlaGpLUFc4OWpuOTU5MXk1SGpyaWFMaUowem8yaWQ3RFJldDBIRXpjVXk3cGFGa3VjVmdnZTlqa1M3c3JISEs3OGxINDZEVlE0MGtycUZCMnBLUzNKdENqRlVWZ0xpQmgvNURQN2haQT09IiwibWFjIjoiMGJmOGI3N2MwZjJiZDI5MDU4MDEzY2U0MTA3MjAxZWE2MTgzZmNkNDg3ZWM1NmRkNDQ5NTAzYjcxMDVmNzZlYyIsInRhZyI6IiJ9&r=06105f&rt=1afa2b04ec02ac06926745979caaacf9
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN CONNECT 1
 http://ahmet.ddns.me:8000/hkn15045/4temmuz.2023/68403
 
 #EXTINF:-1 tvg-id="beIN Connect 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 1 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122770.ts
-
-#EXTINF:-1 tvg-id="beIN Connect 1 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 1 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122770.ts
 
 #EXTINF:-1 tvg-id="TR► BEIN CONNECT 1 HD [ʀᴀᴡ]" tvg-logo="noimage.png" group-title="0.KIL-SPOR", BEIN CONNECT 1 HD [ʀᴀᴡ]
 http://xoxoxo.pro:8080/ahmet@de/DN8dMdfmwY5D/19378
@@ -251,92 +194,50 @@ http://xoxoxo.pro:8080/b@ristube/6LhueFNF6XSq/19378
 #EXTINF:-1 tvg-id="beIN Connect 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122771.ts
 
-#EXTINF:-1 tvg-id="beIN Connect 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 2 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122771.ts
-
 #EXTINF:-1 tvg-id="beIN Connect 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 3 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122772.ts
-
-#EXTINF:-1 tvg-id="beIN Connect 3 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 3 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122772.ts
 
 #EXTINF:-1 tvg-id="beIN Connect 4 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 4 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122773.ts
 
-#EXTINF:-1 tvg-id="beIN Connect 4 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 4 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122773.ts
-
 #EXTINF:-1 tvg-id="beIN Connect 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 5 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122774.ts
-
-#EXTINF:-1 tvg-id="beIN Connect 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 5 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/122774.ts
 
 #EXTINF:-1 tvg-id="BeIN Sport 2 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244703.ts
 
-#EXTINF:-1 tvg-id="BeIN Sport 2 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244703.ts
+#EXTINF:-1 tvg-id="[TR] LIG TV 2 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BeIN Sport 2 Hd
+http://167.235.36.229:8080/play/hls/eyJpdiI6Im8rc09zY0NSa3hqdnRjTjRqd3V2YXc9PSIsInZhbHVlIjoiVjNMK0tBamRKalZsdEI5c3dGdkJOb24vYzhINWpZVVA0S0J4WVBUcFU2T0lSN3dmT2cvcnl5VmYrd2hHb2dNeWhKbFpLRnA5MFl2bTc3dWtrMVZBaVE9PSIsIm1hYyI6ImU1N2RjM2I2NzQ4YjQyYzM4ZDMwOWJiYTUxZDBlMDExYTA1N2E5N2VhNGVhMTA1ZmRiNDMwNmU0ZWMwOThlMjQiLCJ0YWciOiIifQ==/6d3fc2b5-5697-474f-800e-6a5354317fef.m3u8?lvtoken=eyJpdiI6ImdWN01sNWNvTnRnVUhZUCtYclZmeUE9PSIsInZhbHVlIjoiUkNtVmxCNEdGNzFJMWZBRmhVWm1nYnFEa1cwd0xGeCtGY2VkUFhLV2JhLzQrRDVIRWhJSEl2K1JNR1VtOXd2WlNTbTlnR01XdWRtd3B4cHg5UU9CTGhzSnFBT3hBYWhoY0NWb0t4a0g0ZHZEMnJlaGpLUFc4OWpuOTU5MXk1SGpyaWFMaUowem8yaWQ3RFJldDBIRXpjVXk3cGFGa3VjVmdnZTlqa1M3c3JISEs3OGxINDZEVlE0MGtycUZCMnBLUzNKdENqRlVWZ0xpQmgvNURQN2haQT09IiwibWFjIjoiMGJmOGI3N2MwZjJiZDI5MDU4MDEzY2U0MTA3MjAxZWE2MTgzZmNkNDg3ZWM1NmRkNDQ5NTAzYjcxMDVmNzZlYyIsInRhZyI6IiJ9&r=06105f&rt=1afa2b04ec02ac06926745979caaacf9
 
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/52980.ts
 
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/52980.ts
-
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 Hd [Europe ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/8302.ts
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 Hd [Europe ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/8302.ts
 
 #EXTINF:-1 tvg-id="BeIN Sport 3 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244704.ts
 
-#EXTINF:-1 tvg-id="BeIN Sport 3 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244704.ts
-
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/52981.ts
-
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/52981.ts
 
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 Hd [Europe ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/8301.ts
 
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-3.png" group-title="0.KIL-SPOR", BeIN Sport 3 Hd [Europe ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/8301.ts
-
 #EXTINF:-1 tvg-id="BeIN Sport 4 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 4 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244705.ts
-
-#EXTINF:-1 tvg-id="BeIN Sport 4 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 4 [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244705.ts
 
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 4 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/1492.ts
 
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 4 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/1492.ts
-
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", beIN Sport 4 Hd [Europe ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/19629.ts
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", beIN Sport 4 Hd [Europe ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/19629.ts
 
 #EXTINF:-1 tvg-id="BeIN Sport 5 [ 1080p ]" tvg-logo="https://i.hizliresim.com/nflrrx7.png" group-title="0.KIL-SPOR", BeIN Sport 5 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244706.ts
 
-#EXTINF:-1 tvg-id="BeIN Sport 5 [ 1080p ]" tvg-logo="https://i.hizliresim.com/nflrrx7.png" group-title="0.KIL-SPOR", BeIN Sport 5 [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244706.ts
-
 #EXTINF:-1 tvg-id="BeIN Sport 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 5 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/194676.ts
-
-#EXTINF:-1 tvg-id="BeIN Sport 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-4.png" group-title="0.KIL-SPOR", BeIN Sport 5 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/194676.ts
 
 #EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-1.png" group-title="0.KIL-SPOR", BeIN Sport Max 1 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/6977.ts
@@ -347,26 +248,11 @@ http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/6977.ts
 #EXTINF:-1 tvg-id="beIN Sport Max 1 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-1.png" group-title="0.KIL-SPOR", beIN Sport Max 1 Hd [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244764.ts
 
-#EXTINF:-1 tvg-id="beIN Sport Max 1 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-1.png" group-title="0.KIL-SPOR", beIN Sport Max 1 Hd [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244764.ts
-
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/6978.ts
 
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/6978.ts
-
 #EXTINF:-1 tvg-id="beIN Sport Max 2 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244765.ts
-
-#EXTINF:-1 tvg-id="beIN Sport Max 2 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd [ 1080p ]
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/244765.ts
-
-#EXTINF:-1 tvg-id="[TR] BEINSPORT 2 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEINSPORT 2 HD
-http://dpteam.hopto.org:8080/live/b3eb18f514a246c9/4bcf4ca098fbf450/1277.m3u
-
-#EXTINF:-1 tvg-id="[TR] BEINSPORT 4 HD" tvg-logo="/noicon.png" group-title="0.KIL-SPOR", BEINSPORT 4 HD
-http://dpteam.hopto.org:8080/live/b3eb18f514a246c9/4bcf4ca098fbf450/1098.m3u
 
 #EXTINF:-1 tvg-id="D Smart Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Smart-spor-2.png" group-title="0.KIL-SPOR", D Smart Spor 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/100140.ts
@@ -1941,9 +1827,6 @@ http://sekesanbr.bio:8080/series/ayhanbekdemir/kzEWQ6CKeJVU/387749.mkv
 http://sekesanbr.bio:8080/series/ayhanbekdemir/kzEWQ6CKeJVU/388310.mkv
 
 #EXTINF:-1 tvg-id="Mahsun J (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w154/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="00.KIL-TRENT DİZİ", Mahsun J S01 E06
-http://turkiye741rs.xyz:80/series/sabri.ozcelik/S9YH.epCjm/249857.mp4
-
-#EXTINF:-1 tvg-id="Mahsun J (2024) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w154/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="00.KIL-TRENT DİZİ", Mahsun J S01 E06
 http://ragnarlive.live:80/series/Talha24@tf/BsKx5Xhncd/249857.mp4
 
 #EXTINF:-1 tvg-id="Mahsun J S01 Mahsun J - S01E06 -" tvg-logo="https://image.tmdb.org/t/p/w154/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="00.KIL-TRENT DİZİ", Mahsun J S01 E06
@@ -2509,9 +2392,6 @@ http://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist_1280x72
 
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="03.KIL-BELGESEL", Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/0/5/4/1348054_thiswildsidetv_logo_925227.jpg" group-title="03.KIL-BELGESEL", wildside
-http://versatile-wildsidetv-1-fr.samsung.wurl.tv/subtitles.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://zoostreamtv.com/wp-content/uploads/2023/10/cropped-5.png" group-title="03.KIL-BELGESEL", ZOO Stream
 http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
@@ -3421,12 +3301,6 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/237173.ts
 
 #EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", Big Brother 2
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/237174.ts
-
-#EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", Big Brother Alb 1
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237173.ts
-
-#EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", Big Brother Alb 2
-http://turkiye741rs.xyz:80/live/sabri.ozcelik/S9YH.epCjm/237174.ts
 
 #EXTINF:-1 tvg-id="ALB| BIG BROTHER ALBANIA 1 ᶠʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/Big_Brother_Albania_9_Logo.jpg" group-title="11.KIL :)", BIG BROTHER ALB
 http://141.94.141.66:8080/play/hls/eyJpdiI6IjA4K2hRaS9zNjMwczBDYW4vOFkvY3c9PSIsInZhbHVlIjoiMXRUU2ZBbUxhMlErNFQ0UTVFYlpwVXFxZEhKa1JJU3F1bUhnRU9MY0YvZWl0Tm1odHBQeWs5VXNoRm9GWUVQSHdPY0lya2pSYzVTZ1AvSmlqMXlyL2c9PSIsIm1hYyI6ImE4ZWU2NzA1YjJjOGM0Y2RmZmRhNWI4NmE3YjBlOWViNTM5MDliOTM3ZTZiMzljN2YyNTU3MGNlZWQ3ZDhiZGMiLCJ0YWciOiIifQ==/c2697668-7021-41d2-9d10-33b93837f972.m3u8?lvtoken=eyJpdiI6Im9ld3RrR3Vqd3BmU1ZWOHJidzdwMEE9PSIsInZhbHVlIjoieXZVLzJ6YUMyMGVNYVdHREs2NE1XUzFJLzNRanpWWnZ2akk3WkJ3SGxGTmhxTWwxZnQyMzM1TUxPN1NwTEpyNUtjckNDQS94VjZhNExRYzVtZVRiMVFIZEo1NXdPU1ZXbFNPMVRzNEw5cXZhcDNNYW5hL2tzM1U5aGtZL2g0WWdadC9kZXRTQS93bHNrL2ZiKzFUeFlvUmQvZCtuUzU5NmdIa1VQNUlJOTJoN2p3TjkySUFwZ3Vra29yaE1tYktLQldoUm53RXJlTHdoNnVjVm9DYXlzdz09IiwibWFjIjoiYWQ1NjAzOTU3MzMxNjQ1MDU3MjUyMDIzMTcwNTk1ODkyMjkwMTNlMDQ4MzFiYmVlNTlkZGQyNjllNmYzZmY0MCIsInRhZyI6IiJ9&r=63cc6f&rt=7de25cbc2c3dd7c14569949231fc5c78
