@@ -53,9 +53,6 @@ http://cors.tundracast.com:2000/http://server.sibfungold.info:8080/Mooniptv2021/
 #EXTINF:-1 tvg-id="TR: beIN Sport 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 A
 http://cors.tundracast.com:2000/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/469
 
-#EXTINF:-1 tvg-id="LIG TV 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv1tr.gif" group-title="0.KIL-SPOR", 02.beiN Sport 1 B
-http://172.104.235.228:80/zanoviPane2024/zanoviPanel2024/39895
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR", 02.beiN Sport 1 inat
 http://cors.tundracast.com:2000/https://cakal.click/yayininat.m3u8
 
@@ -143,12 +140,6 @@ http://cors.tundracast.com:2000/https://cakal.click/yayint4.m3u8
 #EXTINF:-1 tvg-id="///ADONIS CINEMA TV///" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="0.KIL-SPOR", 03.⬇️SPOR İP TVLER⬇️
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
 
-#EXTINF:-1 tvg-id="beIN Sport 1 [ 4K ] H.265" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ 4K ] H.265
-http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/245687.ts
-
-#EXTINF:-1 tvg-id="beIN Sport 1 [ Feed 4K ]" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", 1.beIN Sport 1 [ Feed 4K ]
-http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/230645.ts
-
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-1.png" group-title="0.KIL-SPOR", 1.BeIN Sport 1 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/52974.ts
 
@@ -215,6 +206,12 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122773.ts
 #EXTINF:-1 tvg-id="beIN Connect 5 Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-connect.png" group-title="0.KIL-SPOR", beIN Connect 5 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/122774.ts
 
+#EXTINF:-1 tvg-id="beIN Sport 1 [ 4K ] H.265" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", beIN Sport 1 [ 4K ] H.265
+http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/245687.ts
+
+#EXTINF:-1 tvg-id="beIN Sport 1 [ Feed 4K ]" tvg-logo="https://i.hizliresim.com/nmese7t.png" group-title="0.KIL-SPOR", beIN Sport 1 [ Feed 4K ]
+http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/230645.ts
+
 #EXTINF:-1 tvg-id="BeIN Sport 2 [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-hd-2.png" group-title="0.KIL-SPOR", BeIN Sport 2 [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244703.ts
 
@@ -265,6 +262,12 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/6978.ts
 
 #EXTINF:-1 tvg-id="beIN Sport Max 2 Hd [ 1080p ]" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-max-2.png" group-title="0.KIL-SPOR", beIN Sport Max 2 Hd [ 1080p ]
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/244765.ts
+
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="http://xplatinmedia.com:8080/images/17ed9927fe89afed7d392af9dfb6019a.png" group-title="0.KIL-SPOR", beIN Sports 1ⓧ FHD
+http://cors.tundracast.com:2000/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/534
+
+#EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="http://xplatinmedia.com:8080/images/17ed9927fe89afed7d392af9dfb6019a.png" group-title="0.KIL-SPOR", beIN Sports 1ⓧ HD
+http://cors.tundracast.com:2000/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/535
 
 #EXTINF:-1 tvg-id="D Smart Spor 2 Hd" tvg-logo="https://kanallogo2.com/images/spor/Smart-spor-2.png" group-title="0.KIL-SPOR", D Smart Spor 2 Hd
 http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/100140.ts
@@ -3802,4 +3805,3 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7556.mkv
 
 #EXTINF:-1 tvg-id="Western-3 Godfathers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/3_Godfathers_1948_poster.jpg" group-title="WESTERN", Çöl Yavrusu
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7533.mkv
-
