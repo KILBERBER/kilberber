@@ -131,9 +131,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 tvg-id="[FR] TRACE AFRICA" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-africa-1.png" group-title="0.KIL-MÜZİK", 20.TRACE AFRICA
-http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/121802
-
 #EXTINF:-1 tvg-id="MUSIC: TRACE AFRICA" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-africa-1.png" group-title="0.KIL-MÜZİK", 20.TRACE AFRICA
 https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/48790
 
@@ -144,13 +141,13 @@ https://anywhere.pwisetthon.com/http://server.sibfungold.info:8080/Tugatv/lac5SU
 https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/48791
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="0.KIL-MÜZİK", 20.Trace Brasil
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/c7de9aba-bb4a-467e-88ae-8949fd3ea72e/3.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="[FR] TRACE TROPICAL" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2020/07/TRACE-CARIBBEAN.png" group-title="0.KIL-MÜZİK", 20.TRACE CARIBBEAN
-http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/84269
+https://hs-cors.herokuapp.com/http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/84269
 
 #EXTINF:-1 tvg-id="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/b75029d3-b325-4190-8345-cabcb22a8495/3.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC: TRACE Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.TRACE Latina
 https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/52093
@@ -673,6 +670,42 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/LofiRadio.m3u
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="0.KIL-RELAX", 06.Chill TV
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/logo_20231219_221151_68.png" group-title="0.KIL-RELAX", 07.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/logo_20231219_220128_53.png" group-title="0.KIL-RELAX", 08.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/logo_20240104_210854_68.png" group-title="0.KIL-RELAX", 09.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/logo_20231219_201710_68.png" group-title="0.KIL-RELAX", 10.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/logo_20231219_221332_68.png" group-title="0.KIL-RELAX", 11.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/logo_20231219_221355_68.png" group-title="0.KIL-RELAX", 12.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/logo_20231219_222717_68.png" group-title="0.KIL-RELAX", 13.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/logo_20231219_223555_68.png" group-title="0.KIL-RELAX", 14.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/logo_20231219_201641_68.png" group-title="0.KIL-RELAX", 15.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/logo_20231219_214316_68.png" group-title="0.KIL-RELAX", 16.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/logo_20231219_184344_68.png" group-title="0.KIL-RELAX", 17.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/logo_20231219_222130_68.png" group-title="0.KIL-RELAX", 18.Relax
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
@@ -2276,6 +2309,9 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.Show C
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 02.SHOW HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=233&extension=m3u8
+
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="0.KIL-ULUSAL", 02.SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
@@ -2287,9 +2323,6 @@ https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 02.SHOW TURK HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=209141&extension=m3u8
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 02.SHOW TV HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=233&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 A
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
@@ -5999,7 +6032,7 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", ESLCS
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/Cv4E-5_SSG-s1R5KGizZWuJxSg2pwc59a2wZRrfxQvDjS-_taAfly6vJqCBbmzu3kiwhPGc67XS5YXYajuk01CgUSK5Mfu3XHDab9qiPVE0BdkNV_MfR61tsgue4TwsAoR9_de0ek0EYv_BvwfA-SLxVx0wLsjH7mkgpZ3CQOd_9RuHJfo5k7DoByRCafIevdDlfdlR_xbo56LySclHyaCOqo8WuMseXWJEeAZPCMt1fmjOZIK4SY81ELc3bdA1y85d-zO_yLptNbN30UpEW2oS-VVrIaeGpSHa-0izR8sPBrXHYnOBWQE1dSsBFFOj5JiDnZwtUmzgFi9R_Akc96XeWK-JIdBBqnI6664s1K0QsQ-t6_SR0nRsOgM3jvmkGoCOljXrQGXK2RNddP4btS9gemYjp8XYA-SZmjXmr0Yo1z_yYO8jt_DX3779lBGTGn-NGnlcNUWFmO37E4GiLYsQuGumJIwlflI22d8b6ALtbjFd4TVHdsxQIbdOGO8xEhoNl6JtpFczMNDjnr4H1WDoghPdg3DG22zdQHwPtUOj8RLEPwqxECo4tKqrxae3wH1vlOAa9R35AN4_jHNSPc2iU1_R6JkWg779-nxTgDLNqtZWUQYVqegU0Owg7cKmM2isPhDagnNAcchzEqr15D19fEZ-tSdlVKmvJ1P9QP5h9AR_xGJIwuXDNIEl10aCv2iK5yWdAIldQTFIlaZ93hxaa-EW_6cOdPhG13lnl7U8uq1qRIOTZE-btL6u86yWn7Jz4bbrgCLDJ0uqH8FubIPQLO0bSSpkfvpaFm5_80TdinxHUHx3iIPJloKAPAOEIoQFiMzHhGOtGuxKCXBzeQbwaDC5ekaCJay8KMcUpwSABKglldS13ZXN0LTIw4Qg.m3u8
 
-#EXTINF:-1 tvg-id="SE | eSports Oneⓧ" tvg-logo="http://xplatinmedia.com:8080/images/410f07bc6ab6d8a3c325ed9f7d87c939.png" group-title="07.E SPOR ONLİNE TViCH", eSports One
+#EXTINF:-1 tvg-id="SE | eSports Oneⓧ" tvg-logo="http://xplatinmedia.com:8080/images/410f07bc6ab6d8a3c325ed9f7d87c939.png" group-title="07.E SPOR ONLİNE TViCH", eSports 1
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10357
 
 #EXTINF:-1 tvg-id="40Plus.uk" tvg-logo="http://xplatinmedia.com:8080/images/02d65f67807107614548db7407456ac7.png" group-title="07.E SPOR ONLİNE TViCH", Ginx eSports
