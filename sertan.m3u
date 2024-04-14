@@ -4685,6 +4685,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="00.KIL-SPOR KARIŞIK", FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="00.KIL-SPOR KARIŞIK", Game+
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="00.KIL-SPOR KARIŞIK", inter TV
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 
@@ -5798,6 +5801,9 @@ http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 7.yaban cam
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/tjk-pinarbeyli3.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="04.KIL-Kamera", 8.KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Anadolu Hisarı
 https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w792953491.m3u8
 
@@ -6284,10 +6290,10 @@ http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/237174.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/logo_20240129_193906_68.png" group-title="11.KIL :)", Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 tvg-id="http://tpbcors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51908" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="11.KIL :)", MasterChef Brezilya
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51906
+#EXTINF:-1 tvg-id="https://lnc-estrella-games.tubi.video/playlist.m3u8" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="11.KIL :)", Estrella Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://tpbcors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51908" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="11.KIL :)", MasterChef Brezilya
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="11.KIL :)", MasterChef Brezilya
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51906
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="11.KIL :)", MasterChef Brezilya
@@ -6298,6 +6304,9 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/440px-Game_Show_Network_2018.svg.png" group-title="11.KIL :)", usa game show
 http://lnc-game-show-central.tubi.video/1200.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="11.KIL :)", Usa Game Show Network East
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 1 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52204
