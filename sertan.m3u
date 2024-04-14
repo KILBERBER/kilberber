@@ -497,6 +497,9 @@ https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="0.KIL-MÜZİK", Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", AFN MUSIC IRAN
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="0.KIL-MÜZİK", Afrobeat TV Entertainment
 https://stream.ecable.tv/afrobeats/index.m3u8
 
@@ -505,6 +508,9 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="0.KIL-MÜZİK", Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", BackusTV music
+http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1 tvg-id="BackusTVMusic.ru" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", BackusTV music
 http://stream.backustv.ru/live/btv3/index.m3u8
@@ -521,11 +527,20 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="CantinaTV.ve" tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="0.KIL-MÜZİK", Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", CMC (California Music Channel)
+https://cmc-ono.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HitsChannel.co" tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="0.KIL-MÜZİK", CNC Pasto Hits Channel (1024p) [Geo-blocked]
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="0.KIL-MÜZİK", Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="0.KIL-MÜZİK", Farra Play
 http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
 
 #EXTINF:-1 tvg-id="FolkloritTV.al" tvg-logo="https://i.imgur.com/wayxz5S.jpg" group-title="0.KIL-MÜZİK", Folklorit TV
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
@@ -566,6 +581,9 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="0.KIL-MÜZİK", NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
 #EXTINF:-1 tvg-id="Panavision.ve" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="0.KIL-MÜZİK", Panavisión
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
@@ -575,11 +593,17 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="0.KIL-MÜZİK", Panorama
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="0.KIL-MÜZİK", Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="0.KIL-MÜZİK", Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="0.KIL-MÜZİK", POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 
 #EXTINF:-1 tvg-id="QwestTV.fr" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="0.KIL-MÜZİK", QwestTV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -616,6 +640,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="0.KIL-MÜZİK", Tropical Moon Urban
 https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
