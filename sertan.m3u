@@ -4547,6 +4547,9 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 tvg-id="Fite.us" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="00.KIL-SPOR KARIŞIK", 10.Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="00.KIL-SPOR KARIŞIK", 10.FiTE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
+
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="00.KIL-SPOR KARIŞIK", 10.Fubo Sports Network
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
@@ -4595,6 +4598,9 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/court-sports-network/logo_20231219_192657_70.png" group-title="00.KIL-SPOR KARIŞIK", 11.Court Sports Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="00.KIL-SPOR KARIŞIK", 11.Game+
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OneGolf.pk" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="00.KIL-SPOR KARIŞIK", 11.One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
@@ -4604,8 +4610,53 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23024/lifefit-by-triptic/logo_20231219_215130_63.png" group-title="00.KIL-SPOR KARIŞIK", 12.LifeFit by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", A21 Network:Russian Motorsport Television
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", 13.A21 Network:Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Canal_Motor.jpg" group-title="00.KIL-SPOR KARIŞIK", 13.Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/logo_20231219_190148_64.png" group-title="00.KIL-SPOR KARIŞIK", 13.ChopperTown
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/choppertown/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="00.KIL-SPOR KARIŞIK", 13.FloRacing 24/7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/floracing-247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="00.KIL-SPOR KARIŞIK", 13.FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", 13.MAVTV Motor Sports UK
+https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20231219_215927_68.png" group-title="00.KIL-SPOR KARIŞIK", 13.MotoAmerica
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20231219_215927_68.png" group-title="00.KIL-SPOR KARIŞIK", 13.MotoAmerica TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png" group-title="00.KIL-SPOR KARIŞIK", 13.MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mtrspt1.com/en/dominios/mtrspt.pagegear.co/plantillas/pagegear/recursos/logo-mtrspt.png" group-title="00.KIL-SPOR KARIŞIK", 13.mtrspt 1
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb543e1f796c648d99d43d65d5ef43a0f9b753fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d594366d519d56c63928a27f141316c7728dfdbab6ba8d95255e7bf5a7851ea3e0154fd090bd323433af2c12e25a971f5750c18ed4949533186b240bd050a87df57de602889adc361277b5a56964359e6b023fcadb80110c80ff0e74d0acc3040e4855ccad20eaf86dc599c428722f909949bf88ece1183d3c47ea152b16d445e277ec0d128c0cb5eeed8c9337df61e29420d1be7b383c1583994544a53f68dbad50ac02cefb915be56128933b160aa0fb531e263cae04ab3e3bfda54483aa1e0755555d78fd5b5c4191a904fcf9dc8f94c48abd737536ee74ae71d7143fa97de07bbd3079fa02286ad1b7052abae7ab2ae8da0cc80ac75a37fb2ad9d99395100660a14b954d0f107b216e27da6d85d2863721ed2f03bc582ca10257170969257c21218a0a9e6e9b43104e3532479cb50f8643a36b45e057de13eb78d35689d2e78ee5f54c46702a966c89013cafd998f683ab1cd8957ec6afd8a0bd5f30cbd1f4c336c8ccd196c607e42f1c943230446fc1f9db9ade0731a4ee0f6d98cae395438063b7338a2d6d254beb1ff73627ca65222733a111e9276a203ad3f76210aff3be1982047ac280612cf8300620016fca2b0859498c241bc78dbdb8f554551665c95162c0146e789b203a552337f7e4ece0b6155b4045f61e59bc7e09a9467c19250b32867661faf8a287e2d77454a29beaf4bf870ccb63e8db2e572f3dbb42260ba03f9747afad7d87cea9fecad2430af83642640b3e315fa4c778f7da42a8cc13edcb5430f1f39694cf69744fa2dcdb5e8f814be099b66205bd5519fa3d78ae64369d8cb0f595c0851043153663c2fb9ced0630f69f5ce558c2dd9d47499726b101e73fba52f6cbfd74846e45f1061a1b38598b9d80611c77aed65cc1265cc330127f7c96295e9def2fe94215005cfbfa84992a5faeea6bbf5195a2e5a19b8e4607c53e719aafa6d89ac196fa1998ae9d41cfd1f8a0a84b49702ca039f91c264c49199edb57502505e5bf9b387907ae4832b758b44f978033cb0afdbcb3f80b0d4067cf913ec8a0969dc511430f694d72be60c91d20c0ec2b85603a41e58c0e4ec6815db28ae36370f92a7e03f61b0a963924988dbe41b439e0d0bf64b2c0ec611c5b88c5d40d3992c3563c13438d60feea1d8584a3cab9c701a3f7f677f60ee7f5922f2707f9a25e89988d669249d4f98013bcd0bc5b26898812dcddbe1cc8cd00b5182c53329a8738d6cb827dd9788fd37d6220bc557ae3d4789e0ffd1fdc2f385f6e0210060fc239a0ddb389ecba8e3186c6145e1281e6517d830e2343609e9ae3ecba35e2281dbf237da1651376c7e5cf02699b93a77711ab9c342a2871408076d34fb8d02b205bd460ea9567cb868037875386d6587a1e438fb16e32dc89e3101e196f9a522f7be4db3f6edd985603bfd75027e7aa688bd80ba315d376af8eb575cb3a903810567322e9ba8cd2d59e3f654e87c3fef0edf9d708e194c61073412dc40a856983fe34d1db55335613f1fafde494e5eac259bc6610bc137834951c644be6038bd790f454cdc0a618d4426104edc85a381da00044feb20cf47663cae93c48ab32c5c1f0d5a39820812fabd6d29ca042549a5486ce79aace0da8d941b3678b76ab4dbe3ec292b9189bb909c55db61d4939bd2f7d68f8c7d642dc3056e856cd20015e1f77b9f7f95d9cdd87a3883b610dd646156e5384436c0972861490e17e0e49665d466a476d2d283a9903c9691a73b15568c9fda74f24c8e45463566c9338ac91e33e2b4a356bd5f6ac087f59dfcda088a86e5479f9b2f45ebde805a81c0af0ed00d6e25795c3f49855c90712d92798f21c5624e11408f5ec06f5b28faeabd19b0b1127c6c3f30d65b887d3f38de3418467c35db735a207bdae8cbaec10499b32d/76/1920x1080_5701132/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20231219_220108_68.png" group-title="00.KIL-SPOR KARIŞIK", 13.MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="00.KIL-SPOR KARIŞIK", 13.Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="00.KIL-SPOR KARIŞIK", 13.Racing America
+https://lnc-racing-america.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PsdeNhE.png" group-title="00.KIL-SPOR KARIŞIK", 13.Sky Sport F1
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=523239&extension=ts&play_token=3uTYhOkq5G
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="00.KIL-SPOR KARIŞIK", 14.ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/749972439b688b417a9afdac09317cd6.webp" group-title="00.KIL-SPOR KARIŞIK", 14.Dubai Racing
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="00.KIL-SPOR KARIŞIK", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -4646,9 +4697,6 @@ http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111032&
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest" group-title="00.KIL-SPOR KARIŞIK", Astro Supersports 4
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111031&extension=ts&play_token=Pugwij228j
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="00.KIL-SPOR KARIŞIK", ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv" tvg-logo="https://i.imgur.com/MNw5cJH.jpg" group-title="00.KIL-SPOR KARIŞIK", Awapa Sports
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 
@@ -4663,15 +4711,6 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Canal_Motor.jpg" group-title="00.KIL-SPOR KARIŞIK", Canal Motor
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22848/choppertown/logo_20231219_190148_64.png" group-title="00.KIL-SPOR KARIŞIK", ChopperTown
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/choppertown/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/749972439b688b417a9afdac09317cd6.webp" group-title="00.KIL-SPOR KARIŞIK", Dubai Racing
-https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2e/Dubai_Sports_logo.png" group-title="00.KIL-SPOR KARIŞIK", Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
@@ -4700,20 +4739,8 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="00.KIL-SPOR KARIŞIK", EDGEsport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="00.KIL-SPOR KARIŞIK", FloRacing 24/7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/floracing-247/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="00.KIL-SPOR KARIŞIK", Fox Sports Mexico
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="00.KIL-SPOR KARIŞIK", FUEL TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="00.KIL-SPOR KARIŞIK", FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="00.KIL-SPOR KARIŞIK", Game+
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="00.KIL-SPOR KARIŞIK", inter TV
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
@@ -4745,29 +4772,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", MAVTV Motor Sports UK
-https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uN5Qb81.png" group-title="00.KIL-SPOR KARIŞIK", Milan TV
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691540&extension=ts&play_token=xEv5VCfF0e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hRNUo9n.png" group-title="00.KIL-SPOR KARIŞIK", More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20231219_215927_68.png" group-title="00.KIL-SPOR KARIŞIK", MotoAmerica
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/motoamerica-tv/logo_20231219_215927_68.png" group-title="00.KIL-SPOR KARIŞIK", MotoAmerica TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png" group-title="00.KIL-SPOR KARIŞIK", MotorRacing
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mtrspt1.com/en/dominios/mtrspt.pagegear.co/plantillas/pagegear/recursos/logo-mtrspt.png" group-title="00.KIL-SPOR KARIŞIK", mtrspt 1
-https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb543e1f796c648d99d43d65d5ef43a0f9b753fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d594366d519d56c63928a27f141316c7728dfdbab6ba8d95255e7bf5a7851ea3e0154fd090bd323433af2c12e25a971f5750c18ed4949533186b240bd050a87df57de602889adc361277b5a56964359e6b023fcadb80110c80ff0e74d0acc3040e4855ccad20eaf86dc599c428722f909949bf88ece1183d3c47ea152b16d445e277ec0d128c0cb5eeed8c9337df61e29420d1be7b383c1583994544a53f68dbad50ac02cefb915be56128933b160aa0fb531e263cae04ab3e3bfda54483aa1e0755555d78fd5b5c4191a904fcf9dc8f94c48abd737536ee74ae71d7143fa97de07bbd3079fa02286ad1b7052abae7ab2ae8da0cc80ac75a37fb2ad9d99395100660a14b954d0f107b216e27da6d85d2863721ed2f03bc582ca10257170969257c21218a0a9e6e9b43104e3532479cb50f8643a36b45e057de13eb78d35689d2e78ee5f54c46702a966c89013cafd998f683ab1cd8957ec6afd8a0bd5f30cbd1f4c336c8ccd196c607e42f1c943230446fc1f9db9ade0731a4ee0f6d98cae395438063b7338a2d6d254beb1ff73627ca65222733a111e9276a203ad3f76210aff3be1982047ac280612cf8300620016fca2b0859498c241bc78dbdb8f554551665c95162c0146e789b203a552337f7e4ece0b6155b4045f61e59bc7e09a9467c19250b32867661faf8a287e2d77454a29beaf4bf870ccb63e8db2e572f3dbb42260ba03f9747afad7d87cea9fecad2430af83642640b3e315fa4c778f7da42a8cc13edcb5430f1f39694cf69744fa2dcdb5e8f814be099b66205bd5519fa3d78ae64369d8cb0f595c0851043153663c2fb9ced0630f69f5ce558c2dd9d47499726b101e73fba52f6cbfd74846e45f1061a1b38598b9d80611c77aed65cc1265cc330127f7c96295e9def2fe94215005cfbfa84992a5faeea6bbf5195a2e5a19b8e4607c53e719aafa6d89ac196fa1998ae9d41cfd1f8a0a84b49702ca039f91c264c49199edb57502505e5bf9b387907ae4832b758b44f978033cb0afdbcb3f80b0d4067cf913ec8a0969dc511430f694d72be60c91d20c0ec2b85603a41e58c0e4ec6815db28ae36370f92a7e03f61b0a963924988dbe41b439e0d0bf64b2c0ec611c5b88c5d40d3992c3563c13438d60feea1d8584a3cab9c701a3f7f677f60ee7f5922f2707f9a25e89988d669249d4f98013bcd0bc5b26898812dcddbe1cc8cd00b5182c53329a8738d6cb827dd9788fd37d6220bc557ae3d4789e0ffd1fdc2f385f6e0210060fc239a0ddb389ecba8e3186c6145e1281e6517d830e2343609e9ae3ecba35e2281dbf237da1651376c7e5cf02699b93a77711ab9c342a2871408076d34fb8d02b205bd460ea9567cb868037875386d6587a1e438fb16e32dc89e3101e196f9a522f7be4db3f6edd985603bfd75027e7aa688bd80ba315d376af8eb575cb3a903810567322e9ba8cd2d59e3f654e87c3fef0edf9d708e194c61073412dc40a856983fe34d1db55335613f1fafde494e5eac259bc6610bc137834951c644be6038bd790f454cdc0a618d4426104edc85a381da00044feb20cf47663cae93c48ab32c5c1f0d5a39820812fabd6d29ca042549a5486ce79aace0da8d941b3678b76ab4dbe3ec292b9189bb909c55db61d4939bd2f7d68f8c7d642dc3056e856cd20015e1f77b9f7f95d9cdd87a3883b610dd646156e5384436c0972861490e17e0e49665d466a476d2d283a9903c9691a73b15568c9fda74f24c8e45463566c9338ac91e33e2b4a356bd5f6ac087f59dfcda088a86e5479f9b2f45ebde805a81c0af0ed00d6e25795c3f49855c90712d92798f21c5624e11408f5ec06f5b28faeabd19b0b1127c6c3f30d65b887d3f38de3418467c35db735a207bdae8cbaec10499b32d/76/1920x1080_5701132/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20231219_220108_68.png" group-title="00.KIL-SPOR KARIŞIK", MTRSPT1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="00.KIL-SPOR KARIŞIK", MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -4775,17 +4784,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="00.KIL-SPOR KARIŞIK", Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannelInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/300px-Outdoor_Channel_logo_2017.svg.png" group-title="00.KIL-SPOR KARIŞIK", Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-sport.png" group-title="00.KIL-SPOR KARIŞIK", Persiana Sports
 https://af.ayas.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="00.KIL-SPOR KARIŞIK", Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-
-#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" group-title="00.KIL-SPOR KARIŞIK", Racing America
-https://lnc-racing-america.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="00.KIL-SPOR KARIŞIK", Real Madrid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -4793,17 +4793,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="00.KIL-SPOR KARIŞIK", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/logo_20231219_221555_29.png" group-title="00.KIL-SPOR KARIŞIK", Right Now Tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="00.KIL-SPOR KARIŞIK", San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-SPOR KARIŞIK", Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PsdeNhE.png" group-title="00.KIL-SPOR KARIŞIK", Sky Sport F1
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=523239&extension=ts&play_token=3uTYhOkq5G
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Sony_Sports_Network.png/220px-Sony_Sports_Network.png" group-title="00.KIL-SPOR KARIŞIK", Sony Sports Ten 1
 http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=156017&extension=ts&play_token=1R0IiyGd6h
@@ -5156,7 +5150,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="01.KIL-BELGESEL", NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="01.KIL-BELGESEL", Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannelInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/300px-Outdoor_Channel_logo_2017.svg.png" group-title="01.KIL-BELGESEL", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" group-title="01.KIL-BELGESEL", Pluto TV Animals
@@ -5173,6 +5167,9 @@ http://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist_1280x72
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/real-life-tv/logo_20231219_221246_66.png" group-title="01.KIL-BELGESEL", Real Life TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/logo_20231219_221555_29.png" group-title="01.KIL-BELGESEL", Right Now Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24 HD
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
@@ -6348,7 +6345,7 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/92204
 
 #EXTINF:-1 tvg-id="3D Sinema Hd" tvg-logo="https://kanallogo2.com/images/sinema/3d-sinema.png" group-title="FiLM 3D", 0.3D Sinema Hd
-http://ragnarlive.live:80/live/ares1984/ares.2209/66116.ts
+https://hs-cors.herokuapp.com/http://ragnarlive.live:80/live/ares1984/ares.2209/66116.ts
 
 #EXTINF:-1 tvg-id="KILBERBER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEpjVyJ6TY60QoYbtDFumYA1Kf9.jpg" group-title="FiLM 3D", 3D.300-Bir.Imparatorlugun.Yukselisi-2014
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8012.mkv
