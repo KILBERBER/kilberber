@@ -767,6 +767,48 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20231219_221808_45.png" group-title="0.KIL-RELAX", 19.Relax
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5301&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=DistroTV&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__&hls_marker=1&pod_duration=&min_ad_duration=6&max_ad_duration=120&ads.islive=1&ads.streamtype=live
 
+#EXTINF:-1 tvg-id="BAYRAK" tvg-logo="noimage.png" group-title="0.KIL-RELAX", 20.Relax 1
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/357102
+
+#EXTINF:-1 tvg-id="Relax 1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/1.png" group-title="0.KIL-RELAX", 20.Relax 1
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/97694
+
+#EXTINF:-1 tvg-id="ALMAN BAYRAK" tvg-logo="noimage.png" group-title="0.KIL-RELAX", 20.Relax 2
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/357104
+
+#EXTINF:-1 tvg-id="Relax 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/2.png" group-title="0.KIL-RELAX", 20.Relax 2
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/97695
+
+#EXTINF:-1 tvg-id="Relax 11" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/12.png" group-title="0.KIL-RELAX", 20.Relax 3
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109794
+
+#EXTINF:-1 tvg-id="Relax 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/4.png" group-title="0.KIL-RELAX", 20.Relax 3
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/97697
+
+#EXTINF:-1 tvg-id="Relax 10" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/11.png" group-title="0.KIL-RELAX", 20.Relax 4
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109793
+
+#EXTINF:-1 tvg-id="Relax 12" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/13.png" group-title="0.KIL-RELAX", 20.Relax 4
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109795
+
+#EXTINF:-1 tvg-id="Relax 4" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/5.png" group-title="0.KIL-RELAX", 20.Relax 4
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/97698
+
+#EXTINF:-1 tvg-id="Relax 5" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/6.png" group-title="0.KIL-RELAX", 20.Relax 5
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/97699
+
+#EXTINF:-1 tvg-id="Relax 6" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/7.png" group-title="0.KIL-RELAX", 20.Relax 6
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/100882
+
+#EXTINF:-1 tvg-id="Relax 7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/8.png" group-title="0.KIL-RELAX", 20.Relax 7
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109790
+
+#EXTINF:-1 tvg-id="Relax 8" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/9.png" group-title="0.KIL-RELAX", 20.Relax 8
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109791
+
+#EXTINF:-1 tvg-id="Relax 9" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/10.png" group-title="0.KIL-RELAX", 20.Relax 9
+http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109792
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
 
@@ -806,6 +848,27 @@ http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="aspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=284&extension=m3u8
 
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (TTNET)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349721&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (SUPERONLINE)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349722&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4k
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=423479&extension=m3u8
 
@@ -833,17 +896,8 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=423478&e
 #EXTINF:-1 tvg-id="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4k
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423478&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4kᴰ
+#EXTINF:-1 tvg-id="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4k
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423478&extension=m3u8
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 01
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (TTNET)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349721&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (SUPERONLINE)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349722&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=190932&extension=m3u8
@@ -859,18 +913,6 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190932&e
 
 #EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190932&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | B.SPOR 1 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=190965&extension=m3u8
@@ -914,6 +956,21 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18663&ex
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18663&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57801&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=262&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57800&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=190970&extension=m3u8
 
@@ -941,6 +998,9 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190971&e
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190971&extension=m3u8
 
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
+http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18648&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=190971&extension=m3u8
 
@@ -955,24 +1015,6 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18648&ex
 
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18648&extension=m3u8
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
-http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18648&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=262&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57801&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2065&extension=m3u8
@@ -6068,8 +6110,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 tvg-id="SE | eSports Oneⓧ" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSports 1
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10357
 
-#EXTINF:-1 tvg-id="esports1.de" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSPORTS1 FHD
+#EXTINF:-1 tvg-id="esports1.de" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSPORTS 1 FHD
 http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/96747
+
+#EXTINF:-1 tvg-id="MagentaTV: eSPORTS1" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSPORTS1 douch
+http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356009
 
 #EXTINF:-1 tvg-id="Arena Esport" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", 1.Arena eSport
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93884
@@ -6077,11 +6122,11 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 #EXTINF:-1 tvg-id="SK Esports (SR)" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", 2.Sport Klub eSports
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/53446
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", 3.ESR eSports Network
+https://eyeonesports.com/ES2RA-628g.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", ESLCS
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqEFEBHW71JObauWjdkFAZ5sVtSSHalhyBEhunwysgXfj3JCeCnXSiQBRWpDl11bs-xz15oULGS1JPkPSKAus28flQfcZ241P93muO_F3fgBMBVQpwIaNsFCLqkB8ntE08-EmDwYvnLBzAMsbkKPM4HJVC9OFJ1sBIgB1_sETTizOYwXcOJv3u0OIjftskYyqDgLbUBnZyiHye9-LbUOyuBqHkolXcllyUDE8k5Meeq9eBUV5JlsbMEBsrtg0Tm7enHQn8uX0mcF6czUvxKOy7izoPoJcqsnLeQgqEdxLXqi-ixlolngqBxpdI7u2L8jD8o8hq2FcLBDBZrrIouRuU_ZHTOcqIozwN6OQgzpLxX9TggQQc24ShkExBNsOU4z6ICAtMop46E27rtCY-2vT4EGlgYdK7zt_Y7iWPf7Fb5vwUN4slOlC7KJzzh8hHItJu0UwdgbyUnomyMBWpezd0hLdmjP7hHOAxmJPe4szhEhGk4Fpi-Ggq_4aQ6wGV0OV82ecDJ90FviMTNyZfWaczHoQEZp9aDK2hB81iel8HDTfwkx9yIj_ro80nmq43zOAsjZzPTKFAU77wBjAlKTwcRBpGxfNN82l5u30BkKyb_G3Uxt7Hwt7x3RHzFJNB_3gQEbukbXaQKptyxu2ooxoo3K96g33OpIWKrwQf1nbKd3ySAVMcfOhbohFcdXANNcR7TyKirMqvzx1QiO22gLaWyMhVZieR02Qryg9v4kW3P2uKwmCJm2q9gMTiteVp1MMBL5prLTX-dFgXA8Ye1PzZ2iAisR9uAAApBhLgYfWvrVU7jH9Ei2r88VIv3NvUhF0IgaR2rtkYjf9A9A8QCIEwOZppJ8PHUzmIp9Jo5uVAoLFCttlE7Xr29VyXGe03E0Ljbn8hoMyyO8yWS9nEIvcWjkIAEqCWV1LXdlc3QtMjCWCQ.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", ESR eSports Network
-https://eyeonesports.com/ES2RA-628g.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/636/374/non_2x/valorant-logo-valorant-icon-transparent-free-png.png" group-title="07.E SPOR ONLİNE TViCH", LVPes2
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqkFljjka90_8tib1D1mWZG8uFMw3G1ebWXlqUH6R9Cqfv6CAF-A-OuS4VRMsMitpUcxckN0tDpbb1KhGIaCb69W4Fk38yZRJEuq4NlLnrHxFdwYXcKKBJ5MuMLgvkriNDQYXAp_I3-whJfGG_Nyzy_I88IYUclLeShgpk8VNKqvIFhKaXtnPu8c6gTCcJDe31prPtWJ95l-yGscTGpQN329ZNLnLNM2O5oQzr72iUXOfzBjVUshku2E6y7SwzVu-QXwKU_fVW1-hE18B3bectRbu2x5zO38IBLvCg2Kw51_9xFK9Ye0p0mSxFFiNQbrvAQEw_Poreefm98Rmynpf8pL1Q3sUshLVHuVb9nIINh0Ztnl9ncrZh7YkJ3mC0pQeYqE2gvXjfN59qil4tCh1LUuwgfykRP9dZYLM6ceudbF9svluhyIFih_2eZpiyonxw1SDdXYIPdcqTt-jIspgyHRN0RPWhKJfdkjLcwamgcT5BziZvwIihvQonpsKUaR5lUSZUsSQUZuJDubsSc_YKUKXnp6Ci28wZ4PBIWW9ytLu2z04JxTN8hcFK6VbSpYSFwhw5Y_jS_fNzjsnZKVRK3XGKjGLJcuQAPT-Sqgm0-MObR3Vh5pLh3zVe-He9A6Z7Dcsvg03ogwd4DbEbQTepBcpzHl2_ETVOxFml37_kJKp7HooRrTRUZEW-p5Q4jPWBZWo__um0vtZS4XQ-YH1VaiS5XIOyL2BL6e1YvHrYGgvsjO4a0lLD217nVSHokwFTWKLAU-vp6YMCyEhwRrLu8B0wkyX-Loj13Ty1z6SFSqPXJBOQw3VTlXLu9uORj2qbNgvv2Y0jq3MVfrDq7G2eZfMwjogeAURA1AL8omDH0R0LIihT9pw8Oa_0tecnlNGuHp3ow10QGbT0G_Ggx9zLG31fzcSqeKn6QgASoJZXUtd2VzdC0yMJYJ.m3u8
@@ -6306,13 +6351,19 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7318
 
 #EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", C.Big Brother 1 kosova
-http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/237173.ts
+http://42865490666769735.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769735.ts
 
 #EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", C.Big Brother 2 kosova
-http://ragnarlive.live:80/live/Talha24@tf/BsKx5Xhncd/237174.ts
+http://42865490666769736.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769736.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/logo_20240129_193906_68.png" group-title="11.KIL :)", Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="11.KIL :)", D.Big Brother Albania 1
+https://vsd236.mycdn.me/hls/6552838474382.m3u8/sig/PRnUp_BHQVU/expires/1713299813252/srcIp/188.3.203.52/urls/45.136.21.79/clientType/0/srcAg/CHROME_ANDROID/mid/8029297647246/6552838474382_high/index.m3u8?p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="11.KIL :)", D.Big Brother Albania 2
+https://vsd106.mycdn.me/hls/6552758389390.m3u8/sig/MeaO1Y-XkJ0/expires/1713293027219/srcIp/188.3.203.52/urls/45.136.22.55/clientType/0/srcAg/CHROME_ANDROID/mid/8028622036622/6552758389390_high/index.m3u8
 
 #EXTINF:-1 tvg-id="https://lnc-estrella-games.tubi.video/playlist.m3u8" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="11.KIL :)", Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
