@@ -98,9 +98,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonaMusicTV.cr" tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="0.KIL-MÜZİK", 18.Zona Music
 https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.K-IDS
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.KPop
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
@@ -113,13 +110,16 @@ http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png" group-title="0.KIL-MÜZİK", 19.Music Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="0.KIL-MÜZİK", 19.The k pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.New KPop
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The k pop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="0.KIL-MÜZİK", 19.The K Pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="0.KIL-MÜZİK", 19.The K Pop2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-id="MUSIC: TRACE AFRICA" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-africa-1.png" group-title="0.KIL-MÜZİK", 20.TRACE AFRICA
@@ -151,6 +151,9 @@ https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9
 
 #EXTINF:-1 tvg-id="MUSIC: TRACE TOCA" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA
 https://anywhere.pwisetthon.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/118
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -185,25 +188,70 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="0.KIL-MÜZİK", 23.V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="0.KIL-MÜZİK", 24.La Voz de Tucumán
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="0.KIL-MÜZİK", 24.Worldwide Muzzik
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.Xite
+#EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 25.XITE HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 80s Flashback
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 80s FLASHBLACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 90s THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE HD
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITEROCK" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE ROCK
+https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITEROCKON" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kisskiss.it/wp-content/uploads/2021/02/logo_kisskiss-1024x771.png.webp" group-title="0.KIL-MÜZİK", 26.kiss kiss
 https://58f12ffd2447a.streamlock.net/KKMulti/livestream/chunklist_w1934789365.m3u8
 
-#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="0.KIL-MÜZİK", 26.Vevo 2K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.VEVO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="0.KIL-MÜZİK", 26.Vevo R&B
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.VEVO 80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.VEVO 90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="VevoRB.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg" group-title="0.KIL-MÜZİK", 26.Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-id="VevoReggaetonTrap.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="0.KIL-MÜZİK", 27.4 Fun TV
@@ -211,9 +259,6 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a22e908b9ea3f6316c95eff053e0ac6.webp" group-title="0.KIL-MÜZİK", 27.4 fun tv
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
-#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="0.KIL-MÜZİK", 27.Óčko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="0.KIL-MÜZİK", 28.Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -257,8 +302,8 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="0.KIL-MÜZİK", 32.RU TV
 https://edge02.odtv.az/o7/rutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 32.russian music box
-http://strm.yandex.ru/kal/rmbox/ysign1=4cf4f6acf145e7146d21e4beff880fb396e1263142331d4f8f0f3e22b8bdaf1a,atrack=audio1_rus,pfx,sfx,ts=65ee57aa,unsafe=1,vtrack=169_240p/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="0.KIL-MÜZİK", 32.SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 
 #EXTINF:-1 tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="0.KIL-MÜZİK", 32.Ля-Минор
 http://camera.global-x.ru/Lya-Minor/index.m3u8
@@ -269,19 +314,22 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="0.KIL-MÜZİK", 33.Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4de469aba222436d95cdeb20f6e3d5bd.webp" group-title="0.KIL-MÜZİK", 34.Ocko
+#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/30cbd253a49803e01f43373bd0824c18.webp" group-title="0.KIL-MÜZİK", 34.Ocko Gold
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Óčko
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OckoGold.cz" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="0.KIL-MÜZİK", 34.Óčko Gold
+#EXTINF:-1 tvg-id="http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="0.KIL-MÜZİK", 34.Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/17cd416cd79c36ae1fafeacffa785512.webp" group-title="0.KIL-MÜZİK", 35.Oxigeno Network
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="0.KIL-MÜZİK", 35.Oxigeno Network
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w46867489.m3u8
 
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="0.KIL-MÜZİK", 35.Oxigeno TV
@@ -296,14 +344,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1fc5f58c0837f1db0eb42f523ce062b9.webp" group-title="0.KIL-MÜZİK", 36.Pulse
 https://axp-pe-distro.otteravision.com/distro/pulse/abr/kapang_pulse_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="0.KIL-MÜZİK", 37.Baraza
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w1537052460.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="0.KIL-MÜZİK", 37.Tropical Moon Urban
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BarazaTV.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="0.KIL-MÜZİK", 37.Baraza TV
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="0.KIL-MÜZİK", 37.Baraza TV Deep House
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", 37.Tropical Music TV
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
 #EXTINF:-1 tvg-id="http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="0.KIL-MÜZİK", 38.KroneHit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -359,7 +404,7 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-id="MOBA.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="0.KIL-MÜZİK", 41.Muzzik MOBA
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="0.KIL-MÜZİK", 41.Muzzik POP STAR
+#EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="0.KIL-MÜZİK", 41.Muzzik POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TIKTAK.rs" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="0.KIL-MÜZİK", 41.Muzzik TIKTAK
@@ -383,6 +428,12 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/09/bxtv.jpg" group-title="0.KIL-MÜZİK", 42.BXTV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/c7cd5fd1-8830-428e-a255-14a0deb25aae/2.m3u8
 
+#EXTINF:-1 tvg-id="GORTV.nl" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="0.KIL-MÜZİK", 42.GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="0.KIL-MÜZİK", 42.Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="0.KIL-MÜZİK", 42.Now 70 s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -404,11 +455,8 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8cacc7b70c8c0208a6854dfc41d593bb.webp" group-title="0.KIL-MÜZİK", 43.Vivaldi
 https://amg01297-themahqfranceme-vivalditv-plex-xh5kp.amagi.tv/playlist/amg01297-themahqfranceme-vivalditv-plex/cb543e1f796c648d99d43d65d5ef43a0f9b453fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d594366d519d56c63928a27f141316c7728dfdbab6ba8d95255e7bf5a7851ea3e0154fd090bd323433af2c12e25a971f5750c18ed4949533186b240bd050a87df57de602889adc361277b5a5696435ce4a54edea0b304198d7cc2e04a19d7765ae28145d7d71aa994865b9a468027f647809ba68e870d8387c436b45fb0315915247c9bd52b97990eee8ace3c0b8d1b582ed5ab94d9f1ca7c7ee073564ef3fad2cd0a9571efba554ae4aad97afc6e97398b11c161417f3cd2c892c54f482be6ab3385b9d297c2d9ae4f56947cf6abfb971416fca5412911993f9d4a4e4983f53a99988c36b6cf44ba4c4568449bb10ff4b8a791e0a08805b536dec6fa9a284e74c66568643c8f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a944b55e895dbd89f3c3ece6d121abd20e957107f85744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37e0f0b1c3386be3f547e289210a4fec5e37e0505acc4ccf8c14131486c440542d8b49500f1e9e1271904ce5a2212114859c74a8613936a2f3827c811dea57b12bd0f2022ebae4531686992c5b8c1d296fa48a06c91a3d0362d325566fd030d2960d6bcee08ab6e531f08ce6598ea08fec3b7fc1b8e9874d1cc/166/1920x1080_5491200/index.m3u8
 
-#EXTINF:-1 tvg-id="BblackClassik.fr" tvg-logo="https://i.imgur.com/PDCDy0b.png" group-title="0.KIL-MÜZİK", 44.Bblack! Classik
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Music Box Brazil" tvg-logo="https://cdn.mitvstatic.com/channels/br_music-box-brasil_m.png" group-title="0.KIL-MÜZİK", 45.MUSIC BOX
-http://78.159.119.122:2082/Tourobox2-xakhA1rGFa/bl0hrshWkr/424
+#EXTINF:-1 tvg-id="BackusTVMusic.ru" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", 44.BackusTV music
+http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="0.KIL-MÜZİK", 46.BLUES TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
@@ -422,13 +470,13 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png" group-title="0.KIL-MÜZİK", 48.9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 48.9x jalwa
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23111/9x-jalwa/logo_20231219_183550_55.png" group-title="0.KIL-MÜZİK", 48.9x jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/73c1872a-07ee-43dc-bb58-a8f68d8f3449/3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20231219_183644_68.png" group-title="0.KIL-MÜZİK", 48.9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="0.KIL-MÜZİK", 48.9xm
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20231219_183644_68.png" group-title="0.KIL-MÜZİK", 48.9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23060/balle-balle/logo_20231219_184445_68.png" group-title="0.KIL-MÜZİK", 48.Balle Balle
@@ -445,6 +493,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22973/maiboli/logo_20231219_215344_67.png" group-title="0.KIL-MÜZİK", 48.Maiboli
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="0.KIL-MÜZİK", 48.Mastiii India No.1 Music and Youth Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 
 #EXTINF:-1 tvg-id="http://mntv.livebox.co.in/musichls/live.m3u8" tvg-logo="https://bx-tv.com/wp-content/uploads/2023/12/mn-music.jpg" group-title="0.KIL-MÜZİK", 48.MN TV Music Tamil
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -491,6 +542,9 @@ https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="0.KIL-MÜZİK", 50.Rotana Music
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="0.KIL-MÜZİK", 50.Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="0.KIL-MÜZİK", 88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
@@ -511,12 +565,6 @@ https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="0.KIL-MÜZİK", Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", BackusTV music
-http://stream.backustv.ru/live/btv3/index.m3u8
-
-#EXTINF:-1 tvg-id="BackusTVMusic.ru" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", BackusTV music
-http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="0.KIL-MÜZİK", Balkan tv Salzburg
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
@@ -554,29 +602,17 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FolkloritTV.al" tvg-logo="https://i.imgur.com/wayxz5S.jpg" group-title="0.KIL-MÜZİK", Folklorit TV
 https://vs.sednastream.com:1936/folklorit/folklorit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GORTV.nl" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="0.KIL-MÜZİK", GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="0.KIL-MÜZİK", HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="0.KIL-MÜZİK", impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
-#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="0.KIL-MÜZİK", La Voz de Tucumán
-https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LiveMusicReplay.us" tvg-logo="https://i.imgur.com/zoa7AIO.png" group-title="0.KIL-MÜZİK", Live Music Replay
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="MagicTV.bg" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="0.KIL-MÜZİK", Magic TV
-https://bss1.neterra.tv/magictv/magictv.m3u8
-
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://i.imgur.com/4QLjUGO.png" group-title="0.KIL-MÜZİK", Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="0.KIL-MÜZİK", Mastiii - India's No.1 Music and Youth Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="0.KIL-MÜZİK", MegaBox
 https://hdbox.chunklistv.com/live?stream=megabox
@@ -584,14 +620,8 @@ https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="0.KIL-MÜZİK", Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="0.KIL-MÜZİK", Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="0.KIL-MÜZİK", Más FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", New KPop
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="0.KIL-MÜZİK", NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -638,9 +668,6 @@ https://vcp.myplaytv.com/coll/coll/playlist.m3u8
 #EXTINF:-1 tvg-id="SomosTopoPointTV.do" tvg-logo="https://i.imgur.com/7Jx45yQ.png" group-title="0.KIL-MÜZİK", Somos Topo Point TV
 https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
 
-#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="0.KIL-MÜZİK", SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="0.KIL-MÜZİK", Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
 
@@ -653,35 +680,8 @@ http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="0.KIL-MÜZİK", Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="0.KIL-MÜZİK", Tropical Moon Urban
-https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-
 #EXTINF:-1 tvg-id="TvCarigso.bo" tvg-logo="https://i.imgur.com/nhg1uM9.png" group-title="0.KIL-MÜZİK", Tv Carigso
 https://vdo.panelchs.com:3558/live/carigsotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", VEVO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo '90s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="Vevo90s.us" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo '90s
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", VEVO 80
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", Vevo Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", VH1 Classic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -689,44 +689,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="0.KIL-MÜZİK", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="0.KIL-MÜZİK", Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="0.KIL-MÜZİK", XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE 80s Flashback
-https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE 80s FLASHBLACK
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE 90s Throwback
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE 90s THROWBACK
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE Hits
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE Just Chill
-https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="XITEROCK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE ROCK
-https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE Rock On
-https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="XITEROCKON" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", XITE ROCK ON
-https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="Iheart80s" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", IHeart 80s
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Iheart90s" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", IHeart 90s
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280x720_3291200/index.m3u8
