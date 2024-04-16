@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MagentaTV: Blue Hustler" tvg-logo="noimage.png" group-title="0.01", MagentaTV: Blue Hustler
-http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356011
-
-#EXTINF:-1 tvg-id="MagentaTV: Lust pur" tvg-logo="noimage.png" group-title="0.01", MagentaTV: Lust pur
-http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356012
-
-#EXTINF:-1 tvg-id="MagentaTV: Penthouse Passion" tvg-logo="noimage.png" group-title="0.01", MagentaTV: Penthouse Passion
-http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356013
-
-#EXTINF:-1 tvg-id="MagentaTV: Playboy Europe" tvg-logo="noimage.png" group-title="0.01", MagentaTV: Playboy Europe
-http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356014
-
 #EXTINF:-1 tvg-id="XXX:  Erotic 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/ADULT/EROTIC.4.png" group-title="0.01", XXX:  Erotic 4 HD
 http://stream1.etibsa.pro:8080/06aga06/vy58AAdRHqm7/217692
 
@@ -707,170 +695,143 @@ http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/309148
 #EXTINF:-1 tvg-id="XXX: Türkhub Alt Yazılı 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/ADULT/TURKHUB.ALTYAZILI.5.png" group-title="0.02", XXX: Türkhub Alt Yazılı 5 HD
 http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/309149
 
-#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="0.x", 00.Babestation24 (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="0.x", 00.Brazzers TV Europe (720p)
-https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="0.x", 00.Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.x", 00.extasy 4k
-http://213.81.133.133:8080/extasy4k/video.m3u8
-
-#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="0.x", 00.Hustler HD (720p)
-https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="0.x", 00.Jenny For You (720p)
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="0.x", 00.O-la-la! (576p)
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="0.x", 00.O-la-la!
 http://31.148.48.15/O-la-la/index.m3u8
-
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="0.x", 00.Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
 
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="0.x", 00.Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="0.x", 00.Private TV HD (720p)
-https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="0.x", 00.Redlight HD (720p)
-https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SunBeachTV.us" tvg-logo="https://i.imgur.com/o4fZU2M.png" group-title="0.x", 00.SunBeach TV (1080p)
+#EXTINF:-1 tvg-id="SunBeachTV.us" tvg-logo="https://i.imgur.com/o4fZU2M.png" group-title="0.x", 00.SunBeach TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="0.x", 00.Visit-X TV (720p)
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="0.x", 00.Visit-X TV
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Anal (720p)
-https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Anal
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/anal.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Asian (720p)
-https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Asian
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/asian.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Ass (720p)
-https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Ass
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/bigass.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Dick (720p)
-https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Dick
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/bigdick.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Tits (720p)
-https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Big Tits
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/bigtits.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Blonde (720p)
-https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Blonde
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/blonde.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Blowjob (720p)
-https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Blowjob
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/blowjob.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Brunette (720p)
-https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Brunette
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/brunette.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Compilation (720p)
-https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Compilation
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/compilation.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Cuckold (720p)
-https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Cuckold
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/cuckold.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Fetish (720p)
-https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Fetish
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/fetish.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Gangbang (720p)
-https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Gangbang
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/gangbang.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Gay (720p)
-https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Gay
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/gay.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Hardcore (720p)
-https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Hardcore
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/hardcore.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Latina (720p)
-https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Latina
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/latina.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Lesbian (720p)
-https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Lesbian
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/lesbian.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Live Cams (720p)
-https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Live Cams
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/livecams.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net MILF (720p)
-https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net MILF
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/milf.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Pornstar (720p)
-https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Pornstar
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/pornstar.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net POV (720p)
-https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net POV
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/pov.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Rough (720p)
-https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Rough
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/rough.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Russian (720p)
-https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Russian
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Teen (720p)
-https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Teen
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/teen.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Threesome (720p)
-https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Threesome
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/threesome.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Woman (720p)
-https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Woman
+https://hs-cors.herokuapp.com/https://live.redtraffic.net/woman.m3u8
 
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Interracial (720p)
-https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="0.x", AdultIPTV.net Interracial
+https://hs-cors.herokuapp.com/https://cdn.adultiptv.net/interracial.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Anal (720p)
-https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Anal
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/anal.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Arab (720p)
-http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Arab
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/arab.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="0.x", MyCamTV Asian (720p)
-https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="0.x", MyCamTV Asian
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/asian.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Big Ass (720p)
-https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Big Ass
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/defstream.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Big Tits (720p)
-https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Big Tits
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/bigtits.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Blonde (720p)
-https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Blonde
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/blonde.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Blowjob (720p)
-http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Blowjob
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/blowjob.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Brunette (720p)
-https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Brunette
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/brunette.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Latina (720p)
-https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Latina
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/latina.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Medium (720p)
-http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Medium
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/medium.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV MILF (720p)
-http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV MILF
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/milf.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Skinny (720p)
-https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Skinny
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/arab.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Squirt (720p)
-https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV Squirt
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/squirt.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Teen (720p)
-http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Teen
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/teen.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV White (720p)
-https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="0.x", MyCamTV White
+https://hs-cors.herokuapp.com/https://live.mycamtv.com/white.m3u8
 
-#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Young (720p)
-http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="0.x", MyCamTV Young
+https://hs-cors.herokuapp.com/http://live.mycamtv.com/young.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="1.vod", MyCamTV XXX Vod #1
 https://vod.mycamtv.net/1.m3u8

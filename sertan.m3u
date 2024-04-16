@@ -848,9 +848,6 @@ http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="aspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=284&extension=m3u8
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (TTNET)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349721&extension=m3u8
 
@@ -868,6 +865,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&ext
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4k
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=423479&extension=m3u8
