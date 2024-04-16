@@ -485,6 +485,9 @@ http://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/chunks.m3u8?nimbl
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="0.KIL-MÜZİK", 50.PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="0.KIL-MÜZİK", 50.PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="0.KIL-MÜZİK", 50.Rotana Music
 https://daiconnect.com/live/hls/rotana/music/.m3u8
 
@@ -515,6 +518,9 @@ http://stream.backustv.ru/live/btv3/index.m3u8
 #EXTINF:-1 tvg-id="BackusTVMusic.ru" tvg-logo="https://i.imgur.com/Woo8L6Z.png" group-title="0.KIL-MÜZİK", BackusTV music
 http://stream.backustv.ru/live/btv3/index.m3u8
 
+#EXTINF:-1 tvg-id="BalkanRadioSalzburg.at" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="0.KIL-MÜZİK", Balkan tv Salzburg
+https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="0.KIL-MÜZİK", Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
@@ -532,6 +538,9 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HitsChannel.co" tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="0.KIL-MÜZİK", CNC Pasto Hits Channel (1024p) [Geo-blocked]
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-logo="https://i.imgur.com/uGE6lZ2.png" group-title="0.KIL-MÜZİK", Cool FM
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="0.KIL-MÜZİK", Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -554,6 +563,9 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="0.KIL-MÜZİK", impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
+#EXTINF:-1 tvg-id="LaVozdeTucuman.ar" tvg-logo="https://i.imgur.com/k2r7IeQ.png" group-title="0.KIL-MÜZİK", La Voz de Tucumán
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LiveMusicReplay.us" tvg-logo="https://i.imgur.com/zoa7AIO.png" group-title="0.KIL-MÜZİK", Live Music Replay
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
 
@@ -568,6 +580,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="0.KIL-MÜZİK", MegaBox
 https://hdbox.chunklistv.com/live?stream=megabox
+
+#EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="0.KIL-MÜZİK", Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="0.KIL-MÜZİK", Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
@@ -629,6 +644,9 @@ https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="0.KIL-MÜZİK", Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-logo="https://i.imgur.com/PfROac9.png" group-title="0.KIL-MÜZİK", Telehit Música
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="0.KIL-MÜZİK", TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 
@@ -644,8 +662,8 @@ https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
-#EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 tvg-id="TvCarigso.bo" tvg-logo="https://i.imgur.com/nhg1uM9.png" group-title="0.KIL-MÜZİK", Tv Carigso
+https://vdo.panelchs.com:3558/live/carigsotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -670,6 +688,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="0.KIL-MÜZİK", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="0.KIL-MÜZİK", Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="0.KIL-MÜZİK", XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
@@ -808,6 +829,9 @@ http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109791
 
 #EXTINF:-1 tvg-id="Relax 9" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/RELAX/10.png" group-title="0.KIL-RELAX", 20.Relax 9
 http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/109792
+
+#EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg" group-title="0.KIL-RELAX", 21.Milennio TV
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
@@ -5159,6 +5183,9 @@ http://gustotv-gustotv-2-se.samsung.wurl.tv/089025e8e07edc059504b28ffd897267.m3u
 #EXTINF:-1 tvg-id="http://gustotv-gustotv-2-se.samsung.wurl.tv/089025e8e07edc059504b28ffd897267.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.webp" group-title="01.KIL-BELGESEL", 9.gusto yemek tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
 
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="01.KIL-BELGESEL", 9.Tastemade en Español
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="01.KIL-BELGESEL", 9.Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
@@ -5176,6 +5203,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="01.KIL-BELGESEL", Horse & Country TV
 http://hnc-free-viewlift.amagi.tv/playlist1080_P.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="01.KIL-BELGESEL", Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="01.KIL-BELGESEL", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -6125,6 +6155,9 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", 3.ESR eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8
 
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="07.E SPOR ONLİNE TViCH", 4.eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", ESLCS
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqEFEBHW71JObauWjdkFAZ5sVtSSHalhyBEhunwysgXfj3JCeCnXSiQBRWpDl11bs-xz15oULGS1JPkPSKAus28flQfcZ241P93muO_F3fgBMBVQpwIaNsFCLqkB8ntE08-EmDwYvnLBzAMsbkKPM4HJVC9OFJ1sBIgB1_sETTizOYwXcOJv3u0OIjftskYyqDgLbUBnZyiHye9-LbUOyuBqHkolXcllyUDE8k5Meeq9eBUV5JlsbMEBsrtg0Tm7enHQn8uX0mcF6czUvxKOy7izoPoJcqsnLeQgqEdxLXqi-ixlolngqBxpdI7u2L8jD8o8hq2FcLBDBZrrIouRuU_ZHTOcqIozwN6OQgzpLxX9TggQQc24ShkExBNsOU4z6ICAtMop46E27rtCY-2vT4EGlgYdK7zt_Y7iWPf7Fb5vwUN4slOlC7KJzzh8hHItJu0UwdgbyUnomyMBWpezd0hLdmjP7hHOAxmJPe4szhEhGk4Fpi-Ggq_4aQ6wGV0OV82ecDJ90FviMTNyZfWaczHoQEZp9aDK2hB81iel8HDTfwkx9yIj_ro80nmq43zOAsjZzPTKFAU77wBjAlKTwcRBpGxfNN82l5u30BkKyb_G3Uxt7Hwt7x3RHzFJNB_3gQEbukbXaQKptyxu2ooxoo3K96g33OpIWKrwQf1nbKd3ySAVMcfOhbohFcdXANNcR7TyKirMqvzx1QiO22gLaWyMhVZieR02Qryg9v4kW3P2uKwmCJm2q9gMTiteVp1MMBL5prLTX-dFgXA8Ye1PzZ2iAisR9uAAApBhLgYfWvrVU7jH9Ei2r88VIv3NvUhF0IgaR2rtkYjf9A9A8QCIEwOZppJ8PHUzmIp9Jo5uVAoLFCttlE7Xr29VyXGe03E0Ljbn8hoMyyO8yWS9nEIvcWjkIAEqCWV1LXdlc3QtMjCWCQ.m3u8
 
@@ -6358,12 +6391,6 @@ http://42865490666769736.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769736.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/logo_20240129_193906_68.png" group-title="11.KIL :)", Crafty Panda
 https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="11.KIL :)", D.Big Brother Albania 1
-https://vsd236.mycdn.me/hls/6552838474382.m3u8/sig/PRnUp_BHQVU/expires/1713299813252/srcIp/188.3.203.52/urls/45.136.21.79/clientType/0/srcAg/CHROME_ANDROID/mid/8029297647246/6552838474382_high/index.m3u8?p
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="11.KIL :)", D.Big Brother Albania 2
-https://vsd106.mycdn.me/hls/6552758389390.m3u8/sig/MeaO1Y-XkJ0/expires/1713293027219/srcIp/188.3.203.52/urls/45.136.22.55/clientType/0/srcAg/CHROME_ANDROID/mid/8028622036622/6552758389390_high/index.m3u8
 
 #EXTINF:-1 tvg-id="https://lnc-estrella-games.tubi.video/playlist.m3u8" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="11.KIL :)", Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
