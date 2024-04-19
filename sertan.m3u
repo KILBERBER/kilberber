@@ -750,9 +750,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349721&exte
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349722&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
@@ -761,8 +758,17 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
+
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
+
+#EXTINF:-1 tvg-id="5092" tvg-logo="http://epg.it999.ru/img/5092.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6781/index.m3u8
+
+#EXTINF:-1 tvg-id="3873" tvg-logo="http://epg.it999.ru/img/3873.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 (Yedek) HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6817/index.m3u8
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 4k
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=423479&extension=m3u8
@@ -866,6 +872,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57800&extension=m3u8
 
+#EXTINF:-1 tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" group-title="0.KIL-SPOR", 0.B.SP0R 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6818/index.m3u8
+
+#EXTINF:-1 tvg-id="3874" tvg-logo="http://epg.it999.ru/img/3874.png" group-title="0.KIL-SPOR", 0.B.SP0R 2 (Yedek) HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6819/index.m3u8
+
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=190970&extension=m3u8
 
@@ -911,6 +923,30 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18648&ex
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18648&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57803&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57803&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57804&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=263&extension=m3u8
+
+#EXTINF:-1 tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" group-title="0.KIL-SPOR", 0.B.SP0R 3 (Yedek) HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6821/index.m3u8
+
+#EXTINF:-1 tvg-id="3876" tvg-logo="http://epg.it999.ru/img/3876.png" group-title="0.KIL-SPOR", 0.B.SP0R 3 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6820/index.m3u8
+
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2065&extension=m3u8
 
@@ -941,23 +977,26 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190968&e
 #EXTINF:-1 tvg-id="TR | B.SPOR 1 HD 3" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190968&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57803&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=264&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57803&extension=m3u8
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&extension=m3u8
 
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=263&extension=m3u8
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57804&extension=m3u8
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57806&extension=m3u8
 
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290&extension=m3u8
+#EXTINF:-1 tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" group-title="0.KIL-SPOR", 0.B.SP0R 4 (Yedek) HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6823/index.m3u8
+
+#EXTINF:-1 tvg-id="3878" tvg-logo="http://epg.it999.ru/img/3878.png" group-title="0.KIL-SPOR", 0.B.SP0R 4 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6822/index.m3u8
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369564&extension=m3u8
@@ -1010,20 +1049,11 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190976&e
 #EXTINF:-1 tvg-id="TR | B.SPOR 4 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190976&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&extension=m3u8
+#EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=117043&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=264&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&extension=m3u8
+#EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290639&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORT 5" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=269056&extension=m3u8
@@ -1040,11 +1070,8 @@ http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=269056&e
 #EXTINF:-1 tvg-id="TR | BEIN SPORT 5" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=269056&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290639&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=117043&extension=m3u8
+#EXTINF:-1 tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png" group-title="0.KIL-SPOR", 0.B.SPOR Max 1 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6824/index.m3u8
 
 #EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2068&extension=m3u8
@@ -1076,6 +1103,12 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190977&e
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190977&extension=m3u8
 
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=266&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=293&extension=m3u8
+
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2069&extension=m3u8
 
@@ -1106,11 +1139,11 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190978&e
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190978&extension=m3u8
 
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=266&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=275&extension=m3u8
 
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=293&extension=m3u8
+#EXTINF:-1 tvg-id="3885" tvg-logo="http://epg.it999.ru/img/3885.png" group-title="0.KIL-SPOR", 0.Eurosport 1 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6829/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 1
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2087&extension=m3u8
@@ -1127,8 +1160,11 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2087&ext
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 1
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2087&extension=m3u8
 
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 1 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=275&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=276&extension=m3u8
+
+#EXTINF:-1 tvg-id="3886" tvg-logo="http://epg.it999.ru/img/3886.png" group-title="0.KIL-SPOR", 0.Eurosport 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6830/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2088&extension=m3u8
@@ -1144,9 +1180,6 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2088&ext
 
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 2
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2088&extension=m3u8
-
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 2 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=276&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
@@ -1205,6 +1238,9 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=259&extensi
 #EXTINF:-1 tvg-id="TR: GS TV HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.GS TV HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=277&extension=m3u8
 
+#EXTINF:-1 tvg-id="3894" tvg-logo="http://epg.it999.ru/img/3894.png" group-title="0.KIL-SPOR", 0.NBA TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6838/index.m3u8
+
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.NBA
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2071&extension=m3u8
 
@@ -1234,6 +1270,9 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2043&ext
 
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.NBA TV
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2043&extension=m3u8
+
+#EXTINF:-1 tvg-id="3884" tvg-logo="http://epg.it999.ru/img/3884.png" group-title="0.KIL-SPOR", 0.Sports TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6828/index.m3u8
 
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2073&extension=m3u8
@@ -1411,6 +1450,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57727&ext
 
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=269&extension=m3u8
+
+#EXTINF:-1 tvg-id="3872" tvg-logo="http://epg.it999.ru/img/3872.png" group-title="0.KIL-SPOR", 0.Tivibu Sport 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6816/index.m3u8
 
 #EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2079&extension=m3u8
@@ -3191,6 +3233,45 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&ext
 #EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=306&extension=m3u8
 
+#EXTINF:-1 tvg-id="3811" tvg-logo="http://epg.it999.ru/img/3811.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 1 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6744/index.m3u8
+
+#EXTINF:-1 tvg-id="3812" tvg-logo="http://epg.it999.ru/img/3812.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6745/index.m3u8
+
+#EXTINF:-1 tvg-id="3810" tvg-logo="http://epg.it999.ru/img/3810.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 3 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6743/index.m3u8
+
+#EXTINF:-1 tvg-id="3931" tvg-logo="http://epg.it999.ru/img/3931.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Action 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6876/index.m3u8
+
+#EXTINF:-1 tvg-id="3932" tvg-logo="http://epg.it999.ru/img/3932.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Action HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6877/index.m3u8
+
+#EXTINF:-1 tvg-id="3933" tvg-logo="http://epg.it999.ru/img/3933.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Family HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6878/index.m3u8
+
+#EXTINF:-1 tvg-id="3934" tvg-logo="http://epg.it999.ru/img/3934.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Premiere 2 HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6879/index.m3u8
+
+#EXTINF:-1 tvg-id="3935" tvg-logo="http://epg.it999.ru/img/3935.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Premiere HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6880/index.m3u8
+
+#EXTINF:-1 tvg-id="3936" tvg-logo="http://epg.it999.ru/img/3936.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Comedy HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6881/index.m3u8
+
+#EXTINF:-1 tvg-id="3937" tvg-logo="http://epg.it999.ru/img/3937.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Drama HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6882/index.m3u8
+
+#EXTINF:-1 tvg-id="3870" tvg-logo="http://epg.it999.ru/img/3870.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Sci-fi TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6814/index.m3u8
+
+#EXTINF:-1 tvg-id="3869" tvg-logo="http://epg.it999.ru/img/3869.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Vice TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6813/index.m3u8
+
+#EXTINF:-1 tvg-id="3860" tvg-logo="http://epg.it999.ru/img/3860.png" group-title="00.KIL-ONLİNE FİLM", 0.DiziSmart Premium TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6802/index.m3u8
+
 #EXTINF:-1 tvg-id="dizismartmax.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART MAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=332&extension=m3u8
 
@@ -3203,14 +3284,29 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=331&extensi
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART PREMIUM HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=351&extension=m3u8
 
+#EXTINF:-1 tvg-id="3861" tvg-logo="http://epg.it999.ru/img/3861.png" group-title="00.KIL-ONLİNE FİLM", 0.Fox Crime TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6803/index.m3u8
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2027&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2027&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2027&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2027&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.FX HD
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2027&extension=m3u8
 
+#EXTINF:-1 tvg-id="3863" tvg-logo="http://epg.it999.ru/img/3863.png" group-title="00.KIL-ONLİNE FİLM", 0.FX HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6805/index.m3u8
+
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="00.KIL-ONLİNE FİLM", 0.FX HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=354&extension=m3u8
+
+#EXTINF:-1 tvg-id="3868" tvg-logo="http://epg.it999.ru/img/3868.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Action TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6812/index.m3u8
+
+#EXTINF:-1 tvg-id="3867" tvg-logo="http://epg.it999.ru/img/3867.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Classic HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6811/index.m3u8
+
+#EXTINF:-1 tvg-id="3865" tvg-logo="http://epg.it999.ru/img/3865.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Turk TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6807/index.m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57697&extension=m3u8
@@ -3232,6 +3328,9 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=239120&e
 
 #EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349&extension=m3u8
+
+#EXTINF:-1 tvg-id="3864" tvg-logo="http://epg.it999.ru/img/3864.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Aile TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6806/index.m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57703&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57703&extension=m3u8
@@ -4919,8 +5018,20 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
+#EXTINF:-1 tvg-id="3908" tvg-logo="http://epg.it999.ru/img/3908.png" group-title="01.KIL-BELGESEL", 6.24 Kitchen HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6853/index.m3u8
+
+#EXTINF:-1 tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" group-title="01.KIL-BELGESEL", 6.Animal Planet HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6858/index.m3u8
+
+#EXTINF:-1 tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" group-title="01.KIL-BELGESEL", 6.Animal Planet TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6859/index.m3u8
+
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=491&extension=m3u8
+
+#EXTINF:-1 tvg-id="3909" tvg-logo="http://epg.it999.ru/img/3909.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6854/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: BBC Earth HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110608&extension=m3u8
@@ -4937,14 +5048,41 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101973&e
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein IZ HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=18563&extension=m3u8
 
+#EXTINF:-1 tvg-id="3862" tvg-logo="http://epg.it999.ru/img/3862.png" group-title="01.KIL-BELGESEL", 6.beIN Gurme HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6804/index.m3u8
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57663&extension=m3u8
+
+#EXTINF:-1 tvg-id="6531" tvg-logo="http://epg.it999.ru/img/6531.png" group-title="01.KIL-BELGESEL", 6.beIN IZ TV HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/19078/index.m3u8
+
+#EXTINF:-1 tvg-id="3912" tvg-logo="http://epg.it999.ru/img/3912.png" group-title="01.KIL-BELGESEL", 6.Da Vinci Learning HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6857/index.m3u8
+
+#EXTINF:-1 tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" group-title="01.KIL-BELGESEL", 6.Discovery Channel TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6861/index.m3u8
+
+#EXTINF:-1 tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" group-title="01.KIL-BELGESEL", 6.Discovery Science TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6863/index.m3u8
+
+#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.DMAX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2290/index.m3u8
+
+#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.Dmax FHD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6912/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=492&extension=m3u8
 
+#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.DMAX HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2300/index.m3u8
+
 #EXTINF:-1 tvg-id="TR: DMAX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67565&extension=m3u8
+
+#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.Dmax TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6913/index.m3u8
 
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101975&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101975&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101975&extension=m3u8/" group-title="01.KIL-BELGESEL", 6.DOCUBOX
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101975&extension=m3u8
@@ -4991,6 +5129,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57745&ext
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=496&extension=m3u8
 
+#EXTINF:-1 tvg-id="3911" tvg-logo="http://epg.it999.ru/img/3911.png" group-title="01.KIL-BELGESEL", 6.History Channel HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6856/index.m3u8
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57748&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57748&extension=m3u8
 
@@ -5005,6 +5146,9 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101977&e
 
 #EXTINF:-1 tvg-id="TR: LOVE NATURE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67567&extension=m3u8
+
+#EXTINF:-1 tvg-id="3919" tvg-logo="http://epg.it999.ru/img/3919.png" group-title="01.KIL-BELGESEL", 6.Love Nature HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6864/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110620&extension=m3u8
@@ -5021,6 +5165,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57739&ext
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO WILD HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=486&extension=m3u8
 
+#EXTINF:-1 tvg-id="3922" tvg-logo="http://epg.it999.ru/img/3922.png" group-title="01.KIL-BELGESEL", 6.NatGeo HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6867/index.m3u8
+
+#EXTINF:-1 tvg-id="3921" tvg-logo="http://epg.it999.ru/img/3921.png" group-title="01.KIL-BELGESEL", 6.NatGeo Wild HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6866/index.m3u8
+
 #EXTINF:-1 tvg-id="TR: National Geographic HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67570&extension=m3u8
 
@@ -5032,6 +5182,12 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1887&ext
 
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1889&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1889&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1889&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1889&extension=m3u8" group-title="01.KIL-BELGESEL", 6.NATIONAL GEO WILD
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1889&extension=m3u8
+
+#EXTINF:-1 tvg-id="3967" tvg-logo="http://epg.it999.ru/img/3967.png" group-title="01.KIL-BELGESEL", 6.TLC HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6914/index.m3u8
+
+#EXTINF:-1 tvg-id="3968" tvg-logo="http://epg.it999.ru/img/3968.png" group-title="01.KIL-BELGESEL", 6.TLC TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6915/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC TV
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=4174&extension=m3u8
@@ -5054,8 +5210,14 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57750&ext
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101974&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101974&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101974&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101974&extension=m3u8" group-title="01.KIL-BELGESEL", 6.VIASAT HISTORY
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101974&extension=m3u8
 
+#EXTINF:-1 tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" group-title="01.KIL-BELGESEL", 6.Yaban HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6787/index.m3u8
+
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=484&extension=m3u8
+
+#EXTINF:-1 tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" group-title="01.KIL-BELGESEL", 6.Yaban TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6868/index.m3u8
 
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101976&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101976&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101976&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101976&extension=m3u8" group-title="01.KIL-BELGESEL", 6.INSIGHT TV
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101976&extension=m3u8
@@ -6005,17 +6167,56 @@ http://stream.tvcdn.net/dini/vaaz-tv.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="http://assets.tvcdn.net/0769611d-315b-4b02-a3c3-cb643e6fe872.png" group-title="05.DİNİ", Vav TV
 http://stream.tvcdn.net/dini/vav-tv.m3u8
 
+#EXTINF:-1 tvg-id="3900" tvg-logo="http://epg.it999.ru/img/3900.png" group-title="06.KIL-ÇOCUK", 0.Baby TV TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6845/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="06.KIL-ÇOCUK", 0.Bilsem Bizim TV
 http://palatv34.ozelip.com:22372/bilsem/bilsem/chunklist_w1564342469.m3u8
+
+#EXTINF:-1 tvg-id="3905" tvg-logo="http://epg.it999.ru/img/3905.png" group-title="06.KIL-ÇOCUK", 0.Boomerang HD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6850/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
+#EXTINF:-1 tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2325/index.m3u8
+
+#EXTINF:-1 tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" group-title="06.KIL-ÇOCUK", 0.Cartoon Network TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6846/index.m3u8
+
+#EXTINF:-1 tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" group-title="06.KIL-ÇOCUK", 0.Disney JR TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6843/index.m3u8
+
+#EXTINF:-1 tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" group-title="06.KIL-ÇOCUK", 0.Disney Junior TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6842/index.m3u8
+
+#EXTINF:-1 tvg-id="3899" tvg-logo="http://epg.it999.ru/img/3899.png" group-title="06.KIL-ÇOCUK", 0.Disney XD TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6844/index.m3u8
+
+#EXTINF:-1 tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" group-title="06.KIL-ÇOCUK", 0.Minika Cocuk TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6849/index.m3u8
+
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="06.KIL-ÇOCUK", 0.Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 
+#EXTINF:-1 tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" group-title="06.KIL-ÇOCUK", 0.Minika Go TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6851/index.m3u8
+
+#EXTINF:-1 tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" group-title="06.KIL-ÇOCUK", 0.Minika Çocuk
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2303/index.m3u8
+
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="06.KIL-ÇOCUK", 0.Minika çocuk
 https://uzunmuhalefet.serv00.net/ecanlitv.php?kanal=minika-cocuk-canli-4&.m3u8
+
+#EXTINF:-1 tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" group-title="06.KIL-ÇOCUK", 0.minikaGO
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2266/index.m3u8
+
+#EXTINF:-1 tvg-id="3902" tvg-logo="http://epg.it999.ru/img/3902.png" group-title="06.KIL-ÇOCUK", 0.Nick Jr TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6847/index.m3u8
+
+#EXTINF:-1 tvg-id="3903" tvg-logo="http://epg.it999.ru/img/3903.png" group-title="06.KIL-ÇOCUK", 0.Nickelodeon TR
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6848/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="06.KIL-ÇOCUK", 0.TRT Diyanet çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
