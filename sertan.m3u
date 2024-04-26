@@ -2441,8 +2441,14 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13388&.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCelebrity.us" tvg-logo="https://i.imgur.com/YPfJS0B.png" group-title="0.KIL-ULUSAL", z.Pluto TV Celebrity
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf1472907815f66a866dd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=320&terminate=false&userId=
 
+#EXTINF:-1 tvg-id="TR: ProTurk-4K" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0. 4K Films
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219838&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DIZIAX 007 JAMES BOND" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.007 JAMES BOND
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142129&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: MAX 007 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.007 JAMES BOND 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10849&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX 13.CUMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.13.CUMA
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142147&extension=m3u8
@@ -2477,17 +2483,11 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142095&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX CEHENNEM SILAHI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CEHENNEM SILAHI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142141&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298914&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298914&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CEM YILMAZ
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298914&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298914&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298914&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298914&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CEM YILMAZ
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298914&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: DIZIAX Cukur HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cukur
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106604&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: DIZIAX CILGIN DERSHANE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CILGIN DERSHANE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142157&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: ProTurk-Egzersiz" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Egzersiz
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219861&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX EKMEK TEKNESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.EKMEK TEKNESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142090&extension=m3u8
@@ -2498,14 +2498,35 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106608&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX Gibi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Gibi
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219435&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: BEST HABABAM SINIFI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HABABAM SINIFI 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185298&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK HABABAM SINIFI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HABABAM SINIFI 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185240&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DIZIAX HARRY POTTER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HARRY POTTER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142130&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: MAX Hint Filimleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Hint Filimleri
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10844&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: Realbox-Hint" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Hint Filmleri 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219907&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX HOBBIT TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HOBBIT
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142135&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX House Of Dragon" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.House Of Dragon
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142087&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: BEST IMBD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iMBD 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185287&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK IMBD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iMBD 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185223&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: FILMAX IMDB TOP" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iMDB 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=215167&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX IP-MAN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iP-MAN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142159&extension=m3u8
@@ -2519,47 +2540,41 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142098&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX JETLI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JETLI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142097&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402931&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402931&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KADIR INANIR
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402931&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402931&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402931&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KADIR INANIR
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402931&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: DIZIAX KARANLIKLAR ULKESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KARANLIKLAR ULKESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142158&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX KARAYIP KORSANLARI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KARAYIP KORSANLARI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142139&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402934&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402934&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402934&extension=m3u8
+#EXTINF:-1 tvg-id="TR: Kemal Sunal TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 0
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=397&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402934&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402934&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402934&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402934&extension=m3u8
+#EXTINF:-1 tvg-id="TR: Arenabox-KemalSunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219830&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402930&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402930&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402930&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402930&extension=m3u8
+#EXTINF:-1 tvg-id="TR: DREAM KEMAL SUNAL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMALSUNAL 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185275&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402930&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402930&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402930&extension=m3u8
+#EXTINF:-1 tvg-id="TR: Dreambox-Kemal Sunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219879&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402929&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402929&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402929&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402929&extension=m3u8
+#EXTINF:-1 tvg-id="TR: DINAMIK KEMAL SUNAL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMALSUNAL 4
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185235&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402929&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402929&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402929&extension=m3u8
+#EXTINF:-1 tvg-id="TR: FILMAX Kemal Sunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=113521&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402928&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402928&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402928&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402928&extension=m3u8
+#EXTINF:-1 tvg-id="TR: FILMBOX Kemal Sunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 6
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219933&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402928&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402928&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402928&extension=m3u8
+#EXTINF:-1 tvg-id="TR: Global Box Kemal Sunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 7
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219956&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402927&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402927&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402927&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 4
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402927&extension=m3u8
+#EXTINF:-1 tvg-id="TR: ProTurk-Kemal Sunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 8
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219847&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402927&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402927&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 4
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402927&extension=m3u8
+#EXTINF:-1 tvg-id="TR: ULTRA HD KEMAL SUNAL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMALSUNAL 9
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185255&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX KONUSANLAR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142089&extension=m3u8
@@ -2575,6 +2590,15 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=260506&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX LOTR Guc Yuzukleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.LOTR Guc Yuzukleri
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142124&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK MARVEL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MARVEL 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185238&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: FILMAX MARVEL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MARVEL 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=340368&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: Megabox-Marvel" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Marvel 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219920&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX MASKELI BESLER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MASKELI BESLER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142156&extension=m3u8
@@ -2609,6 +2633,12 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142131&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.S1F1R B1R ADANA
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=124281&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: FILMAX SAVAS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SAVAS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=215166&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SENER SEN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SENER SEN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185236&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DIZIAX Sokagin Cocuklari" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Sokagin Cocuklari
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=124282&extension=m3u8
 
@@ -2617,6 +2647,9 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142142&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX STAR TREK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.STAR TREK
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142152&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: MAX STAR WARS HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.STAR WARS HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10850&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX SUPERMAN TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SUPERMAN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142136&extension=m3u8
@@ -2633,12 +2666,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142144&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX THE LAST OF US" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.THE LAST OF US
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=268849&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298915&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298915&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298915&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TOLGSHOW
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298915&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298915&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298915&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TOLGSHOW
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298915&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: DIZIAX TolgShow" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TolgShow
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219434&extension=m3u8
 
@@ -2648,14 +2675,38 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142094&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX TRANSFORMERS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TRANSFORMERS
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142148&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: Megabox-Ulke Seyehatı" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ulke Seyehatı
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219899&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK UZAKDOGU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.UZAKDOGU 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185234&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: BEST WESTERN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WESTERN 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185232&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DREAM WESTERN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WESTERN 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185302&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DINAMIK WESTERN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WESTERN 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185237&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: MAX Western HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Western 4
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10843&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: Megabox-Western" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Western 5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219895&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: ProTurk-Western" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Western 6
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219855&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: Realbox-Western" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Western 7
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219916&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: ProTurk-WWE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WWE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219871&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DIZIAX X-MEN TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.X-MEN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142146&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402932&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402932&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402932&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZEKI VE METIN
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402932&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402932&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402932&extension=m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZEKI VE METIN
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402932&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ZOR OLUM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZOR OLUM
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142140&extension=m3u8
@@ -2807,9 +2858,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=315&extensi
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES ACTION
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=318&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18007&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18007&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18007&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18007&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES ACTION
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18007&extension=m3u8
-
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES ACTION
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106622&extension=m3u8
 
@@ -2825,29 +2873,17 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57666&ext
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=312&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18003&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18003&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18003&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18003&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18003&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18004&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18004&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18004&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18004&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18004&extension=m3u8
-
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=317&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57671&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57671&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18001&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18001&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18001&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18001&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18001&extension=m3u8
-
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57672&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57679&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57679&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=17998&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=17998&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=17998&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=17998&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=17998&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=309&extension=m3u8
@@ -2858,59 +2894,14 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=307&extensi
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57675&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57675&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=17999&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=17999&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=17999&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=17999&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=17999&extension=m3u8
-
 #EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=308&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18000&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18000&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18000&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18000&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18000&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57681&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=306&extension=m3u8
-
-#EXTINF:-1 tvg-id="3811" tvg-logo="http://epg.it999.ru/img/3811.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 1 HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6744/index.m3u8
-
-#EXTINF:-1 tvg-id="3812" tvg-logo="http://epg.it999.ru/img/3812.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 2 HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6745/index.m3u8
-
-#EXTINF:-1 tvg-id="3810" tvg-logo="http://epg.it999.ru/img/3810.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Box Office 3 HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6743/index.m3u8
-
-#EXTINF:-1 tvg-id="3931" tvg-logo="http://epg.it999.ru/img/3931.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Action 2 HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6876/index.m3u8
-
-#EXTINF:-1 tvg-id="3932" tvg-logo="http://epg.it999.ru/img/3932.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Action HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6877/index.m3u8
-
-#EXTINF:-1 tvg-id="3933" tvg-logo="http://epg.it999.ru/img/3933.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Family HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6878/index.m3u8
-
-#EXTINF:-1 tvg-id="3934" tvg-logo="http://epg.it999.ru/img/3934.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Premiere 2 HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6879/index.m3u8
-
-#EXTINF:-1 tvg-id="3935" tvg-logo="http://epg.it999.ru/img/3935.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Movies Premiere HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6880/index.m3u8
-
-#EXTINF:-1 tvg-id="3936" tvg-logo="http://epg.it999.ru/img/3936.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Comedy HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6881/index.m3u8
-
-#EXTINF:-1 tvg-id="3937" tvg-logo="http://epg.it999.ru/img/3937.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Drama HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6882/index.m3u8
-
-#EXTINF:-1 tvg-id="3870" tvg-logo="http://epg.it999.ru/img/3870.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Sci-fi TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6814/index.m3u8
-
-#EXTINF:-1 tvg-id="3869" tvg-logo="http://epg.it999.ru/img/3869.png" group-title="00.KIL-ONLİNE FİLM", 0.beIN Series Vice TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6813/index.m3u8
-
-#EXTINF:-1 tvg-id="3860" tvg-logo="http://epg.it999.ru/img/3860.png" group-title="00.KIL-ONLİNE FİLM", 0.DiziSmart Premium TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6802/index.m3u8
 
 #EXTINF:-1 tvg-id="dizismartmax.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART MAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=332&extension=m3u8
@@ -2924,35 +2915,11 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=331&extensi
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART PREMIUM HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=351&extension=m3u8
 
-#EXTINF:-1 tvg-id="3861" tvg-logo="http://epg.it999.ru/img/3861.png" group-title="00.KIL-ONLİNE FİLM", 0.Fox Crime TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6803/index.m3u8
-
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2027&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2027&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2027&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2027&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.FX HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2027&extension=m3u8
-
-#EXTINF:-1 tvg-id="3863" tvg-logo="http://epg.it999.ru/img/3863.png" group-title="00.KIL-ONLİNE FİLM", 0.FX HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6805/index.m3u8
-
-#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="00.KIL-ONLİNE FİLM", 0.FX HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=354&extension=m3u8
-
-#EXTINF:-1 tvg-id="3868" tvg-logo="http://epg.it999.ru/img/3868.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Action TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6812/index.m3u8
-
-#EXTINF:-1 tvg-id="3867" tvg-logo="http://epg.it999.ru/img/3867.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Classic HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6811/index.m3u8
-
-#EXTINF:-1 tvg-id="3865" tvg-logo="http://epg.it999.ru/img/3865.png" group-title="00.KIL-ONLİNE FİLM", 0.Movie Smart Turk TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6807/index.m3u8
-
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57697&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=88640&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88640&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=88640&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=88640&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSİC
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=88640&extension=m3u8
 
 #EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSİC HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=350&extension=m3u8
@@ -2960,17 +2927,8 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=350&extensi
 #EXTINF:-1 tvg-id="smartcocuk.tr" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART COCUK HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=370&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=88649&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88649&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=88649&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=88649&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=88649&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=239120&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=239120&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=239120&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=239120&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=239120&extension=m3u8
-
 #EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349&extension=m3u8
-
-#EXTINF:-1 tvg-id="3864" tvg-logo="http://epg.it999.ru/img/3864.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Aile TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6806/index.m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57703&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57703&extension=m3u8
@@ -3284,36 +3242,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219885&exte
 #EXTINF:-1 tvg-id="TR: Dreambox-Yeşilçam" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.Dreambox-Yeşilçam
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219886&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2104&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2104&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2104&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2104&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND KEMAL SUNAL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2104&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2101&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2101&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2101&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2101&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND KEMAL SUNAL 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2101&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2102&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2102&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2102&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2102&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND KEMAL SUNAL 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2102&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=190986&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190986&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=190986&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190986&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND KEMAL SUNAL TV
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=190986&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2103&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2103&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2103&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2103&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND KOMEDI
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2103&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2096&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2096&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2096&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2096&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND PREMIUM
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2096&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2097&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2097&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2097&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2097&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND SINEMA TURK
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2097&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2098&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2098&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2098&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2098&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND YESILCAM 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2098&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2099&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2099&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2099&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2099&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND YESILCAM 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2099&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=2100&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2100&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=2100&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2100&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.DIAMOND YESILCAM 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=2100&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: DINAMIK AKSIYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.DINAMIK AKSIYON
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185218&extension=m3u8
 
@@ -3406,9 +3334,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185230&exte
 
 #EXTINF:-1 tvg-id="TR: DINAMIK IMBD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.DINAMIK IMBD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185223&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=88667&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88667&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=88667&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=88667&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.Filmbox
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=88667&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: FILMAX Action HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.FILMAX Action HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=385&extension=m3u8
@@ -3797,83 +3722,20 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219918&exte
 #EXTINF:-1 tvg-id="TR: REDBOX ACTIE 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX AKSIYON 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=392&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298893&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298893&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298893&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298893&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX AKSIYON 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298893&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298894&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298894&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298894&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298894&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX AKSIYON 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298894&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298909&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298909&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298909&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298909&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX BOXSET
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298909&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298896&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298896&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298896&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298896&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX BILIMKURGU 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298896&extension=m3u8
-
 #EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298896&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298896&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX BILIMKURGU 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=393&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298897&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298897&extension=m3u8/" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298897&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298897&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX BILIMKURGU 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298897&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298906&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298906&extension=m3u8/" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298906&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298906&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX DRAMA 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298906&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX DRAMA HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX DRAMA HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=398&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298920&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298920&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298920&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298920&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX GOLD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298920&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: REDBOX HORROR 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX HORROR 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=394&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298902&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298902&extension=m3u8/" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298902&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298902&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX KOMEDI 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298902&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298921&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298921&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298921&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298921&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX KOMEDI 90s
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298921&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298899&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298899&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298899&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298899&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX KORKU 1
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298899&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298900&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298900&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298900&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298900&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX KORKU 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298900&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298901&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298901&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298901&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298901&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX KORKU 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298901&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298898&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298898&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298898&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298898&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MARVEL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298898&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298922&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298922&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298922&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298922&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 01
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298922&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX MIX 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 01 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=395&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298923&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298923&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298923&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298923&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 02
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298923&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298927&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298927&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298927&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 06
-http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298927&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298928&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298928&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298928&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298928&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 07
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298928&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298929&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298929&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298929&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298929&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 08
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298929&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298930&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298930&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298930&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298930&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 09
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298930&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298931&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298931&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298931&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298931&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX MIX 10
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298931&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: REDBOX PREMIERE" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX PREMIERE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=386&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298919&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298919&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298919&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298919&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX STAR WARS
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298919&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX SINEMA TURK 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=391&extension=m3u8
@@ -3881,17 +3743,11 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=391&extensi
 #EXTINF:-1 tvg-id="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX SINEMA TURK 2 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=399&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=298913&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298913&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=298913&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=298913&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX TURK BOXSET
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=298913&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: REDBOX VIZYON 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX VIZYON 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=390&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX VIZYON 2  HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX VIZYON 2  HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=396&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402935&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402935&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402935&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402935&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.REDBOX YESILCAM
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402935&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: ULTRA ANIMASYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.ULTRA ANIMASYON
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185305&extension=m3u8
@@ -3920,27 +3776,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185258&exte
 #EXTINF:-1 tvg-id="TR: ULTRA HD TURK" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.ULTRA HD TURK
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185259&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=209782&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=209782&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=209782&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=209782&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.UYDUAX DRAMA
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=209782&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=209780&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=209780&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=209780&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=209780&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.UYDUAX KEMAL SUNAL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=209780&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=209781&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=209781&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=209781&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=209781&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.UYDUAX YESILCAM
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=209781&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402950&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402950&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402950&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402950&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.YESİLCAM KEMAL SUNAL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402950&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402949&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402949&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402949&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402949&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.YESİLCAM KEMAL SUNAL 2
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402949&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402948&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402948&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402948&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=402948&extension=m3u8" group-title="00.KIL-ONLİNE FİLM", 00.YESİLCAM KEMAL SUNAL 3
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402948&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=402947&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402947&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=402947&extension=m3u8/https://m3u-editor.com/serve/deathless-kun-king-iptv-5321/1112738768" group-title="00.KIL-ONLİNE FİLM", 00.YESİLCAM KEMAL SUNAL 4
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=402947&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: Yesilcam Sinema HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.Yesilcam Sinema HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=37975&extension=m3u8
 
@@ -3959,50 +3794,20 @@ https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8
 #EXTINF:-1 tvg-id="sinematvhd.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2 A
 https://play2.blutv.com/blutv_play2/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="00.KIL-ONLİNE FİLM", 01.Sinema TV 1
-http://gineu10.bozztv.com/gin-trn09/gt-sinevizyon-1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="00.KIL-ONLİNE FİLM", 01.Sinema TV 2
-http://gineu8.bozztv.com/gin-trn09/gt-sinevizyon-2/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d471fb03-10ce-47e0-bc25-e2b3f5feba98.png" group-title="00.KIL-ONLİNE FİLM", 01.Sinema TV 3
-http://gineu9.bozztv.com/gin-trn09/gt-sinevizyon-3/index.m3u8
-
-#EXTINF:-1 tvg-id="http://75.119.144.48/SUPERTURK_TVHD/index.m3u8" tvg-logo="http://assets.tvcdn.net/2a7833de-376e-4900-a8eb-523162f00502.png" group-title="00.KIL-ONLİNE FİLM", 01.SuperTurk Max
-http://75.119.144.48/SUPERTURK_MAX_MUZIK_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="00.KIL-ONLİNE FİLM", 01.SuperTurk TV
-http://75.119.144.48/SUPERTURK_TVHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="00.KIL-ONLİNE FİLM", 01.Yansima Sinema TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 1
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 2
-https://anywhere.pwisetthon.com/http://gineu10.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 2
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 3
-https://anywhere.pwisetthon.com/http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 3
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="00.KIL-ONLİNE FİLM", 01.ŞABAN TV
-https://tivi44.ozelip.com:3463/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-CVw2Jun9XYk/XsgmfZX7TZI/AAAAAAAAYdQ/s2NXdSBs2WkiRXKogXsRfjAMs90VmAP1gCLcBGAsYHQ/s1600/afyonturk.jpg" group-title="00.KIL-ONLİNE FİLM", 1.Afyon türk
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6feda6ce-a6e0-40db-acf4-9620a7e4dde5.png" group-title="00.KIL-ONLİNE FİLM", 1.Aktif TV
-http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="00.KIL-ONLİNE FİLM", 1.amc +
-http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/764b33ea-66a0-4715-81b0-73cc1aba3729.png" group-title="00.KIL-ONLİNE FİLM", 1.Cansuyu TV
 http://stream.tvcdn.net/diger-eglence/cansuyu-tv.m3u8
@@ -4013,9 +3818,6 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d9181fd0-491f-4939-9154-daefc24bc480.png" group-title="00.KIL-ONLİNE FİLM", 1.Doğanay TV
 http://145.239.58.133:28008/doganaytv/doganaytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/95971854-97bc-45cb-86cd-fd991296d189.jpg" group-title="00.KIL-ONLİNE FİLM", 1.Göpsen TV
-http://palatv34.ozelip.com:22372/gopsentv/gopsentv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/8e85fa7f-571e-4f55-bf56-22eb3ab59620.jpg" group-title="00.KIL-ONLİNE FİLM", 1.ilkgün TV
 http://palatv34.ozelip.com:22372/ilkguntv/ilkguntv/playlist.m3u8
 
@@ -4025,44 +3827,20 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png" group-title="00.KIL-ONLİNE FİLM", 1.Kanal 19
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/c28cd83b-9edd-4c9f-afc0-6f1f1efd97bb.png" group-title="00.KIL-ONLİNE FİLM", 1.Kobim TV
-http://stream.tvcdn.net/diger-eglence/kobim-tv.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-logo="https://www.mturktv.com/public/default/images/upload/3104219612331117.png" group-title="00.KIL-ONLİNE FİLM", 1.MUGLA TV
-https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e1779c8e-b1e4-48c8-a205-161811d2b034.png" group-title="00.KIL-ONLİNE FİLM", 1.Nef TV
-http://stream.tvcdn.net/diger-muzik/nef-tv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e3e7aa36-1705-4300-bfa5-f347cd28f93a.jpeg" group-title="00.KIL-ONLİNE FİLM", 1.NTN HD
-https://tv.ntnhd.com:3588/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/24b4b5e2-e318-4ecb-b9ae-13dfdf42152e.png" group-title="00.KIL-ONLİNE FİLM", 1.PSM TV
-http://palatv34.ozelip.com:22372/psmtv/psmtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="00.KIL-ONLİNE FİLM", 1.RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1f23a3b4-a964-4c8f-8234-373ed11b2c17.png" group-title="00.KIL-ONLİNE FİLM", 1.Sky
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="00.KIL-ONLİNE FİLM", 1.Sudurayi TV
-http://stream.tvcdn.net/diger-eglence/suduragi-tv.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="00.KIL-ONLİNE FİLM", 1.Süper 7 TV
 http://palatv34.ozelip.com:22372/super/super/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9138c7f6-e52d-4511-9aa2-90c315a2b6ed.png" group-title="00.KIL-ONLİNE FİLM", 1.Teleon
-https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroups_live_4kultrahd_lisansli/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_133.png" group-title="00.KIL-ONLİNE FİLM", 1.tivi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="00.KIL-ONLİNE FİLM", 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kanal70.com/content/auto_site_logo.jpg" group-title="00.KIL-ONLİNE FİLM", 1.TV 70
-https://anywhere.pwisetthon.com/https://bozztv.com/ssh101/ssh101/tv70/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="00.KIL-ONLİNE FİLM", 1.Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
@@ -8387,12 +8165,6 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:01:15:AA&stream=913177&ex
 #EXTINF:-1 tvg-id="TR|YABAN TV 4K" tvg-logo="noimage.png" group-title="00.YENi LiSTE HIZLI", TR|YABAN TV 4K
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:00:AA:0E&stream=913177&extension=ts
 
-#EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 0.DISCOVERY CHANNEL
-https://discoverydrm.blutv.com/blutv_discovery_drm/discovery_hd_drm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX A
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
@@ -8426,9 +8198,6 @@ https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="01.KIL-BELGESEL", 4.Tgrt Belgesel
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" group-title="01.KIL-BELGESEL", 4K TRAVEL TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-
 #EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="01.KIL-BELGESEL", 5.Agro TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 
@@ -8444,74 +8213,26 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
-#EXTINF:-1 tvg-id="3908" tvg-logo="http://epg.it999.ru/img/3908.png" group-title="01.KIL-BELGESEL", 6.24 Kitchen HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6853/index.m3u8
-
-#EXTINF:-1 tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" group-title="01.KIL-BELGESEL", 6.Animal Planet HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6858/index.m3u8
-
-#EXTINF:-1 tvg-id="3913" tvg-logo="http://epg.it999.ru/img/365.png" group-title="01.KIL-BELGESEL", 6.Animal Planet TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6859/index.m3u8
-
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=491&extension=m3u8
-
-#EXTINF:-1 tvg-id="3909" tvg-logo="http://epg.it999.ru/img/3909.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6854/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: BBC Earth HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110608&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=18011&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18011&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=18011&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18011&extension=m3u8" group-title="01.KIL-BELGESEL", 6.BEiN GURME
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=18011&extension=m3u8
-
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein GuRME HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=493&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101973&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101973&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101973&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101973&extension=m3u8" group-title="01.KIL-BELGESEL", 6.BEiN IZ
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101973&extension=m3u8
 
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein IZ HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=18563&extension=m3u8
 
-#EXTINF:-1 tvg-id="3862" tvg-logo="http://epg.it999.ru/img/3862.png" group-title="01.KIL-BELGESEL", 6.beIN Gurme HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6804/index.m3u8
-
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57663&extension=m3u8
-
-#EXTINF:-1 tvg-id="6531" tvg-logo="http://epg.it999.ru/img/6531.png" group-title="01.KIL-BELGESEL", 6.beIN IZ TV HD
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/19078/index.m3u8
-
-#EXTINF:-1 tvg-id="3912" tvg-logo="http://epg.it999.ru/img/3912.png" group-title="01.KIL-BELGESEL", 6.Da Vinci Learning HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6857/index.m3u8
-
-#EXTINF:-1 tvg-id="3916" tvg-logo="http://epg.it999.ru/img/325.png" group-title="01.KIL-BELGESEL", 6.Discovery Channel TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6861/index.m3u8
-
-#EXTINF:-1 tvg-id="3918" tvg-logo="http://epg.it999.ru/img/3918.png" group-title="01.KIL-BELGESEL", 6.Discovery Science TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6863/index.m3u8
-
-#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.DMAX
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2290/index.m3u8
-
-#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.Dmax FHD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6912/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=492&extension=m3u8
 
-#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.DMAX HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2300/index.m3u8
-
 #EXTINF:-1 tvg-id="TR: DMAX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67565&extension=m3u8
-
-#EXTINF:-1 tvg-id="2602" tvg-logo="http://epg.it999.ru/img/2602.png" group-title="01.KIL-BELGESEL", 6.Dmax TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6913/index.m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101975&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101975&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101975&extension=m3u8/" group-title="01.KIL-BELGESEL", 6.DOCUBOX
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101975&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DOCUBOX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=17179&extension=m3u8
@@ -8534,9 +8255,6 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=488&extensi
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57746&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57746&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1884&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1884&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1884&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1884&extension=m3u8" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1884&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: DISCOVERY SCIENCE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110612&extension=m3u8
 
@@ -8555,26 +8273,14 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57745&ext
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=496&extension=m3u8
 
-#EXTINF:-1 tvg-id="3911" tvg-logo="http://epg.it999.ru/img/3911.png" group-title="01.KIL-BELGESEL", 6.History Channel HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6856/index.m3u8
-
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57748&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57748&extension=m3u8
 
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=497&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1885&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1885&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1885&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1885&extension=m3u8" group-title="01.KIL-BELGESEL", 6.HISTORY CHANNEL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1885&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101977&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101977&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101977&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101977&extension=m3u8" group-title="01.KIL-BELGESEL", 6.LOVE NATURE
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101977&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: LOVE NATURE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67567&extension=m3u8
-
-#EXTINF:-1 tvg-id="3919" tvg-logo="http://epg.it999.ru/img/3919.png" group-title="01.KIL-BELGESEL", 6.Love Nature HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6864/index.m3u8
 
 #EXTINF:-1 tvg-id="TR: LOVE NATURE HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110620&extension=m3u8
@@ -8591,29 +8297,11 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57739&ext
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO WILD HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=486&extension=m3u8
 
-#EXTINF:-1 tvg-id="3922" tvg-logo="http://epg.it999.ru/img/3922.png" group-title="01.KIL-BELGESEL", 6.NatGeo HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6867/index.m3u8
-
-#EXTINF:-1 tvg-id="3921" tvg-logo="http://epg.it999.ru/img/3921.png" group-title="01.KIL-BELGESEL", 6.NatGeo Wild HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6866/index.m3u8
-
 #EXTINF:-1 tvg-id="TR: National Geographic HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67570&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: National Geographic HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=17121&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1887&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1887&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1887&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1887&extension=m3u8" group-title="01.KIL-BELGESEL", 6.NATIONAL GEO
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1887&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1889&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1889&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1889&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1889&extension=m3u8" group-title="01.KIL-BELGESEL", 6.NATIONAL GEO WILD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1889&extension=m3u8
-
-#EXTINF:-1 tvg-id="3967" tvg-logo="http://epg.it999.ru/img/3967.png" group-title="01.KIL-BELGESEL", 6.TLC HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6914/index.m3u8
-
-#EXTINF:-1 tvg-id="3968" tvg-logo="http://epg.it999.ru/img/3968.png" group-title="01.KIL-BELGESEL", 6.TLC TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6915/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC TV
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=4174&extension=m3u8
@@ -8633,20 +8321,8 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=197205&exte
 #EXTINF:-1 tvg-id="TR| VIASAT HISTORY" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.VIASAT HISTORY
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57750&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101974&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101974&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101974&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101974&extension=m3u8" group-title="01.KIL-BELGESEL", 6.VIASAT HISTORY
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101974&extension=m3u8
-
-#EXTINF:-1 tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" group-title="01.KIL-BELGESEL", 6.Yaban HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6787/index.m3u8
-
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=484&extension=m3u8
-
-#EXTINF:-1 tvg-id="3846" tvg-logo="http://epg.it999.ru/img/3846.png" group-title="01.KIL-BELGESEL", 6.Yaban TV TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6868/index.m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=101976&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101976&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=101976&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101976&extension=m3u8" group-title="01.KIL-BELGESEL", 6.INSIGHT TV
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=101976&extension=m3u8
 
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="01.KIL-BELGESEL", 7.italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
@@ -8674,9 +8350,6 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://zoostreamtv.com/wp-content/uploads/2023/10/cropped-5.png" group-title="01.KIL-BELGESEL", 8.ZOO Stream
 http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23133/bon-appetit/logo_20231219_184927_36.png" group-title="01.KIL-BELGESEL", 9.Bon Appétit
-https://amg00255-condenast-amg00255c1-distrotv-us-1863.playouts.now.amagi.tv/playlist/amg00255-condenastfast-bonappetit-distrotvus/playlist.m3u8?us_privacy=__IS_CCPA__&rnd=__CACHE_BUSTER__&aid=__ADVERTISING_ID__&deviceOS=&width=__WIDTH__&height=__HEIGHT__&deviceMake=__DEVICE__&deviceId=__DEVICE_ID__&deviceIdType=__DEVICE_ID_TYPE__&deviceDNT=__LIMIT_AD_TRACKING__&bundle=__APP_BUNDLE__&app_version=__APP_VERSION__&appCategory=__APP_CATEGORY__&storeurl=__STORE_URL__&gdpr=__IS_GDPR__&env_i=__env.i__&env_u=__env.u__&lat=__LATITUDE__&long=__LONGITUDE__&geo=__GEO_COUNTRY__&deviceConnectionType=__DEVICE_CONNECTION_TYPE__&dma=__GEO_DMA__&geoType=__GEO_TYPE__&user_agent=__USER_AGENT__&paln=__PALN__&ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23143/cook-and-bake/logo_20240216_225930_70.png" group-title="01.KIL-BELGESEL", 9.COOK & BAKE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/playlist.m3u8
@@ -8753,11 +8426,8 @@ http://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist_1280x72
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/real-life-tv/logo_20231219_221246_66.png" group-title="01.KIL-BELGESEL", Real Life TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22863/right-now-tv/logo_20231219_221555_29.png" group-title="01.KIL-BELGESEL", Right Now Tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20231219_223616_61.png" group-title="01.KIL-BELGESEL", TronTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trontv/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" group-title="01.KIL-BELGESEL", TRAVEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24 HD
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
@@ -9593,56 +9263,17 @@ http://stream.tvcdn.net/dini/vaaz-tv.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="http://assets.tvcdn.net/0769611d-315b-4b02-a3c3-cb643e6fe872.png" group-title="05.DİNİ", Vav TV
 http://stream.tvcdn.net/dini/vav-tv.m3u8
 
-#EXTINF:-1 tvg-id="3900" tvg-logo="http://epg.it999.ru/img/3900.png" group-title="06.KIL-ÇOCUK", 0.Baby TV TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6845/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="06.KIL-ÇOCUK", 0.Bilsem Bizim TV
 http://palatv34.ozelip.com:22372/bilsem/bilsem/chunklist_w1564342469.m3u8
-
-#EXTINF:-1 tvg-id="3905" tvg-logo="http://epg.it999.ru/img/3905.png" group-title="06.KIL-ÇOCUK", 0.Boomerang HD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6850/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:-1 tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2325/index.m3u8
-
-#EXTINF:-1 tvg-id="2620" tvg-logo="http://epg.it999.ru/img/2620.png" group-title="06.KIL-ÇOCUK", 0.Cartoon Network TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6846/index.m3u8
-
-#EXTINF:-1 tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" group-title="06.KIL-ÇOCUK", 0.Disney JR TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6843/index.m3u8
-
-#EXTINF:-1 tvg-id="3897" tvg-logo="http://epg.it999.ru/img/3897.png" group-title="06.KIL-ÇOCUK", 0.Disney Junior TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6842/index.m3u8
-
-#EXTINF:-1 tvg-id="3899" tvg-logo="http://epg.it999.ru/img/3899.png" group-title="06.KIL-ÇOCUK", 0.Disney XD TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6844/index.m3u8
-
-#EXTINF:-1 tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" group-title="06.KIL-ÇOCUK", 0.Minika Cocuk TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6849/index.m3u8
-
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="06.KIL-ÇOCUK", 0.Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 
-#EXTINF:-1 tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" group-title="06.KIL-ÇOCUK", 0.Minika Go TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6851/index.m3u8
-
-#EXTINF:-1 tvg-id="2604" tvg-logo="http://epg.it999.ru/img/2604.png" group-title="06.KIL-ÇOCUK", 0.Minika Çocuk
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2303/index.m3u8
-
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="06.KIL-ÇOCUK", 0.Minika çocuk
 https://uzunmuhalefet.serv00.net/ecanlitv.php?kanal=minika-cocuk-canli-4&.m3u8
-
-#EXTINF:-1 tvg-id="2591" tvg-logo="http://epg.it999.ru/img/2591.png" group-title="06.KIL-ÇOCUK", 0.minikaGO
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/2266/index.m3u8
-
-#EXTINF:-1 tvg-id="3902" tvg-logo="http://epg.it999.ru/img/3902.png" group-title="06.KIL-ÇOCUK", 0.Nick Jr TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6847/index.m3u8
-
-#EXTINF:-1 tvg-id="3903" tvg-logo="http://epg.it999.ru/img/3903.png" group-title="06.KIL-ÇOCUK", 0.Nickelodeon TR
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/TXQXV6VX7ZDC6S/6848/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="06.KIL-ÇOCUK", 0.TRT Diyanet çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
@@ -9904,6 +9535,9 @@ http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/logo_20231219_184146_68.png" group-title="11.KIL :)", Always Funny
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="11.KIL :)", amc +
+http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="https://anywhere.pwisetthon.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93059" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="11.KIL :)", Big Brother 01 brz
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93059
