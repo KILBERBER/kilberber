@@ -812,12 +812,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57806&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369564&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369563&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=117043&extension=m3u8
 
@@ -1364,6 +1358,15 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream
 #EXTINF:-1 tvg-id="TR | Bein SPORTS 1  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SP0R 1 4K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399265&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190932&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190932&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190932&extension=m3u8
+
 #EXTINF:-1 tvg-id="Beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/Bein_sports_1.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPOR 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=18655&extension=m3u8
 
@@ -1655,6 +1658,18 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPOR MAÇ SAATI (FEED) 4K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423612&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPORTS FEED
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=423478&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPORTS FEED
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423478&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPORTS FEED
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423478&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.B.SPORTS FEED
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423478&extension=m3u8
+
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EUROSPORT 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2087&extension=m3u8
 
@@ -1904,6 +1919,48 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="TR | EXXEN SPORT 6" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORT 6
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=191260&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 1
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369553&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 1 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369555&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369554&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 2
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369556&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 2 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369558&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 2 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369557&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 2 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369557&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 3
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369559&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 3 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369560&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 3 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369560&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 4 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369564&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 4 FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369564&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 4 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369563&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.EXXEN SPORTS 4 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369563&extension=m3u8
+
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.NBA
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2071&extension=m3u8
 
@@ -1919,6 +1976,15 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.NBA TV
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2043&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190956&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190956&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190956&extension=m3u8
+
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2073&extension=m3u8
 
@@ -1930,6 +1996,24 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2073&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=351371&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=351371&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=351371&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=351372&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=351372&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=351372&extension=m3u8
 
 #EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S SPORT 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2075&extension=m3u8
@@ -1953,25 +2037,112 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=351372&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | VIP S-SPORT" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S-SPORT
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190955&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S-SPORT" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S-SPORT
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190955&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S-SPORT" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S-SPORT
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190955&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S-SPORT" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.S-SPORT
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190955&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SMART SPOR
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2077&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SMART SPOR
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2077&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SMART SPOR
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2077&extension=m3u8
 
 #EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SMART SPOR
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2077&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | SPORSMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART 2 HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=220010&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | SPORSMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART 2 HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=220010&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | SPORSMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART 2 HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=220010&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | SPORSMART 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=220010&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=220009&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=220009&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART HD
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=220009&extension=m3u8
 
 #EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORSMART HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=220009&extension=m3u8
 
 #EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTS TV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2084&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTS TV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2084&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTS TV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2084&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTS TV
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2084&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTSTV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=101943&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTSTV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101943&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.SPORTSTV
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=101943&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2081&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2081&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | TIVIBU SPOR" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2081&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | TIVIBU SPOR 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2078&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2078&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 1
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2078&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2078&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190957&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190957&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190957&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2079&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2079&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2079&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2079&extension=m3u8
@@ -1981,6 +2152,15 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream
 
 #EXTINF:-1 tvg-id="TR | VIP TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190957&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 3" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 3
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2080&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 3" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 3
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2080&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 3" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.TIVIBU SPOR 3
+http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2080&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR  | VIP BETERRO SPORTS FEED FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR YEDEK", 0.VIP BETERRO SPORTS FEED FHD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423480&extension=m3u8
