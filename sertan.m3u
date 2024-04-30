@@ -6437,14 +6437,26 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 1 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52204
 
+#EXTINF:-1 tvg-id="RS | ZADRUGA 1" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 1 yedek
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=727355&extension=ts
+
 #EXTINF:-1 tvg-id="Zadruga 2 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 2 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52205
+
+#EXTINF:-1 tvg-id="RS | ZADRUGA 2" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 2 yedek
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=727356&extension=ts
 
 #EXTINF:-1 tvg-id="Zadruga 3 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 3 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52206
 
+#EXTINF:-1 tvg-id="RS | ZADRUGA 3" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 3 yedek
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=727357&extension=ts
+
 #EXTINF:-1 tvg-id="Zadruga 4 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 4 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/92204
+
+#EXTINF:-1 tvg-id="RS | ZADRUGA 4" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 4 yedek
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=757346&extension=ts
 
 #EXTINF:-1 tvg-id="3D Sinema Hd" tvg-logo="https://kanallogo2.com/images/sinema/3d-sinema.png" group-title="FiLM 3D", 0.3D Sinema Hd
 https://hs-cors.herokuapp.com/http://ragnarlive.live:80/live/ares1984/ares.2209/66116.ts
