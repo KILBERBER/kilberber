@@ -164,17 +164,50 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Franceⓧ
 https://anywhere.pwisetthon.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/76440
 
-#EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 21.BTA TV
+#EXTINF:-1 tvg-id="IT| DEEJAY TV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.DEEJAY TV HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=56758&extension=ts
+
+#EXTINF:-1 tvg-id="FR| M6 MUSIC FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.M6 MUSIC FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44054&extension=ts
+
+#EXTINF:-1 tvg-id="FR| MTV 00s" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44084&extension=ts
+
+#EXTINF:-1 tvg-id="FR| MTV 80s" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV 80s
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44085&extension=ts
+
+#EXTINF:-1 tvg-id="FR| MTV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44055&extension=ts
+
+#EXTINF:-1 tvg-id="FR| MTV HITS FRANCE FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV HITS FRANCE FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44056&extension=ts
+
+#EXTINF:-1 tvg-id="FR| NRJ TV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.NRJ TV HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44063&extension=ts
+
+#EXTINF:-1 tvg-id="IT| RTL 102.5 HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.RTL 102.5 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=56757&extension=ts
+
+#EXTINF:-1 tvg-id="FR| Tomorrowland 2020" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.Tomorrowland 2020
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=231243&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TRACE  AFRICA FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE  AFRICA FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44067&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TRACE LATINA FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE LATINA FHD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44071&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TRACE TOCA" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE TOCA
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44068&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TRACE URBAN HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE URBAN HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=44066&extension=ts
+
+#EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 22.BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="0.KIL-MÜZİK", 21.Deejay TV
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="0.KIL-MÜZİK", 22.Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.Pluto TV MTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 21.ТНТ MUSIC
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-logo="https://i.imgur.com/aX70RD2.png" group-title="0.KIL-MÜZİK", 22.MoozDance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -184,6 +217,12 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 
 #EXTINF:-1 tvg-id="MoozRo.ro" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="0.KIL-MÜZİK", 22.MoozRo
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 22.Pluto TV MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.ТНТ MUSIC
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd9935887f66344bda64bf7f134eb1d9.webp" group-title="0.KIL-MÜZİK", 23.v2 beat
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
@@ -643,6 +682,9 @@ http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="0.KIL-MÜZİK", TV Web Camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-id="|CL| CHILI |CL|" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 00.Relax
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=175378&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280x720_3291200/index.m3u8
@@ -6098,86 +6140,146 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="07.E SPOR ONLİNE TViCH", 4.eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:ba:3d:28&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1a:79:a9:1c:11&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:16:f8:8e&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:B5:24:2A&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:b5:24:2a&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
+#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:BF:B7:54&stream=728889&extension=ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", ESLCS
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqEFEBHW71JObauWjdkFAZ5sVtSSHalhyBEhunwysgXfj3JCeCnXSiQBRWpDl11bs-xz15oULGS1JPkPSKAus28flQfcZ241P93muO_F3fgBMBVQpwIaNsFCLqkB8ntE08-EmDwYvnLBzAMsbkKPM4HJVC9OFJ1sBIgB1_sETTizOYwXcOJv3u0OIjftskYyqDgLbUBnZyiHye9-LbUOyuBqHkolXcllyUDE8k5Meeq9eBUV5JlsbMEBsrtg0Tm7enHQn8uX0mcF6czUvxKOy7izoPoJcqsnLeQgqEdxLXqi-ixlolngqBxpdI7u2L8jD8o8hq2FcLBDBZrrIouRuU_ZHTOcqIozwN6OQgzpLxX9TggQQc24ShkExBNsOU4z6ICAtMop46E27rtCY-2vT4EGlgYdK7zt_Y7iWPf7Fb5vwUN4slOlC7KJzzh8hHItJu0UwdgbyUnomyMBWpezd0hLdmjP7hHOAxmJPe4szhEhGk4Fpi-Ggq_4aQ6wGV0OV82ecDJ90FviMTNyZfWaczHoQEZp9aDK2hB81iel8HDTfwkx9yIj_ro80nmq43zOAsjZzPTKFAU77wBjAlKTwcRBpGxfNN82l5u30BkKyb_G3Uxt7Hwt7x3RHzFJNB_3gQEbukbXaQKptyxu2ooxoo3K96g33OpIWKrwQf1nbKd3ySAVMcfOhbohFcdXANNcR7TyKirMqvzx1QiO22gLaWyMhVZieR02Qryg9v4kW3P2uKwmCJm2q9gMTiteVp1MMBL5prLTX-dFgXA8Ye1PzZ2iAisR9uAAApBhLgYfWvrVU7jH9Ei2r88VIv3NvUhF0IgaR2rtkYjf9A9A8QCIEwOZppJ8PHUzmIp9Jo5uVAoLFCttlE7Xr29VyXGe03E0Ljbn8hoMyyO8yWS9nEIvcWjkIAEqCWV1LXdlc3QtMjCWCQ.m3u8
+#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=71653&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=71653&extension=ts
+
+#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=71653&extension=ts
+
+#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=71653&extension=ts
+
+#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=71653&extension=ts
+
+#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:ba:3d:28&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1a:79:a9:1c:11&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:16:f8:8e&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:B5:24:2A&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:b5:24:2a&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
+#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:BF:B7:54&stream=763118&extension=ts
 
-#EXTINF:-1 tvg-id="NO | GINX ESPORTS TV" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", GINX ESPORTS TV
+#EXTINF:-1 tvg-id="TR | FAST FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gametv.svg/436px-Gametv.svg.png" group-title="07.E SPOR ONLİNE TViCH", Game Screen
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726921&extension=ts
+
+#EXTINF:-1 tvg-id="TR | FAST FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gametv.svg/436px-Gametv.svg.png" group-title="07.E SPOR ONLİNE TViCH", Game Screen
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:B5:24:2A&stream=726921&extension=ts
+
+#EXTINF:-1 tvg-id="NO | GINX ESPORTS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/GINX.TV_Logo_Black.png" group-title="07.E SPOR ONLİNE TViCH", GINX ESPORTS TV
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=767834&extension=ts
 
-#EXTINF:-1 tvg-id="NO | GINX ESPORTS TV" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", GINX ESPORTS TV
+#EXTINF:-1 tvg-id="NO | GINX ESPORTS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/GINX.TV_Logo_Black.png" group-title="07.E SPOR ONLİNE TViCH", GINX ESPORTS TV
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1a:79:a9:1c:11&stream=767834&extension=ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/636/374/non_2x/valorant-logo-valorant-icon-transparent-free-png.png" group-title="07.E SPOR ONLİNE TViCH", LVPes2
-https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CqkFljjka90_8tib1D1mWZG8uFMw3G1ebWXlqUH6R9Cqfv6CAF-A-OuS4VRMsMitpUcxckN0tDpbb1KhGIaCb69W4Fk38yZRJEuq4NlLnrHxFdwYXcKKBJ5MuMLgvkriNDQYXAp_I3-whJfGG_Nyzy_I88IYUclLeShgpk8VNKqvIFhKaXtnPu8c6gTCcJDe31prPtWJ95l-yGscTGpQN329ZNLnLNM2O5oQzr72iUXOfzBjVUshku2E6y7SwzVu-QXwKU_fVW1-hE18B3bectRbu2x5zO38IBLvCg2Kw51_9xFK9Ye0p0mSxFFiNQbrvAQEw_Poreefm98Rmynpf8pL1Q3sUshLVHuVb9nIINh0Ztnl9ncrZh7YkJ3mC0pQeYqE2gvXjfN59qil4tCh1LUuwgfykRP9dZYLM6ceudbF9svluhyIFih_2eZpiyonxw1SDdXYIPdcqTt-jIspgyHRN0RPWhKJfdkjLcwamgcT5BziZvwIihvQonpsKUaR5lUSZUsSQUZuJDubsSc_YKUKXnp6Ci28wZ4PBIWW9ytLu2z04JxTN8hcFK6VbSpYSFwhw5Y_jS_fNzjsnZKVRK3XGKjGLJcuQAPT-Sqgm0-MObR3Vh5pLh3zVe-He9A6Z7Dcsvg03ogwd4DbEbQTepBcpzHl2_ETVOxFml37_kJKp7HooRrTRUZEW-p5Q4jPWBZWo__um0vtZS4XQ-YH1VaiS5XIOyL2BL6e1YvHrYGgvsjO4a0lLD217nVSHokwFTWKLAU-vp6YMCyEhwRrLu8B0wkyX-Loj13Ty1z6SFSqPXJBOQw3VTlXLu9uORj2qbNgvv2Y0jq3MVfrDq7G2eZfMwjogeAURA1AL8omDH0R0LIihT9pw8Oa_0tecnlNGuHp3ow10QGbT0G_Ggx9zLG31fzcSqeKn6QgASoJZXUtd2VzdC0yMJYJ.m3u8
+#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75354&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=75354&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=75354&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=75354&extension=ts
+
+#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=75354&extension=ts
+
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C0:C9:12&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:ba:3d:28&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1a:79:a9:1c:11&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:16:f8:8e&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:B5:24:2A&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:b5:24:2a&stream=728923&extension=ts
 
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
+#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:BF:B7:54&stream=728923&extension=ts
+
+#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75341&extension=ts
+
+#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=75341&extension=ts
+
+#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=75341&extension=ts
+
+#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=75341&extension=ts
+
+#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=75341&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="10.YOUTUBE VLC PLAYER SEYRET", 0.Bein spor haber
 https://www.youtube.com/watch?v=OypUpUTYAHI
