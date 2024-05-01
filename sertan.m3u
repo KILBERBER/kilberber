@@ -5,6 +5,9 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Dream_TV_logosu.png" group-title="0.KIL-MÜZİK", 02.DREAM
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.dreamturk.com.tr/assets/dist/images/dream-turk-logoV2.png" group-title="0.KIL-MÜZİK", 02.Dreem Türk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&amp;live=true&amp;app=com.dreamturk
+
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="0.KIL-MÜZİK", 03.KRAL Pop
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
@@ -4925,6 +4928,9 @@ https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="01.KIL-BELGESEL", 9.Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/logo_20231219_184403_70.png" group-title="01.KIL-BELGESEL", AWE Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/AWE_Encore.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/barktv/logo_20240220_175434_70.png" group-title="01.KIL-BELGESEL", BarkTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fido-tv/FIDO_SCTE.m3u8
 
@@ -4961,14 +4967,23 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannelInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/300px-Outdoor_Channel_logo_2017.svg.png" group-title="01.KIL-BELGESEL", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22888/plymouth-rock-tv/logo_20231219_221017_69.png" group-title="01.KIL-BELGESEL", Plymouth Rock TV 
+https://d38fyt2xhm4m2b.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-PlymouthRockTV/419.m3u8?ads.islive=1&ads.streamtype=live
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://americanaoutdoors.com/wp-content/uploads/2023/01/Pursuit-Channel-705x705.jpg" group-title="01.KIL-BELGESEL", PursuitUP
 http://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/real-life-tv/logo_20231219_221246_66.png" group-title="01.KIL-BELGESEL", Real Life TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22706/the-boat-show/logo_20231219_223008_70.png" group-title="01.KIL-BELGESEL", The Boat Show
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" group-title="01.KIL-BELGESEL", TRAVEL TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20231219_223616_61.png" group-title="01.KIL-BELGESEL", TronTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trontv/master.m3u8
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24 HD
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
