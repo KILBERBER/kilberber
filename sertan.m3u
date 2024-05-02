@@ -788,97 +788,217 @@ http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="aspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=284&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| A SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57720&extension=ts
+
+#EXTINF:-1 tvg-id="TR| A SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57719&extension=ts
+
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (TTNET)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349721&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 1 (SUPERONLINE)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349722&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
-
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106810&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SP0R 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57794&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57794&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57794&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57794&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57797&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57797&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57797&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57797&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57797&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57797&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57800&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57800&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57800&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57800&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57800&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57800&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=262&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57801&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57801&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57801&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57801&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57801&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57801&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57801&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 2 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57803&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57803&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57803&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57803&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57803&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57803&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57803&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=263&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57804&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57804&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57804&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57804&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57804&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57804&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57804&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
+
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 3 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57806&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57806&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57806&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57806&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57806&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57806&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57808&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=264&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57808&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57808&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57808&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57808&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57808&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57808&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 4 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD
@@ -887,10 +1007,10 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290639&exte
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR 5 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=117043&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57733&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD
@@ -899,52 +1019,220 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=266&extensi
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAX 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=293&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAXX 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57733&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAXX 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57733&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAXX 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57733&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAXX 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57733&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.B.SPOR MAXX 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57733&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.BSPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57794&extension=ts
+
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 1 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=275&extension=m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EUROSPORT 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=276&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369553&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369553&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369553&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369553&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369553&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369553&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369555&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369555&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369555&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369555&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369555&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369555&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369555&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369554&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369554&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369554&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369554&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369554&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369554&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369554&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369556&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369556&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369556&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369556&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369556&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369556&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369556&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369558&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369558&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369558&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369558&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369558&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369558&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369558&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369557&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369557&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369557&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369557&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369557&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 (ONLY EVENT)
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369559&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369559&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369559&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369559&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369559&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369559&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369559&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369560&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369560&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369560&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369560&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369560&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369562&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369562&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369562&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369562&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369562&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369564&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369564&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369564&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369564&extension=ts
+
+#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369564&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57721&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57721&extension=m3u8
 
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S-SPORT 1 HD+
@@ -956,46 +1244,49 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=116073&exte
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S-SPORT 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=295&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD
+#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57810&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD
+#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57810&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD
+#EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SMART SPORT 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57810&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57794&extension=ts
+
+#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57723&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD
+#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57723&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD
+#EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57723&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: TiViBUSPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=125109&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57727&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57727&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=269&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57727&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57727&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57724&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57724&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57726&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57726&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD
@@ -3182,26 +3473,23 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106622&exte
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106621&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57667&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57667&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57667&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57666&extension=m3u8/" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57666&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=312&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57666&extension=m3u8/" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIER a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57666&extension=m3u8
+
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=317&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57671&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57671&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57671&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57672&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57679&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57679&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=309&extension=m3u8
@@ -3209,17 +3497,20 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=309&extensi
 #EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=307&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57675&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57675&extension=m3u8
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57679&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57679&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=308&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57681&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&extension=m3u8
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57675&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57675&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=306&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57681&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&extension=m3u8
 
 #EXTINF:-1 tvg-id="dizismartmax.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART MAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=332&extension=m3u8
@@ -3233,10 +3524,10 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=331&extensi
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART PREMIUM HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=351&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57697&extension=m3u8
 
 #EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSİC HD+
@@ -3248,13 +3539,13 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=370&extensi
 #EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=349&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57703&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57703&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57703&extension=m3u8
 
 #EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=368&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57699&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57699&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57699&extension=m3u8
 
 #EXTINF:-1 tvg-id="sinema1002.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 HD+
@@ -3266,41 +3557,38 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=359&extensi
 #EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=335&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57705&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57705&extension=m3u8
-
 #EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=361&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57705&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57705&extension=m3u8
 
 #EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=360&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57704&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57704&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57708&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE 2
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57708&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57708&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV AILE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=363&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57704&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57704&extension=m3u8
+
 #EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=362&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57700&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57700&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57700&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57707&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57707&extension=m3u8
 
 #EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=365&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57707&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57707&extension=m3u8
+
 #EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=364&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57709&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57709&extension=m3u8
 
 #EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI  HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=366&extension=m3u8
@@ -3308,8 +3596,8 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=366&extensi
 #EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=367&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57669&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.TIVI TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57669&extension=m3u8
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57709&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57709&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: Arenabox-Action" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 00.Arenabox-Action
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219823&extension=m3u8
@@ -4166,6 +4454,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="00.KIL-ONLİNE FİLM", 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57669&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 1.TIVI TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57669&extension=m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="00.KIL-ONLİNE FİLM", 1.Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
@@ -4769,7 +5060,7 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=493&extensi
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein IZ HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=18563&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57663&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD
@@ -4784,11 +5075,8 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=17179&exten
 #EXTINF:-1 tvg-id="TR: DOCUBOX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110617&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57743&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57743&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57743&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:55:18:21&stream=1882&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1882&extension=m3u8" tvg-logo="http://line.clear-ocean.link/play/live.php?mac=00:1A:79:00:98:55&stream=1882&extension=m3u8/http://line.clear-ocean.link/play/live.php?mac=00:1a:79:c3:50:db&stream=1882&extension=m3u8" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:01:66:75&stream=1882&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110611&extension=m3u8
@@ -4939,6 +5227,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cab
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/logo_20231219_192821_64.png" group-title="01.KIL-BELGESEL", CraftsyTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/logo_20240129_193906_68.png" group-title="01.KIL-BELGESEL", Crafty Panda
+https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22728/everyday-heroes/logo_20231219_201332_70.png" group-title="01.KIL-BELGESEL", Everyday Heroes
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
@@ -6286,9 +6577,6 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1a:79:a9:1c:11&stream=864060&exten
 
 #EXTINF:-1 tvg-id="DE | BIG BROTHER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Big_Brother_Germany_2015.png" group-title="11.KIL :)", BIG BROTHER Germany
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:ba:3d:28&stream=864060&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23140/crafty-panda/logo_20240129_193906_68.png" group-title="11.KIL :)", Crafty Panda
-https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-id="https://lnc-estrella-games.tubi.video/playlist.m3u8" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="11.KIL :)", Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
