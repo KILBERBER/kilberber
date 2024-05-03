@@ -785,9 +785,6 @@ https://raw.githubusercontent.com/KILBERBER/kilberber/main/7yasa.mp4
 #EXTINF:-1 tvg-id="http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/7-24.jpeg" group-title="0.KIL-SPOR", 0.7/24 SPOR TV
 http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=284&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR| A SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.A SPOR HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57720&extension=ts
 
@@ -1230,6 +1227,21 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369564&ex
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369564&extension=ts
 
 #EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57721&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57721&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57721&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57721&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57721&extension=ts
+
+#EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57721&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.S SPORT HD a
@@ -1268,6 +1280,21 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57723&ext
 #EXTINF:-1 tvg-id="TR: TiViBUSPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=125109&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57727&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57727&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57727&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57727&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57727&extension=ts
+
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=269&extension=m3u8
 
@@ -1276,6 +1303,21 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57727&ext
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57727&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57724&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57724&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57724&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57724&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57724&extension=ts
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57724&extension=m3u8
@@ -1291,6 +1333,21 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57726&ext
 
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=270&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57726&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57726&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57726&extension=ts gibi 
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57726&extension=ts
+
+#EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 3 HD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57726&extension=ts
 
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 4(maczamani)" tvg-logo="noimage.png" group-title="0.KIL-SPOR", 0.TIVIBU SPOR 4
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=182418&extension=m3u8
@@ -2426,16 +2483,13 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_166.png" group-title="0.KIL-ULUSAL", 01.TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_166.png" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 
-#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 01.TRT 1 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=229&extension=m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_265.png" group-title="0.KIL-ULUSAL", 01.trt 2
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_265.png" group-title="0.KIL-ULUSAL", 01.trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 2
@@ -2453,17 +2507,14 @@ https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="0.KIL-ULUSAL", 01.TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show A
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show A
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show B
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show B
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.Show C
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 02.SHOW HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=233&extension=m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="0.KIL-ULUSAL", 02.SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
@@ -2474,8 +2525,8 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.SHOW TURK B
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 02.SHOW TURK HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=209141&extension=m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 A
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
@@ -2483,17 +2534,14 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.TV 8 B
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 03.TV 8 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=251&extension=m3u8
-
 #EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="0.KIL-ULUSAL", 03.TV 8 INT
 https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="0.KIL-ULUSAL", 03.tv 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?=&sid=5y5gengjqmxl&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3&dfp_paln=AQzzBGQEpKfzUoE8SaFhKalLwP38Lfnqg_A2K9DJ07XaLGzIsGEpZz1p6xTQRba3HtMKqZWR-n7_bYtr7WyHs-At0hJ19WsH1wdL12zeKkFhtbXPFVwGtxa8LZlkLIzRUpsiReAESLKtsQMdBFHfr2Zxdf2VPi37tfd8o_5RVLPMd-m5xsGfg54iamISDY-wZ13t0aQE2W7GJHHXtf-LwG2_l28Z0dIgNCnr3q8snvJ6fWqGwtdsLicwNig-i8r27gVw3b5CFDFPRW7FPjgJSxlI28VzMiT73TsF1E7kGw968TT28KGRXs85P8i3GwnJANs38LuXBVXEGkpkU52WuwQ-MxiAE7xLUaXuNkxlXic-PatxBQoN3KKCFZMPKiK3gtv9tQ1i4dHG8iz8DS-7ObEQUUb6hZKBSIc0IyxNavDpr4PzbiWJINKieGJgZggdQcTU2hglK2gDTZPgVb5QYis0sfNS73bKX1F6B_Xs2ChMRmF3ACHq9WiHIoCqv8Mx7gKvwSlV1EWCwResJryWIntLlcE93JcVKto3drS2plA7Qz1qF5uXdeJBbeEW6yPyByDDTt-hBmSy75IbCj6IITiJc44ep96uodnfmYXOwvR1LGzNdhi6XGJHutEfIIdeWBxTJTN_kTKC8wXOr7J4OSIUOQmCyI6Lfc0c08rgoiy6H2CQFFJuP9KEaQuTg6s4zlX2zoWOF48aacYmseZJvp3f4f_P0GzgOd7I8gpFvRbICl5D9VEiB4YJKzwxU2PpF-yvaGqRPraOoLgewnAlPutXu5i21cu2vAiJIoQrALve25QPJxa1MoeLx9DeLiEQErRgo9pC0eI4BdA2YCnclpfxurOdQRbMulRgQFGr8e6McHAncV1bG0uzB7HGtInTHjSPSPlLXXQLfk6-rvbEga_MK6ICTvB0ei-iQb3nkl4izCGtwcrQ8VaV2gz8JjDrLFwvykkb3eXxfFN1r094vDPqvaB9LV-FXtH-oa34J5wKP-gAbnZrPvAoMUEWBnd6GakX6EUJMaAetopfkZBD_pBm1dbBHnbqKP__nJbKd7Ij27esUi2YZeX8AkS5FkJ-8T1H03z08kRsadwVSqsZK4uK66eZ_ZTJPfMeQCWfe6do89Xhx5ad6P5ctHb9AWq1InTEv7WZbIyal1VYlpj3mOhaZOhjJESX1tr--fLDjydwJkW2a01Ry0-DLftW2PM.
 
-#EXTINF:-1 tvg-id="tv85.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 03.TV 8.5 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=236&extension=m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8.5 
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV 1
 http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
@@ -2507,23 +2555,17 @@ http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
 #EXTINF:-1 tvg-id="ATV AVRUPA" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="0.KIL-ULUSAL", 04.ATV AVRUPA
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 04.ATV HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=231&extension=m3u8
-
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1024px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="0.KIL-ULUSAL", 05.NOW A
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 05.NOW B
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 05.Now TV HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=234&extension=m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.Kanal D 
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="0.KIL-ULUSAL", 06.KANAL D A
+#EXTINF:-1 tvg-id="https://demiroren-live.daioncdn.net/kanald/kanald.m3u8" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="0.KIL-ULUSAL", 06.KANAL D A
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="0.KIL-ULUSAL", 06.Kanal D B
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.KANAL D C
 https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
@@ -2534,17 +2576,11 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="0.KIL-ULUSAL", 06.KANAL D EURO
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 06.KANAL D HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=230&extension=m3u8
-
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="0.KIL-ULUSAL", 07.EUROSTAR
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/eurostar.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="0.KIL-ULUSAL", 07.star
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-
-#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 07.STAR TV HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=232&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="0.KIL-ULUSAL", 08.BEYAZ TV A
 https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?=&sid=5ycze02og8jy&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3&dfp_paln=AQzzBGQEykY8pruWqyuh83klikIL7h25FdwAN4mmgSspaC8m84-Y2434d0YpNVWIIe7gMddQA0e9Gg8MG8rXu3-MN7H6rlbNdAZu5A-UCb2WAgWH1ntuJ5SLdQ97JAq39Ox4yLVSpEl6HNC13Q_PK3gvh8l4eGNshTbgS72gyNKLtP5WrNFfZHOO25C9Nl9dEywobD0QwBOjQh_n4RoVrqVjFQtDW1EW1zqiN8HBeRIfk_K3OqzJNjbxoweQvYcGzyEuXyfhPzdBCkIKI0l920hExvAyztM0P34jBPDP4uiH1Ymc75TKROpFNJDEIA8DrUSejmir866Cfdp7gp1KZD97pER0hM0cYY9QKb7TCGaWMGfwtng3Ewb08yzitrmxjp7Dcuy04rBO7yhs53ypdL91S-LWZld1C1Ypsn6B6xic-IZ6S9Wji0MxwAZTGYln5cREtvjm5fRsQtbKmluwnyxPRv0GlPMbWWtd61jO3UrZ14YZFB8WkeazBS_VKB6NbML4cvPT4UVDkgATZ43UlI-nQSfBUehvbay3Mmf3RzdOKMAioRUHNXiDmezIqsUsieEBerx3KQ05dSUunbNx2iiOf8XFXQfOaYKfFheWULb69ph6KT4bq38twpjxuq36A12spAgnehyNTvSSsvt6GG59DAsjHMLX6z1QQEjSY2Lb-ioHukaK-Ht8S3dTUqnGKQWkFXcjS7G8KCj7_M0aFy97txYRFxQvpICpuZ4Yk2b1uXP2lEY_iqJh9MxPajNAroumzJ_jwM-AwXkPwwb8i28LMOoo_Y0DUdJfcyvxHQCGyjffBgCuUcsILznoJAkz9fDhtqS8AqmRZxkmMJDhUGTyCghx5IqCt21ZCENwNAPB-_rTgEWieDPmHjzr0lUFYb5b6oIle1FXeAvtmuGQ7V8V9GWquktZEfvmxfXweCqVi4AOAuZtjxfvQ-WzmuLwAzTuL-hYeE7iQai7ev06h9WpRbzxMfg-gvn_HzxxkegJk20YjnR9NqBjCJyssEtlULa_ZLbvG04d5BT9TJ3cAR2mEOcfhEbFQMgSvxc4-TnMTleVgNl2Xz_7WlRMRpI.
@@ -2555,14 +2591,8 @@ https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 08.BEYAZ TV C
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 08.BEYAZ TV HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=237&extension=m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="0.KIL-ULUSAL", 09.Kanal 7 A
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8?hash=e8c9496cb81113c2ae28ba4a6aab0b5f
-
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 09.KANAL 7 AVRUPA HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=70887&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="0.KIL-ULUSAL", 09.Kanal 7 B
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=595mkdhv6xkc&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
@@ -2572,9 +2602,6 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 09.KANAL 7 D
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
-
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 09.KANAL 7 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=238&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="0.KIL-ULUSAL", 10.360 A
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -2591,20 +2618,17 @@ http://50.7.218.122:8080/a2hd/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="0.KIL-ULUSAL", 11.a2 B
 https://c.fulltvizle.com/a2/index.m3u8
 
-#EXTINF:-1 tvg-id="https://m3u-editor.com/serve/1000-max-deathl-ess45632/1112969330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 11.A2 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=227&extension=m3u8
-
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="https://i.ibb.co/kMM9hwR/tgrt-eu.png" group-title="0.KIL-ULUSAL", 12.TGRT EU
 https://bozztv.com/inim03/live1/tgrteu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="0.KIL-ULUSAL", 13.TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.teve2.com.tr/assets/img/teve2logo.png" group-title="0.KIL-ULUSAL", 13.teve 2 
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="0.KIL-ULUSAL", 13.TEVE 2 B
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
-
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="0.KIL-ULUSAL", 13.TEVE 2 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=257&extension=m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="0.KIL-ULUSAL", 14.TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -4505,22 +4529,19 @@ https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahnele
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", 2.ŞABAN TV 4 B
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kemalsunalfilmleri.m3u8
 
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="00.KIL-SPOR KARIŞIK", 01.FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="00.KIL-SPOR KARIŞIK", 01.FB Tv
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="00.KIL-SPOR KARIŞIK", 01.GS TV
-http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:-1 tvg-id="https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8?token=SU5tn_QV-rOewtwICNYtKg&expires=1714691905" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="00.KIL-SPOR KARIŞIK", 01.Gs Tv
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="00.KIL-SPOR KARIŞIK", 02.A Spor
-http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr http://stream.tvcdn.net/spor/a-spor.m3u8" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="00.KIL-SPOR KARIŞIK", 02.A Spor
+http://hw1.jemtv.com/app/ASporHD/chunks.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="00.KIL-SPOR KARIŞIK", 02.beIN Sports Haber
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="00.KIL-SPOR KARIŞIK", 02.Sports TV
-http://stream.tvcdn.net/spor/sports-tv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="00.KIL-SPOR KARIŞIK", 02.Sports tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" group-title="00.KIL-SPOR KARIŞIK", 02.Sports tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="00.KIL-SPOR KARIŞIK", 02.Tivibu Spor
