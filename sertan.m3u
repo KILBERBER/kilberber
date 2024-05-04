@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.canlitv.team/poster/trt-muzik.png" group-title="0.KIL-MÜZİK", 01.TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" group-title="0.KIL-MÜZİK", 01.trt müzik 
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Dream_TV_logosu.png" group-title="0.KIL-MÜZİK", 02.DREAM
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
@@ -2483,29 +2486,38 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_166.png" group-title="0.KIL-ULUSAL", 01.TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 
-#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_265.png" group-title="0.KIL-ULUSAL", 01.trt 2
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://skystar-2.com/video/images/trtavaz-logo.png" group-title="0.KIL-ULUSAL", 01.TRT Avaz
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936228.png" group-title="0.KIL-ULUSAL", 01.trt avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936228.png" group-title="0.KIL-ULUSAL", 01.TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_169.png" group-title="0.KIL-ULUSAL", 01.trt haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936278.png" group-title="0.KIL-ULUSAL", 01.trt türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT HABER B
-https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
-
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="http://assets.tvcdn.net/fbaaa75c-0a2d-4ed6-b498-d32a59ddb899.png" group-title="0.KIL-ULUSAL", 01.TRT Türk
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936278.png" group-title="0.KIL-ULUSAL", 01.TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show A
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
@@ -2516,7 +2528,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.Show C
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="0.KIL-ULUSAL", 02.SHOW MAX
+#EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://showmax.com.tr/images/core/showmax_logo.png" group-title="0.KIL-ULUSAL", 02.SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="0.KIL-ULUSAL", 02.Show Turk A
@@ -2525,7 +2537,7 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.SHOW TURK B
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 A
@@ -3497,6 +3509,21 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106622&exte
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106621&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57667&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57667&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57667&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57667&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57667&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57667&extension=m3u8
 
@@ -3509,8 +3536,53 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57666&ext
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=317&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57666&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57666&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57666&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57666&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57671&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57671&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57671&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57671&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57671&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57671&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57671&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57672&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57672&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57672&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57672&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57672&extension=ts
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57672&extension=m3u8
@@ -3521,11 +3593,41 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=309&extensi
 #EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=307&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57679&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57679&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57679&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57679&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57679&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57679&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57679&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=308&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57675&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57675&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57675&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57675&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57675&extension=ts
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57675&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57675&extension=m3u8
@@ -4568,11 +4670,17 @@ http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_226.png" group-title="00.KIL-SPOR KARIŞIK", 04.trt spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936160.png" group-title="00.KIL-SPOR KARIŞIK", 04.trt spor 
+https://trt.daioncdn.net/trtspor/master.m3u8?app=clean
+
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_226.png" group-title="00.KIL-SPOR KARIŞIK", 04.TRT SPOR blutv
 https://trtspor.blutv.com/blutv_trtspor/live.m3u8
 
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="00.KIL-SPOR KARIŞIK", 04.TRT Spor Yildiz
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936198.png" group-title="00.KIL-SPOR KARIŞIK", 04.trt spor yıldız
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_271.png" group-title="00.KIL-SPOR KARIŞIK", 04.trt spor+
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
@@ -5042,6 +5150,9 @@ https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 3.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936257.png" group-title="01.KIL-BELGESEL", 3.trt belgesel 
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="01.KIL-BELGESEL", 3.TRT BELGESEL A
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 
@@ -5501,14 +5612,14 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="01.KIL-HABER", Fransa 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
-#EXTINF:-1 tvg-id="haberglobal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", Haber Global C
-https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_220.png" group-title="01.KIL-HABER", Haber Global A
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", Haber Global B
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_220.png" group-title="01.KIL-HABER", Haber Global A
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", Haber Global C
+https://haberglobal.blutv.com/blutv_haberglobal2/live.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="01.KIL-HABER", HABER GLOBAL C
 https://haberglobal.blutv.com/blutv_haberglobal2/live_720p2000000kbps/index.m3u8
@@ -5549,11 +5660,11 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/400px-Press_Tv_logo.svg.png" group-title="01.KIL-HABER", PRESS TV English
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="01.KIL-HABER", SOZCU TV
-https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
-
 #EXTINF:-1 tvg-id="TR: SOZCU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", SOZCU B
 https://szctv.blutv.com/blutv_szctv/live.m3u8
+
+#EXTINF:-1 tvg-id="SZC.tr" tvg-logo="https://i.ibb.co/6NX1j0n/szc-tv.png" group-title="01.KIL-HABER", SOZCU TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="01.KIL-HABER", TELE 1
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
@@ -5567,8 +5678,14 @@ https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?app=web
 #EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", TGRT HABER B
 https://tgrthaber.blutv.com/blutv_tgrthaber2/live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_169.png" group-title="01.KIL-HABER", trt haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", TRT HABER
 https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936073.png" group-title="01.KIL-HABER", trt haber 
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="01.KIL-HABER", TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -6146,14 +6263,23 @@ https://uzunmuhalefet.serv00.net/ecanlitv.php?kanal=minika-cocuk-canli-4&.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="06.KIL-ÇOCUK", 0.TRT Diyanet çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936325.png" group-title="06.KIL-ÇOCUK", 0.trt diyanet çocuk 
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="06.KIL-ÇOCUK", 0.TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" group-title="06.KIL-ÇOCUK", 0.trt eba
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="06.KIL-ÇOCUK", 0.TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="06.KIL-ÇOCUK", 0.TRT çocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936217.png" group-title="06.KIL-ÇOCUK", 0.trt çocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="06.KIL-ÇOCUK", Caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
@@ -6199,6 +6325,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/mutlu
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Tayo_The_Little_Bus_English_logo.png" group-title="06.KIL-ÇOCUK", Tayo The Little Bus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png" group-title="06.KIL-ÇOCUK", Şirinler
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=35&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126119&ads.show_id=5058&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Smurf%20TV&ads.episodetitle=Smurf%20TV&ads.keywords=Smurf%2CSmurfs&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-id="SE | eSports Oneⓧ" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSports 1
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10357
