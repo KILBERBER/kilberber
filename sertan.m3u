@@ -83,8 +83,17 @@ https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.canlitv.team/poster/tatlises-tv.png" group-title="0.KIL-MÜZİK", 16.Tatlıses
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc609b6dcbef4d2dea8e40e33a76286a.webp" group-title="0.KIL-MÜZİK", 17.Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.chillyourmind.com/wp-content/uploads/2021/03/PNG-2.png" group-title="0.KIL-MÜZİK", 17.Chill yout mind
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/417ee46eba4fe6161a809d808fa8e053.webp" group-title="0.KIL-MÜZİK", 17.Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="0.KIL-MÜZİK", 17.Tu Musica HD
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
 #EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="0.KIL-MÜZİK", 17.Tu Música HD
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -128,35 +137,17 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 tvg-id="MUSIC: TRACE AFRICA" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-africa-1.png" group-title="0.KIL-MÜZİK", 20.TRACE AFRICA
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/48790
-
-#EXTINF:-1 tvg-id="http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=48791&extension=m3u8" tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="0.KIL-MÜZİK", 20.TRACE AYITI
-https://anywhere.pwisetthon.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/48791
-
-#EXTINF:-1 tvg-id="MUSIC: TRACE AYITI" tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="0.KIL-MÜZİK", 20.TRACE AYITI
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/48791
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="0.KIL-MÜZİK", 20.Trace Brasil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
-#EXTINF:-1 tvg-id="[FR] TRACE TROPICAL" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2020/07/TRACE-CARIBBEAN.png" group-title="0.KIL-MÜZİK", 20.TRACE CARIBBEAN
-https://hs-cors.herokuapp.com/http://tp.nxdns6.com:8080/Xtreamstore100con/BeonJBTzcHUFKotNNbXiW1tb4E/84269
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5536c18c8dc6b2ee955e65c59720b9c3.webp" group-title="0.KIL-MÜZİK", 20.Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
-#EXTINF:-1 tvg-id="MUSIC: TRACE Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.TRACE Latina
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/52093
-
-#EXTINF:-1 tvg-id="MUSIC: TRACE Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.TRACE Latina
-https://anywhere.pwisetthon.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/52093
-
-#EXTINF:-1 tvg-id="MUSIC: TRACE TOCA" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/118
-
-#EXTINF:-1 tvg-id="MUSIC: TRACE TOCA" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA
-https://anywhere.pwisetthon.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/118
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74a76057b28ccd9c9d48045b64825ff9.webp" group-title="0.KIL-MÜZİK", 20.Trace Urban
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -167,11 +158,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Franceⓧ
-https://anywhere.pwisetthon.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/76440
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban France
+https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/76440
 
-#EXTINF:-1 tvg-id="IT| DEEJAY TV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.DEEJAY TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=56758&extension=ts
+#EXTINF:-1 tvg-id="FR| TRACE URBAN HD" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN France 2
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=44066&extension=ts
 
 #EXTINF:-1 tvg-id="FR| M6 MUSIC FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.M6 MUSIC FHD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44054&extension=ts
@@ -196,18 +187,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=56757&ext
 
 #EXTINF:-1 tvg-id="FR| Tomorrowland 2020" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.Tomorrowland 2020
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=231243&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TRACE  AFRICA FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE  AFRICA FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44067&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TRACE LATINA FHD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE LATINA FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44071&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TRACE TOCA" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE TOCA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44068&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TRACE URBAN HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.TRACE URBAN HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=44066&extension=ts
 
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 22.BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
@@ -470,8 +449,17 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="0.KIL-MÜZİK", 42.Now 70 s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85f7dfdee045ef4fce8cd777b2d3574d.webp" group-title="0.KIL-MÜZİK", 42.NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 tvg-id="https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="0.KIL-MÜZİK", 42.Now 80 s
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2f3955f5568ccb7a50191500b090cbb.webp" group-title="0.KIL-MÜZİK", 42.NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e8f0a3d6c39f383bba58aaac353626aa.webp" group-title="0.KIL-MÜZİK", 42.Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="0.KIL-MÜZİK", 42.NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -479,8 +467,17 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="0.KIL-MÜZİK", 42.retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w553670791.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7c8320451943ed08265872510644e800.webp" group-title="0.KIL-MÜZİK", 42.Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="0.KIL-MÜZİK", 42.retro plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w884017176.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="0.KIL-MÜZİK", 42.Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/67cebad8d46fc668e21b0ae8387ae2cd.webp" group-title="0.KIL-MÜZİK", 42.ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="0.KIL-MÜZİK", 42.VH1 Classic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -632,6 +629,9 @@ https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="0.KIL-MÜZİK", impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a879297f14d4979182a834e9554bb4f0.webp" group-title="0.KIL-MÜZİK", Kidz Bop TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6289
+
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-logo="https://i.imgur.com/fBeaJoS.png" group-title="0.KIL-MÜZİK", Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 
@@ -751,6 +751,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/screendreams-by-invincible/logo_20231219_221808_45.png" group-title="0.KIL-RELAX", 19.Relax
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5301&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=DistroTV&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__&hls_marker=1&pod_duration=&min_ad_duration=6&max_ad_duration=120&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0ca371e4fc053a024550121f5cd84f28.webp" group-title="0.KIL-RELAX", 20.Relax
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6195
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
@@ -4751,11 +4754,23 @@ https://mexicanal-lacasadeljaripeo-1-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="PBRRidePass.us" tvg-logo="https://i.imgur.com/gUxH97E.png" group-title="00.KIL-SPOR KARIŞIK", 08.PBR RidePass
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6b35c9daf0e3471de96baeea530f30b2.webp" group-title="00.KIL-SPOR KARIŞIK", 09.Bike Mag
+https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-plexus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="00.KIL-SPOR KARIŞIK", 09.Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/821515cdee6dbc48d6de1256e6fadbdd.webp" group-title="00.KIL-SPOR KARIŞIK", 09.Snowboarder
+https://amg13231-actve-amg13231c3-plex-us-1820.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-plexus/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="00.KIL-SPOR KARIŞIK", 09.Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/788580c02f5d7f8fe2d6a16b09211ce5.webp" group-title="00.KIL-SPOR KARIŞIK", 09.Surf Channel TV
+https://def61244eb234707b92cb3bed4d895a2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_SurfChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23c89836985d9313794d8a1d495a4685.webp" group-title="00.KIL-SPOR KARIŞIK", 09.Surfer
+https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/logo_20231219_185026_66.png" group-title="00.KIL-SPOR KARIŞIK", 10.Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
@@ -4897,6 +4912,9 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/749972439b688b417a9afdac09317cd6.webp" group-title="00.KIL-SPOR KARIŞIK", 14.Dubai Racing
 https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d5980794d2d2ab96046246ea6c9e45b.webp" group-title="00.KIL-SPOR KARIŞIK", 14.Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="00.KIL-SPOR KARIŞIK", Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
