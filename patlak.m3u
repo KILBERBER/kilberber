@@ -1,0 +1,865 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/7-24.jpeg" group-title="0.Spor web", 00.7/24 SPOR TV
+http://116.202.117.244/ntvspor/ntvspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="|TR| BEIN SPORTS 1 FEED" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/lig.jpeg" group-title="0.Spor web", 00.SÜPERLIG MAÇ PRG
+https://hs-cors.herokuapp.com/https://jyayintv7.site/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="KILBERBER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/web.jpeg" group-title="0.Spor web", 01.SPOR WEB SAYFALARI
+https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
+
+#EXTINF:-1 tvg-id="17" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="0.Spor web", 02.A SPOR
+https://anywhere.pwisetthon.com/https://cakal.click/yayinas.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 inat
+https://hs-cors.herokuapp.com/https://cakal.click/yayininat.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 trgoals
+https://cakal.click/yayin1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 trgoalss
+https://e.trgoals749.xyz/yayin1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 woldhd a
+https://hs-cors.herokuapp.com/https://jyayintvhd1.live/daddyhd/cdn/62/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 woldhd b
+https://hs-cors.herokuapp.com/https://cakal.click/yayinstar.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 x
+https://cakal.click/yayinzirve.m3u8
+
+#EXTINF:-1 tvg-id="|TR| BEIN SPORTS 1 FEED" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 xx
+https://jyayintv7.site/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 xxx
+https://anywhere.pwisetthon.com/https://jyayintv10.site/assia2/cdn/mix-sport29/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 xxxx
+https://jyayintv10.site/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.Spor web", 02.beiN Sport 1 xxxxxxxxxx
+https://anywhere.pwisetthon.com/https://odin.7545c95540dc.shop/1/chunk_hd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.Spor web", 02.BEIN SPORTS 2
+https://anywhere.pwisetthon.com/https://jyayintv7.site/cdn/bein_sports_2_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.Spor web", 02.BEIN SPORTS 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayinb2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect3.png" group-title="0.Spor web", 02.BEIN SPORTS 3
+https://anywhere.pwisetthon.com/https://cakal.click/yayinb3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect4.png" group-title="0.Spor web", 02.BEIN SPORTS 4
+https://anywhere.pwisetthon.com/https://cakal.click/yayinb4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect5.png" group-title="0.Spor web", 02.BEIN SPORTS 5
+https://anywhere.pwisetthon.com/https://cakal.click/yayinb5.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="0.Spor web", 02.beIN Sports Haber
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="0.Spor web", 02.BEIN SPORTS MAX 1
+https://anywhere.pwisetthon.com/https://cakal.click/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="0.Spor web", 02.BEIN SPORTS MAX 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="0.Spor web", 02.EURO SPORTS 1
+https://anywhere.pwisetthon.com/https://cakal.click/yayineu1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" group-title="0.Spor web", 02.EURO SPORTS 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayineu2.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.Spor web", 02.EUROSPORT 1 blutv
+https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.Spor web", 02.EUROSPORT 2 blutv
+https://eurosport2.blutv.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="0.Spor web", 02.EXXEN 1
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen2.png" group-title="0.Spor web", 02.EXXEN 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen3.png" group-title="0.Spor web", 02.EXXEN 3
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen4.png" group-title="0.Spor web", 02.EXXEN 4
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen5.png" group-title="0.Spor web", 02.EXXEN 5
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex5.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen6.png" group-title="0.Spor web", 02.EXXEN 6
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex6.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen7.png" group-title="0.Spor web", 02.EXXEN 7
+https://anywhere.pwisetthon.com/https://cakal.click/yayinex7.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="0.Spor web", 02.Smart Sport 1
+https://anywhere.pwisetthon.com/https://jyayintv7.site/cdn/s_sport_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="0.Spor web", 02.Smart Sport 1
+https://anywhere.pwisetthon.com/https://cakal.click/yayinss.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.Spor web", 02.SMART SPORT 2
+https://anywhere.pwisetthon.com/https://jyayintv7.site/cdn/s_sport_2_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.Spor web", 02.SMART SPORT 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayinss2.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://kanallogo2.com/images/spor/smart-spor.png" group-title="0.Spor web", 02.SMARTSPOR
+https://anywhere.pwisetthon.com/https://cakal.click/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="0.Spor web", 02.SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="0.Spor web", 02.Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="0.Spor web", 02.TRT SPOR
+https://anywhere.pwisetthon.com/https://cakal.click/yayintrtspor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="0.Spor web", 02.TRT SPOR YILDIZ
+https://anywhere.pwisetthon.com/https://cakal.click/yayintrtspor2.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.Spor web", 02.TIVIBUSPOR 1
+https://anywhere.pwisetthon.com/https://cakal.click/yayint1.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="0.Spor web", 02.TIVIBUSPOR 2
+https://anywhere.pwisetthon.com/https://cakal.click/yayint2.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="0.Spor web", 02.TIVIBUSPOR 3
+https://anywhere.pwisetthon.com/https://cakal.click/yayint3.m3u8
+
+#EXTINF:-1 tvg-id="https://corsproxy.org/?" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="0.Spor web", 02.TIVIBUSPOR 4
+https://anywhere.pwisetthon.com/https://cakal.click/yayint4.m3u8
+
+#EXTINF:-1 tvg-id="TR | BBC EARTH FHD" tvg-logo="noimage.png" group-title="BELGESEL", BBC EARTH FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726941&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BBC EARTH HD" tvg-logo="noimage.png" group-title="BELGESEL", BBC EARTH HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726942&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN GURME FHD" tvg-logo="noimage.png" group-title="BELGESEL", BEIN GURME FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726922&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN IZ FHD" tvg-logo="noimage.png" group-title="BELGESEL", BEIN IZ FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726923&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DMAX FHD" tvg-logo="noimage.png" group-title="BELGESEL", DMAX FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754031&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DMAX HD" tvg-logo="noimage.png" group-title="BELGESEL", DMAX HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829066&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DOCUBOX FHD" tvg-logo="noimage.png" group-title="BELGESEL", DOCUBOX FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726944&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DISCOVERY CHANNEL FHD" tvg-logo="noimage.png" group-title="BELGESEL", DISCOVERY CHANNEL FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726932&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DISCOVERY CHANNEL HD" tvg-logo="noimage.png" group-title="BELGESEL", DISCOVERY CHANNEL HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726933&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DISCOVERY IDX FHD" tvg-logo="noimage.png" group-title="BELGESEL", DISCOVERY IDX FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829093&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DISCOVERY IDX HD" tvg-logo="noimage.png" group-title="BELGESEL", DISCOVERY IDX HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726936&extension=ts
+
+#EXTINF:-1 tvg-id="TR | HISTORY FHD" tvg-logo="noimage.png" group-title="BELGESEL", HISTORY FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726938&extension=ts
+
+#EXTINF:-1 tvg-id="TR | HISTORY HD" tvg-logo="noimage.png" group-title="BELGESEL", HISTORY HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754056&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NAT GEO FHD" tvg-logo="noimage.png" group-title="BELGESEL", NAT GEO FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726928&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NAT GEO HD" tvg-logo="noimage.png" group-title="BELGESEL", NAT GEO HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726929&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NAT GEO WILD HD" tvg-logo="noimage.png" group-title="BELGESEL", NAT GEO WILD HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726931&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NATGEO WILD FHD" tvg-logo="noimage.png" group-title="BELGESEL", NATGEO WILD FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726930&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NATURE SPACE FHD" tvg-logo="noimage.png" group-title="BELGESEL", NATURE SPACE FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726945&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TAR\u0130H TV HD" tvg-logo="noimage.png" group-title="BELGESEL", TARIH TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726937&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TLC FHD" tvg-logo="noimage.png" group-title="BELGESEL", TLC FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754054&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TLC HD" tvg-logo="noimage.png" group-title="BELGESEL", TLC HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754055&extension=ts
+
+#EXTINF:-1 tvg-id="TR | VIASAT EXPLORER HD" tvg-logo="noimage.png" group-title="BELGESEL", VIASAT EXPLORER HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726940&extension=ts
+
+#EXTINF:-1 tvg-id="TR | VIASAT HISTORY FHD" tvg-logo="noimage.png" group-title="BELGESEL", VIASAT HISTORY FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726939&extension=ts
+
+#EXTINF:-1 tvg-id="TR | YABAN TV HD" tvg-logo="noimage.png" group-title="BELGESEL", YABAN TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726927&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN BOX OFFiCE 1" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN BOX OFFiCE 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726976&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN BOX OFFiCE 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN BOX OFFiCE 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726977&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN BOX OFFiCE 3" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN BOX OFFiCE 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726978&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SERIES 1" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN SERIES 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726972&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SERIES 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN SERIES 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726973&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SERIES 3" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN SERIES 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726974&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SERIES 4" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEIN SERIES 4
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726975&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINMOVIES PREMIERE 1" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEINMOVIES PREMIERE 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726969&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINMOVIES PREMIERE 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEINMOVIES PREMIERE 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726970&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINMOVIES STARS" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEINMOVIES STARS
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726971&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINMOVIES T\u00dcRK" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BEINMOVIES TURK
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726968&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BLU TV PLAY 1 HD" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", BLU TV PLAY 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=753579&extension=ts
+
+#EXTINF:-1 tvg-id="TR | D\u0130Z\u0130SMART MAX" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", DiZiSMART MAX
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726982&extension=ts
+
+#EXTINF:-1 tvg-id="TR | D\u0130Z\u0130SMART PREMIUM" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", DiZiSMART PREMIUM
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726981&extension=ts
+
+#EXTINF:-1 tvg-id="TR | FX" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", FX
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726995&extension=ts
+
+#EXTINF:-1 tvg-id="TR | FILMBOX" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", FILMBOX
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726996&extension=ts
+
+#EXTINF:-1 tvg-id="TR | MOVIESMART CLASSIC" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", MOVIESMART CLASSIC
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726980&extension=ts
+
+#EXTINF:-1 tvg-id="TR | MOVIESMART TURK" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", MOVIESMART TURK
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726979&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726961&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV 1001" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV 1001
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726993&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV 1002" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV 1002
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726994&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726962&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV A\u0130LE" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV AiLE
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726989&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV A\u0130LE 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV AiLE 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726990&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV AKS\u0130YON" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV AKSiYON
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726987&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV AKS\u0130YON 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV AKSiYON 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726988&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV KOMED\u0130" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV KOMEDi
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726967&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV KOMED\u0130 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV KOMEDi 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726992&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV YERL\u0130" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV YERLi
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726983&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S\u0130NEMA TV YERL\u0130 2" tvg-logo="noimage.png" group-title="BEiN & D-SMART SiNEMA", SiNEMA TV YERLi 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726984&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 4K (mac zamani)" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 1 4K (mac zamani)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819186&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 1 EURO FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 1 EURO FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726185&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 1 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726183&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 1 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726184&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 1 SD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 1 SD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726186&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726187&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:16:f8:8e&stream=726187&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726188&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 3 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 3 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726189&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 3 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 3 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726190&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 4 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 4 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726191&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 5 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 5 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726193&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS 5 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS 5 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726194&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS MAX 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726195&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS MAX 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726196&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 FHD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS MAX 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726197&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 HD" tvg-logo="noimage.png" group-title="BEiN SPORTS", BEINSPORTS MAX 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726198&extension=ts
+
+#EXTINF:-1 tvg-id="TR | GOLDX SPORT 1 FEED" tvg-logo="noimage.png" group-title="BEiN SPORTS", GOLDX SPORT 1 FEED
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944275&extension=ts
+
+#EXTINF:-1 tvg-id="TR | GOLDX SPORT 2 FEED" tvg-logo="noimage.png" group-title="BEiN SPORTS", GOLDX SPORT 2 FEED
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944276&extension=ts
+
+#EXTINF:-1 tvg-id="TR | GOLDX SPORT 3 FEED" tvg-logo="noimage.png" group-title="BEiN SPORTS", GOLDX SPORT 3 FEED
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944442&extension=ts
+
+#EXTINF:-1 tvg-id="TR | AKUST\u0130K T\u00dcRK\u00dcLER CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", AKUSTIK TURKULER CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791775&extension=ts
+
+#EXTINF:-1 tvg-id="TR | ARABESK CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", ARABESK CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791773&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | AZER B\u00dcLB\u00dcL" tvg-logo="noimage.png" group-title="Müzik YouTube", AZER Bülbül
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=898753&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BABA RADYO FM CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", BABA RADYO FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791772&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEST FM CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", BEST FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791766&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DAMAR FM CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", DAMAR FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791771&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DRAM RADYO CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", DRAM RADYO CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806563&extension=ts
+
+#EXTINF:-1 tvg-id="TR | HIT CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", HIT CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791763&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u0130BRAH\u0130M TATLISES" tvg-logo="noimage.png" group-title="Müzik YouTube", İbrahim TATLISES
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=897716&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KAFA CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", KAFA CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806558&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KARADENIZ FM CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", KARADENIZ FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806561&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KRAL POP CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", KRAL POP CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791755&extension=ts
+
+#EXTINF:-1 tvg-id="TR | PAL NOSTALJ\u0130 CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", PAL NOSTALJi CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791768&extension=ts
+
+#EXTINF:-1 tvg-id="TR | PAL STATION CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", PAL STATION CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791764&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 1" tvg-logo="noimage.png" group-title="Müzik YouTube", PARADE Müzik 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819676&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 2" tvg-logo="noimage.png" group-title="Müzik YouTube", PARADE Müzik 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=821661&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 3" tvg-logo="noimage.png" group-title="Müzik YouTube", PARADE Müzik 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=821662&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE POP M\u00dcZ\u0130K" tvg-logo="noimage.png" group-title="Müzik YouTube", PARADE POP Müzik
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=792759&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO 44 CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO 44 CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806971&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO 7 CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO 7 CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791765&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO DRAM CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO DRAM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791769&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO POP MIX CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO POP MIX CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806567&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO POP TIME CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO POP TIME CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=857532&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO T\u00dcRK\u00dc CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO TURK CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791776&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO ULUS TURKULER
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806560&extension=ts
+
+#EXTINF:-1 tvg-id="TR | RADYO VIVA CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", RADYO VIVA CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791770&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SHOW CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", SHOW CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791762&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SLOWTURK CANLI RADYO" tvg-logo="noimage.png" group-title="Müzik YouTube", SLOWTURK CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791767&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EUROSPORT 1 FHD" tvg-logo="noimage.png" group-title="SPOR", EUROSPORT 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726234&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EUROSPORT 1 HD" tvg-logo="noimage.png" group-title="SPOR", EUROSPORT 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726235&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EUROSPORT 2 FHD" tvg-logo="noimage.png" group-title="SPOR", EUROSPORT 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726236&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="SPOR", EUROSPORT 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726237&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726224&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726225&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 1 SD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 1 SD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726226&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 2 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726227&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 3 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 3 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726228&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 4 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 4 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726229&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 5 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 5 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726230&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 6 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 6 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726231&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 7 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 7 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726232&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORTS 8 HD" tvg-logo="noimage.png" group-title="SPOR", EXXEN SPORTS 8 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726233&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN TV FHD" tvg-logo="noimage.png" group-title="SPOR", EXXEN TV FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726222&extension=ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN TV SD" tvg-logo="noimage.png" group-title="SPOR", EXXEN TV SD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726223&extension=ts
+
+#EXTINF:-1 tvg-id="TR | FIGHT BOX FHD" tvg-logo="noimage.png" group-title="SPOR", FIGHT BOX FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726919&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NBA FHD" tvg-logo="noimage.png" group-title="SPOR", NBA FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726207&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 1 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 1 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726212&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 10 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 10 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726221&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 2 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 2 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726213&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 3 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 3 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726214&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 4 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 4 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726215&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 5 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 5 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726216&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 6 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 6 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726217&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 7 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 7 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726218&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 8 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 8 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726219&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT PLUS 9 HD (YAYIN ZAMANI AKT\u0130F)" tvg-logo="noimage.png" group-title="SPOR", S SPORT PLUS 9 HD (YAYIN ZAMANI AKT\u0130F)
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726220&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SPOR SMART 1 FHD" tvg-logo="noimage.png" group-title="SPOR", SPOR SMART 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726204&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SPOR SMART 1 HD" tvg-logo="noimage.png" group-title="SPOR", SPOR SMART 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726205&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SPOR SMART 2 FHD" tvg-logo="noimage.png" group-title="SPOR", SPOR SMART 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726206&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SPORTS TV HD" tvg-logo="noimage.png" group-title="SPOR", SPORTS TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726242&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SSPORT 1 FHD" tvg-logo="noimage.png" group-title="SPOR", SSPORT 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726208&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SSPORT 1 HD" tvg-logo="noimage.png" group-title="SPOR", SSPORT 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726209&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SSPORT 2 FHD" tvg-logo="noimage.png" group-title="SPOR", SSPORT 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726210&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SSPORT 2 HD" tvg-logo="noimage.png" group-title="SPOR", SSPORT 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726211&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBUSPOR 1 FHD" tvg-logo="noimage.png" group-title="SPOR", TIVIBUSPOR 1 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726200&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBUSPOR 2 FHD" tvg-logo="noimage.png" group-title="SPOR", TIVIBUSPOR 2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726201&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBUSPOR 3 FHD" tvg-logo="noimage.png" group-title="SPOR", TIVIBUSPOR 3 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726202&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBUSPOR 4 FHD" tvg-logo="noimage.png" group-title="SPOR", TIVIBUSPOR 4 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726203&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBUSPOR FHD" tvg-logo="noimage.png" group-title="SPOR", TIVIBUSPOR FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726199&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | 4K S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", 4K SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=770604&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | AD\u0130LE NA\u015e\u0130T" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", ADiLE NASiT
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807495&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | AKS\u0130YON S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", AKSiYON SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754003&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | ARKADA\u015eIM HO\u015eGELD\u0130N" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", ARKADASIM HOSGELDiN
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=813748&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | ATA DEM\u0130RER" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", ATA DEMiRER
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=758168&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | AYDEM\u0130R AKBA\u015e" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", AYDEMiR AKBAS
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807662&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | B\u0130L\u0130M KURGU S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", BiLiM KURGU SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762613&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u00c7AKALLARLA DANS" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", CAKALLARLA DANS
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=849503&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | CEM YILMAZ" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", CEM YILMAZ
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757679&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u00c7OK G\u00dcZEL HAREKETLER BUNLAR" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", COK GUZEL HAREKETLER
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=814953&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u00c7OK G\u00dcZEL HAREKETLER 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", COK GUZEL HAREKETLER 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762290&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | C\u00dcNEYT ARKIN" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", CUNEYT ARKIN
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=795413&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | DRAM S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", DRAM SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762197&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | DISNEY SINEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", DISNEY SINEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750670&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | FATMA G\u0130R\u0130K" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", FATMA GiRiK
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807701&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | G\u00dcLD\u00dcR G\u00dcLD\u00dcR SHOW" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", GULDUR GULDUR SHOW
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=759222&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | HARRY POTTER" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", HARRY POTTER
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850081&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | JACKIE CHAN" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", JACKIE CHAN
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=849504&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KAD\u0130R \u0130NANIR" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KADiR iNANIR
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807703&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 1" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KEMAL SUNAL 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756367&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KEMAL SUNAL 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757695&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 3" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KEMAL SUNAL 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=758604&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KOLPA\u00c7\u0130NO" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KOLPACiNO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848015&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KOMED\u0130 S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KOMEDi SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=759220&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 1. SEZON" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KONUSANLAR 1. SEZON
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757880&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 2. SEZON" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KONUSANLAR 2. SEZON
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=805792&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 3. SEZON" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KONUSANLAR 3. SEZON
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806081&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KORKU S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KORKU SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=760185&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KOVBOY S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KOVBOY SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850203&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | KUTSAL DAMACANA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", KUTSAL DAMACANA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848146&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcGE ANLI" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", MUGE ANLI
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=856634&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | NETFLIX SINEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", NETFLIX SINEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750674&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE 4K S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE 4K SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=785348&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE 4K S\u0130NEMA 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE 4K SINEMA 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=825712&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE 4K S\u0130NEMA 3" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE 4K SINEMA 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=853891&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE G\u00dcLD\u00dcR G\u00dcLD\u00dcR" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE GULDUR GULDUR
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=925533&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=775855&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA A\u0130LE" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE Sinema aile
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=834788&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA AKS\u0130YON" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA AKSiYON
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822327&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA AKS\u0130YON 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA AKSiYON 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=851334&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA B\u0130L\u0130M KURGU" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA BiLiM KURGU
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=842865&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA DRAM" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA DRAM
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=823130&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA GER\u0130L\u0130M" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA GERiLiM
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826289&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA KOMED\u0130" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA KOMEDi
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822609&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA KORKU" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA KORKU
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822512&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA ROMANT\u0130K" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA ROMANTiK
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=847755&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 1" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA ViZYON 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829006&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA ViZYON 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829007&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 3" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA ViZYON 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=830474&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 4" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA ViZYON 4
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=851592&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA YERLi
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826774&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA YERLi 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850534&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130 3" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", PARADE SiNEMA YERLi 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944449&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | RECEP \u0130VED\u0130K" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", RECEP iVEDiK
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848145&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | ROCKY" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", ROCKY
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=771917&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u015eENER \u015eEN" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", SENER SEN
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=795414&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | \u015e\u00d6M\u0130NE" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", SOMiNE
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=843172&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | TOLGSHOW" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", TOLGSHOW
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=813747&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | TOLGSHOW F\u0130LTRES\u0130Z" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", TOLGSHOW FiLTRESiZ
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=814220&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | T\u00dcRKAN \u015eORAY" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", TURKAN SORAY
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=808397&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YABANCI SINEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YABANCI SINEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=751031&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YERL\u0130 S\u0130NEMA" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YERLi SiNEMA
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750672&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 1" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YESILCAM SINEMA 1
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756114&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 2" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YESILCAM SINEMA 2
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756116&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 3" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YESILCAM SINEMA 3
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756115&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 4" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YESILCAM SINEMA 4
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826292&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 5" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YESILCAM SINEMA 5
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826498&extension=ts
+
+#EXTINF:-1 tvg-id="LYNX | Y\u00dcZ\u00dcKLER\u0130N EFEND\u0130S\u0130" tvg-logo="noimage.png" group-title="SiNEMA & EGLENCE 7/24", YUZUKLERIN EFENDISI
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850080&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV360 HD" tvg-logo="noimage.png" group-title="TURKiYE", 360 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728119&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV360 UHD" tvg-logo="noimage.png" group-title="TURKiYE", 360 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726170&extension=ts
+
+#EXTINF:-1 tvg-id="TR | A2 FHD" tvg-logo="noimage.png" group-title="TURKiYE", A2 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754225&extension=ts
+
+#EXTINF:-1 tvg-id="TR | A2 HD" tvg-logo="noimage.png" group-title="TURKiYE", A2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754226&extension=ts
+
+#EXTINF:-1 tvg-id="TR | ATV HD" tvg-logo="noimage.png" group-title="TURKiYE", ATV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728105&extension=ts
+
+#EXTINF:-1 tvg-id="TR | ATV UHD" tvg-logo="noimage.png" group-title="TURKiYE", ATV UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726177&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEYAZ TV HD" tvg-logo="noimage.png" group-title="TURKiYE", BEYAZ TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728116&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEYAZ TV UHD" tvg-logo="noimage.png" group-title="TURKiYE", BEYAZ TV UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726169&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KANAL 7 HD" tvg-logo="noimage.png" group-title="TURKiYE", KANAL 7 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728117&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KANAL 7 UHD" tvg-logo="noimage.png" group-title="TURKiYE", KANAL 7 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726171&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KANAL D HD" tvg-logo="noimage.png" group-title="TURKiYE", KANAL D HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728111&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KANAL D UHD" tvg-logo="noimage.png" group-title="TURKiYE", KANAL D UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726172&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NOW TV HD" tvg-logo="noimage.png" group-title="TURKiYE", NOW TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728113&extension=ts
+
+#EXTINF:-1 tvg-id="TR | NOW TV UHD" tvg-logo="noimage.png" group-title="TURKiYE", NOW TV UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726178&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SHOW TV HD" tvg-logo="noimage.png" group-title="TURKiYE", SHOW TV HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728110&extension=ts
+
+#EXTINF:-1 tvg-id="TR | SHOW TV UHD" tvg-logo="noimage.png" group-title="TURKiYE", SHOW TV UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726176&extension=ts
+
+#EXTINF:-1 tvg-id="TR | STAR  HD" tvg-logo="noimage.png" group-title="TURKiYE", STAR  HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728112&extension=ts
+
+#EXTINF:-1 tvg-id="TR | STAR TV UHD" tvg-logo="noimage.png" group-title="TURKiYE", STAR TV UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726175&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TEVE 2 UHD" tvg-logo="noimage.png" group-title="TURKiYE", TEVE 2 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726180&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TEVE2 HD" tvg-logo="noimage.png" group-title="TURKiYE", TEVE2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728118&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT 1 HD" tvg-logo="noimage.png" group-title="TURKiYE", TRT 1 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728109&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT 1 UHD" tvg-logo="noimage.png" group-title="TURKiYE", TRT 1 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726168&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT 2 HD" tvg-logo="noimage.png" group-title="TURKiYE", TRT 2 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754227&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT 4K" tvg-logo="noimage.png" group-title="TURKiYE", TRT 4K
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=743665&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT AVAZ HD" tvg-logo="noimage.png" group-title="TURKiYE", TRT AVAZ HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750625&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TRT T\u00dcRK HD" tvg-logo="noimage.png" group-title="TURKiYE", TRT TURK HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=810820&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV 8 HD" tvg-logo="noimage.png" group-title="TURKiYE", TV 8 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728114&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV 8 UHD" tvg-logo="noimage.png" group-title="TURKiYE", TV 8 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726173&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV 8.5 HD" tvg-logo="noimage.png" group-title="TURKiYE", TV 8.5 HD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728115&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV 8.5 UHD" tvg-logo="noimage.png" group-title="TURKiYE", TV 8.5 UHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726174&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TV4 FHD" tvg-logo="noimage.png" group-title="TURKiYE", TV4 FHD
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=772019&extension=ts
+
