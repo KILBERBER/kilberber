@@ -131,9 +131,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="0.KIL-MÜZİK", 1Moya Planeta
-https://woobl.ru/hls987/Moya_planeta.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="0.KIL-MÜZİK", 20.Trace Brasil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
@@ -5538,6 +5535,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166803&ex
 #EXTINF:-1 tvg-id="BR| Fish TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/631a9559060d6165dc953c2f/cb787910-6958-4c6d-937d-294ba029ebd7/Fish+TV+Vector.png" group-title="01.KIL-BELGESEL", 7.Fish TV
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=166803&extension=ts
 
+#EXTINF:-1 tvg-id="http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 7.Fishing Vision
+http://103.197.59.107:5002/bs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
+
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="01.KIL-BELGESEL", 7.italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 
@@ -5684,6 +5684,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20231219_215112_55.png" group-title="01.KIL-BELGESEL", Life Style by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="01.KIL-BELGESEL", Moya Planeta
+https://woobl.ru/hls987/Moya_planeta.m3u8
 
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="01.KIL-BELGESEL", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
