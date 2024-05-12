@@ -3465,6 +3465,18 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10849&exten
 #EXTINF:-1 tvg-id="TR: DIZIAX 13.CUMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.13.CUMA
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142147&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Aksiyon 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aksiyon 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76879&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Aksiyon 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aksiyon 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91539&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Aksiyon 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aksiyon 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108403&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) AL Pacino" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AL Pacino b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91054&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ALACAKARANLIK EFSANESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142133&extension=m3u8
 
@@ -3474,14 +3486,44 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142104&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX ALIEN VS PREDATOR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ALIEN VS PREDATOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142154&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Amazon Prime" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Amazon Prime b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=164028&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX ANGELINE JOLIE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ANGELINE JOLIE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142103&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ARNOLD SCHWARZENEGGER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ARNOLD SCHWARZENEGGER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142102&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Ata DEMIRER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ata DEMIRER b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105459&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) BaBaLa TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BaBaLa TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=143114&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Baddal Gazi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Baddal Gazi b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47664&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX BATMAN TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BATMAN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142138&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Behzat \u00c7" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Behzat Ç b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=146572&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Beyaz Show" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Beyaz Show b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=98399&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bizimkiler 1 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Bizimkiler 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105685&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bizimkiler 2 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Bizimkiler 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105686&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Blu TV HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Blu TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71209&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Brad Pitt" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Brad Pitt b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=80984&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX BRAD PITT" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BRAD PITT
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142093&extension=m3u8
@@ -3489,14 +3531,44 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142093&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX BRUCE LEE TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BRUCE LEE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142126&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bruce Lee" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Bruce Lee b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2929&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX  BRUCE WILLS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BRUCE WILLS
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142095&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX CEHENNEM SILAHI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CEHENNEM SILAHI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142141&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Cem YILMAZ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cem YILMAZ b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61256&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) \u00c7ok G\u00fczel Hareketler" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cok Güzel Hareketler b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94588&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) \u00c7ukur 1 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cukur 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61136&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) \u00c7ukur 2 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cukur 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105421&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 C\u00fcneyt Arkin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cüneyt Arkin h
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47683&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX CILGIN DERSHANE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CILGIN DERSHANE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142157&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Dark VIP" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Dark VIP b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=164248&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Denzel Washington" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Denzel Washington b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=79554&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Disney+ 1 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Disney+ 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101030&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Disney+ 2 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Disney+ 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157860&extension=ts
 
 #EXTINF:-1 tvg-id="TR: ProTurk-Egzersiz" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Egzersiz
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219861&extension=m3u8
@@ -3504,11 +3576,23 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219861&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX EKMEK TEKNESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.EKMEK TEKNESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142090&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Ezel HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ezel b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94173&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Ferdi Tayfur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ferdi Tayfur b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101013&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Gain Orginal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Gain Orginal b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136972&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX Game of Thrones" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Game of Thrones
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106608&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Gibi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Gibi
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219435&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) G\u00fcld\u00fcr G\u00fcld\u00fcr Show" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Güldür Güldür Show b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=149723&extension=ts
 
 #EXTINF:-1 tvg-id="TR: BEST HABABAM SINIFI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HABABAM SINIFI 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185298&extension=m3u8
@@ -3516,8 +3600,14 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185298&exte
 #EXTINF:-1 tvg-id="TR: DINAMIK HABABAM SINIFI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HABABAM SINIFI 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185240&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Hababam S\u0131n\u0131f\u0131" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Hababam Sınıfı b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=53552&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX HARRY POTTER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HARRY POTTER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142130&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Harry Potter HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Harry Potter b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108503&extension=ts
 
 #EXTINF:-1 tvg-id="TR: MAX Hint Filimleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Hint Filimleri
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=10844&extension=m3u8
@@ -3531,6 +3621,12 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142135&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX House Of Dragon" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.House Of Dragon
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142087&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Ibo Show 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ibo Show 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=79598&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Ibo Show 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ibo Show 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=146583&extension=ts
+
 #EXTINF:-1 tvg-id="TR: BEST IMBD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iMBD 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185287&extension=m3u8
 
@@ -3543,20 +3639,65 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=215167&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX IP-MAN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iP-MAN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142159&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) \u0130\u015fler G\u00fc\u00e7ler HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.iŞLER GÜÇLER b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105787&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Jackie Chan" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Jackie Chan b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71205&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX JACKY CHAN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JACKY CHAN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142099&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX JASON STATHAM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JASON STATHAM
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142098&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Jason Statham" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Jason Statham b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47655&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX JETLI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JETLI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142097&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kadir \u0130nan\u0131r 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kadir inanır 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2864&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kadir \u0130nan\u0131r 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kadir inanır 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71207&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kara Simsek" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kara Simsek b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=88496&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX KARANLIKLAR ULKESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KARANLIKLAR ULKESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142158&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX KARAYIP KORSANLARI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KARAYIP KORSANLARI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142139&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Karde\u015f Pay\u0131 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kardeş Payı b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105744&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kartal Tibed" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kartal Tibed b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47671&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=21070&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2984&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47680&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71214&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 5" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101020&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 6" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 6 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101019&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 7" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 7 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101018&extension=ts
 
 #EXTINF:-1 tvg-id="TR: Kemal Sunal TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KemalSunal 0
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=397&extension=m3u8
@@ -3594,14 +3735,41 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142089&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX KONUSANLAR (YeniBölümler)" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR (YeniBölümler)
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=353319&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Konu\u015fanlar 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Konuşanlar 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101016&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Konu\u015fanlar 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Konuşanlar 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151668&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Korku 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Korku 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47692&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Korku 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Korku 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108405&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX Kurtlar Vadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kurtlar Vadisi
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=106606&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Kurtlar Vadisi 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kurtlar Vadisi 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76645&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Kurtlar Vadisi 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kurtlar Vadisi 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105717&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Kurtlar Vadisi Pusu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kurtlar Vadisi Pusu
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=260506&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Kurulu\u015f Osman 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kuruluş Osman 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=146968&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Kurulu\u015f Osman 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kuruluş Osman 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=95509&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX LOTR Guc Yuzukleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.LOTR Guc Yuzukleri
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142124&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Mark Wahlberg" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Mark Wahlberg b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94648&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DINAMIK MARVEL" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MARVEL 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185238&extension=m3u8
@@ -3612,8 +3780,14 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=340368&exte
 #EXTINF:-1 tvg-id="TR: Megabox-Marvel" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Marvel 3
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219920&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Marvel Cinema" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Marvel Cinema b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47679&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX MASKELI BESLER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MASKELI BESLER
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142156&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) MasterChef HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MasterChef b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=143149&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX THE MATRİX" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MATRİX
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142151&extension=m3u8
@@ -3621,11 +3795,29 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142151&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX MUMYA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MUMYA
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142149&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) M\u00fcge Anl\u0131 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Müge anlı b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=142699&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Netflix 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Netflix 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157923&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Nicolas Cage" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Nicolas Cage b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=93454&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Nostalji Sinema 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Nostalji Sinema 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94641&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Nostalji Sinema 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Nostalji Sinema 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=158141&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX NICOLAS CAGE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.NICOLAS CAGE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142092&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ÖLÜMCÜL DENEY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.OLÜMCÜL DENEY
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142134&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Orhan Gencebay" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Orhan Gencebay b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101012&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ORUMCEK ADAM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ORUMCEK ADAM
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142137&extension=m3u8
@@ -3633,8 +3825,23 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142137&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX POLIS AKEDEMISI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.POLIS AKEDEMISI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142143&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Pop Corn 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Pop Corn 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=158161&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Pop Corn 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Pop Corn 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=158162&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Pop Corn 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Pop Corn 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=158163&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX RAMBO" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.RAMBO
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142155&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Rambo" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Rambo b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=52680&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Recep \u0130VEDIK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Recep iVEDIK b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61192&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX RECEP IVEDIK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.RECEP IVEDIK
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142132&extension=m3u8
@@ -3644,6 +3851,12 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142131&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.S1F1R B1R ADANA
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=124281&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) 7/24 \u015eafak Sezer 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Safak Sezer 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61110&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 \u015eafak Sezer 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Safak Sezer 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71211&extension=ts
 
 #EXTINF:-1 tvg-id="TR: FILMAX SAVAS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SAVAS
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=215166&extension=m3u8
@@ -3669,6 +3882,18 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142136&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX SYLVESTER STALLONE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SYLVESTER STALLONE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142096&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) 7/24 Tabii Original 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Tabii Original 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151779&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Tabii Original 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Tabii Original 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151793&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Tabii Original 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Tabii Original 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=152032&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Tarik Akan" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Tarik Akan b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47706&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX TERMINATOR TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TERMINATOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142145&extension=m3u8
 
@@ -3677,6 +3902,9 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142144&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX THE LAST OF US" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.THE LAST OF US
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=268849&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Tolg Show" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Tolg Show b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=80222&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX TolgShow" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TolgShow
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219434&extension=m3u8
@@ -3687,11 +3915,23 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142094&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX TRANSFORMERS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TRANSFORMERS
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142148&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) T\u00fcrk\u00e7e Altyaz\u0131 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Türkçe Altyazı 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=74929&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) T\u00fcrk\u00e7e Altyaz\u0131 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Türkçe Altyazı 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108504&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) T\u00fcrk\u00e7e Altyaz\u0131 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Türkçe Altyazı 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=112193&extension=ts
+
 #EXTINF:-1 tvg-id="TR: Megabox-Ulke Seyehatı" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ulke Seyehatı
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219899&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DINAMIK UZAKDOGU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.UZAKDOGU 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185234&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Van Damme" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Van Damme b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91071&extension=ts
 
 #EXTINF:-1 tvg-id="TR: BEST WESTERN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WESTERN 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=185232&extension=m3u8
@@ -3717,8 +3957,80 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219916&exte
 #EXTINF:-1 tvg-id="TR: ProTurk-WWE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.WWE
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=219871&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) X Men HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.X Men b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94162&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZIAX X-MEN TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.X-MEN
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142146&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76120&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76118&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76119&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157859&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 5" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108498&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Yaprak D\u00f6k\u00fcm\u00fc HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yaprak Dökümü b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105853&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Yazl\u0131k\u00e7\u0131lar HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yazlıkçılar b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105788&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Film 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Film 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2912&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Film 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Film 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2869&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Film 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Film 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=97694&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Film 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Film 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101047&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Komedi 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Komedi 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151106&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Komedi 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Komedi 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101048&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Komedi 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Komedi 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151645&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yerli Korku" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Korku b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=97726&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47665&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47662&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71206&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101032&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 5" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101011&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 6" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 6 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101010&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 7" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 7 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101029&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) 7/24 Yilmaz Guney" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yilmaz Guney b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71213&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ZOR OLUM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZOR OLUM
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142140&extension=m3u8
