@@ -1395,11 +1395,53 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57733&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.BSPOR 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57794&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) EuroSport 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2989&extension=ts
+
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=275&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) EuroSport 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2988&extension=ts
+
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=276&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Exxen 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=117576&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137813&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=117577&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137814&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 3 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=117578&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 3 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137815&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 4 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118876&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 4 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137816&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 5 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118877&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137817&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 6 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 6 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118878&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen 6 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 6 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137818&extension=ts
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
@@ -1587,6 +1629,24 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369564&ex
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369564&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Exxen Tv" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen Tv b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=161405&extension=ts
+
+#EXTINF:-1 tvg-id="Fuchs Sports 1 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 1 b (Mac Saati)
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150194&extension=ts
+
+#EXTINF:-1 tvg-id="Fuchs Sports 2 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 2 b (Mac Saati)
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150195&extension=ts
+
+#EXTINF:-1 tvg-id="Fuchs Sports 3 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 3 b (Mac Saati)
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150196&extension=ts
+
+#EXTINF:-1 tvg-id="Fuchs Sports 4 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 4 b (Mac Saati)
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150197&extension=ts
+
+#EXTINF:-1 tvg-id="Fuchs Sports 5 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 5 b (Mac Saati)
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150198&extension=ts
+
 #EXTINF:-1 tvg-id="TR | GOLDX SPORT 1 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 1 FEED b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944275&extension=ts
 
@@ -1595,6 +1655,18 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944276&exten
 
 #EXTINF:-1 tvg-id="TR | GOLDX SPORT 3 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 3 FEED b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944442&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Nba Tv 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Nba Tv b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7427&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=80320&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118878&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport HD Yedek" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2880&extension=ts
 
 #EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57721&extension=ts
@@ -1617,6 +1689,24 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57721&ext
 #EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57721&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) S Sport+ 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135190&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport+ 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135189&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport+ 3 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135188&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport+ 4 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135187&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport+ 5 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135186&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) S Sport+ 6 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 6 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135185&extension=ts
+
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 1 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=305&extension=m3u8
 
@@ -1625,6 +1715,18 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=116073&exte
 
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 2 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=295&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Saran Sport 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Saran Sport 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2881&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Saran Sport 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Saran Sport 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=52533&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Smart Spor 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Smart Spor b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2860&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Smart Spor HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Smart Spor b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=114630&extension=ts
 
 #EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SMART SPORT 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57810&extension=m3u8
@@ -1638,6 +1740,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57810&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPOR 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57794&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Sports TV" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Sports tv b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2857&extension=ts
+
 #EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57723&extension=m3u8
 
@@ -1646,6 +1751,24 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57723&ext
 
 #EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57723&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=39472&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2845&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7559&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2844&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 3 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2843&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Tivibu Spor 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7561&extension=ts
 
 #EXTINF:-1 tvg-id="TR: TiViBUSPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=125109&extension=m3u8
