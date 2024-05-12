@@ -723,11 +723,131 @@ http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="0.KIL-MÜZİK", TV Web Camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 
+#EXTINF:-1 tvg-id="(TR) XP Adnan \u015eenses" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Adnan Senses b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106302&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ahmet Kaya" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ahmet Kaya b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60708&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Akustik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Akustik b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106456&extension=ts
+
+#EXTINF:-1 tvg-id="TR | AKUST\u0130K T\u00dcRK\u00dcLER CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AKUSTIK TURKULER CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791775&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ankara Havalar\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ankara Havaları
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105390&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ankara Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ankara Mix b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=45337&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Arabesk 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Arabesk 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=22968&extension=ts
+
+#EXTINF:-1 tvg-id="TR | ARABESK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791773&extension=ts
+
 #EXTINF:-1 tvg-id="LYNX | AZER B\u00dcLB\u00dcL" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AZER Bülbül
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=898753&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) XP Azer B\u00fclb\u00fcl" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Azer Bülbül b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105298&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BABA RADYO FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BABA RADYO FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791772&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Bergen" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bergen b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105299&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEST FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BEST FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791766&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Bozlak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bozlak b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105217&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP B\u00fclent Ersoy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bülent Ersoy b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=53191&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DAMAR FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DAMAR FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791771&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DRAM RADYO CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DRAM RADYO CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806563&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP D\u00fcet M\u00fczik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Düet Müzik b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105457&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Efe Muzikleri" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Efe Muzikleri b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105339&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Emel Sayin" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Emel Sayin b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76169&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ferdi Tayfur" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ferdi Tayfur b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137199&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Hakki BULUT" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Hakki BULUT b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105340&extension=ts
+
+#EXTINF:-1 tvg-id="TR | HIT CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HIT CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791763&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP \u0130brahim Tatlises" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ibrahim Tatlises b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138515&extension=ts
+
 #EXTINF:-1 tvg-id="LYNX | \u0130BRAH\u0130M TATLISES" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", İbrahim TATLISES
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=897716&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ilahi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ilahi b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138517&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KAFA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KAFA CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806558&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Karadeniz TV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Karadeniz TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=24261&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KARADENIZ FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARADENIZ FM CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806561&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Kazanci Bedih" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Kazanci Bedih b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104999&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Koray Avc\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Koray Avcı b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138518&extension=ts
+
+#EXTINF:-1 tvg-id="TR | KRAL POP CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KRAL POP CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791755&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Muazzez Ersoy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Muazzez Ersoy b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104727&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Musa Ero\u011flu" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Musa Eroğlu b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105300&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP M\u00fcsl\u00fcm G\u00fcrses 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Müslüm Gürses 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138516&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP M\u00fcsl\u00fcm G\u00fcrses 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Müslüm Gürses 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104975&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Na\u011fme Fasil" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Nağme Fasil b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=57177&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ne\u015fet Ertas" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Neşet Ertas b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60711&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Orhan Gencebay" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Orhan Gencebay b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60801&extension=ts
+
+#EXTINF:-1 tvg-id="(TR)  XP \u00d6zg\u00fcn Muzik" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN Muzik b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106225&extension=ts
+
+#EXTINF:-1 tvg-id="TR | PAL NOSTALJ\u0130 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL NOSTALJi CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791768&extension=ts
+
+#EXTINF:-1 tvg-id="TR | PAL STATION CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL STATION CANLI RADYO
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791764&extension=ts
 
 #EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE Müzik 1
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819676&extension=ts
@@ -741,41 +861,11 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=821662&exten
 #EXTINF:-1 tvg-id="LYNX | PARADE POP M\u00dcZ\u0130K" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE POP Müzik
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=792759&extension=ts
 
-#EXTINF:-1 tvg-id="TR | AKUST\u0130K T\u00dcRK\u00dcLER CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AKUSTIK TURKULER CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791775&extension=ts
+#EXTINF:-1 tvg-id="(TR) XP Pop Muzik 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pop Muzik 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105383&extension=ts
 
-#EXTINF:-1 tvg-id="TR | ARABESK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791773&extension=ts
-
-#EXTINF:-1 tvg-id="TR | BABA RADYO FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BABA RADYO FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791772&extension=ts
-
-#EXTINF:-1 tvg-id="TR | BEST FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BEST FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791766&extension=ts
-
-#EXTINF:-1 tvg-id="TR | DAMAR FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DAMAR FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791771&extension=ts
-
-#EXTINF:-1 tvg-id="TR | DRAM RADYO CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DRAM RADYO CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806563&extension=ts
-
-#EXTINF:-1 tvg-id="TR | HIT CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HIT CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791763&extension=ts
-
-#EXTINF:-1 tvg-id="TR | KAFA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KAFA CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806558&extension=ts
-
-#EXTINF:-1 tvg-id="TR | KARADENIZ FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARADENIZ FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806561&extension=ts
-
-#EXTINF:-1 tvg-id="TR | KRAL POP CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KRAL POP CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791755&extension=ts
-
-#EXTINF:-1 tvg-id="TR | PAL NOSTALJ\u0130 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL NOSTALJi CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791768&extension=ts
-
-#EXTINF:-1 tvg-id="TR | PAL STATION CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL STATION CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791764&extension=ts
+#EXTINF:-1 tvg-id="(TR) XP Pop M\u00fczik 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pop Müzik 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=23689&extension=ts
 
 #EXTINF:-1 tvg-id="TR | RADYO 44 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO 44 CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806971&extension=ts
@@ -795,17 +885,56 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=857532&exten
 #EXTINF:-1 tvg-id="TR | RADYO T\u00dcRK\u00dc CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO TURK CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791776&extension=ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO ULUS TURKULER
+http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806560&extension=ts
+
 #EXTINF:-1 tvg-id="TR | RADYO VIVA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO VIVA CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791770&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Sezen Aksu" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Sezen Aksu b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105202&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Shakira HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Shakira b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105860&extension=ts
 
 #EXTINF:-1 tvg-id="TR | SHOW CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", SHOW CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791762&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) XP Slow M\u00fczik 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Slow Müzik 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=163886&extension=ts
+
 #EXTINF:-1 tvg-id="TR | SLOWTURK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", SLOWTURK CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791767&extension=ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO ULUS TURKULER
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806560&extension=ts
+#EXTINF:-1 tvg-id="(TR) XP Tarkan" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tarkan b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105216&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Ta\u015f Plak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Taş  Plak b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105349&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Tufan Alta\u015f HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tufan Altaş b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105387&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Turkiyem Mix HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Turkiyem Mix b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104728&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP T\u00fcrk Halk M\u00fczi\u011fi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türk Halk müziği b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105481&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Dark T\u00fcrk\u00e7e Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türkçe Mix b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105145&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP T\u00fcrk\u00fc 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türkü 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106124&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Volkan KONAK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Volkan KONAK b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138363&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Yabanci Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Yabanci Mix b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=75977&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) XP Zeki M\u00fcren" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Zeki Müren b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104949&extension=ts
 
 #EXTINF:-1 tvg-id="|CL| CHILI |CL|" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 00.Relax
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=175378&extension=ts
@@ -945,6 +1074,15 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 4K (mac zamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4K b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819186&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3033&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=35701&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 4K++" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34936&extension=ts
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 EURO FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 EURO FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726185&extension=ts
 
@@ -986,6 +1124,21 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726184&exten
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 SD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 SD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726186&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports Yedek 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 Yedek b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=52636&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports Yedek 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 Yedek b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3024&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports Yedek 3" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 Yedek b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=119875&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34937&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3032&extension=ts
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57800&extension=ts
@@ -1047,6 +1200,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726188&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports 3 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34938&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3022&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57803&extension=ts
 
@@ -1107,6 +1266,12 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726190&exten
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=290&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports 4 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3030&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3028&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57806&extension=ts
 
@@ -1161,6 +1326,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports 5 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136248&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 5 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136249&extension=ts
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 5 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726193&extension=ts
 
@@ -1173,17 +1344,26 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726194&exten
 #EXTINF:-1 tvg-id="TR: bieN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=117043&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports Haber 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Haber b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3027&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57733&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein Sports Max 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7555&extension=ts
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726195&extension=ts
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726196&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Sports Max 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7556&extension=ts
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726197&extension=ts
