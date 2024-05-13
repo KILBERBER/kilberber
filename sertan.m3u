@@ -3600,11 +3600,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108403&extension=t
 #EXTINF:-1 tvg-id="(TR) AL Pacino" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AL Pacino b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91054&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DIZIAX ALPACINO" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AL PACINO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142104&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ALACAKARANLIK EFSANESI
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142133&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: DIZIAX ALPACINO" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ALPACINO
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142104&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ALIEN VS PREDATOR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ALIEN VS PREDATOR
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=142154&extension=m3u8
@@ -4299,8 +4299,32 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=314&extensi
 #EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.BOX OFFİCE 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=316&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein Box Office 1 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Box Office 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3050&extension=ts
+
 #EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="00.KIL-ONLİNE FİLM", 0.B.BOX OFFİCE 2
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=315&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Bein Box Office 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Box Office 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3049&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Box Office 3 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Box Office 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3048&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Movies Action 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Movies Action 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3046&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Movies Premiere 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Movies Premiere 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3041&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Movies Premiere 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Movies Premiere b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89829&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Movies Stars 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Movies Stars b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3039&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Movies Turk 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Movies Turk b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3038&extension=ts
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES ACTION
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=318&extension=m3u8
@@ -4388,6 +4412,18 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57672&ext
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57672&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Bein Series 1 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89832&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Series 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89831&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Series 3 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 3 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89830&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Bein Series 4 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 4 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3035&extension=ts
 
 #EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=309&extension=m3u8
@@ -4482,8 +4518,14 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=331&extensi
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART PREMIUM HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=351&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Epic Drama" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Epic Drama b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170409&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Fx HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Fx b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2975&extension=ts
 
 #EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57655&extension=ts
@@ -4499,6 +4541,15 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57655&ext
 
 #EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57655&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Moviesmart Action 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Moviesmart Action b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2920&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Moviesmart Classic 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Moviesmart Classic b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2918&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Moviesmart Turk 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Moviesmart Turk b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2906&extension=ts
 
 #EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57697&extension=ts
@@ -4554,6 +4605,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57708&ext
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a 
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57708&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Sinema Aile 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Aile 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170404&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57704&extension=ts
 
@@ -4568,6 +4622,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&ext
 
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57704&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema Aksion 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Aksion 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170405&extension=ts
 
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aksiyon
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57705&extension=ts
@@ -4599,6 +4656,30 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&ext
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57707&extension=ts
 
+#EXTINF:-1 tvg-id="(TR) Sinema TV 1 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 1 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89835&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV 1001 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 1001 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89837&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV 1002 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 1002 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89834&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89836&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV Aile 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Aile b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89838&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV Aksiyon 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Aksiyon b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89839&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema TV Comedy 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Comedy b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170407&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema Yerli 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Yerli 2 b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170406&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57709&extension=ts
 
@@ -4613,6 +4694,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&ext
 
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a 
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57709&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Sinema Yerli 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Yerli b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170408&extension=ts
 
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57703&extension=ts
@@ -6198,11 +6282,17 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
+#EXTINF:-1 tvg-id="(TR) BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=99747&extension=ts
+
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=491&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: BBC Earth HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110608&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Bein Gurme 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein Gurme b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31314&extension=ts
 
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein GuRME HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=493&extension=m3u8
@@ -6210,8 +6300,26 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=493&extensi
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.bein IZ HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=18563&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Bein IZ TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein IZ TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3047&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57663&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Da Vinci 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Da Vinci b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31317&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Dark Belgesel" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Dark Belgesel b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=24615&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Discovery Channel HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Discovery Channel b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3004&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Discovery Science HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Discovery Science b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3003&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) DMAX 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31320&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DMAX HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=492&extension=m3u8
@@ -6255,11 +6363,17 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57745&ext
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=496&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) History Channel 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History Channel b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2964&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57748&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57748&extension=m3u8
 
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=497&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Love Nature 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Love Nature b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2904&extension=ts
 
 #EXTINF:-1 tvg-id="TR: LOVE NATURE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67567&extension=m3u8
@@ -6270,6 +6384,9 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110620&exte
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57741&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57741&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Nat Geo Wild 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Nat Geo Wild b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2903&extension=ts
+
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Nat Geo Wild HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67569&extension=m3u8
 
@@ -6279,17 +6396,32 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57739&ext
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO WILD HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=486&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) National Geo HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geo b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2902&extension=ts
+
 #EXTINF:-1 tvg-id="TR: National Geographic HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=67570&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: National Geographic HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=17121&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Tarih TV" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Tarih TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170403&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) TLC 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2840&extension=ts
+
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC TV
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=4174&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: TLC TV HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC TV HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110605&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) Viasat Explorer HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Viasat Explorer b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170402&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Viasat History HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Viasat History b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=147434&extension=ts
 
 #EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=110614&extension=m3u8
@@ -6303,8 +6435,14 @@ http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=197205&exte
 #EXTINF:-1 tvg-id="TR| VIASAT HISTORY" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.VIASAT HISTORY
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57750&extension=m3u8
 
+#EXTINF:-1 tvg-id="(TR) Yaban TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Yaban TV b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=139079&extension=ts
+
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=484&extension=m3u8
+
+#EXTINF:-1 tvg-id="(TR) ID HD 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ID HD b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7429&extension=ts
 
 #EXTINF:-1 tvg-id="BR| Fish TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/631a9559060d6165dc953c2f/cb787910-6958-4c6d-937d-294ba029ebd7/Fish+TV+Vector.png" group-title="01.KIL-BELGESEL", 7.Fish TV
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166803&extension=ts
