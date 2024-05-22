@@ -747,6 +747,12 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=22968&extension=ts
 #EXTINF:-1 tvg-id="TR | ARABESK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791773&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DINAMIK ARABESK RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK RADYO c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142176&extension=ts
+
+#EXTINF:-1 tvg-id="TR: REDBOX ARABESK TV" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK TV c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=54845&extension=ts
+
 #EXTINF:-1 tvg-id="LYNX | AZER B\u00dcLB\u00dcL" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AZER Bülbül
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=898753&extension=ts
 
@@ -789,6 +795,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137199&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Hakki BULUT" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Hakki BULUT b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105340&extension=ts
 
+#EXTINF:-1 tvg-id="TR:  DINAMIK HALK MUZIGI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HALK MUZIGI RADYO c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142178&extension=ts
+
 #EXTINF:-1 tvg-id="TR | HIT CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HIT CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791763&extension=ts
 
@@ -797,6 +806,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138515&extension=t
 
 #EXTINF:-1 tvg-id="LYNX | \u0130BRAH\u0130M TATLISES" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", İbrahim TATLISES
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=897716&extension=ts
+
+#EXTINF:-1 tvg-id="TR: IBRAHIM ERKAL" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", iBRAHIM ERKAL c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142171&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Ilahi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ilahi b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138517&extension=ts
@@ -809,6 +821,12 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=24261&extension=ts
 
 #EXTINF:-1 tvg-id="TR | KARADENIZ FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARADENIZ FM CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806561&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK KARISIK 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142184&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK KARISIK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142183&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Kazanci Bedih" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Kazanci Bedih b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104999&extension=ts
@@ -840,8 +858,14 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60711&extension=ts
 #EXTINF:-1 tvg-id="(TR) XP Orhan Gencebay" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Orhan Gencebay b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60801&extension=ts
 
+#EXTINF:-1 tvg-id="TR: ProTurk-Oyun Havas\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Oyun Havası c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219866&extension=ts
+
 #EXTINF:-1 tvg-id="(TR)  XP \u00d6zg\u00fcn Muzik" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN Muzik b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106225&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK OZGUN RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN RADYO c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142179&extension=ts
 
 #EXTINF:-1 tvg-id="TR | PAL NOSTALJ\u0130 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL NOSTALJi CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791768&extension=ts
@@ -867,6 +891,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105383&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Pop M\u00fczik 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pop Müzik 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=23689&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DINAMIK POP RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", POP RADYO c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142177&extension=ts
+
 #EXTINF:-1 tvg-id="TR | RADYO 44 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO 44 CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806971&extension=ts
 
@@ -890,6 +917,9 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806560&exten
 
 #EXTINF:-1 tvg-id="TR | RADYO VIVA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO VIVA CANLI RADYO
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791770&extension=ts
+
+#EXTINF:-1 tvg-id="TR: ProTurk-Rap" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219867&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Sezen Aksu" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Sezen Aksu b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105202&extension=ts
@@ -915,6 +945,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105349&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Tufan Alta\u015f HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tufan Altaş b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105387&extension=ts
 
+#EXTINF:-1 tvg-id="TR: REDBOX TURKCE POP" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=54844&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) XP Turkiyem Mix HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Turkiyem Mix b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104728&extension=ts
 
@@ -932,6 +965,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138363&extension=t
 
 #EXTINF:-1 tvg-id="(TR) XP Yabanci Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Yabanci Mix b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=75977&extension=ts
+
+#EXTINF:-1 tvg-id="TR: YILDIZ TILBE" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", YILDIZ TILBE c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142181&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Zeki M\u00fcren" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Zeki Müren b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104949&extension=ts
@@ -1094,6 +1130,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34936&extension=ts
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 EURO FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 EURO FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726185&extension=ts
+
+#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 FHD a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57794&extension=ts
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57794&extension=ts
@@ -4557,6 +4596,39 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57681&ext
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57681&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: BOX OFFICE INFO" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE iNFO
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342365&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 1
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342366&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 10
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342375&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 2
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342367&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 3
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342368&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 4" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 4
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342369&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 5
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342370&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 6
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342371&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 7
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342372&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 8
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342373&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 9" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 9
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342374&extension=ts
+
 #EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BSERIES 4 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57681&extension=ts
 
@@ -5511,8 +5583,20 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="(TR) BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=99747&extension=ts
 
+#EXTINF:-1 tvg-id="TR: BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=491&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BBC Earth HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110608&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) Bein Gurme 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein Gurme b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31314&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beiN GuRME HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.beiN GuRME HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=493&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beiN IZ HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.beiN IZ HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=18563&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Bein IZ TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein IZ TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3047&extension=ts
@@ -5535,17 +5619,77 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3003&extension=ts
 #EXTINF:-1 tvg-id="(TR) DMAX 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31320&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DOCUAX CRIME" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX CRIME c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=264778&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX DEEPWATER" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX DEEPWATER c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=266802&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX EARTH" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX EARTH c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=259796&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX HISTORY" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX HISTORY c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219402&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX LIFE" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX LIFE c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=259795&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX PARANORMAL" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX PARANORMAL c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=271922&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX SPACE" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX SPACE c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219401&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX TECH" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX TECH c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219400&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX UNDERGROUND" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX UNDERGROUND c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=264779&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX WAR" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX WAR c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=259797&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUAX WILD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX WILD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219403&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DOCUBOX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=17179&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57743&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57743&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110611&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=488&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY SCIENCE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110612&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY SCIENCE HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=489&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY ID" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY ID c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=490&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57745&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57745&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: DISCOVERY IDX HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=496&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) History Channel 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History Channel b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2964&extension=ts
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57748&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57748&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: History HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=497&extension=ts
+
+#EXTINF:-1 tvg-id="TR: History HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362973&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Love Nature 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Love Nature b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2904&extension=ts
@@ -5556,11 +5700,23 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57741&ext
 #EXTINF:-1 tvg-id="(TR) Nat Geo Wild 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Nat Geo Wild b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2903&extension=ts
 
+#EXTINF:-1 tvg-id="TR: Nat Geo Wild HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Nat Geo Wild HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=67569&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57739&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO WILD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57739&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: NAT GEO WILD HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO WILD HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=486&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) National Geo HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geo b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2902&extension=ts
+
+#EXTINF:-1 tvg-id="TR: National Geographic HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=17121&extension=ts
+
+#EXTINF:-1 tvg-id="TR: National Geographic HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=67570&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Tarih TV" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Tarih TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170403&extension=ts
@@ -5574,8 +5730,20 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170402&extension=t
 #EXTINF:-1 tvg-id="(TR) Viasat History HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Viasat History b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=147434&extension=ts
 
+#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110614&extension=ts
+
+#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY HD+ c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=494&extension=ts
+
+#EXTINF:-1 tvg-id="TR: VIASAT EXPLORE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.VIASAT EXPLORE HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=197205&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) Yaban TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Yaban TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=139079&extension=ts
+
+#EXTINF:-1 tvg-id="TR: YABAN TV HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV HD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=484&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) ID HD 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ID HD b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7429&extension=ts
