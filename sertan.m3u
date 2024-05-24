@@ -1110,14 +1110,29 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | B.SPOR 1 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190965&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 d
+https://m3u-editor.com/serve/deathless-titan-v7/1170094578
+
 #EXTINF:-1 tvg-id="TR: BEIN SP0RTS  1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD
 http://redson.xyz:3800/play/live.php?mac=00:1A:79:C6:50:93&stream=52778&extension=ts
 
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=405957&extension=ts
 
+#EXTINF:-1 tvg-id="TR | B.SPOR 1 HD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190966&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=361367&extension=ts
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD+ d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18663&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="0.KIL-SP0R", 0.B.SP0R FEED d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 4K (mac zamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4K b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819186&extension=ts
