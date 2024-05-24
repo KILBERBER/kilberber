@@ -1041,9 +1041,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="0.KIL-RELAX", 22.relax
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23146/sikh-ratnavali-gb/logo_20240322_185328_70.png" group-title="0.KIL-RELAX", 23.Relax
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sikh-ratnavali-gb/playlist.m3u8?
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
 
@@ -1113,6 +1110,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: BEIN SP0RTS  1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD
+http://redson.xyz:3800/play/live.php?mac=00:1A:79:C6:50:93&stream=52778&extension=ts
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=405957&extension=ts
 
@@ -1154,6 +1154,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57794&ext
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726183&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 HD
+http://megashtv.digital:8080/play/live.php?mac=00:1A:79:2A:29:CA&stream=21650&extension=ts
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57797&extension=ts
@@ -4815,11 +4818,62 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/yenigelin.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f5a2dd8f-0260-4059-8ab9-ea282a189244.jpeg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.çilek Kokusu
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cilekkokusu.m3u8
 
+#EXTINF:-1 tvg-id="TR: Arenabox-Action" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Action c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219823&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Animasyon" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Animasyon c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219824&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Belgesel" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Belgesel c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219825&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-BilimKurgu" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-BilimKurgu c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219826&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Dram" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Dram c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219827&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Fantastik" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Fantastik c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219828&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Gerilim" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Gerilim c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219829&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-KemalSunal" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-KemalSunal c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219830&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Komedi" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Komedi c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219831&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Korku" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Korku c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219832&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Macera" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Macera c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219833&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Vizyon" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Vizyon c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219834&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Yerli" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Yerli c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219835&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Arenabox-Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Arenabox-Yeşilçam c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219836&extension=ts
+
+#EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=313&extension=ts
+
 #EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 1 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 1 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362968&extension=ts
 
+#EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 2 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=314&extension=ts
+
 #EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 2 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362969&extension=ts
+
+#EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 3 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=315&extension=ts
 
 #EXTINF:-1 tvg-id="TR: b**N B0X 0FF\u0130CE 3 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.B0X 0FFiCE 3 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362970&extension=ts
@@ -5016,6 +5070,63 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&ext
 #EXTINF:-1 tvg-id="TR: b**N S*RIES 4 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=306&extension=ts
 
+#EXTINF:-1 tvg-id="TR: BEST AKSIYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST AKSIYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185283&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST ANASYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST ANiMASYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185291&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST BILIMKURGU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST BILIMKURGU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185288&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST DRAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST DRAM c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185289&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST HABABAM SINIFI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST HABABAM SINIFI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185298&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST KOMEDI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST KOMEDI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185285&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST KORKU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST KORKU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185286&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST LOCA 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST LOCA 1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185293&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST LOCA 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST LOCA 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185294&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST LOCA 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST LOCA 3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185295&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST NETFLIX" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST NETFLIX c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185221&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST SALON 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST SALON 1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185299&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST SALON 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST SALON 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185296&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST SALON 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST SALON 3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185297&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST SAVA" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST SAVAS c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185290&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST TURK" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST TURK c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185284&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST WESTERN" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST WESTERN c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185232&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST YESILCAM c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185292&extension=ts
+
+#EXTINF:-1 tvg-id="TR: BEST IMBD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST IMBD c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185287&extension=ts
+
 #EXTINF:-1 tvg-id="TR: BOX OFFICE INFO" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE iNFO
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342365&extension=ts
 
@@ -5073,6 +5184,192 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=351&extensi
 #EXTINF:-1 tvg-id="TR: DIZI SMART PREMIUM HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DiZi SMART PREMIUM HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=331&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DREAM AKSIYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM AKSIYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185277&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM ANIMASYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM ANIMASYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185278&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM beiN OFFE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185262&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF10 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185271&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM beiN OFFE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185263&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM beiN OFFE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185264&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM beiN OFFE 4" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF4 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185265&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF5 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185266&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF6 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185267&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF7
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185268&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF8 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185269&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM b**N OFFE 9" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM beiN OF9 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185270&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM BOX-SET" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM BOX-SET c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185273&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM BILIMKURGU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM BILIMKURGU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185272&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM DRAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM DRAM c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185274&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM KEMAL SUNAL" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KEMAL SUNAL c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185275&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM KOMEDI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KOMEDI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185276&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM KOMEDI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KOMEDI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185276&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM KORKU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KORKU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185279&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM LOCA 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM LOCA 1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185280&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM LOCA 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM LOCA 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185281&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM LOCA 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM LOCA 3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185282&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM NETFLIX" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM NETFLIX c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185304&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM SAVAS" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM SAVAS c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185261&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM TURK" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM TURK c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185260&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DREAM WESTERN" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM WESTERN c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185302&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Action" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Action c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219873&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Bilimkurgu" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Bilimkurgu c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219874&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Comedy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Comedy c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219875&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Dram" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Dram c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219876&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Fantastic" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Fantastic c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219877&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Gerilim" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Gerilim c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219878&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Kemal Sunal" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Kemal Sunal c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219879&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Korku" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Korku c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219880&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Macera" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Macera c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219881&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Nextflix" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Nextflix c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219882&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Romantic" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Romantic c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219883&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Sava\u015f" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Savaş c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219884&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Yerli" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Yerli c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219885&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Dreambox-Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Yeşilçam c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219886&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK AKSIYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK AKSIYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185218&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK ANIMASYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK ANIMASYON c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185231&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK BOX-SET" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK BOX-SET c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185220&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK BILIMKURGU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK BILIMKURGU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185219&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK DRAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK DRAM c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185222&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK HABABAM SINIFI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK HABABAM SINIFI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185240&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK KEMAL SUNAL" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK KEMAL SUNAL c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185235&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK KOMEDI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK KOMEDI c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185225&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK KORKU" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK KORKU c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185226&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK LOCA 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK LOCA 1 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185227&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK LOCA 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK LOCA 2 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185228&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK LOCA 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK LOCA 3 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185229&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK MARVEL" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK MARVEL c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185238&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK MUZIK" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK MUZIK c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185239&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 01 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185241&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 01 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185241&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 02 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185242&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 02 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185242&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 03 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185243&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 03 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185243&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 10 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185250&extension=ts
+
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 10 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185250&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DIZI SMART MAX HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DIZI SMART MAX c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=352&extension=ts
 
@@ -5088,6 +5385,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362967&exte
 #EXTINF:-1 tvg-id="TR: FOX CRIME HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FOX CRIME c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=356&extension=ts
 
+#EXTINF:-1 tvg-id="TR| FX" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57657&extension=ts
+
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
 
@@ -5096,6 +5396,15 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2975&extension=ts
 
 #EXTINF:-1 tvg-id="TR: FX HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=354&extension=ts
+
+#EXTINF:-1 tvg-id="TR:  FILMAX COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMAX COMEDY c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=388&extension=ts
+
+#EXTINF:-1 tvg-id="TR:  FILMAX FANTASTIK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMAX FANTASTIK c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=382&extension=ts
+
+#EXTINF:-1 tvg-id="TR:  FILMAX T\u00fcrk HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMAX Türk c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=387&extension=ts
 
 #EXTINF:-1 tvg-id="TR: FILMBOX HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMBOX c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362966&extension=ts
@@ -5114,6 +5423,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57655&ext
 
 #EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57655&extension=ts
+
+#EXTINF:-1 tvg-id="TR:  MAX Aksiyon HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MAX Aksiyon c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=10839&extension=ts
 
 #EXTINF:-1 tvg-id="TR: MOV\u0130ESMART CLASS\u0130C HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOViE SMART CLASSiC HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=350&extension=ts
@@ -8862,6 +9174,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10017.mp
 #EXTINF:-1 tvg-id="TR Askin Omru (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Askin Omru (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9877.mp4
 
+#EXTINF:-1 tvg-id="TR Askin Saati 19 03 (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Askin Saati 19 03 (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11185.mp4
+
 #EXTINF:-1 tvg-id="TR.Askin.Gulen.Gozlere.Ihtiyaci.Yok.2018" tvg-logo="noimage.png" group-title="FiLM YERLi", Askin.Gulen.Gozlere.Ihtiyaci.Yok.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/2.mp4
 
@@ -9093,6 +9408,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3280.mkv
 #EXTINF:-1 tvg-id="TR.Calgi.Cengi.Ikimiz.2017" tvg-logo="noimage.png" group-title="FiLM YERLi", Calgi.Cengi.Ikimiz.2017
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/689.mp4
 
+#EXTINF:-1 tvg-id="TR Cam Perde(2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Cam Perde(2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11186.mp4
+
 #EXTINF:-1 tvg-id="TR.Can.Dostlar.2019" tvg-logo="noimage.png" group-title="FiLM YERLi", Can.Dostlar.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/2959.mp4
 
@@ -9144,8 +9462,14 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3576.mp4
 #EXTINF:-1 tvg-id="TR Cici (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Cici (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10186.mp4
 
+#EXTINF:-1 tvg-id="TR Cici Anne (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Cici Anne (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11212.mp4
+
 #EXTINF:-1 tvg-id="TR.Cici.Babam.2018" tvg-logo="noimage.png" group-title="FiLM YERLi", Cici.Babam.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/1940.mp4
+
+#EXTINF:-1 tvg-id="TR Ciftligimin Hanimi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Ciftligimin Hanimi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11215.mp4
 
 #EXTINF:-1 tvg-id="TR Ciftlik Bank Tosun Firarda (2018)" tvg-logo="noimage.png" group-title="FiLM YERLi", Ciftlik Bank Tosun Firarda (2018)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9794.mp4
@@ -9173,6 +9497,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3.mp4
 
 #EXTINF:-1 tvg-id="TR.Cocuklar.Sana.Emanet.2018.Yerli.x264.HdT" tvg-logo="noimage.png" group-title="FiLM YERLi", Cocuklar.Sana.Emanet.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/20.mp4
+
+#EXTINF:-1 tvg-id="TR Cok Ask (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Cok Ask (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11118.mp4
 
 #EXTINF:-1 tvg-id="TR Cumali Ceber 666 (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Cumali Ceber 666 (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10247.mp4
@@ -9375,6 +9702,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3579.mp4
 #EXTINF:-1 tvg-id="TR.Guller.2019.Yerli.Sansursuz.WEBRip.x264.SOUL" tvg-logo="noimage.png" group-title="FiLM YERLi", Guller.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3446.mp4
 
+#EXTINF:-1 tvg-id="TR Guven Bana (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Guven Bana (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11107.mp4
+
 #EXTINF:-1 tvg-id="TR.Guzelligin Portresi-2020" tvg-logo="noimage.png" group-title="FiLM YERLi", Guzelligin Portresi-2020
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/5668.mkv
 
@@ -9429,8 +9759,14 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10035.mp
 #EXTINF:-1 tvg-id="TR Hep Yek 5 Bizim Seyimiz mi Altan (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Hep Yek 5 Bizim Seyimiz mi Altan (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10571.mp4
 
+#EXTINF:-1 tvg-id="TR Hep Yek Dugun (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Hep Yek Dugun (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11108.mp4
+
 #EXTINF:-1 tvg-id="TR.Hep.Yek.3.Titrettin.Beni.2019" tvg-logo="noimage.png" group-title="FiLM YERLi", Hep.Yek.3.Titrettin.Beni.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/2665.mp4
+
+#EXTINF:-1 tvg-id="TR Her Sey Ask icin (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Her Sey Ask icin (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11125.mp4
 
 #EXTINF:-1 tvg-id="TR Her Seye Ragmen Regardless (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Her Seye Ragmen Regardless (2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10928.mp4
@@ -9513,6 +9849,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/712.mp4
 #EXTINF:-1 tvg-id="TR.Kacma.Birader" tvg-logo="noimage.png" group-title="FiLM YERLi", Kacma.Birader
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/713.mp4
 
+#EXTINF:-1 tvg-id="TR Kadin Kafasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kadin Kafasi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11205.mp4
+
 #EXTINF:-1 tvg-id="TR.Kafalar.Karisik.2019.Yerli.Sansursuz.WEBRip.x264.SOUL" tvg-logo="noimage.png" group-title="FiLM YERLi", Kafalar.Karisik.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3580.mp4
 
@@ -9557,6 +9896,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10618.mp
 
 #EXTINF:-1 tvg-id="TR Karinca (2019)" tvg-logo="noimage.png" group-title="FiLM YERLi", Karinca (2019)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9722.mp4
+
+#EXTINF:-1 tvg-id="TR Kasada Parti (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kasada Parti (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11241.mp4
 
 #EXTINF:-1 tvg-id="TR Katakulli (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Katakulli (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10228.mp4
@@ -9608,6 +9950,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/714.mp4
 
 #EXTINF:-1 tvg-id="TR.Kizim.ve.Ben.2018.Yerli.Sansursuz.x264.SOUL" tvg-logo="noimage.png" group-title="FiLM YERLi", Kizim.ve.Ben.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3451.mp4
+
+#EXTINF:-1 tvg-id="TR Kocami Kim Oldurur (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kocami Kim Oldurur (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11109.mp4
 
 #EXTINF:-1 tvg-id="TR Kolej Ruyasi Lise Gunlukleri (2021)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kolej Ruyasi Lise Gunlukleri (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10339.mp4
@@ -9798,6 +10143,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10731.mp
 #EXTINF:-1 tvg-id="TR Olu Ekmegi (2020)" tvg-logo="noimage.png" group-title="FiLM YERLi", Olu Ekmegi (2020)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9810.mp4
 
+#EXTINF:-1 tvg-id="TR Olumlu Dunya 2 (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Olumlu Dunya 2 (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11207.mp4
+
 #EXTINF:-1 tvg-id="TR.Olumlu.Dunya.2018" tvg-logo="noimage.png" group-title="FiLM YERLi", Olumlu.Dunya.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6.mp4
 
@@ -9833,6 +10181,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3449.mp4
 
 #EXTINF:-1 tvg-id="TR Ozur Dilerim (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Ozur Dilerim (2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10542.mp4
+
+#EXTINF:-1 tvg-id="TR Para Nerede (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Para Nerede (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11188.mp4
 
 #EXTINF:-1 tvg-id="TR.Parayi.Bulduk.2017.720p.HDTV.x264.AC3.TURG" tvg-logo="noimage.png" group-title="FiLM YERLi", Parayi.Bulduk.2017
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/728.mp4
@@ -10040,6 +10391,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9881.mp4
 
 #EXTINF:-1 tvg-id="TR.Tatlim.Tatlim.2017" tvg-logo="noimage.png" group-title="FiLM YERLi", Tatlim.Tatlim.2017
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/742.mp4
+
+#EXTINF:-1 tvg-id="TR Torun Davasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Torun Davasi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11213.mp4
 
 #EXTINF:-1 tvg-id="TR.Trilece.2018" tvg-logo="noimage.png" group-title="FiLM YERLi", Trilece.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/2227.mp4
