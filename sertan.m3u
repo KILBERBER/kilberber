@@ -723,19 +723,31 @@ http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="0.KIL-MÜZİK", TV Web Camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ADELE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ADELE d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384783&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Adnan \u015eenses" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Adnan Senses b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106302&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | AHMET ASLAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", AHMET ASLAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384796&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Ahmet Kaya" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ahmet Kaya b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60708&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | AHMET KAYA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", AHMET KAYA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384749&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | AJDA PEKKAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", AJDA PEKKAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384748&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Akustik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Akustik b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106456&extension=ts
 
-#EXTINF:-1 tvg-id="TR | AKUST\u0130K T\u00dcRK\u00dcLER CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AKUSTIK TURKULER CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791775&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ANADOLU ROCK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ANADOLU ROCK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384811&extension=m3u8
 
-#EXTINF:-1 tvg-id="(TR) XP Ankara Havalar\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ankara Havaları
+#EXTINF:-1 tvg-id="(TR) XP Ankara Havalar\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ankara Havaları b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105390&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Ankara Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ankara Mix b
@@ -744,8 +756,14 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=45337&extension=ts
 #EXTINF:-1 tvg-id="(TR) XP Arabesk 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Arabesk 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=22968&extension=ts
 
-#EXTINF:-1 tvg-id="TR | ARABESK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791773&extension=ts
+#EXTINF:-1 tvg-id="TR | DIAMOND ARABESK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177440&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND ARABESK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177439&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ARABESK KRALI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK KRALI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384807&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DINAMIK ARABESK RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142176&extension=ts
@@ -753,20 +771,23 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142176&exte
 #EXTINF:-1 tvg-id="TR: REDBOX ARABESK TV" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ARABESK TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=54845&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | AZER B\u00dcLB\u00dcL" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", AZER Bülbül
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=898753&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ASKIN NUR YENGI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ASKIN NUR YENGI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384752&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Azer B\u00fclb\u00fcl" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Azer Bülbül b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105298&extension=ts
 
-#EXTINF:-1 tvg-id="TR | BABA RADYO FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BABA RADYO FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791772&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | BARIS MANCO" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", BARIS MANCO d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384806&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Bergen" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bergen b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105299&extension=ts
 
-#EXTINF:-1 tvg-id="TR | BEST FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BEST FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791766&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | BLOK 13" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", BLOK 13 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384837&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | BLUES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", BLUES d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384799&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Bozlak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bozlak b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105217&extension=ts
@@ -774,14 +795,41 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105217&extension=t
 #EXTINF:-1 tvg-id="(TR) XP B\u00fclent Ersoy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bülent Ersoy b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=53191&extension=ts
 
-#EXTINF:-1 tvg-id="TR | DAMAR FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DAMAR FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791771&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | CAKAL" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", CAKAL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384835&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR | DRAM RADYO CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DRAM RADYO CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806563&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | CEM ADRIAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", CEM ADRIAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384808&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | CEM KARACA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", CEM KARACA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384789&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | CEZA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", CEZA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384793&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | COCUK SARKILARI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", COCUK SARKILARI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384746&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | COCUKLARI ICIN DINLENDIRICI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", COCUKLAR ICIN DINLENDIRICI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384757&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | DAMAR SARKILAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DAMAR SARKILAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384822&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | DEDUBLUMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DEDUBLUMAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384830&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | DEEP FEELING" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DEEP FEELING d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384792&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP D\u00fcet M\u00fczik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Düet Müzik b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105457&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DIAMOND DUETLER" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", DIAMOND DUETLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177449&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | DINLENDIRICI MUZIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DINLENDIRICI MUZIK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384745&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Efe Muzikleri" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Efe Muzikleri b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105339&extension=ts
@@ -789,8 +837,47 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105339&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Emel Sayin" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Emel Sayin b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76169&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | EMRE AYDIN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EMRE AYDIN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384751&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | EMIRCAN IGREK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EMIRCAN IGREK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384840&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ERKIN KORAY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ERKIN KORAY d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384819&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | EYLEM AKTAS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EYLEM AKTAS d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384754&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | EZEL" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EZEL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384836&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | FASIL RUHU" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", FASIL RUHU d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384802&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Ferdi Tayfur" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Ferdi Tayfur b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137199&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GANGSTER RAP" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GANGSTER RAP d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384737&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384762&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384761&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384760&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384759&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384758&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | GUNES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GUNES d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384834&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Hakki BULUT" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Hakki BULUT b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105340&extension=ts
@@ -798,29 +885,41 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105340&extension=t
 #EXTINF:-1 tvg-id="TR:  DINAMIK HALK MUZIGI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HALK MUZIGI RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142178&extension=ts
 
-#EXTINF:-1 tvg-id="TR | HIT CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", HIT CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791763&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | HANDE YENER" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HANDE YENER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384753&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | HUZUNLU AKUSTIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HUZUNLU AKUSTIK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384810&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | HIRAI ZERDUS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HIRAI ZERDUS d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384791&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP \u0130brahim Tatlises" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ibrahim Tatlises b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138515&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | \u0130BRAH\u0130M TATLISES" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", İbrahim TATLISES
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=897716&extension=ts
-
 #EXTINF:-1 tvg-id="TR: IBRAHIM ERKAL" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", iBRAHIM ERKAL c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142171&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | IBRAHIM TATLISES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", iBRAHIM TATLISES d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384844&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | IBRAHIM TATLISES EN SEVILEN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", iBRAHIM TATLISES EN SEVILEN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384803&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Ilahi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ilahi b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138517&extension=ts
 
-#EXTINF:-1 tvg-id="TR | KAFA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KAFA CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806558&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | IREM DERICI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", iREM DERICI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384750&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | JAZZ BALTICA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", JAZZ BALTICA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384795&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KANUN GITAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KANUN GITAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384782&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Karadeniz TV HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Karadeniz TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=24261&extension=ts
-
-#EXTINF:-1 tvg-id="TR | KARADENIZ FM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARADENIZ FM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806561&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DINAMIK KARISIK 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142184&extension=ts
@@ -828,20 +927,74 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142184&exte
 #EXTINF:-1 tvg-id="TR: DINAMIK KARISIK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142183&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK MUZIK 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK MUZIK 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384743&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK MUZIK 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK MUZIK 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384742&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK MUZIK 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK MUZIK 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384741&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK MUZIK 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK MUZIK 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384740&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK MUZIK 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK MUZIK 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384739&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK RAP" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK RAP d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384797&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KARISIK ROCK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KARISIK ROCK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384823&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Kazanci Bedih" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Kazanci Bedih b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104999&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KENAN DOGULU" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KENAN DOGULU d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384756&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | KORAY AVCİ" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", KORAY AVCİ d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384805&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Koray Avc\u0131" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Koray Avcı b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138518&extension=ts
 
-#EXTINF:-1 tvg-id="TR | KRAL POP CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", KRAL POP CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791755&extension=ts
+#EXTINF:-1 tvg-id="TR | DIAMOND KORAY AVCI KONSERLER" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", KORAY AVCI KONSERLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=163789&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND KUSTUM SHOW" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", KUSTUM SHOW d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191188&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | METALLICA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", METALLICA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384790&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MEYHANE SARKILARI 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MEYHANE SARKILARI 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384770&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MEYHANE SARKILARI 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MEYHANE SARKILARI 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384772&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MEYHANE SARKILARI 6" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MEYHANE SARKILARI 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384771&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MEYHANE SARKILARI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MEYHANE SARKILARI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384821&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MOTIVE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MOTIVE d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384817&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Muazzez Ersoy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Muazzez Ersoy b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104727&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Musa Ero\u011flu" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Musa Eroğlu b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105300&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | MUSLUM GURSES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", MUSLUM GURSES d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384843&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND MUSTAFA KESER SHOW" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", MUSTAFA KESER SHOW d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191190&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP M\u00fcsl\u00fcm G\u00fcrses 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Müslüm Gürses 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138516&extension=ts
@@ -852,8 +1005,59 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104975&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Na\u011fme Fasil" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Nağme Fasil b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=57177&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NESET ERTAS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NESET ERTAS d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384832&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Ne\u015fet Ertas" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Neşet Ertas b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60711&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 1980LAR TURK SANAT MUZIGI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 1980LAR TURK SANAT MUZIGI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384773&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 1990LAR  1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 1990LAR  1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384776&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 1990LAR 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 1990LAR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384775&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 1990LAR 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 1990LAR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384774&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 1990LAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 1990LAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384777&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ 45LİK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ 45LİK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384809&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ EGLENCELİ 45LİK PARCALAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ EGLENCELİ 45LİK PARCALAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384768&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ PARCALAR 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ PARCALAR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384767&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ PARCALAR 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ PARCALAR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384766&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ PARCALAR 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ PARCALAR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384764&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ PARCALAR 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ PARCALAR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384765&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ PARCALAR 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ PARCALAR 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384763&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ UNUTULMAYAN 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ UNUTULMAYAN 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384779&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ UNUTULMAYAN 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ UNUTULMAYAN 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384778&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJİ UNUTULMAYAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJİ UNUTULMAYAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384780&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | NOSTAJI EGLENCELI PARCALAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", NOSTAJI EGLENCELI PARCALAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384769&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Orhan Gencebay" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Orhan Gencebay b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=60801&extension=ts
@@ -867,23 +1071,8 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106225&extension=t
 #EXTINF:-1 tvg-id="TR: DINAMIK OZGUN RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142179&extension=ts
 
-#EXTINF:-1 tvg-id="TR | PAL NOSTALJ\u0130 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL NOSTALJi CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791768&extension=ts
-
-#EXTINF:-1 tvg-id="TR | PAL STATION CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PAL STATION CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791764&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE Müzik 1
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819676&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE Müzik 2
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=821661&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcZ\u0130K 3" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE Müzik 3
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=821662&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE POP M\u00dcZ\u0130K" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", PARADE POP Müzik
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=792759&extension=ts
+#EXTINF:-1 tvg-id="TR | DIAMOND POP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", POP d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177448&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Pop Muzik 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pop Muzik 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105383&extension=ts
@@ -894,47 +1083,83 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=23689&extension=ts
 #EXTINF:-1 tvg-id="TR: DINAMIK POP RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", POP RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142177&extension=ts
 
-#EXTINF:-1 tvg-id="TR | RADYO 44 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO 44 CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806971&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO 7 CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO 7 CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791765&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO DRAM CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO DRAM CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791769&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO POP MIX CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO POP MIX CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806567&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO POP TIME CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO POP TIME CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=857532&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO T\u00dcRK\u00dc CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO TURK CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791776&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO ULUS TURKULER
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806560&extension=ts
-
-#EXTINF:-1 tvg-id="TR | RADYO VIVA CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", RADYO VIVA CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791770&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | PIANO" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", PIANO d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384804&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: ProTurk-Rap" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219867&extension=ts
 
+#EXTINF:-1 tvg-id="TR | DIAMOND RAP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", RAP d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177446&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | RAINY JAZZY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RAINY JAZZY d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384801&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | RELAX CHİLL HOUSE MUSİC" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RELAX CHİLL HOUSE MUSİC d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384839&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND ROCK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", ROCK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177447&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ROCK MUZIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ROCK MUZIK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384794&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | ROMANTIK PIANO  MUZIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ROMANTIK PIANO  MUZIK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384744&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND RUBATO DUETLER" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", RUBATO DUETLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191200&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND RUBATO DUETLER" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", RUBATO DUETLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177445&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SAKINLESTIRICI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SAKINLESTIRICI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384798&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SEBNEM FERAH" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SEBNEM FERAH d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384747&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SEMICENK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SEMICENK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384829&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SERDAR ORTAC" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SERDAR ORTAC d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384755&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SERTAB ERENER" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SERTAB ERENER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384831&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Sezen Aksu" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Sezen Aksu b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105202&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SEZEN AKSU" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SEZEN AKSU d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384842&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Shakira HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Shakira b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105860&extension=ts
 
-#EXTINF:-1 tvg-id="TR | SHOW CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", SHOW CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791762&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SHAKIRA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SHAKIRA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384786&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Slow M\u00fczik 1" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Slow Müzik 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=163886&extension=ts
 
-#EXTINF:-1 tvg-id="TR | SLOWTURK CANLI RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", SLOWTURK CANLI RADYO
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=791767&extension=ts
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SOFAR SOUND 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SOFAR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384815&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SOFAR SOUND 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SOFAR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384814&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SOFAR 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SOFAR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384816&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SOFAR SOUND 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SOFAR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384813&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | SOFAR SOUND 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", SOFAR 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384812&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND SIBEL CAN KONSERLER" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", SIBEL CAN KONSERLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177444&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Tarkan" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tarkan b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105216&extension=ts
@@ -942,14 +1167,71 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105216&extension=t
 #EXTINF:-1 tvg-id="(TR) XP Ta\u015f Plak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Taş  Plak b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105349&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TEOMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TEOMAN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384818&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Tufan Alta\u015f HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tufan Altaş b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105387&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DIAMOND TURK SANAT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", TURK SANAT d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177443&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384854&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 10" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 10 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384845&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384853&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384852&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384851&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384850&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 6" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384849&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 7" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 7 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384848&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 8" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 8 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384847&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK  7/24 | TURKCE POP 9" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP 9 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384846&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX TURKCE POP" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE POP c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=54844&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE RAP 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE RAP 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384828&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE RAP 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE RAP 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384827&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE RAP 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE RAP 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384826&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE RAP 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE RAP 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384825&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE RAP 6" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE RAP 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384824&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | TURKCE REMIX" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKCE REMIX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384800&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Turkiyem Mix HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Turkiyem Mix b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104728&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DIAMOND TURKU HD" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKU d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191206&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP T\u00fcrk Halk M\u00fczi\u011fi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türk Halk müziği b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105481&extension=ts
@@ -960,14 +1242,35 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105145&extension=t
 #EXTINF:-1 tvg-id="(TR) XP T\u00fcrk\u00fc 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türkü 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106124&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | UMIT BESEN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", UMIT BESEN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384838&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | UZI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", UZI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384833&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) XP Volkan KONAK" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Volkan KONAK b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138363&extension=ts
+
+#EXTINF:-1 tvg-id="TR | DIAMOND VOLKAN KONAK KONSERLER" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", VOLKAN KONAK KONSERLER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177441&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Yabanci Mix" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Yabanci Mix b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=75977&extension=ts
 
+#EXTINF:-1 tvg-id="MUZIK 7/24 | YABANCI KARISIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", YABANCI KARISIK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384787&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | YABANCI MİX" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", YABANCI MİX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384781&extension=m3u8
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | YABANCI RAP" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", YABANCI RAP d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384788&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: YILDIZ TILBE" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", YILDIZ TILBE c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142181&extension=ts
+
+#EXTINF:-1 tvg-id="MUZIK 7/24 | YILDIZ TILBE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", YILDIZ TILBE d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384841&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) XP Zeki M\u00fcren" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Zeki Müren b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104949&extension=ts
@@ -1137,6 +1440,12 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 4K (mac zamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4K b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819186&extension=ts
 
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS 1  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4k e
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399265&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS 1 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4K2 e
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399264&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) Bein Sports 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3033&extension=ts
 
@@ -1205,6 +1514,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3024&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Yedek 3" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 Yedek b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=119875&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS 2  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 4k e
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399263&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34937&extension=ts
@@ -1275,6 +1587,9 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726188&exten
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=289&extension=ts
 
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS 3  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 4k e
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399262&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) Bein Sports 3 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34938&extension=ts
 
@@ -1340,6 +1655,9 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726190&exten
 
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 3 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=290&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORT4  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 4k e
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399261&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports 4 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3030&extension=ts
@@ -1482,6 +1800,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57733&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57733&extension=ts
 
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="0.KIL-SP0R", 0.B.SPORTS FEED 1 (MAÇ ZAMANI) d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: beiN CONNECT 1 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 1 maczamani
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117040&extension=ts
 
@@ -1508,6 +1829,12 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=207540&exte
 
 #EXTINF:-1 tvg-id="TR: Betorro FEED HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Betorro FEED HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142061&extension=ts
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="0.KIL-SP0R", 0.BEIN SPORTS MAÇ SAATI (FEED) 4K d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423612&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | BEIN SPORTS MAÇ SAATI (FEED)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="0.KIL-SP0R", 0.BEIN SPORTS MAÇ SAATI (FEED) d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423613&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: CBC SPORT HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.CBC SPORT HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362962&extension=ts
@@ -2120,6 +2447,24 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=182418&exte
 
 #EXTINF:-1 tvg-id="TR: UFC AX" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.UFC AX c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390440&extension=ts
+
+#EXTINF:-1 tvg-id="TR  | VIP BETERRO SPORTS FEED FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP BETERRO SPORTS FEED d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423480&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport.png" group-title="0.KIL-SP0R", 0.VIP BEIN SPORTS FEED 4K d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423478&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 1  HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423484&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 1 FHD d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423483&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 2  HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423482&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 2 FHD d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423481&extension=m3u8
 
 #EXTINF:-1 tvg-id="KILBERBER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/lig.jpeg" group-title="0.KIL-SP0R", 03.-SPOR KIRIK iP LiNKLER-
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
@@ -3255,7 +3600,7 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT 2
@@ -3264,7 +3609,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 01.TRT 2
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 01.TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936228.png" group-title="0.KIL-ULUSAL", 01.trt avaz
@@ -3288,7 +3633,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_187.png" group-title="0.KIL-ULUSAL", 02.Show B
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.Show C
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 02.Show C
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://showmax.com.tr/images/core/showmax_logo.png" group-title="0.KIL-ULUSAL", 02.SHOW MAX
@@ -3297,7 +3642,7 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="0.KIL-ULUSAL", 02.Show Turk A
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
 
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 02.SHOW TURK B
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 02.SHOW TURK B
 https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8 
@@ -3333,7 +3678,7 @@ https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.NOW
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 05.NOW A
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 05.NOW A
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.Kanal D 
@@ -3363,10 +3708,10 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="0.KIL-ULUSAL", 08.BEYAZ TV A
 https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?=&sid=5ycze02og8jy&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3&dfp_paln=AQzzBGQEykY8pruWqyuh83klikIL7h25FdwAN4mmgSspaC8m84-Y2434d0YpNVWIIe7gMddQA0e9Gg8MG8rXu3-MN7H6rlbNdAZu5A-UCb2WAgWH1ntuJ5SLdQ97JAq39Ox4yLVSpEl6HNC13Q_PK3gvh8l4eGNshTbgS72gyNKLtP5WrNFfZHOO25C9Nl9dEywobD0QwBOjQh_n4RoVrqVjFQtDW1EW1zqiN8HBeRIfk_K3OqzJNjbxoweQvYcGzyEuXyfhPzdBCkIKI0l920hExvAyztM0P34jBPDP4uiH1Ymc75TKROpFNJDEIA8DrUSejmir866Cfdp7gp1KZD97pER0hM0cYY9QKb7TCGaWMGfwtng3Ewb08yzitrmxjp7Dcuy04rBO7yhs53ypdL91S-LWZld1C1Ypsn6B6xic-IZ6S9Wji0MxwAZTGYln5cREtvjm5fRsQtbKmluwnyxPRv0GlPMbWWtd61jO3UrZ14YZFB8WkeazBS_VKB6NbML4cvPT4UVDkgATZ43UlI-nQSfBUehvbay3Mmf3RzdOKMAioRUHNXiDmezIqsUsieEBerx3KQ05dSUunbNx2iiOf8XFXQfOaYKfFheWULb69ph6KT4bq38twpjxuq36A12spAgnehyNTvSSsvt6GG59DAsjHMLX6z1QQEjSY2Lb-ioHukaK-Ht8S3dTUqnGKQWkFXcjS7G8KCj7_M0aFy97txYRFxQvpICpuZ4Yk2b1uXP2lEY_iqJh9MxPajNAroumzJ_jwM-AwXkPwwb8i28LMOoo_Y0DUdJfcyvxHQCGyjffBgCuUcsILznoJAkz9fDhtqS8AqmRZxkmMJDhUGTyCghx5IqCt21ZCENwNAPB-_rTgEWieDPmHjzr0lUFYb5b6oIle1FXeAvtmuGQ7V8V9GWquktZEfvmxfXweCqVi4AOAuZtjxfvQ-WzmuLwAzTuL-hYeE7iQai7ev06h9WpRbzxMfg-gvn_HzxxkegJk20YjnR9NqBjCJyssEtlULa_ZLbvG04d5BT9TJ3cAR2mEOcfhEbFQMgSvxc4-TnMTleVgNl2Xz_7WlRMRpI.
 
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 08.BEYAZ TV B
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 08.BEYAZ TV B
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 08.BEYAZ TV C
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 08.BEYAZ TV C
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="0.KIL-ULUSAL", 09.Kanal 7 A
@@ -3375,10 +3720,10 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8?hash=e8c9496cb81113c2a
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="0.KIL-ULUSAL", 09.Kanal 7 B
 https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=595mkdhv6xkc&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 09.KANAL 7 C
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 09.KANAL 7 C
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 09.KANAL 7 D
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 09.KANAL 7 D
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="0.KIL-ULUSAL", 10.360 A
@@ -3387,7 +3732,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="0.KIL-ULUSAL", 10.360 B
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="0.KIL-ULUSAL", 10.360 C
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="0.KIL-ULUSAL", 10.360 C
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="0.KIL-ULUSAL", 11.A2 A
@@ -3858,26 +4203,11 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142129&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX 13.CUMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.13.CUMA
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142147&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | 4K S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.4K SiNEMA 0 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=770604&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE 4K S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.4K SiNEMA 1 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=785348&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE 4K S\u0130NEMA 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.4K SINEMA 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=825712&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE 4K S\u0130NEMA 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.4K SINEMA 3 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=853891&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Aci Hayat" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aci Hayat
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=389797&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Adanali" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Adanali
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390012&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | AD\u0130LE NA\u015e\u0130T" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ADiLE NASiT c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807495&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Aksiyon 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aksiyon 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76879&extension=ts
@@ -3887,9 +4217,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91539&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Aksiyon 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Aksiyon 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108403&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | AKS\u0130YON S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AKSiYON SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=754003&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) AL Pacino" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AL Pacino b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91054&extension=ts
@@ -3918,9 +4245,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142103&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX ANNE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ANNE
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260504&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | ARKADA\u015eIM HO\u015eGELD\u0130N" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ARKADASIM HOSGELDiN c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=813748&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX ARNOLD SCHWARZENEGGER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ARNOLD SCHWARZENEGGER
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142102&extension=ts
 
@@ -3929,9 +4253,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106605&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ASMALI KONAK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ASMALI KONAK
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=349650&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | ATA DEM\u0130RER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ATA DEMiRER c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=758168&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Ata DEMIRER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ata DEMIRER b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105459&extension=ts
@@ -3975,12 +4296,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260502&exte
 #EXTINF:-1 tvg-id="(TR) Beyaz Show" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Beyaz Show b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=98399&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA B\u0130L\u0130M KURGU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BiLiM KURGU c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=842865&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | B\u0130L\u0130M KURGU S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BiLiM KURGU SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762613&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Bin Bir Gece" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Bin Bir Gece
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=123358&extension=ts
 
@@ -4014,9 +4329,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2929&extension=ts
 #EXTINF:-1 tvg-id="TR: DIZIAX  BRUCE WILLS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BRUCE WILLS
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142095&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | \u00c7AKALLARLA DANS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CAKALLARLA DANS c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=849503&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX CAMDAK\u0130 KIZ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CAMDAKi KIZ
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260492&extension=ts
 
@@ -4032,9 +4344,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=266804&exte
 #EXTINF:-1 tvg-id="(TR) 7/24 Cem YILMAZ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cem YILMAZ b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61256&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | CEM YILMAZ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CEM YILMAZ c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757679&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Cicek Taxi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cicek Taxi
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=115461&extension=ts
 
@@ -4043,12 +4352,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260501&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Cocuklar Duymasin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cocuklar Duymasin
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106607&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | \u00c7OK G\u00dcZEL HAREKETLER 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.COK GUZEL HAREKETLER 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762290&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | \u00c7OK G\u00dcZEL HAREKETLER BUNLAR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.COK GUZEL HAREKETLER c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=814953&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) \u00c7ok G\u00fczel Hareketler" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cok Güzel Hareketler b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94588&extension=ts
@@ -4061,9 +4364,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61136&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) \u00c7ukur 2 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cukur 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105421&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | C\u00dcNEYT ARKIN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.CUNEYT ARKIN c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=795413&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 C\u00fcneyt Arkin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Cüneyt Arkin h
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47683&extension=ts
@@ -4092,17 +4392,8 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101030&extension=t
 #EXTINF:-1 tvg-id="(TR) Disney+ 2 HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Disney+ 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157860&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA DRAM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.DRAM c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=823130&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | DRAM S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.DRAM SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=762197&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX DUGUM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.DUGUM
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=399916&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | DISNEY SINEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.DISNEY SINEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750670&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX EKMEK TEKNESI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.EKMEK TEKNESI
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142090&extension=ts
@@ -4125,9 +4416,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=123359&exte
 #EXTINF:-1 tvg-id="(TR) Ezel HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ezel b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=94173&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | FATMA G\u0130R\u0130K" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.FATMA GiRiK c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807701&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) 7/24 Ferdi Tayfur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Ferdi Tayfur b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101013&extension=ts
 
@@ -4140,17 +4428,8 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136972&extension=t
 #EXTINF:-1 tvg-id="TR: DIZIAX Game of Thrones" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Game of Thrones
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106608&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA GER\u0130L\u0130M" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.GERiLiM c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826289&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Gibi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Gibi
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219435&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE G\u00dcLD\u00dcR G\u00dcLD\u00dcR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.GULDUR GULDUR c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=925533&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | G\u00dcLD\u00dcR G\u00dcLD\u00dcR SHOW" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.GULDUR GULDUR SHOW c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=759222&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX GUZEL KOYLU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.GUZEL KOYLU
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260499&extension=ts
@@ -4166,9 +4445,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142130&exte
 
 #EXTINF:-1 tvg-id="(TR) Harry Potter HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Harry Potter b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108503&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | HARRY POTTER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HARRY POTTER c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850081&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX HATIRLA SEVGILI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.HATIRLA SEVGILI
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=260498&extension=ts
@@ -4203,9 +4479,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71205&extension=ts
 #EXTINF:-1 tvg-id="TR: DIZIAX JACKY CHAN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JACKY CHAN
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142099&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | JACKIE CHAN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JACKIE CHAN c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=849504&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX JASON STATHAM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.JASON STATHAM
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142098&extension=ts
 
@@ -4223,9 +4496,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2864&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Kadir \u0130nan\u0131r 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kadir inanır 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71207&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KAD\u0130R \u0130NANIR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KADiR iNANIR c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807703&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Kara Simsek" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kara Simsek b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=88496&extension=ts
@@ -4248,20 +4518,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47671&extension=ts
 #EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=21070&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 1 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756367&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2984&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757695&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47680&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KEMAL SUNAL 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KEMAL SUNAL 3 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=758604&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Kemal Sunal 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kemal Sunal 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71214&extension=ts
@@ -4281,26 +4542,8 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=123361&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX KOBRA KA\u0130" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KOBRA KAi
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142128&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | KOLPA\u00c7\u0130NO" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KOLPACiNO c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848015&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA KOMED\u0130" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KOMEDi c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822609&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KOMED\u0130 S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KOMEDi SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=759220&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX KONUSANLAR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=353319&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 1. SEZON" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR 1. SEZON c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757880&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 2. SEZON" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR 2. SEZON c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=805792&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KONU\u015eANLAR 3. SEZON" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KONUSANLAR 3. SEZON c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=806081&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Konu\u015fanlar 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Konuşanlar 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101016&extension=ts
@@ -4313,15 +4556,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47692&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Korku 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Korku 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108405&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA KORKU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KORKU c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822512&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KORKU S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KORKU SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=760185&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KOVBOY S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KOVBOY SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850203&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Kurtlar Vadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kurtlar Vadisi
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106606&extension=ts
@@ -4343,9 +4577,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=146968&extension=t
 
 #EXTINF:-1 tvg-id="(TR) Kurulu\u015f Osman 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Kuruluş Osman 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=95509&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | KUTSAL DAMACANA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KUTSAL DAMACANA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848146&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX KIYMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.KIYMA
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=347233&extension=ts
@@ -4392,9 +4623,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142153&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX MEDCEZIR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MEDCEZIR
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=349649&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | PARADE M\u00dcGE ANLI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.MUGE ANLI c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=856634&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Muhtesem Yuzyil" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Muhtesem Yuzyil
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390013&extension=ts
 
@@ -4409,9 +4637,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142112&exte
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Netflix 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Netflix 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157923&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | NETFLIX SINEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.NETFLIX SINEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750674&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Nicolas Cage" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Nicolas Cage b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=93454&extension=ts
@@ -4458,9 +4683,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142155&exte
 #EXTINF:-1 tvg-id="(TR) Rambo" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Rambo b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=52680&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | RECEP \u0130VED\u0130K" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.RECEP iVEDiK c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=848145&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) 7/24 Recep \u0130VEDIK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Recep iVEDIK b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=61192&extension=ts
 
@@ -4469,12 +4691,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142132&exte
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ROCKY BALBOA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ROCKY BALBOA
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142131&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | ROCKY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ROCKY c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=771917&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA ROMANT\u0130K" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ROMANTiK c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=847755&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.S1F1R B1R ADANA
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=124281&extension=ts
@@ -4497,29 +4713,11 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=359710&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX SAKARYA FIRAT" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SAKARYA FIRAT
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142185&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | \u015eENER \u015eEN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SENER SEN c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=795414&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA A\u0130LE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.aile c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=834788&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA AKS\u0130YON 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AKSiYON 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=851334&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA AKS\u0130YON" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AKSiYON c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=822327&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | PARADE S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=775855&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Sizi Dinliyorum" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Sizi Dinliyorum
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219437&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX Sokagin Cocuklari" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Sokagin Cocuklari
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=124282&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | \u015e\u00d6M\u0130NE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SOMiNE c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=843172&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX SON DURAK" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.SON DURAK
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142142&extension=ts
@@ -4575,20 +4773,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=80222&extension=ts
 #EXTINF:-1 tvg-id="TR: DIZIAX TolgShow" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TolgShow
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219434&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | TOLGSHOW" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TOLGSHOW c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=813747&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | TOLGSHOW F\u0130LTRES\u0130Z" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TOLGSHOW FiLTRESiZ c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=814220&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX TOM CRUISE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TOM CRUISE
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142094&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX TRANSFORMERS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TRANSFORMERS
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142148&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | T\u00dcRKAN \u015eORAY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.TURKAN SORAY c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=808397&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) T\u00fcrk\u00e7e Altyaz\u0131 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Türkçe Altyazı 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=74929&extension=ts
@@ -4607,18 +4796,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=91071&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX VAN HELSING" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.VAN HELSING
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142117&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ViZYON 1 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829006&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ViZYON 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=829007&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ViZYON 3 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=830474&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA V\u0130ZYON 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ViZYON 4 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=851592&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX VIKINGS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.VIKINGS
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142118&extension=ts
@@ -4644,9 +4821,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=157859&extension=t
 #EXTINF:-1 tvg-id="(TR) 7/24 Yabanci Sinema 5" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yabanci Sinema 5 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=108498&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | YABANCI SINEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YABANCI SINEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=751031&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) Yaprak D\u00f6k\u00fcm\u00fc HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yaprak Dökümü b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105853&extension=ts
 
@@ -4655,15 +4829,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142109&exte
 
 #EXTINF:-1 tvg-id="(TR) Yazl\u0131k\u00e7\u0131lar HD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yazlıkçılar b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105788&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YERLi 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850534&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YERLi 3 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944449&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX |  PARADE S\u0130NEMA YERL\u0130" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YERLi c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826774&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Yerli Film 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Film 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2912&extension=ts
@@ -4689,9 +4854,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=151645&extension=t
 #EXTINF:-1 tvg-id="(TR) 7/24 Yerli Korku" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yerli Korku b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=97726&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | YERL\u0130 S\u0130NEMA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YERLi SiNEMA c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=750672&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=47665&extension=ts
 
@@ -4713,29 +4875,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101010&extension=t
 #EXTINF:-1 tvg-id="(TR) 7/24 Yesilcam 7" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yesilcam 7 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=101029&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YESILCAM SINEMA 1 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756114&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YESILCAM SINEMA 2 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756116&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YESILCAM SINEMA 3 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=756115&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YESILCAM SINEMA 4 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826292&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | YE\u015e\u0130L\u00c7AM S\u0130NEMA 5" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YESILCAM SINEMA 5 c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=826498&extension=ts
-
 #EXTINF:-1 tvg-id="TR: DIZIAX Yilan Hikayesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yilan Hikayesi
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=124284&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) 7/24 Yilmaz Guney" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.Yilmaz Guney b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71213&extension=ts
-
-#EXTINF:-1 tvg-id="LYNX | Y\u00dcZ\u00dcKLER\u0130N EFEND\u0130S\u0130" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.YUZUKLERIN EFENDISI c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=850080&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DIZIAX ZOR OLUM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZOR OLUM
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142140&extension=ts
@@ -6834,7 +6978,7 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-09093
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX A
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 1.DMAX B
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 1.DMAX B
 https://dmax.blutv.com/blutv_dmax2/live.m3u8
 
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="01.KIL-BELGESEL", 2.TLC
@@ -6843,13 +6987,13 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="01.KIL-BELGESEL", 2.TLC A
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 2.TLC B
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 2.TLC B
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 2.TLC C
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 2.TLC C
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 2.TLC D
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 2.TLC D
 https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 3.TRT AVAZ
@@ -6864,7 +7008,7 @@ http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="01.KIL-BELGESEL", 3.Trt Belgesel B
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TR: TRT Belgesel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-BELGESEL", 3.TRT Belgesel C
+#EXTINF:-1 tvg-id="TR: TRT Belgesel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 3.TRT Belgesel C
 https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="01.KIL-BELGESEL", 4.Tgrt Belgesel
@@ -6888,6 +7032,9 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="(TR) BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=99747&extension=ts
 
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bbc_earth.png" group-title="01.KIL-BELGESEL", 6.BBC EARTH d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1886&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=491&extension=ts
 
@@ -6897,7 +7044,10 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110608&exte
 #EXTINF:-1 tvg-id="(TR) Bein Gurme 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein Gurme b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31314&extension=ts
 
-#EXTINF:-1 tvg-id="TR: beiN GuRME HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.beiN GuRME HD+ c
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/24kitchen.png" group-title="01.KIL-BELGESEL", 6.Bein Gurme d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1890&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: beiN GuRME HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.beiN GuRME c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=493&extension=ts
 
 #EXTINF:-1 tvg-id="TR: beiN IZ HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.beiN IZ HD+ c
@@ -6905,6 +7055,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=18563&exten
 
 #EXTINF:-1 tvg-id="(TR) Bein IZ TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Bein IZ TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3047&extension=ts
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101973&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57663&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BEIN IZ HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57663&extension=m3u8
@@ -6957,17 +7110,26 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=259797&exte
 #EXTINF:-1 tvg-id="TR: DOCUAX WILD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUAX WILD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219403&extension=ts
 
+#EXTINF:-1 tvg-id="docubox.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101975&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DOCUBOX HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=17179&extension=ts
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57743&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57743&extension=m3u8
 
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1882&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110611&extension=ts
 
 #EXTINF:-1 tvg-id="TR: DISCOVERY CHANNEL HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY CHANNEL HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=488&extension=ts
+
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_science.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1884&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DISCOVERY SCIENCE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY SCIENCE HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110612&extension=ts
@@ -6977,6 +7139,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=489&extensi
 
 #EXTINF:-1 tvg-id="TR: DISCOVERY ID" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY ID c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=490&extension=ts
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1883&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57745&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DISCOVERY IDX HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57745&extension=m3u8
@@ -6996,8 +7161,14 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=497&extensi
 #EXTINF:-1 tvg-id="TR: History HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.History HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362973&extension=ts
 
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/history_channel.png" group-title="01.KIL-BELGESEL", 6.HISTORY CHANNEL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1885&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) Love Nature 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Love Nature b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2904&extension=ts
+
+#EXTINF:-1 tvg-id="TR | LOVE NATURE" tvg-logo="https://www.henkel.com/resource/image/1137408/uncropped/866/960/d4af6cf2f3943fada63620565732b264/GM/2020-12-14-henkel-press-release-innovationteams-2.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101977&extension=m3u8
 
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57741&extension=m3u8" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.NAT GEO
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57741&extension=m3u8
@@ -7023,11 +7194,20 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=17121&exten
 #EXTINF:-1 tvg-id="TR: National Geographic HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.National Geographic HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=67570&extension=ts
 
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 6.NATIONAL GEO d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1887&extension=m3u8
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 6.NATIONAL GEO WILD d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1889&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) Tarih TV" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Tarih TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170403&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) TLC 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2840&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBU HISTORY CHANNEL" tvg-logo="https://i.pinimg.com/736x/40/da/03/40da039462c3765a5610140a8d0fe106.jpg" group-title="01.KIL-BELGESEL", 6.TIVIBU HISTORY CHANNEL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191169&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Viasat Explorer HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Viasat Explorer b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170402&extension=ts
@@ -7035,20 +7215,26 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170402&extension=t
 #EXTINF:-1 tvg-id="(TR) Viasat History HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Viasat History b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=147434&extension=ts
 
-#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY HD c
+#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=110614&extension=ts
 
-#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY HD+ c
+#EXTINF:-1 tvg-id="TR: ViASAT HiSTORY HD+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ViASAT HiSTORY c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=494&extension=ts
 
 #EXTINF:-1 tvg-id="TR: VIASAT EXPLORE HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.VIASAT EXPLORE HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=197205&extension=ts
 
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-logo="https://www.chillglobal.com/images/channels/viasat-history-1432653724.jpg" group-title="01.KIL-BELGESEL", 6.VIASAT HISTORY d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101974&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) Yaban TV 4K" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Yaban TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=139079&extension=ts
 
-#EXTINF:-1 tvg-id="TR: YABAN TV HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV HD c
+#EXTINF:-1 tvg-id="TR: YABAN TV HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.YABAN TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=484&extension=ts
+
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/yaban_tv.png" group-title="01.KIL-BELGESEL", 6.YABAN TV d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1880&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) ID HD 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ID HD b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7429&extension=ts
@@ -8530,7 +8716,7 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=864060&extension=ts
 
 #EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 1
-http://42865490666769735.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769735.ts
+https://hs-cors.herokuapp.com/http://42865490666769735.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769735.ts
 
 #EXTINF:-1 tvg-id="ALB | BIG BROTHER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 1 a
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=794978&extension=ts
