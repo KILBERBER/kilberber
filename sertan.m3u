@@ -1437,6 +1437,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18663&extension=m3u
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="0.KIL-SP0R", 0.B.SP0R FEED d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 1 (MOBIL)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 (MOBIL) e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKGWt0UCry2IKGWvwsJtQgWY/ts
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 4K (mac zamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 4K b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=819186&extension=ts
 
@@ -1479,6 +1482,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57794&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726183&extension=ts
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 FHD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKFNqcfk2FyWku29zsGeipOA/ts
+
 #EXTINF:-1 tvg-id="TR: BEIN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 HD
 http://megashtv.digital:8080/play/live.php?mac=00:1A:79:2A:29:CA&stream=21650&extension=ts
 
@@ -1503,6 +1509,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57797&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726184&extension=ts
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKKvHZFsT-guNNJVQUDgPMnE/ts
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 SD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 SD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726186&extension=ts
 
@@ -1514,6 +1523,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3024&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Yedek 3" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 Yedek b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=119875&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 (SD)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 (SD) e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKD0yhqkNXCwYfWUzrfW3MZA/ts
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS 2  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 4k e
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399263&extension=m3u8
@@ -1584,8 +1596,14 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726188&extension=ts
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKA2C6b6kjWFnk10Grhz3Fmo/ts
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=289&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 UHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 UHD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKMJ4NDCbv0wJKK7keEo7c1w/ts
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS 3  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 4k e
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399262&extension=m3u8
@@ -1653,8 +1671,14 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&ext
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726190&extension=ts
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAvLi6WHZxCNwl0sIlGOrHs/ts
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 3 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=290&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 3 UHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 UHD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAn74lSmdBNgyMRKPbGiiVM/ts
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORT4  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 4k e
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399261&extension=m3u8
@@ -1664,6 +1688,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3030&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3028&extension=ts
+
+#EXTINF:-1 tvg-id="TR: SSport 2 HD 720" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKONGvae65JX6i7QRCTWw9aQ/ts
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57806&extension=ts
@@ -1719,6 +1746,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKJA7VjLzgh1YWhlofwQF9sY/ts
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 4 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=291&extension=ts
 
@@ -1737,11 +1767,17 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=290639&exte
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726194&extension=ts
 
+#EXTINF:-1 tvg-id="TR: beIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKKT_5hVBQpwtnJLs9WwYWuk/ts
+
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117043&extension=ts
 
 #EXTINF:-1 tvg-id="TR: FEED HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor FEED HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=126525&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS HABER HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER HD e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKM1P3cB3TVvz9tpd_mzgXm0/ts
 
 #EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57733&extension=m3u8
@@ -1751,6 +1787,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&ext
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7555&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHowlf-s2D_ff4Dwf-tDh-M/ts
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726195&extension=ts
@@ -1766,6 +1805,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=292&extensi
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7556&extension=ts
+
+#EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 2 HD" tvg-logo="B.noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAm7lOU2zHisYTFYuxlfk0E/ts
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726197&extension=ts
@@ -1908,6 +1950,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=275&extensi
 #EXTINF:-1 tvg-id="(TR) EuroSport 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2988&extension=ts
 
+#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKBWZxjAXmo1zHfo5sT87v7c/ts
+
 #EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362949&extension=ts
 
@@ -1949,6 +1994,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118878&extension=t
 
 #EXTINF:-1 tvg-id="(TR) Exxen 6 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 6 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137818&extension=ts
+
+#EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen Spor 1 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKPDMBAq3NWz7eEXISoKwjyo/ts
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
@@ -2169,6 +2217,9 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944276&exten
 #EXTINF:-1 tvg-id="TR | GOLDX SPORT 3 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 3 FEED b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944442&extension=ts
 
+#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKLQrSFWYrxrqKiS_AMWd4x0/ts
+
 #EXTINF:-1 tvg-id="(TR) Nba Tv 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Nba Tv b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7427&extension=ts
 
@@ -2268,11 +2319,17 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362932&exte
 #EXTINF:-1 tvg-id="TR: S-SPORT 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=305&extension=ts
 
+#EXTINF:-1 tvg-id="TR: S-SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 1 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKN0yi_RnbKv9AGjgK4w4VUY/ts
+
 #EXTINF:-1 tvg-id="TR: S-SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 1 HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=294&extension=ts
 
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 1 HD+
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=305&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: S-SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 2 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKKXUH4XiW-0RFDRCaINh4EE/ts
 
 #EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S-SPORT 2 HD
 http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=116073&extension=m3u8
@@ -2316,6 +2373,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=272&extensi
 #EXTINF:-1 tvg-id="TR: SPOR SMART 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPOR SMART 2 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=69715&extension=ts
 
+#EXTINF:-1 tvg-id="TR: spor SMART HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Spor SMART e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKMo2gwNh0ADSTonBVH_4XYo/ts
+
 #EXTINF:-1 tvg-id="TR: SPORT SMART 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPORT SMART 1 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=301&extension=ts
 
@@ -2331,6 +2391,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2857&extension=ts
 #EXTINF:-1 tvg-id="TR: SPORTSTV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPORTSTV HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=278&extension=ts
 
+#EXTINF:-1 tvg-id="TR: SSport 1 HD 720" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSport 1 HD 720 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKFBUeLNxjH5W85ygw8-X2mc/ts
+
 #EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57723&extension=m3u8
 
@@ -2339,6 +2402,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57723&ext
 
 #EXTINF:-1 tvg-id="TR| SSPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57723&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR: SSport+ 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SSport+ 2 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKFMdwXyjflFtvc4DW8yuSR0/ts
 
 #EXTINF:-1 tvg-id="(TR) Tivibu Spor 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=39472&extension=ts
@@ -2349,14 +2415,26 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2845&extension=ts
 #EXTINF:-1 tvg-id="(TR) Tivibu Spor 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7559&extension=ts
 
+#EXTINF:-1 tvg-id="TR: tivibu SPOR 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu SPOR 1 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKArhutbjv58U08rboGlcjaI/ts
+
 #EXTINF:-1 tvg-id="(TR) Tivibu Spor 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2844&extension=ts
+
+#EXTINF:-1 tvg-id="TR: tivibu SPOR 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu SPOR 2 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKKsxPxPim9_HXdjGnFPhYh0/ts
 
 #EXTINF:-1 tvg-id="(TR) Tivibu Spor 3 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2843&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Tivibu Spor 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu Spor 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7561&extension=ts
+
+#EXTINF:-1 tvg-id="TR: tivibu SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu SPOR 3 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKGN0_ZZFlW5EmYQnAlCHKC4/ts
+
+#EXTINF:-1 tvg-id="TR: tivibu SPOR 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Tivibu SPOR 4 e
+http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKIKGP3XbSDB44URe9qx44fk/ts
 
 #EXTINF:-1 tvg-id="TR: TiViBUSPOR 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TiViBUSPOR 1 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=298&extension=ts
@@ -5322,6 +5400,45 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342374&exte
 #EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BSERIES 4 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57681&extension=ts
 
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 1" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402946&extension=m3u8
+
+#EXTINF:-1 tvg-id="CUNEYT ARKIN 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402926&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 10" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 10 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402939&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 11" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 11 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402938&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 12" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 12 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402937&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 2" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402945&extension=m3u8
+
+#EXTINF:-1 tvg-id="CUNEYT ARKIN 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402925&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 3" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402944&extension=m3u8
+
+#EXTINF:-1 tvg-id="CUNEYT ARKIN 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402924&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 4" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402943&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 5" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402942&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 6" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402941&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 7" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 7 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402940&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57682&extension=ts
 
@@ -5390,6 +5507,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185274&exte
 
 #EXTINF:-1 tvg-id="TR: DREAM KEMAL SUNAL" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KEMAL SUNAL c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185275&extension=ts
+
+#EXTINF:-1 tvg-id="DREAM KEMAL SUNAL" tvg-logo="https://i.ibb.co/3MqxByN/sinevizyon.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KEMAL SUNAL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402936&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: DREAM KOMEDI" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DREAM KOMEDI c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185276&extension=ts
@@ -5775,6 +5895,21 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219927&exte
 #EXTINF:-1 tvg-id="TR: Horror 5 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Horror 5 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219924&extension=ts
 
+#EXTINF:-1 tvg-id="KADIR INANIR" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KADIR INANIR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402931&extension=m3u8
+
+#EXTINF:-1 tvg-id="KEMAL SUNAL 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402930&extension=m3u8
+
+#EXTINF:-1 tvg-id="KEMAL SUNAL 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402929&extension=m3u8
+
+#EXTINF:-1 tvg-id="KEMAL SUNAL 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402928&extension=m3u8
+
+#EXTINF:-1 tvg-id="KEMAL SUNAL 4" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402927&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57655&extension=ts
 
@@ -5792,6 +5927,21 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57655&ext
 
 #EXTINF:-1 tvg-id="TR: Kemal Sunal TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Kemal Sunal TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=397&extension=ts
+
+#EXTINF:-1 tvg-id="YESİLCAM KEMAL SUNAL USTA 2" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL USTA 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402950&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM KEMAL SUNAL USTA 3" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL USTA 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402949&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM KEMAL SUNAL USTA 4" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL USTA 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402948&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM KEMAL SUNAL USTA 5" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL USTA 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402947&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM KEMAL SUNAL USTA" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL USTA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402951&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: KingBox Action" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KingBox Action c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219957&extension=ts
@@ -6057,23 +6207,95 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219917&exte
 #EXTINF:-1 tvg-id="TR: Realbox-Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Realbox-Yeşilçam c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219918&extension=ts
 
+#EXTINF:-1 tvg-id="REDBOX 007 & JAMES BOND" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX 007 & JAMES BOND d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298918&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: REDBOX ACTIE 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX ACTIE 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=392&extension=ts
+
+#EXTINF:-1 tvg-id="REDBOX AKSIYON 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX AKSIYON 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298893&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX AKSIYON 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX AKSIYON 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298894&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX BOXSET" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX BOXSET d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298909&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX BILIMKURGU 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=393&extension=ts
 
+#EXTINF:-1 tvg-id="REDBOX BILIMKURGU 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX BILIMKURGU 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298896&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX BILIMKURGU 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX BILIMKURGU 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298897&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX CEM YILMAZ" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX CEM YILMAZ d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298914&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX DRAMA 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX DRAMA 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298906&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: REDBOX DRAMA HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX DRAMA c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=398&extension=ts
+
+#EXTINF:-1 tvg-id="REDBOX GOLD" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX GOLD d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298920&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX HORROR 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX HORROR 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=394&extension=ts
 
+#EXTINF:-1 tvg-id="REDBOX KEMAL SUNAL" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KEMAL SUNAL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402934&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX KOMEDI 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KOMEDI 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298902&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KOMEDI 90LAR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298921&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX KORKU 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KORKU 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298899&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX KORKU 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KORKU 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298900&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX KORKU 3" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX KORKU 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298901&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MARVEL" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MARVEL d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298898&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: REDBOX MIX 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=395&extension=ts
 
+#EXTINF:-1 tvg-id="REDBOX MIX 1" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298922&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 10" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 10 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298931&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 2" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298923&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 6" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298927&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 7" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 7 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298928&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 8" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 8 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298929&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX MIX 9" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX MIX 9 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298930&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: REDBOX PREMIERE" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX PREMIERE c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=386&extension=ts
+
+#EXTINF:-1 tvg-id="REDBOX STAR WARS" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX STAR WARS d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298919&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX SINEMA TURK  2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=399&extension=ts
@@ -6081,11 +6303,20 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=399&extensi
 #EXTINF:-1 tvg-id="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX SINEMA TURK 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=391&extension=ts
 
+#EXTINF:-1 tvg-id="REDBOX TOLGSHOW" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX TOLGSHOW d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298915&extension=m3u8
+
+#EXTINF:-1 tvg-id="REDBOX TURK BOXSET" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX TURK BOXSET 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=298913&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: REDBOX VIZYON 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX VIZYON 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390&extension=ts
 
 #EXTINF:-1 tvg-id="TR: REDBOX VIZYON 2  HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX VIZYON 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=396&extension=ts
+
+#EXTINF:-1 tvg-id="REDBOX YESILCAM" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX YESILCAM d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402935&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57708&extension=ts
@@ -6297,6 +6528,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57709&ext
 #EXTINF:-1 tvg-id="TR: SINEMA TV YERLI  HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=366&extension=ts
 
+#EXTINF:-1 tvg-id="YESİLCAM TURKAN SORAY 2" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.TURKAN SORAY 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402952&extension=m3u8
+
+#EXTINF:-1 tvg-id="YESİLCAM TURKAN SORAY" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.TURKAN SORAY d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402953&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: ULTRA ANIMASYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.ULTRA ANIMASYON c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185305&extension=ts
 
@@ -6329,6 +6566,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=37975&exten
 
 #EXTINF:-1 tvg-id="TR: YESILCAM ZEKMET TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.YESILCAM ZEKMET TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185301&extension=ts
+
+#EXTINF:-1 tvg-id="ZEKI VE METIN" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.ZEKI VE METIN d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402932&extension=m3u8
 
 #EXTINF:-1 tvg-id="86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1
 https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8
