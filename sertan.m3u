@@ -1413,9 +1413,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57797&ext
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57794&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR | B.SPOR 1 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190965&extension=m3u8
-
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 d
 https://m3u-editor.com/serve/deathless-titan-v7/1170094578
 
@@ -1425,14 +1422,8 @@ http://redson.xyz:3800/play/live.php?mac=00:1A:79:C6:50:93&stream=52778&extensio
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=405957&extension=ts
 
-#EXTINF:-1 tvg-id="TR | B.SPOR 1 HD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190966&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: beiN SP0RT 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=361367&extension=ts
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SP0R 1 HD+ d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18663&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="0.KIL-SP0R", 0.B.SP0R FEED d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
@@ -1457,6 +1448,21 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=35701&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports 4K++" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34936&extension=ts
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18663&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_1.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18655&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 1 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190965&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 1 HD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190966&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 1 HD 3" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190968&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 1 EURO FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 EURO FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726185&extension=ts
@@ -1536,6 +1542,21 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34937&extension=ts
 #EXTINF:-1 tvg-id="(TR) Bein Sports 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3032&extension=ts
 
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18648&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2064&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_2.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18646&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 2 FHD 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190970&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190971&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57800&extension=ts
 
@@ -1614,6 +1635,15 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=34938&extension=ts
 #EXTINF:-1 tvg-id="(TR) Bein Sports 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3022&extension=ts
 
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2065&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18639&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18640&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57803&extension=ts
 
@@ -1689,6 +1719,15 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3030&extension=ts
 #EXTINF:-1 tvg-id="(TR) Bein Sports 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3028&extension=ts
 
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_4.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18643&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_4.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2066&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR 4 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190976&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: SSport 2 HD 720" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKONGvae65JX6i7QRCTWw9aQ/ts
 
@@ -1758,6 +1797,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136248&extension=t
 #EXTINF:-1 tvg-id="(TR) Bein Sports 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 5 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136249&extension=ts
 
+#EXTINF:-1 tvg-id="TR | BEIN SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=269056&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR | BEINSPORTS 5 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 FHD b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726193&extension=ts
 
@@ -1776,6 +1818,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117043&exte
 #EXTINF:-1 tvg-id="TR: FEED HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor FEED HD+
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=126525&extension=ts
 
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sp_haber.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2067&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: beIN SPORTS HABER HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER HD e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKM1P3cB3TVvz9tpd_mzgXm0/ts
 
@@ -1787,6 +1832,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&ext
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7555&extension=ts
+
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_max_1.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2068&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190977&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHowlf-s2D_ff4Dwf-tDh-M/ts
@@ -1805,6 +1856,12 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=292&extensi
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7556&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2069&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190978&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 2 HD" tvg-logo="B.noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAm7lOU2zHisYTFYuxlfk0E/ts
@@ -1941,6 +1998,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362959&exte
 #EXTINF:-1 tvg-id="(TR) EuroSport 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2989&extension=ts
 
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport1.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2087&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362948&extension=ts
 
@@ -1949,6 +2009,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=275&extensi
 
 #EXTINF:-1 tvg-id="(TR) EuroSport 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2988&extension=ts
+
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport2.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2088&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKBWZxjAXmo1zHfo5sT87v7c/ts
@@ -1997,6 +2060,63 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137818&extension=t
 
 #EXTINF:-1 tvg-id="TR: Exxen Spor 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen Spor 1 e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKPDMBAq3NWz7eEXISoKwjyo/ts
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 1 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191746&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191245&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 1" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191248&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 1 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191249&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 2 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191747&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191246&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191251&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 3 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191748&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 3 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191247&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 3" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191252&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 3 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191253&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 4 4K+" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191749&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 4" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191254&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 4 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191255&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 4 FHD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191256&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191257&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 5 HD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191258&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 5 FHD" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 5 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191259&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | EXXEN SPORT 6" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 6 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191260&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
@@ -2217,11 +2337,17 @@ http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944276&exten
 #EXTINF:-1 tvg-id="TR | GOLDX SPORT 3 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 3 FEED b
 http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944442&extension=ts
 
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="0.KIL-SP0R", 0.NBA d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2071&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKLQrSFWYrxrqKiS_AMWd4x0/ts
 
 #EXTINF:-1 tvg-id="(TR) Nba Tv 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Nba Tv b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7427&extension=ts
+
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="0.KIL-SP0R", 0.NBA TV d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2043&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=274&extension=ts
@@ -2244,8 +2370,14 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=80320&extension=ts
 #EXTINF:-1 tvg-id="(TR) S Sport 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118878&extension=ts
 
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="0.KIL-SP0R", 0.S SPORT 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2075&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) S Sport HD Yedek" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2880&extension=ts
+
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="0.KIL-SP0R", 0.S SPORT d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2073&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| S SPORT HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S SPORT HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57721&extension=ts
@@ -2271,14 +2403,23 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57721&ext
 #EXTINF:-1 tvg-id="(TR) S Sport+ 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135190&extension=ts
 
+#EXTINF:-1 tvg-id="TR | S SPORT+ 1" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="0.KIL-SP0R", 0.S SPORT+ 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=351371&extension=m3u8
+
 #EXTINF:-1 tvg-id="(TR) S Sport+ 2 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135189&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 2" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="0.KIL-SP0R", 0.S SPORT+ 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=351372&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) S Sport+ 3 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 3 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135188&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) S Sport+ 4 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135187&extension=ts
+
+#EXTINF:-1 tvg-id="TR | S SPORT+ 4" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/ssport.png" group-title="0.KIL-SP0R", 0.S SPORT+ 4 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=351374&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) S Sport+ 5 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Sport+ 5 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=135186&extension=ts
@@ -2355,6 +2496,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2860&extension=ts
 #EXTINF:-1 tvg-id="(TR) Smart Spor HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Smart Spor b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=114630&extension=ts
 
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/spor_smart.png" group-title="0.KIL-SP0R", 0.SMART SPOR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2077&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| SMART SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SMART SPORT 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57810&extension=m3u8
 
@@ -2376,6 +2520,12 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=69715&exten
 #EXTINF:-1 tvg-id="TR: spor SMART HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Spor SMART e
 http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKMo2gwNh0ADSTonBVH_4XYo/ts
 
+#EXTINF:-1 tvg-id="TR | SPORSMART 2 HD" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.SPORSMART 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=220010&extension=m3u8
+
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.SPORSMART d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=220009&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: SPORT SMART 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPORT SMART 1 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=301&extension=ts
 
@@ -2387,6 +2537,12 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=302&extensi
 
 #EXTINF:-1 tvg-id="(TR) Sports TV" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Sports tv b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2857&extension=ts
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/sports_tv.png" group-title="0.KIL-SP0R", 0.SPORTS TV d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2084&extension=m3u8
+
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.SPORTSTV d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101943&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: SPORTSTV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.SPORTSTV HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=278&extension=ts
@@ -2463,6 +2619,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57727&ext
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 1 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57727&extension=ts
 
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 1" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2078&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57727&extension=m3u8
 
@@ -2484,6 +2643,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57724&ext
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57724&extension=ts
 
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 2" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor_2.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2079&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57724&extension=m3u8
 
@@ -2495,6 +2657,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57726&ext
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 2 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57726&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR 3" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor_3.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2080&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 3 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57726&extension=ts
@@ -2510,6 +2675,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57726&ext
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 3 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57726&extension=ts
+
+#EXTINF:-1 tvg-id="TR | TIVIBU SPOR" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2081&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: TIVIBUSPOR 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBUSPOR 1 HD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=268&extension=ts
@@ -2532,6 +2700,15 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423480&extension=m3
 #EXTINF:-1 tvg-id="TR | VIP BEIN SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport.png" group-title="0.KIL-SP0R", 0.VIP BEIN SPORTS FEED 4K d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423478&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.VIP S SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190956&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP S-SPORT" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.VIP S-SPORT d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190955&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | VIP SPORTS HD 1" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.VIP SPORTS d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190932&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 1  HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 1 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423484&extension=m3u8
 
@@ -2544,53 +2721,8 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423482&extension=m3
 #EXTINF:-1 tvg-id="TR  | VIP TITAN PLUS 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.VIP TITAN PLUS 2 FHD d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423481&extension=m3u8
 
-#EXTINF:-1 tvg-id="KILBERBER" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/lig.jpeg" group-title="0.KIL-SP0R", 03.-SPOR KIRIK iP LiNKLER-
-https://raw.githubusercontent.com/KILBERBER/kilberber/main/6.mp4
-
-#EXTINF:-1 tvg-id="TR: beIN Sport 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BeIN Sport 1
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/Tugatv/lac5SUGlac5SUGRCkRCk/469
-
-#EXTINF:-1 tvg-id="TR: beIN Sport 1 HD" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BeIN Sport 1
-https://hs-cors.herokuapp.com/http://server.sibfungold.info:8080/damiandinero1/9pRAEReO95/469
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="0.KIL-SP0R", 03.beIN SPORT 1 HD*
-http://103.161.34.173:8080/9rvBgKdr4y/Gf6qHcy3GT/78345
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://imagizer.imageshack.com/img924/4668/3p1fYs.png" group-title="0.KIL-SP0R", 03.beIN SPORT 1 HD*
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/78345
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BeIN SPORTS 1 4K HECV
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428029
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BEIN SPORTS 1 4K UYDU
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428031
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.bEIN SPORTS 1 FHD+
-http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/4285
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BEIN SPORTS 1 FHD¹ 50 FPS
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428030
-
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.bEIN SPORTS 1 HD
-http://stream1.etibsa.pro:8080/Salvatore/IbYCcNzNcI3/4283
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BEIN SPORTS 1 HD
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428027
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BEIN SPORTS 1 SD
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428026
-
-#EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.beIN Sports 1ⓧ FHD
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/534
-
-#EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.beIN Sports 1ⓧ HD
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/535
-
-#EXTINF:-1 tvg-id="beIN SPORTS HD 1" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.beIN Sports 1ⓧ HD
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/535
-
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://static.epg.best/tr/beINSports1.tr.png" group-title="0.KIL-SP0R", 03.BEIN-SPORTS 1 FHD
-https://hs-cors.herokuapp.com/http://medyaevi.online:8080/QMDDxEQhwD/TDgCBz5HX6/428028
+#EXTINF:-1 tvg-id="TR | VIP TIVIBU SPOR 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.VIP TIVIBU SPOR 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190957&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS 1 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R YEDEK", 0.B.SP0R 1 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=399264&extension=m3u8
@@ -5364,6 +5496,33 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185292&exte
 #EXTINF:-1 tvg-id="TR: BEST IMBD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BEST IMBD c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185287&extension=ts
 
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN GURME d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18011&extension=m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES ACTION 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18007&extension=m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES FAMILY d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18005&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES PREMIERE 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18003&extension=m3u8 
+
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES PREMIERE 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18004&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES TURK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18001&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN SERIES 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=17998&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN SERIES 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=17999&extension=m3u8
+
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN SERIES 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18000&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: BOX OFFICE INFO" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE iNFO
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342365&extension=ts
 
@@ -5583,6 +5742,36 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219885&exte
 #EXTINF:-1 tvg-id="TR: Dreambox-Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Yeşilçam c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219886&extension=ts
 
+#EXTINF:-1 tvg-id="TR | DIAMOND KEMAL SUNAL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KEMAL SUNAL
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2104&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND KEMAL SUNAL 1" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KEMAL SUNAL 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2101&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND KEMAL SUNAL 2" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KEMAL SUNAL 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2102&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND KEMAL SUNAL TV" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KEMAL SUNAL TV d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190986&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND KOMEDI" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KOMEDI d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2103&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND PREMIUM" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND PREMIUM d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2096&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND SINEMA TURK" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND SINEMA TURK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2097&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND YESILCAM 1" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND YESILCAM 1 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2098&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND YESILCAM 2" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND YESILCAM 2 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2099&extension=m3u8
+
+#EXTINF:-1 tvg-id="TR | DIAMOND YESILCAM 3" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND YESILCAM 3 d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2100&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: DINAMIK AKSIYON" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK AKSIYON c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185218&extension=ts
 
@@ -5730,6 +5919,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2975&extension=ts
 #EXTINF:-1 tvg-id="TR: FX HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=354&extension=ts
 
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://pbs.twimg.com/profile_images/428707564797169664/F4K8a7m9_400x400.png" group-title="00.KIL-ONLİNE FİLM", 0.FX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2027&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR: FILMAX Action HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMAX Action c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=385&extension=ts
 
@@ -5798,6 +5990,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362966&exte
 
 #EXTINF:-1 tvg-id="TR: FILMBOX Comedy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMBOX Comedy c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219934&extension=ts
+
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-logo="https://seeklogo.com/images/F/filmbox-logo-F8BA2C4BB0-seeklogo.com.gif" group-title="00.KIL-ONLİNE FİLM", 0.FILMBOX d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88667&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: FILMBOX Dram" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FILMBOX Dram c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219929&extension=ts
@@ -5879,6 +6074,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219954&exte
 
 #EXTINF:-1 tvg-id="TR: Global Box Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Global Box Yeşilçam c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219955&extension=ts
+
+#EXTINF:-1 tvg-id="TR | GULDUR GULDUR" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="00.KIL-ONLİNE FİLM", 0.GULDUR GULDUR d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=209798&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: Horror 1 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Horror 1 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219923&extension=ts
@@ -6075,6 +6273,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57697&ext
 #EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57697&extension=m3u8
 
+#EXTINF:-1 tvg-id="TR | MOVIE SMART" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=239120&extension=m3u8
+
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-logo="https://media.foraten.net/files/image/67550.jpg" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSİC d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88640&extension=m3u8
+
 #EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57695&extension=ts
 
@@ -6092,6 +6296,9 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57695&ext
 
 #EXTINF:-1 tvg-id="TR: MOVIESMART COCUK HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART COCUK c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=370&extension=ts
+
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="https://pbs.twimg.com/profile_images/678879506883481600/eCYRNLah.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART TURK d
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88649&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.ProTurk-4k c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219838&extension=ts
@@ -9537,14 +9744,23 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10757.mp
 #EXTINF:-1 tvg-id="TRD Adalet 3 Son The Equalizer 3 (2023)" tvg-logo="https://tr.web.img2.acsta.net/c_300_300/pictures/23/08/24/17/18/5889985.jpg" group-title="FiLM YBNC TR DUBLAJ", Adalet 3 Son
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10934.mp4
 
+#EXTINF:-1 tvg-id="CC.Adams.Ailesi.2019.1080p.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/08/22/11/18/5302478.jpg" group-title="FiLM YBNC TR DUBLAJ", Adams.Ailesi.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6026.mp4
+
 #EXTINF:-1 tvg-id="TRD After Hersey After Everything (2023)" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/09/01/12/24/5466596.png" group-title="FiLM YBNC TR DUBLAJ", After Hersey(2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11070.mp4
+
+#EXTINF:-1 tvg-id="CC.Ajanlar.is.Basinda.2019.1080p.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/10/31/09/38/0737590.jpg" group-title="FiLM YBNC TR DUBLAJ", Ajanlar.is.Basinda.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6027.mp4
 
 #EXTINF:-1 tvg-id="TRD.Aladidn.2019" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d1/Aladdin_2019.jpg/440px-Aladdin_2019.jpg" group-title="FiLM YBNC TR DUBLAJ", Aladdin
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3407.mp4
 
 #EXTINF:-1 tvg-id="TRD.Amerikan.Soygunu.2018" tvg-logo="https://tr.web.img3.acsta.net/pictures/19/07/02/11/20/4029414.jpg" group-title="FiLM YBNC TR DUBLAJ", Amerikan Soygunu
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3404.mp4
+
+#EXTINF:-1 tvg-id="CC.Angry.Birds.Filmi2.2019.1080p.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/08/08/08/52/2841920.jpg" group-title="FiLM YBNC TR DUBLAJ", Angry.Birds.Filmi2.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6028.mp4
 
 #EXTINF:-1 tvg-id="TRD Ant Man and the Wasp Quantumania (2023)" tvg-logo="https://tr.web.img4.acsta.net/c_300_300/pictures/23/01/25/11/45/2784455.jpg" group-title="FiLM YBNC TR DUBLAJ", Ant Man and the Wasp Quantumania (2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10614.mp4
@@ -9557,6 +9773,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11173.mp
 
 #EXTINF:-1 tvg-id="TRD Ask Oyunu (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/4XgQ3Uxu2XbZbs2dZ2TQu6Uju3s.jpg" group-title="FiLM YBNC TR DUBLAJ", Ask Oyunu (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11077.mp4
+
+#EXTINF:-1 tvg-id="CC.Aslan.Kral.2019.1080p.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/07/01/12/26/3408245.jpg" group-title="FiLM YBNC TR DUBLAJ", Aslan.Kral.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6029.mp4
 
 #EXTINF:-1 tvg-id="TRD Atlatma Scoop (2024)" tvg-logo="https://tr.web.img4.acsta.net/pictures/24/03/18/17/53/0164865.jpg" group-title="FiLM YBNC TR DUBLAJ", Atlatma Scoop (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11164.mp4
@@ -9609,6 +9828,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11097.mp
 #EXTINF:-1 tvg-id="TRD Bir Astronotun Sonsuz Yolculugu Spaceman (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/hlI7HJf6HYvKu21RcImNF23sRkI.jpg" group-title="FiLM YBNC TR DUBLAJ", Bir Astronotun Sonsuz Yolculugu Spaceman (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11098.mp4
 
+#EXTINF:-1 tvg-id="CC.Bisikletler.2019.BDRip.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/04/29/16/14/3660239.jpg" group-title="FiLM YBNC TR DUBLAJ", Bisikletler.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6030.mp4
+
 #EXTINF:-1 tvg-id="TRD Black Adam (2022)" tvg-logo="https://tr.web.img2.acsta.net/c_300_300/pictures/22/09/08/13/30/2857460.png" group-title="FiLM YBNC TR DUBLAJ", Black Adam
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10344.mp4
 
@@ -9642,6 +9864,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/532.mp4
 #EXTINF:-1 tvg-id="TRD Col Avcilari (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/aMelXG1OBTHvvIz1lpSp5m5cjv0.jpg" group-title="FiLM YBNC TR DUBLAJ", Col Avcilari (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11056.mp4
 
+#EXTINF:-1 tvg-id="CC.Corgi.2019.BDRip.x264.HdT" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/19/03/22/15/34/2683349.png" group-title="FiLM YBNC TR DUBLAJ", Corgi.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6031.mp4
+
 #EXTINF:-1 tvg-id="TRD Damsel (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/AgHbB9DCE9aE57zkHjSmseszh6e.jpg" group-title="FiLM YBNC TR DUBLAJ", Damsel (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11102.mp4
 
@@ -9659,6 +9884,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10049.mp
 
 #EXTINF:-1 tvg-id="TRD.Dokuzuncu.Hayat.2016" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f6/The_9th_Life_of_Louis_Drax.jpg" group-title="FiLM YBNC TR DUBLAJ", Dokuzuncu.Hayat
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/541.mp4
+
+#EXTINF:-1 tvg-id="CC.Dragons.Rescue.Riders.Hunt.for.the.Golden.Dragon.2020.NF.WEBrip.x264.SOUL" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUzZDBiNTctZTdmNC00MjlhLWFhN2ItZDUzNTczNThjYzU0XkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_.jpg" group-title="FiLM YBNC TR DUBLAJ", Dragons.Rescue.Riders.Hunt.for.the.Golden.Dragon.2020
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6032.mp4
 
 #EXTINF:-1 tvg-id="TRD Dune Part One (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8e/Dune_%282021_film%29.jpg" group-title="FiLM YBNC TR DUBLAJ", Dune Part 1
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9692.mp4
@@ -9689,6 +9917,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3454.mp4
 
 #EXTINF:-1 tvg-id="TRD Hizli ve Ofkeli 10 Fast X (2023)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fast-furious-logo-fast-furious.png/440px-Fast-furious-logo-fast-furious.png" group-title="FiLM YBNC TR DUBLAJ", Hizli ve Ofkeli 10 Fast X
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10863.mp4
+
+#EXTINF:-1 tvg-id="CC.Hizli.ve.Tuylu.2019.1080p.BluRay.x264-SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/09/10/09/53/0370677.jpg" group-title="FiLM YBNC TR DUBLAJ", Hizli.ve.Tuylu.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6033.mp4
 
 #EXTINF:-1 tvg-id="TRD How To Date Billy Walsh (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/5qcHcoJL3otMwJPKnbV5M3a1jQd.jpg" group-title="FiLM YBNC TR DUBLAJ", How To Date Billy Walsh (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11166.mp4
@@ -9726,6 +9957,12 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3410.mp4
 #EXTINF:-1 tvg-id="TRD John Wick Chapter 4 (2023)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/John_Wick_TeaserPoster.jpg" group-title="FiLM YBNC TR DUBLAJ", John Wick 4
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10848.mp4
 
+#EXTINF:-1 tvg-id="CC.Justice.League.Dark.Apokalips.War.2020.1080p.x264.SOUL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM3MTMyZDktOWM1MC00Y2U0LWJlMGEtZDQ1NWQ4YjdlYmQ3XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="FiLM YBNC TR DUBLAJ", Justice.League.Dark.Apokalips.War.2020
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6034.mp4
+
+#EXTINF:-1 tvg-id="CC.Karlar.Kralicesi2.2019.1080p.x264.SOUL" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/15/04/27/14/11/294366.jpg" group-title="FiLM YBNC TR DUBLAJ", Karlar.Kralicesi2.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6035.mp4
+
 #EXTINF:-1 tvg-id="TRD Kirik Kalpler Evi The Heartbreak Agency (2024)" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/cHdFHnpCbYUeAlORe4R25wP7N9d.jpg" group-title="FiLM YBNC TR DUBLAJ", Kirik Kalpler Evi(2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11074.mp4
 
@@ -9741,6 +9978,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11159.mp
 #EXTINF:-1 tvg-id="TRD.Kripto.Vurgun.2019" tvg-logo="https://tr.web.img2.acsta.net/pictures/19/06/11/08/38/4030864.jpg" group-title="FiLM YBNC TR DUBLAJ", Kripto Vurgun
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3408.mp4
 
+#EXTINF:-1 tvg-id="CC.Luis.ve.Uzayli.Dostlari.2018.1080p.x264.SOUL" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/19/07/22/13/43/2592718.jpg" group-title="FiLM YBNC TR DUBLAJ", Luis.ve.Uzayli.Dostlari.2018
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6036.mp4
+
 #EXTINF:-1 tvg-id="TRD Mea Culpa (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="FiLM YBNC TR DUBLAJ", Mea Culpa (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11085.mp4
 
@@ -9753,8 +9993,14 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10984.mp
 #EXTINF:-1 tvg-id="TRD Mortal Kombat (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/05/Mortal_Kombat_%282021_film%29_posteri.png" group-title="FiLM YBNC TR DUBLAJ", Mortal Kombat
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9453.mp4
 
+#EXTINF:-1 tvg-id="CC.Mortal.Kombat.Akrebin.Intikami.2019.WEBRip.x264.SOUL" tvg-logo="https://hdfilm.tv.tr/images/w300/kmxSEDfXWpAQGfQ7j04WkRdyPQ4.jpg" group-title="FiLM YBNC TR DUBLAJ", Mortal.Kombat.Akrebin.Intikami.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6037.mp4
+
 #EXTINF:-1 tvg-id="TRD Musica (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="FiLM YBNC TR DUBLAJ", Musica (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11153.mp4
+
+#EXTINF:-1 tvg-id="CC Ofkeli Patiler Hank Efsanesi Paws of Fury The Legend of Hank (2022)" tvg-logo="https://image.tmdb.org/t/p/w342/aWcXGwbTk09lPiPCHL2PvuexZT4.jpg" group-title="FiLM YBNC TR DUBLAJ", Ofkeli Patiler Hank Efsanesi Paws of Fury The Legend of Hank (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10255.mp4
 
 #EXTINF:-1 tvg-id="TRD Oldur Beni Sevgilim Kill Me if You Dare (2024)" tvg-logo="https://images.justwatch.com/poster/311681359/s718/kill-me-if-you-dare.jpg" group-title="FiLM YBNC TR DUBLAJ", Oldur Beni Sevgilim(2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11075.mp4
@@ -9788,6 +10034,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/614.mp4
 
 #EXTINF:-1 tvg-id="TRD.Orumcek.Adam.Evden.Uzakta.2019" tvg-logo="https://tr.web.img2.acsta.net/pictures/19/06/21/09/39/5802960.jpg" group-title="FiLM YBNC TR DUBLAJ", Orümcek-Adam  Evden Uzakta
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3415.mp4
+
+#EXTINF:-1 tvg-id="CC.Pokemon.Mewtwo.Intikam.Pesinde.2019.NF.WEBRip.x264.SOUL" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/xlO50h3EX1w99KGztTzsjQBwPfs.jpg" group-title="FiLM YBNC TR DUBLAJ", Pokemon.Mewtwo.Intikam.Pesinde.2019
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6038.mp4
 
 #EXTINF:-1 tvg-id="TRD Rambo Son Kan (2019)" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/08/29/10/04/2591841.jpg" group-title="FiLM YBNC TR DUBLAJ", Rambo Son Kan
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9891.mp4
@@ -9831,6 +10080,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11103.mp
 #EXTINF:-1 tvg-id="TRD.Suclu.2018" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/16/03/08/10/43/528865.jpg" group-title="FiLM YBNC TR DUBLAJ", Suclu
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3405.mp4
 
+#EXTINF:-1 tvg-id="CC.Superman.Red.Son.2020.1080p.x264.SOUL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMwN2ZiOGQtYzkwNS00Y2NkLTlhNDYtYTkzYTY0MTZkMWQ5XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="FiLM YBNC TR DUBLAJ", Superman.Red.Son.2020
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6039.mp4
+
 #EXTINF:-1 tvg-id="TRD.Terminator.Kara.Kader.2019.720p.x264.SOUL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Terminator_Kara_Kader.jpg" group-title="FiLM YBNC TR DUBLAJ", Terminator.Kara.Kader
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/4449.mp4
 
@@ -9845,6 +10097,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10010.mp
 
 #EXTINF:-1 tvg-id="TRD The Matrix Resurrections (2021)" tvg-logo="https://fr.web.img4.acsta.net/pictures/21/11/17/17/24/3336846.jpg" group-title="FiLM YBNC TR DUBLAJ", The Matrix Resurrections
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9895.mp4
+
+#EXTINF:-1 tvg-id="BEL The Tinder Swindler (2022)" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/22/01/12/09/46/2351700.jpg" group-title="FiLM YBNC TR DUBLAJ", The Tinder Swindler (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9687.mp4
 
 #EXTINF:-1 tvg-id="TRD The Underdoggs (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/wL8WFfBB50DOyDOVCKZliiuAipC.jpg" group-title="FiLM YBNC TR DUBLAJ", The Underdoggs (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11067.mp4
@@ -9936,6 +10191,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10998.mp
 #EXTINF:-1 tvg-id="TR 3 Gun (2024)" tvg-logo="https://ortakoltuk.com/wp-content/uploads/2024/04/3.-gun-e1713610812421.jpg" group-title="FiLM YERLi", 3 Gun (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11172.mp4
 
+#EXTINF:-1 tvg-id="TR 41 Kere Masallah (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", 41 Kere Masallah (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11182.mp4
+
 #EXTINF:-1 tvg-id="TR 49 (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", 49 (2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10678.mp4
 
@@ -9947,6 +10205,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3056.mkv
 
 #EXTINF:-1 tvg-id="TR.7.Kogustaki.Mucize" tvg-logo="noimage.png" group-title="FiLM YERLi", 7.Kogustaki Mucize
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/4981.mkv
+
+#EXTINF:-1 tvg-id="TR.7.Kogustaki.Mucize.Yerli" tvg-logo="noimage.png" group-title="FiLM YERLi", 7.Kogustaki.Mucize.Yerli
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/4991.mp4
 
 #EXTINF:-1 tvg-id="TR 9 75 Santimetrekare (2020)" tvg-logo="noimage.png" group-title="FiLM YERLi", 9 75 Santimetrekare (2020)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9778.mp4
@@ -10040,6 +10301,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9925.mp4
 
 #EXTINF:-1 tvg-id="TR.Annem.2019.Yerli.Sansursuz.WEBRip.x264.SOUL" tvg-logo="noimage.png" group-title="FiLM YERLi", Annem.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/4992.mp4
+
+#EXTINF:-1 tvg-id="TR Annemin Gelini (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Annemin Gelini (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11232.mp4
 
 #EXTINF:-1 tvg-id="TR.Annemin.Yarasi" tvg-logo="noimage.png" group-title="FiLM YERLi", Annemin.Yarasi
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/681.mp4
@@ -10220,6 +10484,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/684.mp4
 
 #EXTINF:-1 tvg-id="TR Benim Adim Osssman (2018)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Benim Adim Osssman (2018)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9435.mp4
+
+#EXTINF:-1 tvg-id="TR Benim Babam Bir Kahraman (2023)" tvg-logo="noimage.png" group-title="FiLM YERLi", Benim Babam Bir Kahraman (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11187.mp4
 
 #EXTINF:-1 tvg-id="TR Benim Kocam Yapmaz (2021)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Benim Kocam Yapmaz (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9512.mp4
@@ -10493,6 +10760,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9799.mp4
 
 #EXTINF:-1 tvg-id="TR Dost Kazigi (2021)" tvg-logo="noimage.png" group-title="FiLM YERLi", Dost Kazigi (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9896.mp4
+
+#EXTINF:-1 tvg-id="TR Dost Kazigi (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Dost Kazigi (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11216.mp4
 
 #EXTINF:-1 tvg-id="TR.Dugun.Haftasi.2018.TR" tvg-logo="noimage.png" group-title="FiLM YERLi", Dugun.Haftasi.2018
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/697.mp4
@@ -10869,6 +11139,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9516.mp4
 #EXTINF:-1 tvg-id="TR-Kirk Yalan (2019)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kirk Yalan (2019)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8165.mkv
 
+#EXTINF:-1 tvg-id="TR-Kirk Yalan (2019)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kirk Yalan (2019)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8165.mkv
+
 #EXTINF:-1 tvg-id="Kis Uykusu (2014)" tvg-logo="noimage.png" group-title="FiLM YERLi", Kis Uykusu (2014)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10569.mkv
 
@@ -10953,11 +11226,17 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9805.mp4
 #EXTINF:-1 tvg-id="TR LCV Lutfen Cevap Veriniz (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Lutfen Cevap Veriniz (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10653.mp4
 
+#EXTINF:-1 tvg-id="TR Mahalleden Arkadaslar (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Mahalleden Arkadaslar (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10565.mp4
+
 #EXTINF:-1 tvg-id="TR-Mahser Bir Varmis Bir Yokmus (2020)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Mahser Bir Varmis Bir Yokmus (2020)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8918.mkv
 
 #EXTINF:-1 tvg-id="TR Malazgirt 1071 Bizansin Kiyameti (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Malazgirt 1071 Bizansin Kiyameti (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10207.mp4
+
+#EXTINF:-1 tvg-id="TR Masal Satosu Gizemli Misafir (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Masal Satosu Gizemli Misafir (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11181.mp4
 
 #EXTINF:-1 tvg-id="TR-Masallardan Geriye Kalan (2020)" tvg-logo="noimage.png" group-title="FiLM YERLi", Masallardan Geriye Kalan (2020)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6678.mkv
@@ -10977,8 +11256,14 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6698.mkv
 #EXTINF:-1 tvg-id="TR-Mazlum Kuzey 2 (2019)" tvg-logo="noimage.png" group-title="FiLM YERLi", Mazlum Kuzey 2 (2019)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/6697.mkv
 
+#EXTINF:-1 tvg-id="TR Mefruh Vahseti Cin (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Mefruh Vahseti Cin (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11235.mp4
+
 #EXTINF:-1 tvg-id="TR.Memleket" tvg-logo="noimage.png" group-title="FiLM YERLi", Memleket
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/719.mp4
+
+#EXTINF:-1 tvg-id="TR Mendirek Breakwater (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Mendirek Breakwater (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11088.mp4
 
 #EXTINF:-1 tvg-id="TR.Merhaba Guzel Vatanim" tvg-logo="noimage.png" group-title="FiLM YERLi", Merhaba Guzel Vatanim
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/5029.mkv
@@ -11010,11 +11295,17 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9806.mp4
 #EXTINF:-1 tvg-id="TR Mujdemi Isterim (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Mujdemi Isterim (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10591.mp4
 
+#EXTINF:-1 tvg-id="TR Murat Gogebakan Kalbim Yarali" tvg-logo="noimage.png" group-title="FiLM YERLi", Murat Gogebakan Kalbim Yarali
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11231.mp4
+
 #EXTINF:-1 tvg-id="TR Musaadenizle Buyukler (2018)" tvg-logo="noimage.png" group-title="FiLM YERLi", Musaadenizle Buyukler (2018)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9878.mp4
 
 #EXTINF:-1 tvg-id="TR.Musabbar.2019" tvg-logo="noimage.png" group-title="FiLM YERLi", Musabbar.2019
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3034.mp4
+
+#EXTINF:-1 tvg-id="TR Musfer Cin Kabilesi (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Musfer Cin Kabilesi (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11233.mp4
 
 #EXTINF:-1 tvg-id="TR.MUSLUM" tvg-logo="noimage.png" group-title="FiLM YERLi", MUSLUM
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/2941.mkv
@@ -11024,6 +11315,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10764.mp
 
 #EXTINF:-1 tvg-id="TR Nalan (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Nalan (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10021.mp4
+
+#EXTINF:-1 tvg-id="TR Nasipse Adayiz (2020)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Nasipse Adayiz (2020)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9414.mp4
 
 #EXTINF:-1 tvg-id="TR.Nefes_Vatan_Sagolsun" tvg-logo="noimage.png" group-title="FiLM YERLi", Nefes_Vatan_Sagolsun
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/720.mp4
@@ -11181,6 +11475,12 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10018.mp
 #EXTINF:-1 tvg-id="TR Seflerin Sefi (2021)" tvg-logo="noimage.png" group-title="FiLM YERLi", Seflerin Sefi (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9879.mp4
 
+#EXTINF:-1 tvg-id="TR Semur 2 Cinlerin Buyusu (2020)" tvg-logo="noimage.png" group-title="FiLM YERLi", Semur 2 Cinlerin Buyusu (2020)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11234.mp4
+
+#EXTINF:-1 tvg-id="TR Semur 3 Kiyamet (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Semur 3 Kiyamet (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11236.mp4
+
 #EXTINF:-1 tvg-id="TR Semur Seytan Kabilesi (2017)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Semur Seytan Kabilesi (2017)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9461.mp4
 
@@ -11296,6 +11596,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10245.mp
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3583.mp4
 
 #EXTINF:-1 tvg-id="TR Soygun (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Soygun (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11208.mp4
+
+#EXTINF:-1 tvg-id="TR Soygun (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Soygun (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10110.mp4
 
 #EXTINF:-1 tvg-id="TR.Stajyer.Mafya" tvg-logo="noimage.png" group-title="FiLM YERLi", Stajyer.Mafya
@@ -11318,6 +11621,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9881.mp4
 
 #EXTINF:-1 tvg-id="TR.Tatlim.Tatlim.2017" tvg-logo="noimage.png" group-title="FiLM YERLi", Tatlim.Tatlim.2017
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/742.mp4
+
+#EXTINF:-1 tvg-id="TR Tebessum (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Tebessum (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11183.mp4
 
 #EXTINF:-1 tvg-id="TR Torun Davasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", Torun Davasi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11213.mp4
@@ -11423,6 +11729,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9990.mp4
 
 #EXTINF:-1 tvg-id="TR-Zengo (2020)" tvg-logo="noimage.png" group-title="FiLM YERLi", Zengo (2020)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7386.mkv
+
+#EXTINF:-1 tvg-id="TR Zevcat (2022)" tvg-logo="noimage.png" group-title="FiLM YERLi", Zevcat (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11156.mp4
 
 #EXTINF:-1 tvg-id="TR Ziyaretci (2021)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YERLi", Ziyaretci (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9553.mkv
