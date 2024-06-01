@@ -8859,9 +8859,6 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="07.E SPOR ONLİNE TViCH", 4.eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SRB | ARENA ESPORT" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", ARENA ESPORT
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728889&extension=ts
-
 #EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=71653&extension=ts
 
@@ -8892,12 +8889,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=2837&exte
 #EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=2837&extension=ts
 
-#EXTINF:-1 tvg-id="DE | ESPORTS 1 FHD" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", ESPORTS 1 FHD
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=763118&extension=ts
-
-#EXTINF:-1 tvg-id="TR | FAST FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gametv.svg/436px-Gametv.svg.png" group-title="07.E SPOR ONLİNE TViCH", Game Screen
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726921&extension=ts
-
 #EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75354&extension=ts
 
@@ -8912,9 +8903,6 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=75354&ext
 
 #EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=75354&extension=ts
-
-#EXTINF:-1 tvg-id="SRB | SPORT KLUB ESPORT" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", SPORT KLUB ESPORT
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=728923&extension=ts
 
 #EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75341&extension=ts
@@ -9159,27 +9147,6 @@ https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi2
 #EXTINF:-1 tvg-id="BR | BBB Mosaicoⓧ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="11.KIL :)", Big Brother 13 Mosaico brz
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93057
 
-#EXTINF:-1 tvg-id="DE | BIG BROTHER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Big_Brother_Germany_2015.png" group-title="11.KIL :)", Big Brother Germany
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=864060&extension=ts
-
-#EXTINF:-1 tvg-id="AL: Big Brother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 1
-https://hs-cors.herokuapp.com/http://42865490666769735.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769735.ts
-
-#EXTINF:-1 tvg-id="ALB | BIG BROTHER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 1 a
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=794978&extension=ts
-
-#EXTINF:-1 tvg-id="ALB | BIG BROTHER 1 HD KOSOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 1 b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=794980&extension=ts
-
-#EXTINF:-1 tvg-id="AL: Big Brother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 2
-http://42865490666769736.napgoto413.xyz:80/play/hu221556/BRwGTk5qbM/769736.ts
-
-#EXTINF:-1 tvg-id="ALB | BIG BROTHER 2 HD KOSOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png" group-title="11.KIL :)", Big Brother kosova 2 a
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=794979&extension=ts
-
-#EXTINF:-1 tvg-id="AF | KE | Big Brother Naijaⓧ OFFLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Big_Brother_Naija_5_Logo.jpg" group-title="11.KIL :)", Big Brother Naija
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7318
-
 #EXTINF:-1 tvg-id="https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="11.KIL :)", Failarmy
 https://failarmy-international-ca.samsung.wurl.tv/3000.m3u8
 
@@ -9207,26 +9174,14 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 1 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52204
 
-#EXTINF:-1 tvg-id="RS | ZADRUGA 1" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 1 yedek
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=727355&extension=ts
-
 #EXTINF:-1 tvg-id="Zadruga 2 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 2 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52205
-
-#EXTINF:-1 tvg-id="RS | ZADRUGA 2" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 2 yedek
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=727356&extension=ts
 
 #EXTINF:-1 tvg-id="Zadruga 3 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 3 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52206
 
-#EXTINF:-1 tvg-id="RS | ZADRUGA 3" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 3 yedek
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=727357&extension=ts
-
 #EXTINF:-1 tvg-id="Zadruga 4 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", Zadruga 4 LIVE
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/92204
-
-#EXTINF:-1 tvg-id="RS | ZADRUGA 4" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="11.KIL :)", ZADRUGA 4 yedek
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=757346&extension=ts
 
 #EXTINF:-1 tvg-id="3D Sinema Hd" tvg-logo="https://kanallogo2.com/images/sinema/3d-sinema.png" group-title="FiLM 3D", 0.3D Sinema Hd
 https://hs-cors.herokuapp.com/http://ragnarlive.live:80/live/ares1984/ares.2209/66116.ts
@@ -9735,11 +9690,44 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10491.mp
 #EXTINF:-1 tvg-id="Three.Billboards.Outside.Ebbing.Missouri.BRRip.2017" tvg-logo="https://tr.web.img3.acsta.net/pictures/18/03/09/14/47/2757849.jpg" group-title="FiLM iMDB EN iYiLER", Missouri
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10488.mp4
 
+#EXTINF:-1 tvg-id="TRD 13 Mezar 13 Graves (2019)" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/20/08/14/08/38/3717503.png" group-title="FiLM YBNC TR DUBLAJ", 13 Mezar 13 Graves (2019)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10093.mp4
+
+#EXTINF:-1 tvg-id="TRD 13 Muzikal 13 The Musical (2022)" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/22/07/14/11/32/3496700.jpg" group-title="FiLM YBNC TR DUBLAJ", 13 Muzikal 13 The Musical (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10072.mp4
+
+#EXTINF:-1 tvg-id="TRD 200 Metre 200 Meters (2020)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/21/04/08/17/24/4319273.jpg" group-title="FiLM YBNC TR DUBLAJ", 200 Metre 200 Meters (2020)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9463.mp4
+
+#EXTINF:-1 tvg-id="TRD 20th Century Girl (2022)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/22/10/10/11/52/4031848.jpg" group-title="FiLM YBNC TR DUBLAJ", 20th Century Girl (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10178.mp4
+
+#EXTINF:-1 tvg-id="TRD 47 Ronin Kilici (2022)" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/210/551/21055125_201311051451301.jpg" group-title="FiLM YBNC TR DUBLAJ", 47 Ronin Kilici (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10756.mp4
+
+#EXTINF:-1 tvg-id="TRD 5 Kusursuz Sayidir 5 Is the Perfect Number (2019)" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/19/10/14/16/35/3607923.jpg" group-title="FiLM YBNC TR DUBLAJ", 5 Kusursuz Sayidir 5 Is the Perfect Number (2019)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9929.mp4
+
+#EXTINF:-1 tvg-id="TRD 5000 Battaniye 5000 Blankets (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM5ZjZkMjAtMzExMS00OWNkLTlhOGYtYTdiOTBlNDc2Njg5XkEyXkFqcGdeQXVyMzQwNzkwNw@@._V1_.jpg" group-title="FiLM YBNC TR DUBLAJ", 5000 Battaniye 5000 Blankets (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10552.mp4
+
 #EXTINF:-1 tvg-id="TRD 60 Dakika Sixty Minutes (2024)" tvg-logo="https://media.themoviedb.org/t/p/w260_and_h390_bestv2/rqkWWQsXq6zk3QDB9VgL0okywj2.jpg" group-title="FiLM YBNC TR DUBLAJ", 60 Dakika Sixty Minutes (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11038.mp4
 
 #EXTINF:-1 tvg-id="TRD 65 (2023)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/22/12/15/13/39/2319464.jpg" group-title="FiLM YBNC TR DUBLAJ", 65
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10757.mp4
+
+#EXTINF:-1 tvg-id="TRD 7 Tutsak 7 Prisioneiros (2021)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/21/09/16/07/45/4555817.jpg" group-title="FiLM YBNC TR DUBLAJ", 7 Tutsak 7 Prisioneiros (2021)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9519.mp4
+
+#EXTINF:-1 tvg-id="TRD 8 Kisim Section 8 (2022)" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/22/08/29/07/51/3176121.jpg" group-title="FiLM YBNC TR DUBLAJ", 8 Kisim Section 8 (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10319.mp4
+
+#EXTINF:-1 tvg-id="TRD 80 Gunde Devrialem Around the World in 80 Days (2023)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/14/06/24/11/40/223849.jpg" group-title="FiLM YBNC TR DUBLAJ", 80 Gunde Devrialem Around the World in 80 Days (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10930.mp4
+
+#EXTINF:-1 tvg-id="TRD 85 Yazi Ete 85 (2020)" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/23/08/10/15/35/5998562.jpg" group-title="FiLM YBNC TR DUBLAJ", 85 Yazi Ete 85 (2020)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9495.mp4
 
 #EXTINF:-1 tvg-id="TRD Adalet 3 Son The Equalizer 3 (2023)" tvg-logo="https://tr.web.img2.acsta.net/c_300_300/pictures/23/08/24/17/18/5889985.jpg" group-title="FiLM YBNC TR DUBLAJ", Adalet 3 Son
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10934.mp4
@@ -9782,6 +9770,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11164.mp
 
 #EXTINF:-1 tvg-id="TRD Avatar (2009)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/12/Avatar-Film-Posteri.jpg" group-title="FiLM YBNC TR DUBLAJ", Avatar
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10393.mp4
+
+#EXTINF:-1 tvg-id="Dual Avatar (2009)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/12/Avatar-Film-Posteri.jpg" group-title="FiLM YBNC TR DUBLAJ", Avatar (2009)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10314.mp4
 
 #EXTINF:-1 tvg-id="TRD Avatar Suyun Yolu Avatar the Way of Water (2022)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/63/Avatar_The_Way_of_Water_%28film%2C_2022%29.jpg" group-title="FiLM YBNC TR DUBLAJ", Avatar Suyun Yolu
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10617.mp4
@@ -9905,6 +9896,9 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11168.mp
 
 #EXTINF:-1 tvg-id="TRD Gran Turismo (2023)" tvg-logo="https://tr.web.img2.acsta.net/pictures/23/08/10/11/47/4286443.jpg" group-title="FiLM YBNC TR DUBLAJ", Gran Turismo
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10915.mp4
+
+#EXTINF:-1 tvg-id="TR Heart of Stone (2023)" tvg-logo="http://dsiptv.net:8080/images/646955_movie_poster.jpg" group-title="FiLM YBNC TR DUBLAJ", Heart of Stone (2023)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10794.mp4
 
 #EXTINF:-1 tvg-id="TRD Hircin Scrapper (2023)" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/09/01/08/24/5863315.jpg" group-title="FiLM YBNC TR DUBLAJ", Hircin Scrapper (2023)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11072.mp4
@@ -10160,6 +10154,12 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10852.mp
 
 #EXTINF:-1 tvg-id="TRD Zodyak Sovalyeleri Knights of the Zodiac (2023)" tvg-logo="https://hdfilmcehennemi.cx/wp-content/themes/filmplus/tm/Xmp2ZUQDml8ZZPk0wHcBYwE1qYRZPDikGCD383DCmGYC18fdFNpN.jpg" group-title="FiLM YBNC TR DUBLAJ", Zodyak Sovalyeleri
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10709.mp4
+
+#EXTINF:-1 tvg-id="TRD 365 Gun Bugun 365 Days This Day (2022)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/22/08/19/11/22/3622799.jpg" group-title="FiLM YBNC TR DUBLAJ", zz.365 Gun Bugun 365 Days This Day (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/9908.mp4
+
+#EXTINF:-1 tvg-id="TRD 365 Gun Daha The Next 365 Days (2022)" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/20/03/02/09/29/5096195.jpg" group-title="FiLM YBNC TR DUBLAJ", zz.365 Gun Daha The Next 365 Days (2022)
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10094.mp4
 
 #EXTINF:-1 tvg-id="TR.Aykut.Eniste.2019.Yerli.Sansursuz.WEBRip.x264.SOUL" tvg-logo="https://tr.web.img2.acsta.net/pictures/19/05/10/11/02/3221396.jpg" group-title="FiLM YERLi", 0.Aykut Eniste 1
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/3442.mp4
