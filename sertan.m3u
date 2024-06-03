@@ -110,6 +110,9 @@ https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.KPop
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="0.KIL-MÜZİK", 19.Kpop Play
+http://158.101.214.187:8080/channel/n208abae0/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
 #EXTINF:-1 tvg-id="http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
@@ -1343,6 +1346,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="0.KIL-RELAX", 22.relax
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20231114T233452SQUARE.png_20231114233452.png" group-title="0.KIL-RELAX", 23.Relax
+http://158.101.214.187:8080/channel/3804667/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+#EXTINF:-1 tvg-id="hlsproxy-21062" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" group-title="0.KIL-RELAX", 24.Relax
+http://158.101.214.187:8080/channel/103af3d9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", japan relax
 https://www.youtube.com/watch?v=3PtD7lFAle4
@@ -8888,6 +8897,12 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=2837&exte
 
 #EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=2837&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="07.E SPOR ONLİNE TViCH", Gameplay
+http://158.101.214.187:8080/channel/n7e4df56e/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="07.E SPOR ONLİNE TViCH", Gameplay трейлеры
+http://158.101.214.187:8080/channel/n76084eeb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
 #EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75354&extension=ts
