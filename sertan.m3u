@@ -155,11 +155,23 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 #EXTINF:-1 tvg-id="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=461291&extension=ts" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=461291&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44068&extension=ts" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA fr
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44068&extension=ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=461290&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN a
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=461290&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57218&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN b
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57218&extension=ts
 
 #EXTINF:-1 tvg-id="https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -167,13 +179,19 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44066&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN fr
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44066&extension=ts
+
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban France
 https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/76440
 
 #EXTINF:-1 tvg-id="FR| TRACE URBAN HD" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN France 2
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=44066&extension=ts
 
-#EXTINF:-1 tvg-id="FR| M6 MUSIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="0.KIL-MÜZİK", 21.M6 MUSIC FHD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=663480&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-vanilla.png" group-title="0.KIL-MÜZİK", 20.TRACE VANILLA fr
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=663480&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44054&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="0.KIL-MÜZİK", 21.M6 MUSIC FHD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44054&extension=ts
 
 #EXTINF:-1 tvg-id="hlsproxy-191" tvg-logo="http://158.101.214.187:8080/logos/mtv-00s.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
@@ -203,10 +221,10 @@ http://158.101.214.187:8080/channel/n23bdb529/index.m3u8?q=b92e505ee8a30dc40ddf8
 #EXTINF:-1 tvg-id="hlsproxy-167" tvg-logo="http://158.101.214.187:8080/logos/mtv-russia.png" group-title="0.KIL-MÜZİK", 21.MTV HD
 http://158.101.214.187:8080/channel/64c5df66/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
-#EXTINF:-1 tvg-id="FR| MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HD
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44055&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44055&extension=ts
 
-#EXTINF:-1 tvg-id="FR| MTV HITS FRANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HITS FRANCE
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44056&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HITS FRANCE
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44056&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Latino Pluto tv 
@@ -217,6 +235,9 @@ http://158.101.214.187:8080/channel/1e854c66/index.m3u8?q=b92e505ee8a30dc40ddf8c
 
 #EXTINF:-1 tvg-id="hlsproxy-116" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/468ffd9e70c62a737967_640x360.jpg" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://87.99.87.203:2007/channel/n39f4bbe1/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44058&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV LIVE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44058&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="0.KIL-MÜZİK", 21.MTV Music Made in Spain
 Pluto tv 
@@ -233,6 +254,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV Polska HD
 http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:9D:32:10&stream=42980&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44064&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/1200px-NRJ12_logo_2015.svg.png" group-title="0.KIL-MÜZİK", 21.NRJ HITS
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44064&extension=ts
 
 #EXTINF:-1 tvg-id="FR| NRJ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/1200px-NRJ12_logo_2015.svg.png" group-title="0.KIL-MÜZİK", 21.NRJ TV HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44063&extension=ts
@@ -290,6 +314,9 @@ http://158.101.214.187:8080/channel/n4640b587/index.m3u8?q=b92e505ee8a30dc40ddf8
 
 #EXTINF:-1 tvg-id="hlsproxy-7" tvg-logo="null" group-title="0.KIL-MÜZİK", 23.1HD Music Television
 http://87.99.87.203:2007/channel/522878e0/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44061&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 23.MCM TOP
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44061&extension=ts
 
 #EXTINF:-1 tvg-id="hlsproxy-109" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/da2471fe84ef9cdaa860_640x360.jpg" group-title="0.KIL-MÜZİK", 23.MCM Top
 http://87.99.87.203:2007/channel/ne6a39d4/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
@@ -921,6 +948,9 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/bblack-classik.jpg" group-title="0.KIL-MÜZİK", Bblack! Classik
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44086&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", C STAR HITS
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44086&extension=ts
+
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="0.KIL-MÜZİK", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
@@ -1116,6 +1146,15 @@ http://158.101.214.187:8080/channel/118659c3/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1 tvg-id="hlsproxy-52398" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e8e77ff69b856cb8ac92_640x360.jpg" group-title="0.KIL-MÜZİK", ТойДуман
 http://87.99.87.203:2007/channel/n31bf3a23/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=739942&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", 1990-2000
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=739942&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=676402&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", 2000-2010
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=676402&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=635232&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ACDC
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=635232&extension=ts
+
 #EXTINF:-1 tvg-id="MUZIK 7/24 | ADELE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ADELE d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384783&extension=m3u8
 
@@ -1182,6 +1221,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384837&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | BLUES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", BLUES d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384799&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=680952&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BOB-MARLEY
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=680952&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) XP Bozlak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bozlak b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105217&extension=ts
 
@@ -1215,6 +1257,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384830&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | DEEP FEELING" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DEEP FEELING d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384792&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667694&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DNB
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667694&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) XP D\u00fcet M\u00fczik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Düet Müzik b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105457&extension=ts
 
@@ -1224,8 +1269,17 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177449&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | DINLENDIRICI MUZIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DINLENDIRICI MUZIK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384745&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=166777&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DISCO
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166777&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677025&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DISCO 2
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677025&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) XP Efe Muzikleri" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Efe Muzikleri b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105339&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=742910&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Elvis Presley
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=742910&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Emel Sayin" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Emel Sayin b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76169&extension=ts
@@ -1238,6 +1292,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384840&extension=m3
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | ERKIN KORAY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ERKIN KORAY d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384819&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=723745&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Eurodance 90
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=723745&extension=ts
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | EYLEM AKTAS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EYLEM AKTAS d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384754&extension=m3u8
@@ -1269,6 +1326,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384759&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 5 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384758&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677590&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", George Michael
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677590&extension=ts
+
 #EXTINF:-1 tvg-id="MUZIK 7/24 | GUNES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GUNES d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384834&extension=m3u8
 
@@ -1280,6 +1340,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142178&exte
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | HANDE YENER" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HANDE YENER d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384753&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667695&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Hits 2024
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667695&extension=ts
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | HUZUNLU AKUSTIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HUZUNLU AKUSTIK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384810&extension=m3u8
@@ -1359,6 +1422,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=163789&extension=m3
 #EXTINF:-1 tvg-id="TR | DIAMOND KUSTUM SHOW" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", KUSTUM SHOW d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191188&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677012&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MADONNA
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677012&extension=ts
+
 #EXTINF:-1 tvg-id="MUZIK 7/24 | METALLICA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", METALLICA d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384790&extension=m3u8
 
@@ -1394,6 +1460,12 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138516&extension=t
 
 #EXTINF:-1 tvg-id="(TR) XP M\u00fcsl\u00fcm G\u00fcrses 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Müslüm Gürses 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104975&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=157400&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MICHAEL JACKSON
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=157400&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677591&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MIX-90
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677591&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Na\u011fme Fasil" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Nağme Fasil b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=57177&extension=ts
@@ -1464,6 +1536,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106225&extension=t
 #EXTINF:-1 tvg-id="TR: DINAMIK OZGUN RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142179&extension=ts
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677989&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pink Floyd
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677989&extension=ts
+
 #EXTINF:-1 tvg-id="TR | DIAMOND POP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", POP d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177448&extension=m3u8
 
@@ -1479,17 +1554,29 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142177&exte
 #EXTINF:-1 tvg-id="MUZIK 7/24 | PIANO" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", PIANO d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384804&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667693&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Q-DANCE
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667693&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=596662&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Queen
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=596662&extension=ts
+
 #EXTINF:-1 tvg-id="TR: ProTurk-Rap" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219867&extension=ts
 
 #EXTINF:-1 tvg-id="TR | DIAMOND RAP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", RAP d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177446&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=691787&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap US
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=691787&extension=ts
+
 #EXTINF:-1 tvg-id="MUZIK 7/24 | RAINY JAZZY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RAINY JAZZY d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384801&extension=m3u8
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | RELAX CHİLL HOUSE MUSİC" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RELAX CHİLL HOUSE MUSİC d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384839&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=693799&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Retro Rap
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=693799&extension=ts
 
 #EXTINF:-1 tvg-id="TR | DIAMOND ROCK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", ROCK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177447&extension=m3u8
@@ -1563,6 +1650,12 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105349&extension=t
 #EXTINF:-1 tvg-id="MUZIK 7/24 | TEOMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TEOMAN d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384818&extension=m3u8
 
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=166776&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", The Doors
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166776&extension=ts
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=627780&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tomorrowland
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=627780&extension=ts
+
 #EXTINF:-1 tvg-id="(TR) XP Tufan Alta\u015f HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tufan Altaş b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105387&extension=ts
 
@@ -1625,6 +1718,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104728&extension=t
 
 #EXTINF:-1 tvg-id="TR | DIAMOND TURKU HD" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKU d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191206&extension=m3u8
+
+#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=170365&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Turque
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=170365&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP T\u00fcrk Halk M\u00fczi\u011fi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türk Halk müziği b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105481&extension=ts
