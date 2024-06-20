@@ -113,9 +113,6 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="0.KIL-MÜZİK", 18.Urbano
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://autopilot.catcast.tv/content/39575/index.m3u8" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" group-title="0.KIL-MÜZİK", 18.VIVA 1
-https://s.catcast.tv/content/39575/index.m3u8
-
 #EXTINF:-1 tvg-id="https://srv.panelcast.net/zonatv2023/zonatv2023/playlist.m3u8" tvg-logo="https://i.imgur.com/TJ5l9iI.png" group-title="0.KIL-MÜZİK", 18.Zona Music
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 
@@ -155,44 +152,17 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 #EXTINF:-1 tvg-id="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=461291&extension=ts" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=461291&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44068&extension=ts" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="0.KIL-MÜZİK", 20.TRACE TOCA fr
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44068&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban b
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=461290&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=461290&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57218&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN b
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57218&extension=ts
-
-#EXTINF:-1 tvg-id="https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu
+#EXTINF:-1 tvg-id="https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban c
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Eu2
+#EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban d
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44066&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN fr
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44066&extension=ts
-
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban France
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/76440
-
-#EXTINF:-1 tvg-id="FR| TRACE URBAN HD" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.TRACE URBAN France 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=44066&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=663480&extension=ts" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-vanilla.png" group-title="0.KIL-MÜZİK", 20.TRACE VANILLA fr
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=663480&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44054&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="0.KIL-MÜZİK", 21.M6 MUSIC FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44054&extension=ts
 
 #EXTINF:-1 tvg-id="hlsproxy-191" tvg-logo="http://158.101.214.187:8080/logos/mtv-00s.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://158.101.214.187:8080/channel/33f5b149/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
@@ -200,14 +170,8 @@ http://158.101.214.187:8080/channel/33f5b149/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1 tvg-id="hlsproxy-191" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://87.99.87.203:2007/channel/f166d82/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
-#EXTINF:-1 tvg-id="FR| MTV 00s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/MTV_00s_remaster.svg/revision/latest/scale-to-width-down/220?cb=20210801045135" group-title="0.KIL-MÜZİK", 21.MTV 00s
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44084&extension=ts
-
 #EXTINF:-1 tvg-id="hlsproxy-1270" tvg-logo="http://158.101.214.187:8080/logos/mtv-80s.png" group-title="0.KIL-MÜZİK", 21.MTV 80s
 http://158.101.214.187:8080/channel/33f5cf51/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-
-#EXTINF:-1 tvg-id="FR| MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/440px-MTV_80s_2022.png" group-title="0.KIL-MÜZİK", 21.MTV 80s
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44085&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
@@ -216,16 +180,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a2
 http://158.101.214.187:8080/channel/5a627dea/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
 #EXTINF:-1 tvg-id="hlsproxy-167" tvg-logo="http://158.101.214.187:8080/logos/mtv-russia.png" group-title="0.KIL-MÜZİK", 21.MTV HD
-http://158.101.214.187:8080/channel/n23bdb529/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-
-#EXTINF:-1 tvg-id="hlsproxy-167" tvg-logo="http://158.101.214.187:8080/logos/mtv-russia.png" group-title="0.KIL-MÜZİK", 21.MTV HD
 http://158.101.214.187:8080/channel/64c5df66/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44055&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44055&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44056&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/350px-MTV_Hits_2021.svg.png" group-title="0.KIL-MÜZİK", 21.MTV HITS FRANCE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44056&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Latino Pluto tv 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
@@ -235,9 +190,6 @@ http://158.101.214.187:8080/channel/1e854c66/index.m3u8?q=b92e505ee8a30dc40ddf8c
 
 #EXTINF:-1 tvg-id="hlsproxy-116" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/468ffd9e70c62a737967_640x360.jpg" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://87.99.87.203:2007/channel/n39f4bbe1/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44058&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV LIVE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44058&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="0.KIL-MÜZİK", 21.MTV Music Made in Spain
 Pluto tv 
@@ -254,18 +206,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV Polska HD
 http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:9D:32:10&stream=42980&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44064&extension=ts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/1200px-NRJ12_logo_2015.svg.png" group-title="0.KIL-MÜZİK", 21.NRJ HITS
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44064&extension=ts
-
-#EXTINF:-1 tvg-id="FR| NRJ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/1200px-NRJ12_logo_2015.svg.png" group-title="0.KIL-MÜZİK", 21.NRJ TV HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44063&extension=ts
-
-#EXTINF:-1 tvg-id="IT| RTL 102.5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/440px-RTL_102.5_logo.svg.png" group-title="0.KIL-MÜZİK", 21.RTL 102.5 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=56757&extension=ts
-
-#EXTINF:-1 tvg-id="FR| Tomorrowland 2020" tvg-logo="https://assets.stickpng.com/images/58e92555eb97430e81906520.png" group-title="0.KIL-MÜZİK", 21.Tomorrowland 2020
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=231243&extension=ts
 
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 22.BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
@@ -314,9 +254,6 @@ http://158.101.214.187:8080/channel/n4640b587/index.m3u8?q=b92e505ee8a30dc40ddf8
 
 #EXTINF:-1 tvg-id="hlsproxy-7" tvg-logo="null" group-title="0.KIL-MÜZİK", 23.1HD Music Television
 http://87.99.87.203:2007/channel/522878e0/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=44061&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 23.MCM TOP
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=44061&extension=ts
 
 #EXTINF:-1 tvg-id="hlsproxy-109" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/da2471fe84ef9cdaa860_640x360.jpg" group-title="0.KIL-MÜZİK", 23.MCM Top
 http://87.99.87.203:2007/channel/ne6a39d4/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
@@ -1146,15 +1083,6 @@ http://158.101.214.187:8080/channel/118659c3/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1 tvg-id="hlsproxy-52398" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/e8e77ff69b856cb8ac92_640x360.jpg" group-title="0.KIL-MÜZİK", ТойДуман
 http://87.99.87.203:2007/channel/n31bf3a23/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=739942&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", 1990-2000
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=739942&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=676402&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", 2000-2010
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=676402&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=635232&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", ACDC
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=635232&extension=ts
-
 #EXTINF:-1 tvg-id="MUZIK 7/24 | ADELE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ADELE d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384783&extension=m3u8
 
@@ -1221,9 +1149,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384837&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | BLUES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", BLUES d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384799&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=680952&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", BOB-MARLEY
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=680952&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) XP Bozlak" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Bozlak b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105217&extension=ts
 
@@ -1257,9 +1182,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384830&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | DEEP FEELING" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DEEP FEELING d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384792&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667694&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DNB
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667694&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) XP D\u00fcet M\u00fczik HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Düet Müzik b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105457&extension=ts
 
@@ -1269,17 +1191,8 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177449&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | DINLENDIRICI MUZIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", DINLENDIRICI MUZIK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384745&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=166777&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DISCO
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166777&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677025&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", DISCO 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677025&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) XP Efe Muzikleri" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Efe Muzikleri b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105339&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=742910&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Elvis Presley
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=742910&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Emel Sayin" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Emel Sayin b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=76169&extension=ts
@@ -1292,9 +1205,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384840&extension=m3
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | ERKIN KORAY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", ERKIN KORAY d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384819&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=723745&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Eurodance 90
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=723745&extension=ts
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | EYLEM AKTAS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", EYLEM AKTAS d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384754&extension=m3u8
@@ -1326,9 +1236,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384759&extension=m3
 #EXTINF:-1 tvg-id="MUZIK 7/24 | GECMISTEN BUGUNE 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GECMISTEN BUGUNE 5 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384758&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677590&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", George Michael
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677590&extension=ts
-
 #EXTINF:-1 tvg-id="MUZIK 7/24 | GUNES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", GUNES d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384834&extension=m3u8
 
@@ -1340,9 +1247,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142178&exte
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | HANDE YENER" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HANDE YENER d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384753&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667695&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Hits 2024
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667695&extension=ts
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | HUZUNLU AKUSTIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", HUZUNLU AKUSTIK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384810&extension=m3u8
@@ -1422,9 +1326,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=163789&extension=m3
 #EXTINF:-1 tvg-id="TR | DIAMOND KUSTUM SHOW" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", KUSTUM SHOW d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191188&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677012&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MADONNA
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677012&extension=ts
-
 #EXTINF:-1 tvg-id="MUZIK 7/24 | METALLICA" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", METALLICA d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384790&extension=m3u8
 
@@ -1460,12 +1361,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=138516&extension=t
 
 #EXTINF:-1 tvg-id="(TR) XP M\u00fcsl\u00fcm G\u00fcrses 2" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Müslüm Gürses 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104975&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=157400&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MICHAEL JACKSON
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=157400&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677591&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", MIX-90
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677591&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Na\u011fme Fasil" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Nağme Fasil b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=57177&extension=ts
@@ -1536,9 +1431,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=106225&extension=t
 #EXTINF:-1 tvg-id="TR: DINAMIK OZGUN RADYO" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", OZGUN RADYO c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142179&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=677989&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Pink Floyd
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=677989&extension=ts
-
 #EXTINF:-1 tvg-id="TR | DIAMOND POP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", POP d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177448&extension=m3u8
 
@@ -1554,29 +1446,17 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142177&exte
 #EXTINF:-1 tvg-id="MUZIK 7/24 | PIANO" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", PIANO d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384804&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=667693&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Q-DANCE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=667693&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=596662&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Queen
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=596662&extension=ts
-
 #EXTINF:-1 tvg-id="TR: ProTurk-Rap" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219867&extension=ts
 
 #EXTINF:-1 tvg-id="TR | DIAMOND RAP" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", RAP d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177446&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=691787&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Rap US
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=691787&extension=ts
-
 #EXTINF:-1 tvg-id="MUZIK 7/24 | RAINY JAZZY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RAINY JAZZY d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384801&extension=m3u8
 
 #EXTINF:-1 tvg-id="MUZIK 7/24 | RELAX CHİLL HOUSE MUSİC" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", RELAX CHİLL HOUSE MUSİC d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384839&extension=m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=693799&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Retro Rap
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=693799&extension=ts
 
 #EXTINF:-1 tvg-id="TR | DIAMOND ROCK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-MÜZİK YOUTUBE", ROCK d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=177447&extension=m3u8
@@ -1650,12 +1530,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105349&extension=t
 #EXTINF:-1 tvg-id="MUZIK 7/24 | TEOMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="0.KIL-MÜZİK YOUTUBE", TEOMAN d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384818&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=166776&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", The Doors
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=166776&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=627780&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tomorrowland
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=627780&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) XP Tufan Alta\u015f HD" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Tufan Altaş b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105387&extension=ts
 
@@ -1719,9 +1593,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104728&extension=t
 #EXTINF:-1 tvg-id="TR | DIAMOND TURKU HD" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="0.KIL-MÜZİK YOUTUBE", TURKU d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191206&extension=m3u8
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=170365&extension=ts" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Turque
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=170365&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) XP T\u00fcrk Halk M\u00fczi\u011fi" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Türk Halk müziği b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=105481&extension=ts
 
@@ -1763,9 +1634,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=384841&extension=m3
 
 #EXTINF:-1 tvg-id="(TR) XP Zeki M\u00fcren" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Zeki Müren b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104949&extension=ts
-
-#EXTINF:-1 tvg-id="|CL| CHILI |CL|" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 00.Relax
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=175378&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280x720_3291200/index.m3u8
@@ -5622,9 +5490,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390453&exte
 #EXTINF:-1 tvg-id="TR: DIZIAX AYAK ISLERI" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AYAK ISLERI
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=266805&extension=ts
 
-#EXTINF:-1 tvg-id="LYNX | AYDEM\u0130R AKBA\u015e" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.AYDEMiR AKBAS c
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=807662&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) BaBaLa TV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.BaBaLa TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=143114&extension=ts
 
@@ -6429,95 +6294,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3038&extension=ts
 #EXTINF:-1 tvg-id="TR: b**N MOVIES ACTION HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES ACTION c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106622&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57667&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57667&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57667&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57667&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57667&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES FAMILY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57667&extension=ts
-
 #EXTINF:-1 tvg-id="TR: b**N MOVIES FAMILY HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106621&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57667&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES FAMILY HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57667&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMİUM
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57666&extension=m3u8/" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIER a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57666&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE 2 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=317&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES ACTION HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES PREMIERE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57666&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES STARS HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57671&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57671&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES STARS HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57671&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN MOVIES TURK HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57672&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57672&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.MOVIES TURK HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57672&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Series 1 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89832&extension=ts
@@ -6531,71 +6312,14 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89830&extension=ts
 #EXTINF:-1 tvg-id="(TR) Bein Series 4 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.Series 4 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3035&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES SCI-FI HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57679&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57679&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57679&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: b**N S*RIES 1 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 1 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=309&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES COMEDY HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57675&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57675&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57675&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: b**N S*RIES 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 2 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=308&extension=ts
 
 #EXTINF:-1 tvg-id="TR: b**N S*RIES 3 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 3 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=307&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57681&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57681&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57681&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57681&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57681&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57681&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: b**N S*RIES 4 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.B.SERIES 4 HD+ c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=306&extension=ts
@@ -6717,9 +6441,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342373&exte
 #EXTINF:-1 tvg-id="TR: BOX OFFICE SELECT 9" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BOX OFFICE SELECT 9
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=342374&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BEIN SERIES VICE HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.BSERIES 4 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57681&extension=ts
-
 #EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 1" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 1 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402946&extension=m3u8
 
@@ -6758,24 +6479,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402941&extension=m3
 
 #EXTINF:-1 tvg-id="YESİLCAM CUNEYT ARKIN 7" tvg-logo="https://i.ibb.co/gSDpNM4/Yesilcam.png" group-title="00.KIL-ONLİNE FİLM", 0.CUNEYT ARKIN 7 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402940&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57682&extension=ts
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57682&extension=ts
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57682&extension=ts
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57682&extension=ts
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57682&extension=ts
-
-#EXTINF:-1 tvg-id="TR| CINESTAR YESILCAM" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.CINESTAR YESILCAM a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57682&extension=ts
 
 #EXTINF:-1 tvg-id="TR: D\u0130Z\u0130 SMART PREMIUM HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DiZi SMART PREMIUM c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=351&extension=ts
@@ -6906,9 +6609,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219885&exte
 #EXTINF:-1 tvg-id="TR: Dreambox-Ye\u015fil\u00e7am" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Dreambox-Yeşilçam c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=219886&extension=ts
 
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DSMART MOVIESMART CLASSIC
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57695&extension=ts
-
 #EXTINF:-1 tvg-id="TR | DIAMOND KEMAL SUNAL" tvg-logo="https://logo.diamondtv.one/images/logos/diamond.png" group-title="00.KIL-ONLİNE FİLM", 0.DIAMOND KEMAL SUNAL
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2104&extension=m3u8
 
@@ -7023,6 +6723,9 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185247&exte
 #EXTINF:-1 tvg-id="TR: DINAMIK SALON 8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 08 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185248&extension=ts
 
+#EXTINF:-1 tvg-id="TR: DINAMIK SALON 8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 08 c
+http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185248&extension=ts
+
 #EXTINF:-1 tvg-id="TR: DINAMIK SALON 9" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.DINAMIK SALON 09 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185249&extension=ts
 
@@ -7073,15 +6776,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362967&exte
 
 #EXTINF:-1 tvg-id="TR: FOX CRIME HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FOX CRIME c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=356&extension=ts
-
-#EXTINF:-1 tvg-id="TR| FX" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57657&extension=ts
-
-#EXTINF:-1 tvg-id="TR| FX" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57657&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57657&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.FX a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57657&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Fx HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Fx b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2975&extension=ts
@@ -7278,24 +6972,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402928&extension=m3
 #EXTINF:-1 tvg-id="KEMAL SUNAL 4" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL 4 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402927&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57655&extension=ts
-
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57655&extension=ts
-
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57655&extension=ts
-
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57655&extension=ts
-
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57655&extension=ts
-
-#EXTINF:-1 tvg-id="TR| KEMAL SUNAL TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.KEMAL SUNAL TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57655&extension=ts
-
 #EXTINF:-1 tvg-id="TR: Kemal Sunal TV" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Kemal Sunal TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=397&extension=ts
 
@@ -7428,47 +7104,11 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2918&extension=ts
 #EXTINF:-1 tvg-id="(TR) Moviesmart Turk 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Moviesmart Turk b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2906&extension=ts
 
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="TR| MOVIE SMART CLASSIC" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57697&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57697&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57697&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | MOVIE SMART" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIE SMART d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=239120&extension=m3u8
 
 #EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-logo="https://media.foraten.net/files/image/67550.jpg" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSİC d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=88640&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57695&extension=ts
-
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57695&extension=ts
-
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57695&extension=ts
-
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57695&extension=ts
-
-#EXTINF:-1 tvg-id="TR| DSMART MOVIESMART CLASSIC HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART CLASSIC a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57695&extension=ts
 
 #EXTINF:-1 tvg-id="TR: MOVIESMART COCUK HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.MOVIESMART COCUK c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=370&extension=ts
@@ -7701,65 +7341,11 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=396&extensi
 #EXTINF:-1 tvg-id="REDBOX YESILCAM" tvg-logo="https://logodix.com/logo/19547.png" group-title="00.KIL-ONLİNE FİLM", 0.REDBOX YESILCAM d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402935&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57708&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57708&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a 
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57708&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 6" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile 2 a 
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57708&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) Sinema Aile 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Aile 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170404&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57704&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57704&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57704&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57704&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aile a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57704&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) Sinema Aksion 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Aksion 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170405&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aksiyon a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57705&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aksiyon a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57705&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aksiyon a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57705&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema aksiyon a
-
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57707&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57707&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57707&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57707&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema komedi a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57707&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Sinema TV 1 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=89835&extension=ts
@@ -7785,125 +7371,29 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170407&extension=t
 #EXTINF:-1 tvg-id="(TR) Sinema Yerli 2 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Yerli 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170406&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57709&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57709&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57709&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a 
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57709&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema yerli a 
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57709&extension=ts
-
 #EXTINF:-1 tvg-id="(TR) Sinema Yerli 4K+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema Yerli b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170408&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 7" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SIMEMA YERLI
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57709&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA 1001
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA 1002
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57699&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 3" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA AKSIYON
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57705&extension=ts
 
 #EXTINF:-1 tvg-id="TR: SINEMA AKSIYON HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA AKSIYON c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=335&extension=ts
 
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 2" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA AILE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57704&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 5" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA KOMEDI
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57707&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57700&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BOX OFFICE 1" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57703&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57703&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57703&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: SINEMA TV 1001 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1001 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=368&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57699&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57699&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57699&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57699&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV 1001 HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57699&extension=ts
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV 1002 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=369&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57699&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 1002 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57699&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: SINEMA TV 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=359&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57700&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57700&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57700&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57700&extension=ts
-
-#EXTINF:-1 tvg-id="TR| SINEMA TV HD" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57700&extension=ts
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV ACTION 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=361&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57705&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57705&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: SINEMA TV ACTION HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV ACTION c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=360&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57708&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57708&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: SINEMA TV AILE 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=363&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57704&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57704&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV AILE HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV AILE c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362&extension=ts
@@ -7911,23 +7401,14 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362&extensi
 #EXTINF:-1 tvg-id="TR: SINEMA TV HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=358&extension=ts
 
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57700&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57700&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=365&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57707&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57707&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV KOMEDI HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV KOMEDI c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=364&extension=ts
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV YERLI 2 HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI 2 c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=367&extension=ts
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57709&extension=m3u8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57709&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR: SINEMA TV YERLI  HD+" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.SINEMA TV YERLI c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=366&extension=ts
@@ -8010,9 +7491,6 @@ http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 3
 http://gineu9.bozztv.com/gin-trn09/gt-yesilcam-tv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TR: DINAMIK SALON 8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0DINAMIK SALON 08 c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=185248&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-CVw2Jun9XYk/XsgmfZX7TZI/AAAAAAAAYdQ/s2NXdSBs2WkiRXKogXsRfjAMs90VmAP1gCLcBGAsYHQ/s1600/afyonturk.jpg" group-title="00.KIL-ONLİNE FİLM", 1.Afyon türk
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
@@ -8048,9 +7526,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="00.KIL-ONLİNE FİLM", 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57669&extension=m3u8" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 1.TIVI TURK a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57669&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="00.KIL-ONLİNE FİLM", 1.Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
@@ -9837,53 +9312,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png" group-title="06.KIL-ÇOCUK", Şirinler
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=35&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126119&ads.show_id=5058&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Smurf%20TV&ads.episodetitle=Smurf%20TV&ads.keywords=Smurf%2CSmurfs&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
-#EXTINF:-1 tvg-id="SE | eSports Oneⓧ" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSports 1
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10357
-
-#EXTINF:-1 tvg-id="MagentaTV: eSPORTS1" tvg-logo="https://imagizer.imageshack.com/img923/8277/Ec6dqU.png" group-title="07.E SPOR ONLİNE TViCH", 0.eSPORTS1
-http://stream1.etibsa.pro:8080/MAGENTA.BLUE/w6PBUucRJbv6/356009
-
-#EXTINF:-1 tvg-id="Arena Esport" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1625/thumb_arena-esport.png" group-title="07.E SPOR ONLİNE TViCH", 1.Arena eSport
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93884
-
-#EXTINF:-1 tvg-id="SK Esports (SR)" tvg-logo="https://liquipedia.net/commons/images/9/90/SK_Gaming_2003_full_lightmode.png" group-title="07.E SPOR ONLİNE TViCH", 2.Sport Klub eSports
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/53446
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", 3.ESR eSports Network
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", ESR eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8
-
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="07.E SPOR ONLİNE TViCH", 4.eSports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=71653&extension=ts
-
-#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=71653&extension=ts
-
-#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=71653&extension=ts
-
-#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=71653&extension=ts
-
-#EXTINF:-1 tvg-id="FR| COUNTER-STRIKE" tvg-logo="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" group-title="07.E SPOR ONLİNE TViCH", COUNTER-STRIKE
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=71653&extension=ts
-
-#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=2837&extension=ts
-
-#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=2837&extension=ts
-
-#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=2837&extension=ts
-
-#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=2837&extension=ts
-
-#EXTINF:-1 tvg-id="FR| ES1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="07.E SPOR ONLİNE TViCH", ES1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=2837&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="07.E SPOR ONLİNE TViCH", Gameplay
 http://158.101.214.187:8080/channel/n7e4df56e/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
@@ -9891,38 +9321,8 @@ http://158.101.214.187:8080/channel/n7e4df56e/index.m3u8?q=b92e505ee8a30dc40ddf8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="07.E SPOR ONLİNE TViCH", Gameplay трейлеры
 http://158.101.214.187:8080/channel/n76084eeb/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
-#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75354&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=75354&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=75354&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=75354&extension=ts
-
-#EXTINF:-1 tvg-id="FR| TFT - LEAGUE OF LEGEND" tvg-logo="https://www.freepnglogos.com/uploads/logo-mobile-legend-png/mpl-mobile-legends-bang-bang-professional-league-0.png" group-title="07.E SPOR ONLİNE TViCH", LEAGUE OF LEGEND
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=75354&extension=ts
-
 #EXTINF:-1 tvg-id="hlsproxy-55072" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/polsat-games-pl.png" group-title="07.E SPOR ONLİNE TViCH", Polsat Games
 http://158.101.214.187:8080/channel/n2f698397/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
-
-#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=75341&extension=ts
-
-#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=75341&extension=ts
-
-#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=75341&extension=ts
-
-#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=75341&extension=ts
-
-#EXTINF:-1 tvg-id="FR| WORLD OF WARCRAFT" tvg-logo="https://static.wikia.nocookie.net/wowpedia/images/7/7d/WoWlogo.png" group-title="07.E SPOR ONLİNE TViCH", WORLD OF WARCRAFT
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=75341&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="08.YOUTUBE VLC PLAYER SEYRET", 0.Bein spor haber
 https://www.youtube.com/watch?v=OypUpUTYAHI
@@ -10140,59 +9540,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="09.KIL :)", amc +
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="https://anywhere.pwisetthon.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93059" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 01 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93059
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 2ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 02 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93060
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 3ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 03 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93061
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 4ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 04 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93062
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 5ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 05 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93063
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 6ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 06 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93067
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 7ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 07 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93068
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 8ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 08 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93069
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 9ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 09 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93070
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 10ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 10 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/151677
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 11ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 11 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/151678
-
-#EXTINF:-1 tvg-id="BR | BBB Cam 12ⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 12 brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93055
-
-#EXTINF:-1 tvg-id="BR | BBB Mosaicoⓧ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Big_Brother_Brasil.png/440px-Logo_Big_Brother_Brasil.png" group-title="09.KIL :)", Big Brother 13 Mosaico brz
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/93057
-
 #EXTINF:-1 tvg-id="https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="09.KIL :)", Failarmy
 https://failarmy-international-ca.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="09.KIL :)", Juste pour Rire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="09.KIL :)", MasterChef Brezilya
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51906
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/318px-MasterChef_Logo.svg.png" group-title="09.KIL :)", MasterChef Brezilya
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/51908
-
-#EXTINF:-1 tvg-id="pink-lol" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/LOL.png" group-title="09.KIL :)", Pink LOL
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="09.KIL :)", Pluto TV Comedy
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d3a00ad95e4718ae8d8db&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=
@@ -10202,18 +9554,6 @@ http://lnc-game-show-central.tubi.video/1200.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="09.KIL :)", Usa Game Show Network East
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Zadruga 1 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="09.KIL :)", Zadruga 1 LIVE
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52204
-
-#EXTINF:-1 tvg-id="Zadruga 2 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="09.KIL :)", Zadruga 2 LIVE
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52205
-
-#EXTINF:-1 tvg-id="Zadruga 3 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="09.KIL :)", Zadruga 3 LIVE
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52206
-
-#EXTINF:-1 tvg-id="Zadruga 4 LIVE" tvg-logo="https://www-espreso-co-rs.cdn.ampproject.org/ii/w820/s/www.espreso.co.rs/data/images/2023/08/29/15/1424459_elita-7-1_ls-s.jpg" group-title="09.KIL :)", Zadruga 4 LIVE
-https://hs-cors.herokuapp.com/http://31.42.185.100:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/92204
 
 #EXTINF:-1 tvg-id="KILBERBER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEpjVyJ6TY60QoYbtDFumYA1Kf9.jpg" group-title="FiLM 3D", 3D.300-Bir.Imparatorlugun.Yukselisi-2014
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8012.mkv
