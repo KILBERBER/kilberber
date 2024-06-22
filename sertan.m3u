@@ -4833,6 +4833,42 @@ https://hs-cors.herokuapp.com/https://cakal.click/yayint4.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
 
+#EXTINF:-1 tvg-id="🦜 A2  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.A2 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399266&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 ATV  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.ATV 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399269&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 BEYAZ TV  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.BEYAZ TV 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399268&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 KANAL 7  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.KANAL 7 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399274&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 KANAL D  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.KANAL D 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399273&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 NOW  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.NOW 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399272&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 SHOW TV  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.SHOW TV 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399276&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 STAR TV  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.STAR TV 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399275&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 TEVE2  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.TEVE2 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399267&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 TRT 1  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.TRT 1 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399278&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 TV 8  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.TV 8 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399271&extension=m3u8
+
+#EXTINF:-1 tvg-id="🦜 TV 8,5  ᴴ²" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 00.TV 8.5 4k
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=399270&extension=m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 
@@ -9462,6 +9498,9 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="07.E SPOR ONLİNE TViCH", ESR eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8
 
+#EXTINF:-1 tvg-id="US| eSports Network HD" tvg-logo="http://sf.bleutv.net:8080/images/e2bdb4b0198683853f24eeba4c2d824b.png" group-title="07.E SPOR ONLİNE TViCH", eSports Network HD
+http://sf.bleutv.net:8080/live/152019363716715/152077836405401/143135.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="07.E SPOR ONLİNE TViCH", Gameplay
 http://158.101.214.187:8080/channel/n7e4df56e/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
@@ -9471,8 +9510,17 @@ http://158.101.214.187:8080/channel/n76084eeb/index.m3u8?q=b92e505ee8a30dc40ddf8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", Gametoon
 http://79.101.53.3:8009/play/a02z
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", Latino_Via X Esports
+http://177.234.247.66:8888/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", Latino_Via X Esports
+http://177.234.247.66:8888/play/a06z/index.m3u8
+
 #EXTINF:-1 tvg-id="hlsproxy-55072" tvg-logo="http://158.101.214.187:8080/proxy/https://www.lyngsat-logo.com/logo/tv/pp/polsat-games-pl.png" group-title="07.E SPOR ONLİNE TViCH", Polsat Games
 http://158.101.214.187:8080/channel/n2f698397/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.E SPOR ONLİNE TViCH", USA_CHINA_ENG:Dot Esports
+https://dai.google.com/linear/hls/event/rAyedvwTSYmwf6Mhi1aoLg/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="08.YOUTUBE VLC PLAYER SEYRET", 0.Bein spor haber
 https://www.youtube.com/watch?v=OypUpUTYAHI
