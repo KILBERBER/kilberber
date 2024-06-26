@@ -252,6 +252,9 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-30002" tvg-logo="http://158.101.214.187:8080/logos/tnt-music.png" group-title="0.KIL-MÜZİK", 22.THT Musiccc
 http://158.101.214.187:8080/channel/4766e68c/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA Russia
+https://hls.goodgame.ru/hls/180805.m3u8
+
 #EXTINF:-1 tvg-id="viva-rus" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA Russia HD
 http://str01.ottg.app/2238/video.m3u8?token=86861220c3b965aee286df05b52063aa
 
@@ -551,6 +554,9 @@ http://158.101.214.187:8080/channel/n6d12ab1c/index.m3u8?q=b92e505ee8a30dc40ddf8
 
 #EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="0.KIL-MÜZİK", 32.SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 32.TMF RUS
+https://hls.goodgame.ru/hls/201891.m3u8
 
 #EXTINF:-1 tvg-id="LaMinorTV.ru" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="0.KIL-MÜZİK", 32.Ля-Минор
 http://camera.global-x.ru/Lya-Minor/index.m3u8
@@ -1133,9 +1139,6 @@ https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg" group-title="0.KIL-MÜZİK", Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ritsatv.ru/files/poster/medium/700805.jpg" group-title="0.KIL-MÜZİK", VIVA Russia
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 #EXTINF:-1 tvg-id="hlsproxy-20015" tvg-logo="https://dl.dropboxusercontent.com/s/6lzrq4cb61g8z4w/yoshlar.jpg" group-title="0.KIL-MÜZİK", Yoshlar (UZ)
 http://158.101.214.187:8080/channel/63de880a/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
@@ -1778,6 +1781,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5301&live=1&avo
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0ca371e4fc053a024550121f5cd84f28.webp" group-title="0.KIL-RELAX", 20.Relax
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6195
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ottpink.network/picons/loupe4k.png" group-title="0.KIL-RELAX", 21.Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/03232021/Loupe4K_190x190.png" group-title="0.KIL-RELAX", 21.Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
@@ -8079,6 +8085,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="01.KIL-BELGESEL", 8.Love nature
 http://lnc-love-nature.tubi.video/playlistR_1080p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.it999.ru/img/2801.png" group-title="01.KIL-BELGESEL", 8.Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="01.KIL-BELGESEL", 8.Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -8222,6 +8231,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="01.KIL-BELGESEL", Moya Planeta
 https://woobl.ru/hls987/Moya_planeta.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/nn/nasa_tv_us.png" group-title="01.KIL-BELGESEL", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="01.KIL-BELGESEL", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
@@ -9921,20 +9933,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="09.KIL ORTAYA KARISIK :)", amc +
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Face TV
-http://79.101.53.3:8009/play/a063
-
 #EXTINF:-1 tvg-id="https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="09.KIL ORTAYA KARISIK :)", Failarmy
 https://failarmy-international-ca.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="09.KIL ORTAYA KARISIK :)", Fit Yaşa TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Happy Reality 1
-http://79.101.53.3:8009/play/a050
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Happy Reality 2
-http://79.101.53.3:8009/play/a051
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="09.KIL ORTAYA KARISIK :)", Juste pour Rire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
@@ -9965,6 +9968,9 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="09.KIL ORTAYA KARISIK :)", z.fashion tv 2
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fashion-one-4k" tvg-logo="http://epg.it999.ru/img/2748.png" group-title="09.KIL ORTAYA KARISIK :)", z.Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b8a8f825-a737-4dc1-b429-5fa2ce9460f5.png" group-title="09.KIL ORTAYA KARISIK :)", z.Just Vogue TV
 https://tivi191.ozelip.com:3873/stream/play.m3u8
