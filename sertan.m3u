@@ -6306,13 +6306,16 @@ https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahnele
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", 2.ŞABAN TV 4 B
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kemalsunalfilmleri.m3u8
 
-#EXTINF:-1 tvg-id="♨️DISCOVERY ID" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ70z9oArgRlD9de8NWP.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY Bluetv
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID Bluetv
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="♨️NAT GEO" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ13grx68y35DwQnGrjA.png" group-title="01.KIL-BELGESEL", 0.NAT GEO
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="♨️NAT GEO WILD" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZKnAM9qgWpjewz6vyk.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD
 https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX
@@ -6321,40 +6324,55 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX a
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUZ3R1h4cG5kZ0hoQnRpN3UyVDJuaC8wOFZ5ZVFRb0lCMDZQSDQ0NjBTQT0=
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 1.DMAX c
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX Bluetv
 https://dmax.blutv.com/blutv_dmax2/live.m3u8
 
-#EXTINF:-1 tvg-id="♨️TLC" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6bqZNEqAYzmrVWyjg.png" group-title="01.KIL-BELGESEL", 2.TLC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="01.KIL-BELGESEL", 2.TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
 #EXTINF:-1 tvg-id="https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eHQrQzhSZ3RxaW5NUW53Vk9UK0ZocU9RaGgwTnVvNWZidjh5TFFOcVNvaz0=" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="01.KIL-BELGESEL", 2.TLC
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8/https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BluTV.svg/2560px-BluTV.svg.png" group-title="01.KIL-BELGESEL", 2.TLC Bluetv
+#EXTINF:-1 tvg-id="https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8/https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tlc_us.png" group-title="01.KIL-BELGESEL", 2.TLC Bluetv
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 3.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 3.TRT BELGESEL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 3.TRT BELGESEL A
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 3.trt belgesel 
+#EXTINF:-1 tvg-id="https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 3.TRT BELGESEL B
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="01.KIL-BELGESEL", 4.Tgrt Belgesel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 3.TRT BELGESEL C
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="01.KIL-BELGESEL", 4.TGRT BELGESEL A
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="01.KIL-BELGESEL", 4.TGRT BELGESEL B
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="01.KIL-BELGESEL", 4.Tgrt Belgesel C
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="01.KIL-BELGESEL", 5.Agro TV
 https://yayin30.haber100.com/live/agrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_25.png" group-title="01.KIL-BELGESEL", 5.Ciftçi TV
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="01.KIL-BELGESEL", 5.Ciftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/q30sFms.png" group-title="01.KIL-BELGESEL", 5.Tarım tv
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+#EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png" group-title="01.KIL-BELGESEL", 5.Köy TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 
-#EXTINF:-1 tvg-id="♨️Yaban TV" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDN0MAXpwKq5mPJvV9.png" group-title="01.KIL-BELGESEL", 5.Yaban TV
+#EXTINF:-1 tvg-id="https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8" tvg-logo="https://i.ibb.co/tDB51ww/tarim.png" group-title="01.KIL-BELGESEL", 5.TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="01.KIL-BELGESEL", 5.Toprak TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV
 http://stream.tvcdn.net:80/belgesel/yaban-tv.m3u8
 
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV A
@@ -6363,7 +6381,7 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
-#EXTINF:-1 tvg-id="(TR) BBC Earth HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bbc_earth.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=99747&extension=ts
 
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bbc_earth.png" group-title="01.KIL-BELGESEL", 6.BBC EARTH d
@@ -6393,9 +6411,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3004&extension=ts
 #EXTINF:-1 tvg-id="(TR) Discovery Science HD" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Discovery Science b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=3003&extension=ts
 
-#EXTINF:-1 tvg-id="(TR) DMAX 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DMAX b
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=31320&extension=ts
-
 #EXTINF:-1 tvg-id="docubox.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.DOCUBOX d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101975&extension=m3u8
 
@@ -6414,12 +6429,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2964&extension=ts
 #EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/history_channel.png" group-title="01.KIL-BELGESEL", 6.HISTORY CHANNEL d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1885&extension=m3u8
 
-#EXTINF:-1 tvg-id="(TR) Love Nature 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Love Nature b
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2904&extension=ts
-
-#EXTINF:-1 tvg-id="TR | LOVE NATURE" tvg-logo="https://www.henkel.com/resource/image/1137408/uncropped/866/960/d4af6cf2f3943fada63620565732b264/GM/2020-12-14-henkel-press-release-innovationteams-2.png" group-title="01.KIL-BELGESEL", 6.LOVE NATURE d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=101977&extension=m3u8
-
 #EXTINF:-1 tvg-id="(TR) Nat Geo Wild 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Nat Geo Wild b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2903&extension=ts
 
@@ -6434,9 +6443,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1889&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Tarih TV" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.Tarih TV b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170403&extension=ts
-
-#EXTINF:-1 tvg-id="(TR) TLC 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.TLC b
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2840&extension=ts
 
 #EXTINF:-1 tvg-id="TR | TIVIBU HISTORY CHANNEL" tvg-logo="https://i.pinimg.com/736x/40/da/03/40da039462c3765a5610140a8d0fe106.jpg" group-title="01.KIL-BELGESEL", 6.TIVIBU HISTORY CHANNEL d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191169&extension=m3u8
