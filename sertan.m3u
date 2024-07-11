@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" group-title="0.KIL-MÜZİK", 01.trt müzik 
+#EXTINF:-1 tvg-id="https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" group-title="0.KIL-MÜZİK", 01.trt müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.DREAM TURK
@@ -275,7 +275,7 @@ http://158.101.214.187:8080/channel/5a627dea/index.m3u8?q=b92e505ee8a30dc40ddf8c
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV HD ESP
 http://170.82.37.21:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Latino Pluto tv 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Latino Pluto tv
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
@@ -288,8 +288,7 @@ http://87.99.87.203:2007/channel/n39f4bbe1/index.m3u8?q=92e2ce7ea739863e3dafd254
 http://stream01.vnet.am/Channel_117/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="0.KIL-MÜZİK", 21.MTV Music Made in Spain
-Pluto tv 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+Pluto tv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/mtv_us.png" group-title="0.KIL-MÜZİK", 21.MTV pl
 http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:9D:32:10&stream=51378&extension=ts
@@ -387,10 +386,10 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 80s Flashback
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 80s Flashback
 https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 90s Throwback
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE 90s Throwback
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Hits
@@ -399,7 +398,7 @@ https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg012
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Rock On
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="0.KIL-MÜZİK", 25.XITE Rock On
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png" group-title="0.KIL-MÜZİK", 26.kiss kiss
@@ -432,13 +431,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf9
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
-#EXTINF:-1 tvg-id="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 90s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
-#EXTINF:-1 tvg-id="https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo Pop
@@ -3628,7 +3627,7 @@ http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57726&ext
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57726&extension=ts
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57726&extension=ts gibi 
+http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57726&extension=ts gibi
 
 #EXTINF:-1 tvg-id="TR| TIVIBU SPOR 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR 3 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57726&extension=ts
@@ -3747,7 +3746,7 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190957&extension=m3
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8?token=SU5tn_QV-rOewtwICNYtKg&expires=1714691905" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="0.KIL-SPOR KARIŞIK", 01.Gs Tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="0.KIL-SPOR KARIŞIK", 01.Gs Tv
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/a-spor.m3u8" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="0.KIL-SPOR KARIŞIK", 02.A Spor
@@ -4086,7 +4085,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="0.KIL-SPOR KARIŞIK", BEK TV Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="0.KIL-SPOR KARIŞIK", BEIN SPORTS PREMIUM 1HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR KARIŞIK", BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR KARIŞIK", BOX Be ON Edge HD
@@ -4767,7 +4766,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-id="tv8-tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="0.KIL-ULUSAL", 03.TV 8 B
 http://ott.server-iptv.live/5508/video.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 tvg-id="https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?=&sid=5y5gengjqmxl&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3&dfp_paln=AQzzBGQEpKfzUoE8SaFhKalLwP38Lfnqg_A2K9DJ07XaLGzIsGEpZz1p6xTQRba3HtMKqZWR-n7_bYtr7WyHs-At0hJ19WsH1wdL12zeKkFhtbXPFVwGtxa8LZlkLIzRUpsiReAESLKtsQMdBFHfr2Zxdf2VPi37tfd8o_5RVLPMd-m5xsGfg54iamISDY-wZ13t0aQE2W7GJHHXtf-LwG2_l28Z0dIgNCnr3q8snvJ6fWqGwtdsLicwNig-i8r27gVw3b5CFDFPRW7FPjgJSxlI28VzMiT73TsF1E7kGw968TT28KGRXs85P8i3GwnJANs38LuXBVXEGkpkU52WuwQ-MxiAE7xLUaXuNkxlXic-PatxBQoN3KKCFZMPKiK3gtv9tQ1i4dHG8iz8DS-7ObEQUUb6hZKBSIc0IyxNavDpr4PzbiWJINKieGJgZggdQcTU2hglK2gDTZPgVb5QYis0sfNS73bKX1F6B_Xs2ChMRmF3ACHq9WiHIoCqv8Mx7gKvwSlV1EWCwResJryWIntLlcE93JcVKto3drS2plA7Qz1qF5uXdeJBbeEW6yPyByDDTt-hBmSy75IbCj6IITiJc44ep96uodnfmYXOwvR1LGzNdhi6XGJHutEfIIdeWBxTJTN_kTKC8wXOr7J4OSIUOQmCyI6Lfc0c08rgoiy6H2CQFFJuP9KEaQuTg6s4zlX2zoWOF48aacYmseZJvp3f4f_P0GzgOd7I8gpFvRbICl5D9VEiB4YJKzwxU2PpF-yvaGqRPraOoLgewnAlPutXu5i21cu2vAiJIoQrALve25QPJxa1MoeLx9DeLiEQErRgo9pC0eI4BdA2YCnclpfxurOdQRbMulRgQFGr8e6McHAncV1bG0uzB7HGtInTHjSPSPlLXXQLfk6-rvbEga_MK6ICTvB0ei-iQb3nkl4izCGtwcrQ8VaV2gz8JjDrLFwvykkb3eXxfFN1r094vDPqvaB9LV-FXtH-oa34J5wKP-gAbnZrPvAoMUEWBnd6GakX6EUJMaAetopfkZBD_pBm1dbBHnbqKP__nJbKd7Ij27esUi2YZeX8AkS5FkJ-8T1H03z08kRsadwVSqsZK4uK66eZ_ZTJPfMeQCWfe6do89Xhx5ad6P5ctHb9AWq1InTEv7WZbIyal1VYlpj3mOhaZOhjJESX1tr--fLDjydwJkW2a01Ry0-DLftW2PM." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8.5 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="0.KIL-ULUSAL", 03.Tv 8.5 A
@@ -4809,7 +4808,7 @@ https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="0.KIL-ULUSAL", 05.NOW Blutv A
 https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.Kanal D 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
 
 #EXTINF:-1 tvg-id="https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="0.KIL-ULUSAL", 06.KANAL D A
@@ -4836,7 +4835,7 @@ https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png" group-title="0.KIL-ULUSAL", 07.Star Tv A
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="0.KIL-ULUSAL", 07.Star Tv Euro 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="0.KIL-ULUSAL", 07.Star Tv Euro
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="0.KIL-ULUSAL", 07.Star Tv Euro A
@@ -4890,7 +4889,7 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="0.KIL-ULUSAL", 13.Teve 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.teve2.com.tr/assets/img/teve2logo.png" group-title="0.KIL-ULUSAL", 13.teve 2 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.teve2.com.tr/assets/img/teve2logo.png" group-title="0.KIL-ULUSAL", 13.teve 2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="0.KIL-ULUSAL", 13.TEVE 2 B
@@ -6138,7 +6137,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/cennetmaha
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/af6fb332-4553-495c-9f50-323681f9940b.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Dila Hanim
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/dilahanim.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kS8SDWsuM0-21KJyofn3FnGS-oPtHWHzhlmsvfXfqSKtw=s900-c-k-c0x00ffffff-no-rj" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.E sonra
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.E sonra
 https://raw.githubusercontent.com/rideordie16/YouTube/main/dizi/eeesonra.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3ea14170-18a5-4953-9601-dacfdaf70a13.png" group-title="00.KIL-DİZİ-SERi-STAR", Youtube.Emret Komutanim
@@ -6259,7 +6258,7 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18007&extension=m3u
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18005&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES PREMIERE 1 d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18003&extension=m3u8 
+http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18003&extension=m3u8
 
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/BEINBOXOFFICE3.png" group-title="00.KIL-ONLİNE FİLM", 0.BEIN MOVIES PREMIERE 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18004&extension=m3u8
@@ -6501,7 +6500,7 @@ https://dmax.blutv.com/blutv_dmax2/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 2.TLC
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
-#EXTINF:-1 tvg-id="https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eHQrQzhSZ3RxaW5NUW53Vk9UK0ZocU9RaGgwTnVvNWZidjh5TFFOcVNvaz0=" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 2.TLC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 2.TLC
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8/https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 2.TLC Blutv
@@ -6636,8 +6635,11 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=1880&extension=m3u8
 #EXTINF:-1 tvg-id="(TR) ID HD 4K+" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 6.ID HD b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7429&extension=ts
 
-#EXTINF:-1 tvg-id="http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 7.Fishing Vision
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 7.Fishing Vision
 http://103.197.59.107:5002/bs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
+
+#EXTINF:-1 tvg-id="ATAJ0500431A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20240321T050307SQUARE.png" group-title="01.KIL-BELGESEL", 7.just.fishing
+https://jmp2.uk/SamsungTVPlus/ATAJ0500431A.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZaHOk8j.png" group-title="01.KIL-BELGESEL", 7.Pluto TV Fishing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
@@ -6645,11 +6647,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af3951
 #EXTINF:-1 tvg-id="PlutoTVFishing.us" tvg-logo="https://i.imgur.com/ZaHOk8j.png" group-title="01.KIL-BELGESEL", 7.Pluto TV Fishing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="01.KIL-BELGESEL", 7.Pluto TV Fishing
+https://jmp2.uk/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+
+#EXTINF:-1 tvg-id="619e1874e0d3a7000729a036" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="01.KIL-BELGESEL", 7.Pluto TV Fishing
+https://jmp2.uk/PlutoTV/619e1874e0d3a7000729a036-alt.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="01.KIL-BELGESEL", 7.Waypoint TV
 https://lnc-waypoint.tubi.video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/wired2fish-tv/logo_20231219_224240_64.png" group-title="01.KIL-BELGESEL", 7.Wired2fish TV
 https://ssai.gumgum.com/gs/stream/master/navio/hls.m3u8?gg.ads.publisher_app_bundle=__APP_BUNDLE__&gg.ads.publisher_app_name=__APP_NAME__&gg.ads.publisher_app_url=__STORE_URL__&gg.ads.content_channel=Wired2fish%20TV&gg.ads.content_id=1680&gg.ads.content_title=Wired2fish%20TV&stream_url=https%3A%2F%2Flinear-80.frequency.stream%2Fdist%2Fdistrotv%2F80%2Fhls%2Fmaster%2Fplaylist.m3u8&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-id="IT600001L6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png" group-title="01.KIL-BELGESEL", 7.Italian Fishing TV
+https://jmp2.uk/SamsungTVPlus/IT600001L6.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="01.KIL-BELGESEL", 7.Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
@@ -6849,7 +6860,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f987
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" group-title="01.KIL-BELGESEL", Pluto TV Travel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22888/plymouth-rock-tv/logo_20231219_221017_69.png" group-title="01.KIL-BELGESEL", Plymouth Rock TV 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22888/plymouth-rock-tv/logo_20231219_221017_69.png" group-title="01.KIL-BELGESEL", Plymouth Rock TV
 https://d38fyt2xhm4m2b.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-PlymouthRockTV/419.m3u8?ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://americanaoutdoors.com/wp-content/uploads/2023/01/Pursuit-Channel-705x705.jpg" group-title="01.KIL-BELGESEL", PursuitUP
@@ -6873,7 +6884,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="hlsproxy-166" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/1e9b1fbecd02f5cac7d4_640x360.png" group-title="01.KIL-BELGESEL", TLC
 http://87.99.87.203:2007/channel/7f602feb/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
-#EXTINF:-1 tvg-id="https://streamer103.neterra.tv/travel/travel_SD.m3u8",id:"playerjs79d7d2e76f88dd421c24292f51b927b2" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/12/travel-tv.jpg" group-title="01.KIL-BELGESEL", Travel TV
+#EXTINF:-1 tvg-id="https://streamer103.neterra.tv/travel/travel_SD.m3u8,id:playerjs79d7d2e76f88dd421c24292f51b927b2" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/12/travel-tv.jpg" group-title="01.KIL-BELGESEL", Travel TV
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png" group-title="01.KIL-BELGESEL", TRAVEL TV
@@ -6882,7 +6893,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="01.KIL-BELGESEL", Travelxp
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8",id:"playerjs4b5d5ac892958f9bba9823c3672009fb" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/travelxp.jpg" group-title="01.KIL-BELGESEL", Travelxp
+#EXTINF:-1 tvg-id="https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8,id:playerjs4b5d5ac892958f9bba9823c3672009fb" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/travelxp.jpg" group-title="01.KIL-BELGESEL", Travelxp
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/logo_20231219_223616_61.png" group-title="01.KIL-BELGESEL", TronTV
@@ -7335,7 +7346,7 @@ https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMENİSTAN SPORT
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="01.KIL-DİĞER ÜLKELER", Ukrayna 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="01.KIL-DİĞER ÜLKELER", Ukrayna
 http://iptv.prosto.tv:7000/ch303/video.m3u8
 
 #EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan Skai TV Survivor Yunanistan 22.00 2
@@ -7407,11 +7418,8 @@ https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CB62fwD/cadde.png" group-title="01.KIL-HABER", CADDE TV
 https://trn10.tulix.tv/gt-caddetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="01.KIL-HABER", CNBC-E
-https://new.cache-stream.workers.dev/channel/UCaO-M1dXacMwtyg0Pvovk4w/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="01.KIL-HABER", CNBC-E A
-https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="01.KIL-HABER", CNBC-E
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_175.png" group-title="01.KIL-HABER", CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
@@ -7524,7 +7532,7 @@ https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="01.KIL-HABER", TELE 1
 https://new.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8
 
-#EXTINF:-1 tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", TELE 1 B
+#EXTINF:-1 tvg-id="tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="01.KIL-HABER", TELE 1 Blutv
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="01.KIL-HABER", TELE 1 Blutv
@@ -7536,10 +7544,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="01.KIL-HABER", TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="01.KIL-HABER", TGRT HABER
-https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?app=web
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", TGRT HABER Blutv
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="01.KIL-HABER", TGRT HABER Blutv
 https://tgrthaber.blutv.com/blutv_tgrthaber2/live.m3u8
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="01.KIL-HABER", TGRT HABER HD
@@ -7554,17 +7559,17 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_169.png" group-title="01.KIL-HABER", trt haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BluTV-Logo.jpg/440px-BluTV-Logo.jpg" group-title="01.KIL-HABER", TRT HABER
-https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936073.png" group-title="01.KIL-HABER", trt haber 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER A
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER (backup)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER B
 https://tv.ensonhaber.com/trthaber/trthaber.m3u8
+
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER Blutv 
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER C
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="01.KIL-HABER", TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -7572,34 +7577,28 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="01.KIL-HABER", TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="01.KIL-HABER", TV 100 (backup)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="01.KIL-HABER", TV 100 A
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="01.KIL-HABER", TV 100 Blutv
+#EXTINF:-1 tvg-id="https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8" tvg-logo="https://s.tv100.com/assets/web/images/logo.png" group-title="01.KIL-HABER", TV 100 Blutv
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="01.KIL-HABER", TV 100 Blutv
-https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="TV264.tr" tvg-logo="https://api.tv264.gunesozturk.com/Uploads/img/logo/ubp82n3ksdk9n4xlof.jpg" group-title="01.KIL-HABER", TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="01.KIL-HABER", TV NET
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="01.KIL-HABER", TV NET
 https://new.cache-stream.workers.dev/stream/UC8rh34IlJTN0lDZlTwzWzjg/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_283.png" group-title="01.KIL-HABER", tv net A
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="01.KIL-HABER", tv net A
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="01.KIL-HABER", TV NET B
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_217.png" group-title="01.KIL-HABER", ULKE TV B
-https://stream-01.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHKBYZ2-t0_t8vdPhojaHLjXqISi-2Kw4yAnRpCAwnwz)/dm/3/x7yb4xm/s/live-1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="01.KIL-HABER", ULKE Tv Blutv
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
 
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="01.KIL-HABER", ULKE TV Blutv
+#EXTINF:-1 tvg-id="https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="01.KIL-HABER", ULKE TV Blutv
 https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://s.ulusal.com.tr/assets/web/images/logo@2x.png" group-title="01.KIL-HABER", Ulusal Kanal
@@ -8439,7 +8438,7 @@ http://palatv34.ozelip.com:22372/bilsem/bilsem/chunklist_w1564342469.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK Blutv
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
-#EXTINF:-1 tvg-id="https://uzunmuhalefet.serv00.net/ecanlitv.php?kanal=minika-tv-canli-4&.m3u8" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="06.KIL-ÇOCUK", 0.Minika Go
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="06.KIL-ÇOCUK", 0.Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="06.KIL-ÇOCUK", 0.Minika çocuk
@@ -8826,6 +8825,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22919/revry-her/logo_20231219_221435_68.png" group-title="09.KIL ORTAYA KARISIK :)", Revry Her
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", The Walking Dead en español
+https://jmp2.uk/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20231219_223119_65.png" group-title="09.KIL ORTAYA KARISIK :)", TheGrid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/5573c80e6921946e87df68ae6f7a67ef.m3u8
 
@@ -8835,11 +8837,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="09.KIL ORTAYA KARISIK :)", Türkiye Klinikleri
 http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="09.KIL ORTAYA KARISIK :)", Uni TV
+https://cdn-unitv.yayin.com.tr/unitv/unitv/chunklist_w979288052.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/440px-Game_Show_Network_2018.svg.png" group-title="09.KIL ORTAYA KARISIK :)", usa game show
 http://lnc-game-show-central.tubi.video/1200.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="09.KIL ORTAYA KARISIK :)", Usa Game Show Network East
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.uskudar.edu.tr/assets/img/uskudar-televizyonu-logo.png" group-title="09.KIL ORTAYA KARISIK :)", Usküdar Üniversitesi TV
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/watchit-scream/logo_20231219_224119_67.png" group-title="09.KIL ORTAYA KARISIK :)", Watchit Scream!
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1970&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=watchit-scream&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
@@ -8849,6 +8857,132 @@ https://embedlp.b-cdn.net/womantv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/YQtd480/wlife.jpg" group-title="09.KIL ORTAYA KARISIK :)", WOMAN LIFE TV
 https://yayin30.haber100.com/live/womanlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60c25ec6da6d6600074233a8" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", X.Acapulco Shore
+https://jmp2.uk/PlutoTV/60c25ec6da6d6600074233a8-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.All Reality by WE tv
+https://jmp2.uk/PlutoTV/5e82530945600e0007ca076c-alt.m3u8
+
+#EXTINF:-1 tvg-id="65492fc7056b9700088560b5" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.American Crimes
+https://jmp2.uk/PlutoTV/65492fc7056b9700088560b5-alt.m3u8
+
+#EXTINF:-1 tvg-id="6375236f8573640007802129" tvg-logo="https://images.pluto.tv/channels/6375236f8573640007802129/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.AspireTV Life
+https://jmp2.uk/PlutoTV/6375236f8573640007802129-alt.m3u8
+
+#EXTINF:-1 tvg-id="654932fa4d6d8f00084c4723" tvg-logo="https://images.pluto.tv/channels/654932fa4d6d8f00084c4723/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Bad Girls Club
+https://jmp2.uk/PlutoTV/654932fa4d6d8f00084c4723-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Baywatch
+https://jmp2.uk/PlutoTV/5d815eb889bca2ce7b746fdd-alt.m3u8
+
+#EXTINF:-1 tvg-id="6661f11a41af6400080e90d8" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Big Brother
+https://jmp2.uk/PlutoTV/6661f11a41af6400080e90d8-alt.m3u8
+
+#EXTINF:-1 tvg-id="655f30c19d5ac4000816e9b3" tvg-logo="https://images.pluto.tv/channels/655f30c19d5ac4000816e9b3/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Big Brother Canada
+https://jmp2.uk/PlutoTV/655f30c19d5ac4000816e9b3-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.COPS
+https://jmp2.uk/PlutoTV/5e1f7e089f23700009d66303-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d40855b3fb0855028c99b6f" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Dallas Cowboys Cheerleaders
+https://jmp2.uk/PlutoTV/5d40855b3fb0855028c99b6f-alt.m3u8
+
+#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Emergencia 911
+https://jmp2.uk/PlutoTV/60492a1e6361250007679665-alt.m3u8
+
+#EXTINF:-1 tvg-id="USBC24000145I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20240520T212753SQUARE.png" group-title="09.KIL ORTAYA KARISIK :)", x.Estrella Games
+https://jmp2.uk/SamsungTVPlus/USBC24000145I.m3u8
+
+#EXTINF:-1 tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Fear Factor
+https://jmp2.uk/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
+
+#EXTINF:-1 tvg-id="64e561a4354251000823a0e0" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Ghost Hunters
+https://jmp2.uk/PlutoTV/64e561a4354251000823a0e0-alt.m3u8
+
+#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Hot Bench
+https://jmp2.uk/PlutoTV/6036e6e7ac69c400072afca2-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e9decb953e157000752321c" tvg-logo="https://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Judge Nosey
+https://jmp2.uk/PlutoTV/5e9decb953e157000752321c-alt.m3u8
+
+#EXTINF:-1 tvg-id="ATAJ0500431A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20240321T050307SQUARE.png" group-title="09.KIL ORTAYA KARISIK :)", x.just.fishing
+https://jmp2.uk/SamsungTVPlus/ATAJ0500431A.m3u8
+
+#EXTINF:-1 tvg-id="6565436c9d5ac4000822f552" tvg-logo="https://images.pluto.tv/channels/6565436c9d5ac4000822f552/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Medical Incredible
+https://jmp2.uk/PlutoTV/6565436c9d5ac4000822f552-alt.m3u8
+
+#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Million Dollar Listing Vault
+https://jmp2.uk/PlutoTV/6549322e53fc97000838febc-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Mission Impossible
+https://jmp2.uk/PlutoTV/5f77977bd924d80007eee60c-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Pluto TV Fishing
+https://jmp2.uk/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+
+#EXTINF:-1 tvg-id="619e1874e0d3a7000729a036" tvg-logo="https://images.pluto.tv/channels/619e1874e0d3a7000729a036/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Pluto TV Fishing
+https://jmp2.uk/PlutoTV/619e1874e0d3a7000729a036-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Rescue 911
+https://jmp2.uk/PlutoTV/5f21e831e9fe730007706acb-alt.m3u8
+
+#EXTINF:-1 tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Star Trek
+https://jmp2.uk/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
+
+#EXTINF:-1 tvg-id="65c69bbfd77d450008c7ffee" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Star Trek Deep Space Nine
+https://jmp2.uk/PlutoTV/65c69bbfd77d450008c7ffee-alt.m3u8
+
+#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Star Trek Voyager
+https://jmp2.uk/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
+
+#EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Stargate
+https://jmp2.uk/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Survivor
+https://jmp2.uk/PlutoTV/5f21e7b24744c60007c1f6fc-alt.m3u8
+
+#EXTINF:-1 tvg-id="GBBB3800007BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20240117T032839SQUARE.png_20240117032839.png" group-title="09.KIL ORTAYA KARISIK :)", x.Survivor
+https://jmp2.uk/SamsungTVPlus/GBBB3800007BN.m3u8
+
+#EXTINF:-1 tvg-id="65ba5086dc10a40008da0c84" tvg-logo="https://images.pluto.tv/channels/65ba5086dc10a40008da0c84/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Survivorman
+https://jmp2.uk/PlutoTV/65ba5086dc10a40008da0c84-alt.m3u8
+
+#EXTINF:-1 tvg-id="65ba50163af63d0008506285" tvg-logo="https://images.pluto.tv/channels/65ba50163af63d0008506285/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Survivorman
+https://jmp2.uk/PlutoTV/65ba50163af63d0008506285-alt.m3u8
+
+#EXTINF:-1 tvg-id="6283d51144ad8f0007fa382d" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.The Judge Judy Channel
+https://jmp2.uk/PlutoTV/6283d51144ad8f0007fa382d-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e825550e758c700077b0aef" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.The Rifleman
+https://jmp2.uk/PlutoTV/5e825550e758c700077b0aef-alt.m3u8
+
+#EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.The Walking Dead Universe
+https://jmp2.uk/PlutoTV/62fa8176b9884200074ef5ae-alt.m3u8
+
+#EXTINF:-1 tvg-id="6089788de5c8410007808e26" tvg-logo="https://images.pluto.tv/channels/6089788de5c8410007808e26/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Wanted: Dead or Alive
+https://jmp2.uk/PlutoTV/6089788de5c8410007808e26-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Western TV
+https://jmp2.uk/PlutoTV/5e8df4bc16e34700077e77d3-alt.m3u8
+
+#EXTINF:-1 tvg-id="657887d9dfed030008ce8aa8" tvg-logo="https://images.pluto.tv/channels/657887d9dfed030008ce8aa8/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.I Survived
+https://jmp2.uk/PlutoTV/657887d9dfed030008ce8aa8-alt.m3u8
+
+#EXTINF:-1 tvg-id="6578852bcbd0d60008f876d7" tvg-logo="https://images.pluto.tv/channels/6578852bcbd0d60008f876d7/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.I Survived
+https://jmp2.uk/PlutoTV/6578852bcbd0d60008f876d7-alt.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700008H9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700008H9_20240520T221515SQUARE.png" group-title="09.KIL ORTAYA KARISIK :)", x.I Survived…
+https://jmp2.uk/SamsungTVPlus/USBD1700008H9.m3u8
+
+#EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Ink Master
+https://jmp2.uk/PlutoTV/60807fd5db701400078219c2-alt.m3u8
+
+#EXTINF:-1 tvg-id="6148c756ce8091000748d113" tvg-logo="https://images.pluto.tv/channels/6148c756ce8091000748d113/colorLogoPNG.png" group-title="09.KIL ORTAYA KARISIK :)", x.Iron Chef
+https://jmp2.uk/PlutoTV/6148c756ce8091000748d113-alt.m3u8
+
+#EXTINF:-1 tvg-id="IT600001L6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20240402T134311SQUARE.png" group-title="09.KIL ORTAYA KARISIK :)", x.Italian Fishing TV
+https://jmp2.uk/SamsungTVPlus/IT600001L6.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22823/young-hollywood/logo_20231219_224434_70.png" group-title="09.KIL ORTAYA KARISIK :)", Young Hollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
@@ -8877,14 +9011,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b8a8f825-a737-4dc1-b429-5fa2ce9460f5.png" group-title="09.KIL ORTAYA KARISIK :)", z.Just Vogue TV
 https://tivi191.ozelip.com:3873/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="http://50.7.218.154:1935/canlitv/modamagazintv.stream/playlist.m3u8?hash=60a5d03cb16ea681097affbede298a1e" tvg-logo="http://assets.tvcdn.net/761a811e-7a9f-4861-ab73-f5b9ea792d5d.png" group-title="09.KIL ORTAYA KARISIK :)", z.Moda Magazin TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/761a811e-7a9f-4861-ab73-f5b9ea792d5d.png" group-title="09.KIL ORTAYA KARISIK :)", z.Moda Magazin TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13388&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="09.KIL ORTAYA KARISIK :)", Üni TV
-https://cdn-unitv.yayin.com.tr/unitv/unitv/chunklist_w979288052.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.uskudar.edu.tr/assets/img/uskudar-televizyonu-logo.png" group-title="09.KIL ORTAYA KARISIK :)", Üsküdar Üniversitesi TV
-http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KILBERBER" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pEpjVyJ6TY60QoYbtDFumYA1Kf9.jpg" group-title="FiLM 3D", 3D.300-Bir.Imparatorlugun.Yukselisi-2014
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8012.mkv
@@ -9026,369 +9154,6 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8026.mkv
 
 #EXTINF:-1 tvg-id="3D-DUAL-The.Great.Wall-Cin.Seddi-2017" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hrIk2VD6vzt8Eb3iGWNOCheEOtT.jpg" group-title="FiLM 3D", 3D.Çin.Seddi-2017
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/8048.mkv
-
-#EXTINF:-1 tvg-id="12.Years.a.Slave.2013" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/12_Years_a_Slave_Soundtrack.png" group-title="FiLM iMDB EN iYiLER", 12 Years a Slave
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10394.mp4
-
-#EXTINF:-1 tvg-id="3.Aptal.3.Idiots.2009" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/df/3_idiots_poster.jpg/220px-3_idiots_poster.jpg" group-title="FiLM iMDB EN iYiLER", 3 Aptal
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10395.mp4
-
-#EXTINF:-1 tvg-id="A.Beautiful.Mind.2001" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/28384.jpg" group-title="FiLM iMDB EN iYiLER", Akıl Oyunları
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10396.mp4
-
-#EXTINF:-1 tvg-id="Atesten.Kalbe.Akildan.Dumana.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Ate%C5%9Ften_Kalbe%2C_Ak%C4%B1ldan_Dumana.jpg" group-title="FiLM iMDB EN iYiLER", Akıldan Dumana
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10401.mp4
-
-#EXTINF:-1 tvg-id="Portrait.de.La.Jeune.Fille.en.Feu.2019" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/19/11/28/14/54/4607431.jpg" group-title="FiLM iMDB EN iYiLER", Alev Almış Bir Genç Kızın Portresi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10469.mp4
-
-#EXTINF:-1 tvg-id="Altinci.His.1999" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/22092.jpg" group-title="FiLM iMDB EN iYiLER", Altinci His
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10398.mp4
-
-#EXTINF:-1 tvg-id="Amadeus.1984" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2f/Amadeusmov.jpg" group-title="FiLM iMDB EN iYiLER", Amadeus
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10399.mp4
-
-#EXTINF:-1 tvg-id="Amelie.2001" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f1/415px-Amelie_poster.jpg/220px-415px-Amelie_poster.jpg" group-title="FiLM iMDB EN iYiLER", Amelie
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10400.mp4
-
-#EXTINF:-1 tvg-id="Wild.Tales.2014" tvg-logo="https://tr.web.img4.acsta.net/pictures/15/02/25/12/49/187876.jpg" group-title="FiLM iMDB EN iYiLER", Asabiyim Ben
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10493.mp4
-
-#EXTINF:-1 tvg-id="Fa.yeung.nin.wa.Ask.Zamani.2000" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/26389.jpg" group-title="FiLM iMDB EN iYiLER", Ask Zamani
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10434.mp4
-
-#EXTINF:-1 tvg-id="The.Godfather.Part.I.1972" tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/91/63/78/20155809.jpg" group-title="FiLM iMDB EN iYiLER", Baba
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10483.mp4
-
-#EXTINF:-1 tvg-id="The.Godfather.Part.II.1974" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/28201.jpg" group-title="FiLM iMDB EN iYiLER", Baba 2
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10484.mp4
-
-#EXTINF:-1 tvg-id="Babam.ve.Oglum.2005" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e5/Babam_ve_O%C4%9Flum.jpg/220px-Babam_ve_O%C4%9Flum.jpg" group-title="FiLM iMDB EN iYiLER", Babam ve Oğlum
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10403.mp4
-
-#EXTINF:-1 tvg-id="Babam.Icin.1993" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/9430.jpg" group-title="FiLM iMDB EN iYiLER", Babam Icin
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10402.mp4
-
-#EXTINF:-1 tvg-id="Baslangic.2010" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/94/Ba%C5%9Flang%C4%B1%C3%A7.jpg" group-title="FiLM iMDB EN iYiLER", Baslangic
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10404.mp4
-
-#EXTINF:-1 tvg-id="Batman.6.2005" tvg-logo="https://tr.web.img2.acsta.net/pictures/22/02/02/08/41/1418124.jpg" group-title="FiLM iMDB EN iYiLER", Batman 6
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10405.mp4
-
-#EXTINF:-1 tvg-id="Beklenmeyen.Sahit.Witness.For.The.Prosecution.1957" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e6/Witness_for_the_Prosecution_DVD_kapa%C4%9F%C4%B1.jpg/220px-Witness_for_the_Prosecution_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Beklenmeyen Sahit
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10407.mp4
-
-#EXTINF:-1 tvg-id="Ben.Hur.1959" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ben_hur_1959_poster.jpg/440px-Ben_hur_1959_poster.jpg" group-title="FiLM iMDB EN iYiLER", Ben-Hur
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10408.mp4
-
-#EXTINF:-1 tvg-id="Bir.Ayrilik.2011" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/84/36/43/19760722.jpg" group-title="FiLM iMDB EN iYiLER", Bir Ayrilik
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10409.mp4
-
-#EXTINF:-1 tvg-id="Bir.Kopegin.Hikayesi.2009" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/medias/nmedia/18/70/57/79/19196452.jpg" group-title="FiLM iMDB EN iYiLER", Bir Kopegin Hikayesi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10411.mp4
-
-#EXTINF:-1 tvg-id="Bir.Ruya.icin.Agit.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26602.jpg" group-title="FiLM iMDB EN iYiLER", Bir Ruya icin Agit
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10412.mp4
-
-#EXTINF:-1 tvg-id="We.Were.Soldiers.2002" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9d/Weweresoldiers_poster.jpg/220px-Weweresoldiers_poster.jpg" group-title="FiLM iMDB EN iYiLER", Bir Zamanlar Askerdik
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10540.mp4
-
-#EXTINF:-1 tvg-id="Bir.Zamanlar.Batida.Once.Upon.A.Time.In.The.West.1968" tvg-logo="http://www.filmelestirisi.com/user-uploads/files/B%C4%B0R%20ZAMANLAR%20BATIDA.jpg" group-title="FiLM iMDB EN iYiLER", Bir Zamanlar Batıda
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10413.mp4
-
-#EXTINF:-1 tvg-id="Bir.Kac.Dolar.icin.1965" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/929.jpg" group-title="FiLM iMDB EN iYiLER", Birkaç Dolar İçin
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10410.mp4
-
-#EXTINF:-1 tvg-id="Bulbulu.Oldurmek.1962" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/img/96/0e/960e68290b495948c1e870d015571d4a.jpg" group-title="FiLM iMDB EN iYiLER", Bülbülü Öldürmek
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10415.mp4
-
-#EXTINF:-1 tvg-id="The.Grand.Budapest.Hotel.2014" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/14/04/02/14/01/402286.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Budapeşte Oteli
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10485.mp4
-
-#EXTINF:-1 tvg-id="Warrior.2011" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/138673.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Dövüş
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10492.mp4
-
-#EXTINF:-1 tvg-id="Buyuk.kacis.1963" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/38827.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Firar
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10416.mp4
-
-#EXTINF:-1 tvg-id="The.Big.Lebowski.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/86/Big_Lebowski_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Lebowski
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10480.mp4
-
-#EXTINF:-1 tvg-id="Blade.Runner.1982" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/66/01/66/20217907.jpg" group-title="FiLM iMDB EN iYiLER", Bıçak Sırtı
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10414.mp4
-
-#EXTINF:-1 tvg-id="Can.Dostum.1997" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/363.jpg" group-title="FiLM iMDB EN iYiLER", Can Dostum
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10417.mp4
-
-#EXTINF:-1 tvg-id="Casino.1995" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/img/a2/23/a223dfd4ccdcc98c7b44e910873bfefd.jpg" group-title="FiLM iMDB EN iYiLER", Casino
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10418.mp4
-
-#EXTINF:-1 tvg-id="cennet.sinemasi.1998" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/4989.jpg" group-title="FiLM iMDB EN iYiLER", cennet sinemasi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10506.mp4
-
-#EXTINF:-1 tvg-id="Cennetin.Cocuklari.1997" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/ff/Cennetin_%C3%87ocuklar%C4%B1_%28Bacheha-Ye_Aseman%29_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Cennetin Cocuklari
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10420.mp4
-
-#EXTINF:-1 tvg-id="Cesuryurek.1995" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e6/Braveheart.jpg" group-title="FiLM iMDB EN iYiLER", Cesuryurek
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10421.mp4
-
-#EXTINF:-1 tvg-id="Cilgin.Max.Ofkeli.Yollar.2015" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/73/Mad_Max_Fury_Road_%28film%2C_2015%29.jpg/220px-Mad_Max_Fury_Road_%28film%2C_2015%29.jpg" group-title="FiLM iMDB EN iYiLER", Cilgin Max Ofkeli Yollar
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10422.mp4
-
-#EXTINF:-1 tvg-id="Cinayet.Var.1954" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dial_M_For_Murder.jpg/440px-Dial_M_For_Murder.jpg" group-title="FiLM iMDB EN iYiLER", Cinayet Var
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10423.mp4
-
-#EXTINF:-1 tvg-id="Cingenler.Zamani.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/84/Time_of_the_Gypsies_afis.jpg/220px-Time_of_the_Gypsies_afis.jpg" group-title="FiLM iMDB EN iYiLER", Cingenler Zamani
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10424.mp4
-
-#EXTINF:-1 tvg-id="Cinnet.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/72/Shining.jpg" group-title="FiLM iMDB EN iYiLER", Cinnet
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10425.mp4
-
-#EXTINF:-1 tvg-id="Downfall.2004" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/58349.jpg" group-title="FiLM iMDB EN iYiLER", Cöküş
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10430.mp4
-
-#EXTINF:-1 tvg-id="Dangal.2016" tvg-logo="https://tr.web.img4.acsta.net/pictures/17/08/09/15/14/247902.jpg" group-title="FiLM iMDB EN iYiLER", Dangal
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10426.mp4
-
-#EXTINF:-1 tvg-id="Enemy.of.the.State.1998.ac3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Enemy_of_the_State_%28film%29_poster_art.jpg" group-title="FiLM iMDB EN iYiLER", Devlet Düşmanı
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10649.mkv
-
-#EXTINF:-1 tvg-id="The.Help.2011" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/88/92/22/20015833.jpg" group-title="FiLM iMDB EN iYiLER", Duyguların Rengi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10486.mp4
-
-#EXTINF:-1 tvg-id="Dovus.Kulubu.1999" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/21189.jpg" group-title="FiLM iMDB EN iYiLER", Dövüş Kulübü
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10429.mp4
-
-#EXTINF:-1 tvg-id="Er.Rayni.Kurtarmak.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Er-Ryani-kurtarmak-poster.png/440px-Er-Ryani-kurtarmak-poster.png" group-title="FiLM iMDB EN iYiLER", Er Rayni Kurtarmak
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10431.mp4
-
-#EXTINF:-1 tvg-id="Esaretin.Bedeli.1994" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/11736.jpg" group-title="FiLM iMDB EN iYiLER", Esaretin Bedeli
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10432.mp4
-
-#EXTINF:-1 tvg-id="Eskiya.1996" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/17646.jpg" group-title="FiLM iMDB EN iYiLER", Eskiya
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10433.mp4
-
-#EXTINF:-1 tvg-id="The.Elephant.Man.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Elephant_man.jpg" group-title="FiLM iMDB EN iYiLER", Fil Adam
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10482.mp4
-
-#EXTINF:-1 tvg-id="Ford.v.Ferrari.2019" tvg-logo="https://tr.web.img3.acsta.net/pictures/19/10/16/16/28/5029277.jpg" group-title="FiLM iMDB EN iYiLER", Ford v Ferrari
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10435.mp4
-
-#EXTINF:-1 tvg-id="Gelecege.Donus.1985" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg/220px-Back_to_the_Future_%28film%2C_1985%29.jpg" group-title="FiLM iMDB EN iYiLER", Geleceğe Dönüş
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10436.mp4
-
-#EXTINF:-1 tvg-id="Gizli.Dunya.Room.2015" tvg-logo="https://tr.web.img3.acsta.net/pictures/16/01/18/12/52/284347.jpg" group-title="FiLM iMDB EN iYiLER", Gizli Dunya
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10437.mp4
-
-#EXTINF:-1 tvg-id="Gladyator.2000" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8d/Gladiator_ver1.jpg/220px-Gladiator_ver1.jpg" group-title="FiLM iMDB EN iYiLER", Gladyator
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10438.mp4
-
-#EXTINF:-1 tvg-id="Gran.Torino.2008" tvg-logo="https://tr.web.img3.acsta.net/pictures/14/01/23/12/42/531110.jpg" group-title="FiLM iMDB EN iYiLER", Gran.Torino
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10440.mp4
-
-#EXTINF:-1 tvg-id="Gun.Batmadan.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0b/Beforesunset.jpg" group-title="FiLM iMDB EN iYiLER", Gun Batmadan
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10441.mp4
-
-#EXTINF:-1 tvg-id="Gorunmez.Misafir.Contratiempo.2016" tvg-logo="https://img04.imgsinemalar.com/images/afis_buyuk/t/the-invisible-guest-1660924884.jpg" group-title="FiLM iMDB EN iYiLER", Görünmeyen Misafir
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10439.mp4
-
-#EXTINF:-1 tvg-id="Before.Sunrise.1995" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg" group-title="FiLM iMDB EN iYiLER", Gün Doğmadan
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10406.mp4
-
-#EXTINF:-1 tvg-id="Hayat.Guzeldir.1997" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Life_Is_Beautiful_film.jpg/220px-Life_Is_Beautiful_film.jpg" group-title="FiLM iMDB EN iYiLER", Hayat Guzeldir
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10442.mp4
-
-#EXTINF:-1 tvg-id="Hizmetci.The.Handmaiden.2016" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c6/The_Handmaiden_film.jpg" group-title="FiLM iMDB EN iYiLER", Hizmetci
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10443.mp4
-
-#EXTINF:-1 tvg-id="Hotel.Ruanda.2004" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/55666.jpg" group-title="FiLM iMDB EN iYiLER", Hotel Ruanda
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10444.mp4
-
-#EXTINF:-1 tvg-id="Icimdeki.Yangin.2010" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/179349.jpg" group-title="FiLM iMDB EN iYiLER", icimdeki Yangin
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10445.mp4
-
-#EXTINF:-1 tvg-id="ihtiyar.Delikanli.2003" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/03/54137.jpg" group-title="FiLM iMDB EN iYiLER", İhtiyar Delikanlı
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10507.mp4
-
-#EXTINF:-1 tvg-id="ihtiyarlara.Yer.Yok.2007" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/110096.jpg" group-title="FiLM iMDB EN iYiLER", İhtiyarlara Yer Yok
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10508.mp4
-
-#EXTINF:-1 tvg-id="Indiana.Jones.and.the.Last.Crusade.1989" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Indiana_Jones_and_the_Last_Crusade.png" group-title="FiLM iMDB EN iYiLER", indiana Jones: Son Macera
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10446.mp4
-
-#EXTINF:-1 tvg-id="iyi.kotu.Cirkin.1966" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/19395.jpg" group-title="FiLM iMDB EN iYiLER", iyi kotu Cirkin
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10509.mp4
-
-#EXTINF:-1 tvg-id="JrsscPrk.1993" tvg-logo="https://tr.web.img2.acsta.net/pictures/210/148/21014861_20130624160418353.jpg" group-title="FiLM iMDB EN iYiLER", Jurassic Park
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10447.mp4
-
-#EXTINF:-1 tvg-id="Kan.Dokulecek.2007" tvg-logo="https://tr.web.img4.acsta.net/pictures/13/12/09/19/17/011085.jpg" group-title="FiLM iMDB EN iYiLER", Kan Dökülecek
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10448.mp4
-
-#EXTINF:-1 tvg-id="Kapisma.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26251.jpg" group-title="FiLM iMDB EN iYiLER", Kapisma
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10449.mp4
-
-#EXTINF:-1 tvg-id="Kara.Sovalye.2008" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4d/Kara_%C5%9E%C3%B6valye_TR_film_afi%C5%9Fi.jpg" group-title="FiLM iMDB EN iYiLER", Kara Sovalye
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10450.mp4
-
-#EXTINF:-1 tvg-id="Black.Hawk.Down.2001" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/35144.jpg" group-title="FiLM iMDB EN iYiLER", Kara Şahin Düştü
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10539.mp4
-
-#EXTINF:-1 tvg-id="The.Dark.Knight.Rises.2012" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/83/Dark_knight_rises_poster.jpg/220px-Dark_knight_rises_poster.jpg" group-title="FiLM iMDB EN iYiLER", Kara Şövalye Yükseliyor
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10481.mp4
-
-#EXTINF:-1 tvg-id="Kefernahum.2018" tvg-logo="https://tr.web.img2.acsta.net/pictures/19/01/22/11/13/2299676.jpg" group-title="FiLM iMDB EN iYiLER", Kefernahum
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10451.mp4
-
-#EXTINF:-1 tvg-id="Kill.Bill.1.2003" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/28541.jpg" group-title="FiLM iMDB EN iYiLER", Kill Bill
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10452.mp4
-
-#EXTINF:-1 tvg-id="Kiyamet.1979" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/27061.jpg" group-title="FiLM iMDB EN iYiLER", Kiyamet
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10453.mp4
-
-#EXTINF:-1 tvg-id="Kizgin.Boga.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5f/Raging_Bull_poster.jpg" group-title="FiLM iMDB EN iYiLER", Kizgin Boga
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10454.mp4
-
-#EXTINF:-1 tvg-id="My.Neighbor.Totoro.1988" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/14790.jpg" group-title="FiLM iMDB EN iYiLER", Komşum Totoro
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10461.mp4
-
-#EXTINF:-1 tvg-id="Kostebek.2006" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/55983.jpg" group-title="FiLM iMDB EN iYiLER", Kostebek
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10455.mp4
-
-#EXTINF:-1 tvg-id="Kwai.Koprusu.1957" tvg-logo="https://www.gezipduru.com/wp-content/uploads/2017/06/20170601_144248-540x759.png" group-title="FiLM iMDB EN iYiLER", Kwai Köprüsü
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10456.mp4
-
-#EXTINF:-1 tvg-id="Logan.2017" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/24/Logan_Wolverine.jpg/440px-Logan_Wolverine.jpg" group-title="FiLM iMDB EN iYiLER", Logan
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10457.mp4
-
-#EXTINF:-1 tvg-id="Los.Angeles.Sirlari.1997" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/12032.jpg" group-title="FiLM iMDB EN iYiLER", Los Angeles Sırları
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10458.mp4
-
-#EXTINF:-1 tvg-id="Mary.ve.Max.2009" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/139621.jpg" group-title="FiLM iMDB EN iYiLER", Mary and Max
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10459.mp4
-
-#EXTINF:-1 tvg-id="The.Matrix.1999" tvg-logo="https://tr.web.img4.acsta.net/pictures/210/201/21020166_20130717110427461.jpg" group-title="FiLM iMDB EN iYiLER", Matrix
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10487.mp4
-
-#EXTINF:-1 tvg-id="MlynlkBbk.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d3/Million_Dollar_Baby_poster.jpg/220px-Million_Dollar_Baby_poster.jpg" group-title="FiLM iMDB EN iYiLER", milyon dolarlık bebek
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10460.mp4
-
-#EXTINF:-1 tvg-id="New.York.Ceteleri.2002" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Gangs_NY.jpg/220px-Gangs_NY.jpg" group-title="FiLM iMDB EN iYiLER", New York Ceteleri
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10574.mp4
-
-#EXTINF:-1 tvg-id="Dead.Poets.Society.1989" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/5280.jpg" group-title="FiLM iMDB EN iYiLER", Olü Ozanlar Derneği
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10427.mp4
-
-#EXTINF:-1 tvg-id="Onur.Savasi.2012" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Onur_Sava%C5%9F%C4%B1_-_afi%C5%9F.jpg" group-title="FiLM iMDB EN iYiLER", Onur Savasi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10462.mp4
-
-#EXTINF:-1 tvg-id="A.Clockwork.Orange.1971" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/Aclockwork.jpg" group-title="FiLM iMDB EN iYiLER", Otomatik Portakal
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10397.mp4
-
-#EXTINF:-1 tvg-id="Ozgurluk.Yolu.2007" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e5/Into_the_Wild.jpg/220px-Into_the_Wild.jpg" group-title="FiLM iMDB EN iYiLER", Ozgurluk Yolu
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10463.mp4
-
-#EXTINF:-1 tvg-id="Panin.Labirenti.2006" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/56/Panslabirent.jpg" group-title="FiLM iMDB EN iYiLER", Panin Labirenti
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10464.mp4
-
-#EXTINF:-1 tvg-id="Para.Avcisi.2013-OpeD" tvg-logo="https://tr.web.img4.acsta.net/pictures/14/01/24/10/55/409246.jpg" group-title="FiLM iMDB EN iYiLER", Para Avcisi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10465.mp4
-
-#EXTINF:-1 tvg-id="Paramparca.Asklar.Kopekler.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26066.jpg" group-title="FiLM iMDB EN iYiLER", Paramparça Aşklar Köpekler
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10466.mp4
-
-#EXTINF:-1 tvg-id="Pearl.Harbor.2001" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/27417.jpg" group-title="FiLM iMDB EN iYiLER", Pearl Harbor
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10566.mp4
-
-#EXTINF:-1 tvg-id="Piyanist.2002" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/28359.jpg" group-title="FiLM iMDB EN iYiLER", Piyanist
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10467.mp4
-
-#EXTINF:-1 tvg-id="Platoon.Mufreze.1986" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/05/Platoon_afis.jpg" group-title="FiLM iMDB EN iYiLER", Platoon Mufreze
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10468.mp4
-
-#EXTINF:-1 tvg-id="Rocky.I.1976" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Rocky_balboa.jpeg" group-title="FiLM iMDB EN iYiLER", Rocky
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10470.mp4
-
-#EXTINF:-1 tvg-id="Savas.Vadisi.Hacksaw.Ridge" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/40/Hacksaw_Ridge_poster.jpg/440px-Hacksaw_Ridge_poster.jpg" group-title="FiLM iMDB EN iYiLER", Savas Vadisi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10471.mp4
-
-#EXTINF:-1 tvg-id="Sihirli.Plan.Klaus.2019" tvg-logo="https://i.pinimg.com/736x/c8/6e/b5/c86eb5dc6cdf0a47b5a9d140e50dbfee.jpg" group-title="FiLM iMDB EN iYiLER", Sihirli Plan Klaus
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10473.mp4
-
-#EXTINF:-1 tvg-id="Sil.Bastan.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/41/Sil_ba%C5%9Ftan.jpg" group-title="FiLM iMDB EN iYiLER", Sil Bastan
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10474.mp4
-
-#EXTINF:-1 tvg-id="Syszlr.Cts.2009" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/60208.jpg" group-title="FiLM iMDB EN iYiLER", Soysuzlar Çetesi
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10477.mp4
-
-#EXTINF:-1 tvg-id="Spotlight.2015" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f3/Spotlight_%28film%29_poster.jpg" group-title="FiLM iMDB EN iYiLER", Spotlight
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10475.mp4
-
-#EXTINF:-1 tvg-id="Stalker.1979" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4b/Stalker_afi%C5%9F.jpg" group-title="FiLM iMDB EN iYiLER", Stalker
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10476.mp4
-
-#EXTINF:-1 tvg-id="Catch.Me.If.You.Can.2002" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/35973.jpg" group-title="FiLM iMDB EN iYiLER", Sıkıysa Yakala
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10419.mp4
-
-#EXTINF:-1 tvg-id="Taksi.Soforu.1976" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Taxi_Driver_%281976_film_poster%29.jpg" group-title="FiLM iMDB EN iYiLER", Taksi Soforu
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10478.mp4
-
-#EXTINF:-1 tvg-id="Tanrikent.2002" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/45264.jpg" group-title="FiLM iMDB EN iYiLER", Tanri kent
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10479.mp4
-
-#EXTINF:-1 tvg-id="Tutsak.2013" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/53/Tutsak_%28film%29.jpg" group-title="FiLM iMDB EN iYiLER", Tutsak
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10489.mp4
-
-#EXTINF:-1 tvg-id="V.For.Vendetta.2005" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/58911.jpg" group-title="FiLM iMDB EN iYiLER", V for Vendetta
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10490.mp4
-
-#EXTINF:-1 tvg-id="Yagmur.Altinda.1952" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f9/Singing_in_the_rain_poster.jpg/220px-Singing_in_the_rain_poster.jpg" group-title="FiLM iMDB EN iYiLER", Yagmur Altinda
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10494.mp4
-
-#EXTINF:-1 tvg-id="Yarali.Yuz.1983" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/5/5c/Scarface.jpg/220px-Scarface.jpg" group-title="FiLM iMDB EN iYiLER", Yarali Yuz
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10495.mp4
-
-#EXTINF:-1 tvg-id="Yedinci.Muhur.1957" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/eb/The_Seventh_Seal_poster.png" group-title="FiLM iMDB EN iYiLER", Yedinci Muhur
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10496.mp4
-
-#EXTINF:-1 tvg-id="Yerdeki.Yildizlar.2007" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/71/55/10/19137720.jpg" group-title="FiLM iMDB EN iYiLER", Yerdeki Yildizlar
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10497.mp4
-
-#EXTINF:-1 tvg-id="Yesil.Rehber.Green.Book.2018" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/02/27/11/09/1954073.jpg" group-title="FiLM iMDB EN iYiLER", Yesil Rehber
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10498.mp4
-
-#EXTINF:-1 tvg-id="Yesil.Yol.1999.AC3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/3b/YesilYol.jpg/220px-YesilYol.jpg" group-title="FiLM iMDB EN iYiLER", Yesil Yol
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10499.mp4
-
-#EXTINF:-1 tvg-id="Yildiz.Savaslari.1977" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25801.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 1
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10500.mp4
-
-#EXTINF:-1 tvg-id="Yildiz.Savaslari.1980" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25802.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 2
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10501.mp4
-
-#EXTINF:-1 tvg-id="Yildiz.Savaslari.1983" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/25803.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 3
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10502.mp4
-
-#EXTINF:-1 tvg-id="Yurttas.Kane.1941" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/640px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg" group-title="FiLM iMDB EN iYiLER", Yurttas Kane
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10503.mp4
-
-#EXTINF:-1 tvg-id="Zafere.Hucum.Rush" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/210/357/21035765_20130903131422751.jpg" group-title="FiLM iMDB EN iYiLER", Zafere Hucum
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10504.mp4
-
-#EXTINF:-1 tvg-id="Zincirsiz.2012" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/90/97/87/20412876.JPG" group-title="FiLM iMDB EN iYiLER", Zincirsiz
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10505.mp4
-
-#EXTINF:-1 tvg-id="Shutter.Island.2010" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/132039.jpg" group-title="FiLM iMDB EN iYiLER", Zindan Adası
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10472.mp4
-
-#EXTINF:-1 tvg-id="Die.Hard.1988" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7e/Die_hard.jpg" group-title="FiLM iMDB EN iYiLER", Zor Ölüm
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10428.mp4
-
-#EXTINF:-1 tvg-id="Vertigo.1958" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg" group-title="FiLM iMDB EN iYiLER", Ölüm Korkusu
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10491.mp4
-
-#EXTINF:-1 tvg-id="Three.Billboards.Outside.Ebbing.Missouri.BRRip.2017" tvg-logo="https://tr.web.img3.acsta.net/pictures/18/03/09/14/47/2757849.jpg" group-title="FiLM iMDB EN iYiLER", Missouri
-http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10488.mp4
 
 #EXTINF:-1 tvg-id="TRD 13 Mezar 13 Graves (2019)" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/20/08/14/08/38/3717503.png" group-title="FiLM YBNC TR DUBLAJ", 13 Mezar 13 Graves (2019)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10093.mp4
@@ -11444,6 +11209,369 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10081.mp
 
 #EXTINF:-1 tvg-id="TR Zuhal (2021)" tvg-logo="noimage.png" group-title="FiLM YERLi", Zuhal (2021)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10546.mp4
+
+#EXTINF:-1 tvg-id="12.Years.a.Slave.2013" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/12_Years_a_Slave_Soundtrack.png" group-title="FiLM iMDB EN iYiLER", 12 Years a Slave
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10394.mp4
+
+#EXTINF:-1 tvg-id="3.Aptal.3.Idiots.2009" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/df/3_idiots_poster.jpg/220px-3_idiots_poster.jpg" group-title="FiLM iMDB EN iYiLER", 3 Aptal
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10395.mp4
+
+#EXTINF:-1 tvg-id="A.Beautiful.Mind.2001" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/28384.jpg" group-title="FiLM iMDB EN iYiLER", Akıl Oyunları
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10396.mp4
+
+#EXTINF:-1 tvg-id="Atesten.Kalbe.Akildan.Dumana.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/79/Ate%C5%9Ften_Kalbe%2C_Ak%C4%B1ldan_Dumana.jpg" group-title="FiLM iMDB EN iYiLER", Akıldan Dumana
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10401.mp4
+
+#EXTINF:-1 tvg-id="Portrait.de.La.Jeune.Fille.en.Feu.2019" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/19/11/28/14/54/4607431.jpg" group-title="FiLM iMDB EN iYiLER", Alev Almış Bir Genç Kızın Portresi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10469.mp4
+
+#EXTINF:-1 tvg-id="Altinci.His.1999" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/22092.jpg" group-title="FiLM iMDB EN iYiLER", Altinci His
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10398.mp4
+
+#EXTINF:-1 tvg-id="Amadeus.1984" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2f/Amadeusmov.jpg" group-title="FiLM iMDB EN iYiLER", Amadeus
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10399.mp4
+
+#EXTINF:-1 tvg-id="Amelie.2001" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f1/415px-Amelie_poster.jpg/220px-415px-Amelie_poster.jpg" group-title="FiLM iMDB EN iYiLER", Amelie
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10400.mp4
+
+#EXTINF:-1 tvg-id="Wild.Tales.2014" tvg-logo="https://tr.web.img4.acsta.net/pictures/15/02/25/12/49/187876.jpg" group-title="FiLM iMDB EN iYiLER", Asabiyim Ben
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10493.mp4
+
+#EXTINF:-1 tvg-id="Fa.yeung.nin.wa.Ask.Zamani.2000" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/26389.jpg" group-title="FiLM iMDB EN iYiLER", Ask Zamani
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10434.mp4
+
+#EXTINF:-1 tvg-id="The.Godfather.Part.I.1972" tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/91/63/78/20155809.jpg" group-title="FiLM iMDB EN iYiLER", Baba
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10483.mp4
+
+#EXTINF:-1 tvg-id="The.Godfather.Part.II.1974" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/28201.jpg" group-title="FiLM iMDB EN iYiLER", Baba 2
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10484.mp4
+
+#EXTINF:-1 tvg-id="Babam.ve.Oglum.2005" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e5/Babam_ve_O%C4%9Flum.jpg/220px-Babam_ve_O%C4%9Flum.jpg" group-title="FiLM iMDB EN iYiLER", Babam ve Oğlum
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10403.mp4
+
+#EXTINF:-1 tvg-id="Babam.Icin.1993" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/9430.jpg" group-title="FiLM iMDB EN iYiLER", Babam Icin
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10402.mp4
+
+#EXTINF:-1 tvg-id="Baslangic.2010" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/94/Ba%C5%9Flang%C4%B1%C3%A7.jpg" group-title="FiLM iMDB EN iYiLER", Baslangic
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10404.mp4
+
+#EXTINF:-1 tvg-id="Batman.6.2005" tvg-logo="https://tr.web.img2.acsta.net/pictures/22/02/02/08/41/1418124.jpg" group-title="FiLM iMDB EN iYiLER", Batman 6
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10405.mp4
+
+#EXTINF:-1 tvg-id="Beklenmeyen.Sahit.Witness.For.The.Prosecution.1957" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e6/Witness_for_the_Prosecution_DVD_kapa%C4%9F%C4%B1.jpg/220px-Witness_for_the_Prosecution_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Beklenmeyen Sahit
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10407.mp4
+
+#EXTINF:-1 tvg-id="Ben.Hur.1959" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ben_hur_1959_poster.jpg/440px-Ben_hur_1959_poster.jpg" group-title="FiLM iMDB EN iYiLER", Ben-Hur
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10408.mp4
+
+#EXTINF:-1 tvg-id="Bir.Ayrilik.2011" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/84/36/43/19760722.jpg" group-title="FiLM iMDB EN iYiLER", Bir Ayrilik
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10409.mp4
+
+#EXTINF:-1 tvg-id="Bir.Kopegin.Hikayesi.2009" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/medias/nmedia/18/70/57/79/19196452.jpg" group-title="FiLM iMDB EN iYiLER", Bir Kopegin Hikayesi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10411.mp4
+
+#EXTINF:-1 tvg-id="Bir.Ruya.icin.Agit.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26602.jpg" group-title="FiLM iMDB EN iYiLER", Bir Ruya icin Agit
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10412.mp4
+
+#EXTINF:-1 tvg-id="We.Were.Soldiers.2002" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/9d/Weweresoldiers_poster.jpg/220px-Weweresoldiers_poster.jpg" group-title="FiLM iMDB EN iYiLER", Bir Zamanlar Askerdik
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10540.mp4
+
+#EXTINF:-1 tvg-id="Bir.Zamanlar.Batida.Once.Upon.A.Time.In.The.West.1968" tvg-logo="http://www.filmelestirisi.com/user-uploads/files/B%C4%B0R%20ZAMANLAR%20BATIDA.jpg" group-title="FiLM iMDB EN iYiLER", Bir Zamanlar Batıda
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10413.mp4
+
+#EXTINF:-1 tvg-id="Bir.Kac.Dolar.icin.1965" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/929.jpg" group-title="FiLM iMDB EN iYiLER", Birkaç Dolar İçin
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10410.mp4
+
+#EXTINF:-1 tvg-id="Bulbulu.Oldurmek.1962" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/img/96/0e/960e68290b495948c1e870d015571d4a.jpg" group-title="FiLM iMDB EN iYiLER", Bülbülü Öldürmek
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10415.mp4
+
+#EXTINF:-1 tvg-id="The.Grand.Budapest.Hotel.2014" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/14/04/02/14/01/402286.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Budapeşte Oteli
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10485.mp4
+
+#EXTINF:-1 tvg-id="Warrior.2011" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/138673.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Dövüş
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10492.mp4
+
+#EXTINF:-1 tvg-id="Buyuk.kacis.1963" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/38827.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Firar
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10416.mp4
+
+#EXTINF:-1 tvg-id="The.Big.Lebowski.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/86/Big_Lebowski_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Büyük Lebowski
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10480.mp4
+
+#EXTINF:-1 tvg-id="Blade.Runner.1982" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/66/01/66/20217907.jpg" group-title="FiLM iMDB EN iYiLER", Bıçak Sırtı
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10414.mp4
+
+#EXTINF:-1 tvg-id="Can.Dostum.1997" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/363.jpg" group-title="FiLM iMDB EN iYiLER", Can Dostum
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10417.mp4
+
+#EXTINF:-1 tvg-id="Casino.1995" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/img/a2/23/a223dfd4ccdcc98c7b44e910873bfefd.jpg" group-title="FiLM iMDB EN iYiLER", Casino
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10418.mp4
+
+#EXTINF:-1 tvg-id="cennet.sinemasi.1998" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/4989.jpg" group-title="FiLM iMDB EN iYiLER", cennet sinemasi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10506.mp4
+
+#EXTINF:-1 tvg-id="Cennetin.Cocuklari.1997" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/ff/Cennetin_%C3%87ocuklar%C4%B1_%28Bacheha-Ye_Aseman%29_DVD_kapa%C4%9F%C4%B1.jpg" group-title="FiLM iMDB EN iYiLER", Cennetin Cocuklari
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10420.mp4
+
+#EXTINF:-1 tvg-id="Cesuryurek.1995" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e6/Braveheart.jpg" group-title="FiLM iMDB EN iYiLER", Cesuryurek
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10421.mp4
+
+#EXTINF:-1 tvg-id="Cilgin.Max.Ofkeli.Yollar.2015" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/73/Mad_Max_Fury_Road_%28film%2C_2015%29.jpg/220px-Mad_Max_Fury_Road_%28film%2C_2015%29.jpg" group-title="FiLM iMDB EN iYiLER", Cilgin Max Ofkeli Yollar
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10422.mp4
+
+#EXTINF:-1 tvg-id="Cinayet.Var.1954" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dial_M_For_Murder.jpg/440px-Dial_M_For_Murder.jpg" group-title="FiLM iMDB EN iYiLER", Cinayet Var
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10423.mp4
+
+#EXTINF:-1 tvg-id="Cingenler.Zamani.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/84/Time_of_the_Gypsies_afis.jpg/220px-Time_of_the_Gypsies_afis.jpg" group-title="FiLM iMDB EN iYiLER", Cingenler Zamani
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10424.mp4
+
+#EXTINF:-1 tvg-id="Cinnet.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/72/Shining.jpg" group-title="FiLM iMDB EN iYiLER", Cinnet
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10425.mp4
+
+#EXTINF:-1 tvg-id="Downfall.2004" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/58349.jpg" group-title="FiLM iMDB EN iYiLER", Cöküş
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10430.mp4
+
+#EXTINF:-1 tvg-id="Dangal.2016" tvg-logo="https://tr.web.img4.acsta.net/pictures/17/08/09/15/14/247902.jpg" group-title="FiLM iMDB EN iYiLER", Dangal
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10426.mp4
+
+#EXTINF:-1 tvg-id="Enemy.of.the.State.1998.ac3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Enemy_of_the_State_%28film%29_poster_art.jpg" group-title="FiLM iMDB EN iYiLER", Devlet Düşmanı
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10649.mkv
+
+#EXTINF:-1 tvg-id="The.Help.2011" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/88/92/22/20015833.jpg" group-title="FiLM iMDB EN iYiLER", Duyguların Rengi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10486.mp4
+
+#EXTINF:-1 tvg-id="Dovus.Kulubu.1999" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/21189.jpg" group-title="FiLM iMDB EN iYiLER", Dövüş Kulübü
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10429.mp4
+
+#EXTINF:-1 tvg-id="Er.Rayni.Kurtarmak.1998" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Er-Ryani-kurtarmak-poster.png/440px-Er-Ryani-kurtarmak-poster.png" group-title="FiLM iMDB EN iYiLER", Er Rayni Kurtarmak
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10431.mp4
+
+#EXTINF:-1 tvg-id="Esaretin.Bedeli.1994" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/11736.jpg" group-title="FiLM iMDB EN iYiLER", Esaretin Bedeli
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10432.mp4
+
+#EXTINF:-1 tvg-id="Eskiya.1996" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/17646.jpg" group-title="FiLM iMDB EN iYiLER", Eskiya
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10433.mp4
+
+#EXTINF:-1 tvg-id="The.Elephant.Man.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6b/Elephant_man.jpg" group-title="FiLM iMDB EN iYiLER", Fil Adam
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10482.mp4
+
+#EXTINF:-1 tvg-id="Ford.v.Ferrari.2019" tvg-logo="https://tr.web.img3.acsta.net/pictures/19/10/16/16/28/5029277.jpg" group-title="FiLM iMDB EN iYiLER", Ford v Ferrari
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10435.mp4
+
+#EXTINF:-1 tvg-id="Gelecege.Donus.1985" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg/220px-Back_to_the_Future_%28film%2C_1985%29.jpg" group-title="FiLM iMDB EN iYiLER", Geleceğe Dönüş
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10436.mp4
+
+#EXTINF:-1 tvg-id="Gizli.Dunya.Room.2015" tvg-logo="https://tr.web.img3.acsta.net/pictures/16/01/18/12/52/284347.jpg" group-title="FiLM iMDB EN iYiLER", Gizli Dunya
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10437.mp4
+
+#EXTINF:-1 tvg-id="Gladyator.2000" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8d/Gladiator_ver1.jpg/220px-Gladiator_ver1.jpg" group-title="FiLM iMDB EN iYiLER", Gladyator
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10438.mp4
+
+#EXTINF:-1 tvg-id="Gran.Torino.2008" tvg-logo="https://tr.web.img3.acsta.net/pictures/14/01/23/12/42/531110.jpg" group-title="FiLM iMDB EN iYiLER", Gran.Torino
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10440.mp4
+
+#EXTINF:-1 tvg-id="Gun.Batmadan.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0b/Beforesunset.jpg" group-title="FiLM iMDB EN iYiLER", Gun Batmadan
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10441.mp4
+
+#EXTINF:-1 tvg-id="Gorunmez.Misafir.Contratiempo.2016" tvg-logo="https://img04.imgsinemalar.com/images/afis_buyuk/t/the-invisible-guest-1660924884.jpg" group-title="FiLM iMDB EN iYiLER", Görünmeyen Misafir
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10439.mp4
+
+#EXTINF:-1 tvg-id="Before.Sunrise.1995" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg" group-title="FiLM iMDB EN iYiLER", Gün Doğmadan
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10406.mp4
+
+#EXTINF:-1 tvg-id="Hayat.Guzeldir.1997" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b4/Life_Is_Beautiful_film.jpg/220px-Life_Is_Beautiful_film.jpg" group-title="FiLM iMDB EN iYiLER", Hayat Guzeldir
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10442.mp4
+
+#EXTINF:-1 tvg-id="Hizmetci.The.Handmaiden.2016" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c6/The_Handmaiden_film.jpg" group-title="FiLM iMDB EN iYiLER", Hizmetci
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10443.mp4
+
+#EXTINF:-1 tvg-id="Hotel.Ruanda.2004" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/55666.jpg" group-title="FiLM iMDB EN iYiLER", Hotel Ruanda
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10444.mp4
+
+#EXTINF:-1 tvg-id="Icimdeki.Yangin.2010" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/179349.jpg" group-title="FiLM iMDB EN iYiLER", icimdeki Yangin
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10445.mp4
+
+#EXTINF:-1 tvg-id="ihtiyar.Delikanli.2003" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/03/54137.jpg" group-title="FiLM iMDB EN iYiLER", İhtiyar Delikanlı
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10507.mp4
+
+#EXTINF:-1 tvg-id="ihtiyarlara.Yer.Yok.2007" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/110096.jpg" group-title="FiLM iMDB EN iYiLER", İhtiyarlara Yer Yok
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10508.mp4
+
+#EXTINF:-1 tvg-id="Indiana.Jones.and.the.Last.Crusade.1989" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Indiana_Jones_and_the_Last_Crusade.png" group-title="FiLM iMDB EN iYiLER", indiana Jones: Son Macera
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10446.mp4
+
+#EXTINF:-1 tvg-id="iyi.kotu.Cirkin.1966" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/19395.jpg" group-title="FiLM iMDB EN iYiLER", iyi kotu Cirkin
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10509.mp4
+
+#EXTINF:-1 tvg-id="JrsscPrk.1993" tvg-logo="https://tr.web.img2.acsta.net/pictures/210/148/21014861_20130624160418353.jpg" group-title="FiLM iMDB EN iYiLER", Jurassic Park
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10447.mp4
+
+#EXTINF:-1 tvg-id="Kan.Dokulecek.2007" tvg-logo="https://tr.web.img4.acsta.net/pictures/13/12/09/19/17/011085.jpg" group-title="FiLM iMDB EN iYiLER", Kan Dökülecek
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10448.mp4
+
+#EXTINF:-1 tvg-id="Kapisma.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26251.jpg" group-title="FiLM iMDB EN iYiLER", Kapisma
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10449.mp4
+
+#EXTINF:-1 tvg-id="Kara.Sovalye.2008" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4d/Kara_%C5%9E%C3%B6valye_TR_film_afi%C5%9Fi.jpg" group-title="FiLM iMDB EN iYiLER", Kara Sovalye
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10450.mp4
+
+#EXTINF:-1 tvg-id="Black.Hawk.Down.2001" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/35144.jpg" group-title="FiLM iMDB EN iYiLER", Kara Şahin Düştü
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10539.mp4
+
+#EXTINF:-1 tvg-id="The.Dark.Knight.Rises.2012" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/83/Dark_knight_rises_poster.jpg/220px-Dark_knight_rises_poster.jpg" group-title="FiLM iMDB EN iYiLER", Kara Şövalye Yükseliyor
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10481.mp4
+
+#EXTINF:-1 tvg-id="Kefernahum.2018" tvg-logo="https://tr.web.img2.acsta.net/pictures/19/01/22/11/13/2299676.jpg" group-title="FiLM iMDB EN iYiLER", Kefernahum
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10451.mp4
+
+#EXTINF:-1 tvg-id="Kill.Bill.1.2003" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/28541.jpg" group-title="FiLM iMDB EN iYiLER", Kill Bill
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10452.mp4
+
+#EXTINF:-1 tvg-id="Kiyamet.1979" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/27061.jpg" group-title="FiLM iMDB EN iYiLER", Kiyamet
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10453.mp4
+
+#EXTINF:-1 tvg-id="Kizgin.Boga.1980" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5f/Raging_Bull_poster.jpg" group-title="FiLM iMDB EN iYiLER", Kizgin Boga
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10454.mp4
+
+#EXTINF:-1 tvg-id="My.Neighbor.Totoro.1988" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/14790.jpg" group-title="FiLM iMDB EN iYiLER", Komşum Totoro
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10461.mp4
+
+#EXTINF:-1 tvg-id="Kostebek.2006" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/55983.jpg" group-title="FiLM iMDB EN iYiLER", Kostebek
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10455.mp4
+
+#EXTINF:-1 tvg-id="Kwai.Koprusu.1957" tvg-logo="https://www.gezipduru.com/wp-content/uploads/2017/06/20170601_144248-540x759.png" group-title="FiLM iMDB EN iYiLER", Kwai Köprüsü
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10456.mp4
+
+#EXTINF:-1 tvg-id="Logan.2017" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/24/Logan_Wolverine.jpg/440px-Logan_Wolverine.jpg" group-title="FiLM iMDB EN iYiLER", Logan
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10457.mp4
+
+#EXTINF:-1 tvg-id="Los.Angeles.Sirlari.1997" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/12032.jpg" group-title="FiLM iMDB EN iYiLER", Los Angeles Sırları
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10458.mp4
+
+#EXTINF:-1 tvg-id="Mary.ve.Max.2009" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/139621.jpg" group-title="FiLM iMDB EN iYiLER", Mary and Max
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10459.mp4
+
+#EXTINF:-1 tvg-id="The.Matrix.1999" tvg-logo="https://tr.web.img4.acsta.net/pictures/210/201/21020166_20130717110427461.jpg" group-title="FiLM iMDB EN iYiLER", Matrix
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10487.mp4
+
+#EXTINF:-1 tvg-id="MlynlkBbk.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d3/Million_Dollar_Baby_poster.jpg/220px-Million_Dollar_Baby_poster.jpg" group-title="FiLM iMDB EN iYiLER", milyon dolarlık bebek
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10460.mp4
+
+#EXTINF:-1 tvg-id="New.York.Ceteleri.2002" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Gangs_NY.jpg/220px-Gangs_NY.jpg" group-title="FiLM iMDB EN iYiLER", New York Ceteleri
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10574.mp4
+
+#EXTINF:-1 tvg-id="Dead.Poets.Society.1989" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/5280.jpg" group-title="FiLM iMDB EN iYiLER", Olü Ozanlar Derneği
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10427.mp4
+
+#EXTINF:-1 tvg-id="Onur.Savasi.2012" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Onur_Sava%C5%9F%C4%B1_-_afi%C5%9F.jpg" group-title="FiLM iMDB EN iYiLER", Onur Savasi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10462.mp4
+
+#EXTINF:-1 tvg-id="A.Clockwork.Orange.1971" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/Aclockwork.jpg" group-title="FiLM iMDB EN iYiLER", Otomatik Portakal
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10397.mp4
+
+#EXTINF:-1 tvg-id="Ozgurluk.Yolu.2007" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e5/Into_the_Wild.jpg/220px-Into_the_Wild.jpg" group-title="FiLM iMDB EN iYiLER", Ozgurluk Yolu
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10463.mp4
+
+#EXTINF:-1 tvg-id="Panin.Labirenti.2006" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/56/Panslabirent.jpg" group-title="FiLM iMDB EN iYiLER", Panin Labirenti
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10464.mp4
+
+#EXTINF:-1 tvg-id="Para.Avcisi.2013-OpeD" tvg-logo="https://tr.web.img4.acsta.net/pictures/14/01/24/10/55/409246.jpg" group-title="FiLM iMDB EN iYiLER", Para Avcisi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10465.mp4
+
+#EXTINF:-1 tvg-id="Paramparca.Asklar.Kopekler.2000" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26066.jpg" group-title="FiLM iMDB EN iYiLER", Paramparça Aşklar Köpekler
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10466.mp4
+
+#EXTINF:-1 tvg-id="Pearl.Harbor.2001" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/27417.jpg" group-title="FiLM iMDB EN iYiLER", Pearl Harbor
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10566.mp4
+
+#EXTINF:-1 tvg-id="Piyanist.2002" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/28359.jpg" group-title="FiLM iMDB EN iYiLER", Piyanist
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10467.mp4
+
+#EXTINF:-1 tvg-id="Platoon.Mufreze.1986" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/05/Platoon_afis.jpg" group-title="FiLM iMDB EN iYiLER", Platoon Mufreze
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10468.mp4
+
+#EXTINF:-1 tvg-id="Rocky.I.1976" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Rocky_balboa.jpeg" group-title="FiLM iMDB EN iYiLER", Rocky
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10470.mp4
+
+#EXTINF:-1 tvg-id="Savas.Vadisi.Hacksaw.Ridge" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/40/Hacksaw_Ridge_poster.jpg/440px-Hacksaw_Ridge_poster.jpg" group-title="FiLM iMDB EN iYiLER", Savas Vadisi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10471.mp4
+
+#EXTINF:-1 tvg-id="Sihirli.Plan.Klaus.2019" tvg-logo="https://i.pinimg.com/736x/c8/6e/b5/c86eb5dc6cdf0a47b5a9d140e50dbfee.jpg" group-title="FiLM iMDB EN iYiLER", Sihirli Plan Klaus
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10473.mp4
+
+#EXTINF:-1 tvg-id="Sil.Bastan.2004" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/41/Sil_ba%C5%9Ftan.jpg" group-title="FiLM iMDB EN iYiLER", Sil Bastan
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10474.mp4
+
+#EXTINF:-1 tvg-id="Syszlr.Cts.2009" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/60208.jpg" group-title="FiLM iMDB EN iYiLER", Soysuzlar Çetesi
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10477.mp4
+
+#EXTINF:-1 tvg-id="Spotlight.2015" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f3/Spotlight_%28film%29_poster.jpg" group-title="FiLM iMDB EN iYiLER", Spotlight
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10475.mp4
+
+#EXTINF:-1 tvg-id="Stalker.1979" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4b/Stalker_afi%C5%9F.jpg" group-title="FiLM iMDB EN iYiLER", Stalker
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10476.mp4
+
+#EXTINF:-1 tvg-id="Catch.Me.If.You.Can.2002" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/35973.jpg" group-title="FiLM iMDB EN iYiLER", Sıkıysa Yakala
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10419.mp4
+
+#EXTINF:-1 tvg-id="Taksi.Soforu.1976" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Taxi_Driver_%281976_film_poster%29.jpg" group-title="FiLM iMDB EN iYiLER", Taksi Soforu
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10478.mp4
+
+#EXTINF:-1 tvg-id="Tanrikent.2002" tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/45264.jpg" group-title="FiLM iMDB EN iYiLER", Tanri kent
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10479.mp4
+
+#EXTINF:-1 tvg-id="Tutsak.2013" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/53/Tutsak_%28film%29.jpg" group-title="FiLM iMDB EN iYiLER", Tutsak
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10489.mp4
+
+#EXTINF:-1 tvg-id="V.For.Vendetta.2005" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/58911.jpg" group-title="FiLM iMDB EN iYiLER", V for Vendetta
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10490.mp4
+
+#EXTINF:-1 tvg-id="Yagmur.Altinda.1952" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/f/f9/Singing_in_the_rain_poster.jpg/220px-Singing_in_the_rain_poster.jpg" group-title="FiLM iMDB EN iYiLER", Yagmur Altinda
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10494.mp4
+
+#EXTINF:-1 tvg-id="Yarali.Yuz.1983" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/5/5c/Scarface.jpg/220px-Scarface.jpg" group-title="FiLM iMDB EN iYiLER", Yarali Yuz
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10495.mp4
+
+#EXTINF:-1 tvg-id="Yedinci.Muhur.1957" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/eb/The_Seventh_Seal_poster.png" group-title="FiLM iMDB EN iYiLER", Yedinci Muhur
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10496.mp4
+
+#EXTINF:-1 tvg-id="Yerdeki.Yildizlar.2007" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/71/55/10/19137720.jpg" group-title="FiLM iMDB EN iYiLER", Yerdeki Yildizlar
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10497.mp4
+
+#EXTINF:-1 tvg-id="Yesil.Rehber.Green.Book.2018" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/02/27/11/09/1954073.jpg" group-title="FiLM iMDB EN iYiLER", Yesil Rehber
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10498.mp4
+
+#EXTINF:-1 tvg-id="Yesil.Yol.1999.AC3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/3/3b/YesilYol.jpg/220px-YesilYol.jpg" group-title="FiLM iMDB EN iYiLER", Yesil Yol
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10499.mp4
+
+#EXTINF:-1 tvg-id="Yildiz.Savaslari.1977" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25801.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 1
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10500.mp4
+
+#EXTINF:-1 tvg-id="Yildiz.Savaslari.1980" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25802.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 2
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10501.mp4
+
+#EXTINF:-1 tvg-id="Yildiz.Savaslari.1983" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/25803.jpg" group-title="FiLM iMDB EN iYiLER", Yildiz Savaslari 3
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10502.mp4
+
+#EXTINF:-1 tvg-id="Yurttas.Kane.1941" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/640px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg" group-title="FiLM iMDB EN iYiLER", Yurttas Kane
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10503.mp4
+
+#EXTINF:-1 tvg-id="Zafere.Hucum.Rush" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/210/357/21035765_20130903131422751.jpg" group-title="FiLM iMDB EN iYiLER", Zafere Hucum
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10504.mp4
+
+#EXTINF:-1 tvg-id="Zincirsiz.2012" tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/90/97/87/20412876.JPG" group-title="FiLM iMDB EN iYiLER", Zincirsiz
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10505.mp4
+
+#EXTINF:-1 tvg-id="Shutter.Island.2010" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/132039.jpg" group-title="FiLM iMDB EN iYiLER", Zindan Adası
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10472.mp4
+
+#EXTINF:-1 tvg-id="Die.Hard.1988" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7e/Die_hard.jpg" group-title="FiLM iMDB EN iYiLER", Zor Ölüm
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10428.mp4
+
+#EXTINF:-1 tvg-id="Vertigo.1958" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg" group-title="FiLM iMDB EN iYiLER", Ölüm Korkusu
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10491.mp4
+
+#EXTINF:-1 tvg-id="Three.Billboards.Outside.Ebbing.Missouri.BRRip.2017" tvg-logo="https://tr.web.img3.acsta.net/pictures/18/03/09/14/47/2757849.jpg" group-title="FiLM iMDB EN iYiLER", Missouri
+http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10488.mp4
 
 #EXTINF:-1 tvg-id="Western-3.10 To Yuma" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/53314.jpg" group-title="WESTERN", 3.10 Yuma treni
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/7534.mkv
