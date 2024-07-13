@@ -47,6 +47,9 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="0.KIL-MÜZİK", 04.TMB
 http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.Turkce POP REMIX
+https://new.cache-stream.workers.dev/video/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.Number 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 
@@ -218,14 +221,20 @@ http://118.69.84.147:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.NEW KPOP
 https://jmp2.uk/SamsungTVPlus/USAJ3000013FJ.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.New KPop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New KPop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop
+https://raw.githubusercontent.com/YuanHsing/YTM/main/TheKPOP.m3u8
 
 #EXTINF:-1 tvg-id="https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The k pop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
+https://raw.githubusercontent.com/YuanHsing/YTM/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
@@ -4238,6 +4247,9 @@ http://sc.id-tv.kz/M-1_34_35.m3u8
 #EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="0.KIL-SPOR KARIŞIK", M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dupvhm5r1oaxt.cloudfront.net/uploads/2020/02/CUBS_MSN_Logo_white.png" group-title="0.KIL-SPOR KARIŞIK", Marquee Sports Network
+https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/uN5Qb81.png" group-title="0.KIL-SPOR KARIŞIK", Milan TV
 http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=691540&extension=ts&play_token=xEv5VCfF0e
 
@@ -4820,6 +4832,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="0.KIL-ULUSAL", 06.Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/nLcKDkX/ddrama.png" group-title="0.KIL-ULUSAL", 06.KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
 #EXTINF:-1 tvg-id="https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="0.KIL-ULUSAL", 06.KANAL D EURO
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
@@ -4933,12 +4948,6 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="0.KIL-ULUSAL", CNBC-E A
-https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="0.KIL-ULUSAL", CNBC-E B
-https://new.cache-stream.workers.dev/channel/UCaO-M1dXacMwtyg0Pvovk4w/live.m3u8
 
 #EXTINF:-1 tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="0.KIL-ULUSAL", CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
@@ -6353,6 +6362,12 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png" group-title="00.KIL-ONLİNE FİLM", 01.FİL TV
 https://live.filbox.com.tr/filtv/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.FILMAX 1
+http://195.9.195.3:8080/hls/204708.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.FILMAX 2
+http://195.9.195.3:8080/hls/204717.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.RealBox Vizyon
 http://62.210.88.161:80/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
 
@@ -6470,8 +6485,14 @@ https://github.com/rideordie16/YouTube/raw/main/film/kemalsunalfilmlerivesahnele
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", 2.ŞABAN TV 4 B
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kemalsunalfilmleri.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery Blutv
+https://discovery.blutv.com/blutv_discovery/discovery.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY Blutv
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID Blutv
+https://discoveryid.blutv.com/blutv_discoveryid/discoveryid.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID Blutv
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
@@ -6481,6 +6502,9 @@ https://edge02.odtv.az/o3/natgeo/q_0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.Nat Geo Wild
+http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD
 https://edge02.odtv.az/o3/natgeowild/q_0/playlist.m3u8
@@ -7442,10 +7466,10 @@ https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e87da323-5076-4ea7-a70a-5f2b1ebe00a4.png" group-title="01.KIL-HABER", Expo Vizyon
 https://cdn-expovizyon.yayin.com.tr/expovizyon/expovizyon/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="01.KIL-HABER", Flash Haber
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="01.KIL-HABER", Flash Haber
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 
-#EXTINF:-1 tvg-id="https://flashtv.blutv.com/blutv_flashtv/live_1080p3500000kbps/index.m3u8" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="01.KIL-HABER", FLASH HABER Blutv
+#EXTINF:-1 tvg-id="https://flashtv.blutv.com/blutv_flashtv/live_1080p3500000kbps/index.m3u8" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="01.KIL-HABER", FLASH HABER Blutv
 https://flashtv.blutv.com/blutv_flashtv/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="01.KIL-HABER", HABER GLOBAL
@@ -7616,8 +7640,29 @@ https://ulusalkanal.blutv.com/blutv_ulusalkanal/blutv_ulusalkanal/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_151.png" group-title="01.KIL-HABER", world türk
 https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg" group-title="01.KIL-HABER", ybn.ABC NEWS
+https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/1200px-ABC_News_solid_black_logo.svg.png" group-title="01.KIL-HABER", Ybn.abc news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="01.KIL-HABER", ybn.AL JAZEERA NEWS
+https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="01.KIL-HABER", ybn.BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="01.KIL-HABER", ybn.BBC NEWS
+https://vs-hls-push-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="01.KIL-HABER", ybn.BLOOMBERG EU
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="01.KIL-HABER", ybn.BLOOMBERG EU
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="01.KIL-HABER", ybn.BLOOMBERG EVENT
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/600px-Bloomberg_Television_logo.svg.png" group-title="01.KIL-HABER", Ybn.Bloomberg tv
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
@@ -7628,6 +7673,36 @@ https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="01.KIL-HABER", Ybn.Bloomberg TV+
 https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg" group-title="01.KIL-HABER", ybn.BLOOMBERG UK
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="01.KIL-HABER", ybn.CBC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="01.KIL-HABER", ybn.CBC NEWS
+https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="01.KIL-HABER", ybn.CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg" group-title="01.KIL-HABER", ybn.CBS NEWS
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg" group-title="01.KIL-HABER", ybn.CNBC NEWS
+https://new.cache-stream.workers.dev/stream/UCvJJ_dzjViJCoLf5uKUTwoA/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="01.KIL-HABER", ybn.CNN FAST
+https://d2anxhed2mfixb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wqc602hxepp0q/CNNFAST_GB.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="01.KIL-HABER", ybn.CNN FAST
+https://d3fzntptkfpmvg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6rc4k0y56fezj/CNNFAST_GB.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="01.KIL-HABER", ybn.CNN INT
+https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="01.KIL-HABER", ybn.CNN INT
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1488px-CNN-International-Logo.svg.png" group-title="01.KIL-HABER", Ybn.CNN International A
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 
@@ -7637,17 +7712,104 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1486px-Deutsche_Welle_Logo.svg.png" group-title="01.KIL-HABER", Ybn.DEUTSCHE WELLE English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="01.KIL-HABER", ybn.DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="01.KIL-HABER", ybn.EURONEWS EN
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="01.KIL-HABER", ybn.EURONEWS EN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7edcelivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="01.KIL-HABER", ybn.EURONEWS EN
+https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="01.KIL-HABER", ybn.FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="01.KIL-HABER", ybn.FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="01.KIL-HABER", ybn.FOX NEWS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="01.KIL-HABER", ybn.FRANCE 24 EN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="01.KIL-HABER", ybn.FRANCE 24 EN
+https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="01.KIL-HABER", ybn.FRANCE 24 EN
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" group-title="01.KIL-HABER", Ybn.Fransa 24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="01.KIL-HABER", ybn.GB NEWS
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="01.KIL-HABER", ybn.GB NEWS
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="01.KIL-HABER", ybn.GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="01.KIL-HABER", ybn.i24 NEWS EN
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="01.KIL-HABER", Ybn.kbs world
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="01.KIL-HABER", ybn.NBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg" group-title="01.KIL-HABER", ybn.NBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/440px-NBC_News_%282023%29.svg.png" group-title="01.KIL-HABER", Ybn.nbc news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/yNdTPqt/newsmax.png" group-title="01.KIL-HABER", ybn.NEWS MAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kX8ywwV/oan.png" group-title="01.KIL-HABER", ybn.OANN
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/rwbrckj/pressir.png" group-title="01.KIL-HABER", ybn.PRESS TV [censure-ifany]
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/400px-Press_Tv_logo.svg.png" group-title="01.KIL-HABER", Ybn.PRESS TV English
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/VMm5SSz/realamv.png" group-title="01.KIL-HABER", ybn.REAL AMERICAS VOICE
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="01.KIL-HABER", ybn.REUTERS TV
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="01.KIL-HABER", ybn.RT NEWS [censure-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="01.KIL-HABER", ybn.SKY NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="01.KIL-HABER", ybn.SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="01.KIL-HABER", ybn.SKY NEWS AUSTRALIA
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="01.KIL-HABER", ybn.TALK NEWS
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/NCQtNX5/telesur.png" group-title="01.KIL-HABER", ybn.TELESUR EN
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/GV4JLkr/Guardian.png" group-title="01.KIL-HABER", ybn.THE GUARDIAN CHANNEL
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/GV4JLkr/Guardian.png" group-title="01.KIL-HABER", ybn.THE GUARDIAN CHANNEL
+https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" group-title="02.KIL-MÜZİK WEB", Arabesk
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
@@ -8222,13 +8384,25 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_wh
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 5.antalya kam
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/ant-kamelya.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.Tokyo yürüyüş
+https://raw.githubusercontent.com/YuanHsing/YTM/main/JAPAN_4K.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.japonya sokak yürüyüş live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.rusya cam
 http://lova.me/hls/hithd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="04.KIL-Kamera", 8.KBS LiveCam DokDo
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 7.Kansas City zoo
+https://raw.githubusercontent.com/YuanHsing/YTM/main/kansascityzoo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 7.KittenAcademy
+https://raw.githubusercontent.com/YuanHsing/YTM/main/KittenAcademy.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 7.SpaceVideos
+https://raw.githubusercontent.com/YuanHsing/YTM/main/SpaceVideosHD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 8.KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Anadolu Hisarı
@@ -8455,6 +8629,9 @@ https://ebao.blutv.com/blutv_ebao2/live.m3u8
 
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="06.KIL-ÇOCUK", 0.TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.KIL-ÇOCUK", Antiks
+https://raw.githubusercontent.com/YuanHsing/YTM/main/AntiksOfficial.m3u8
 
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="06.KIL-ÇOCUK", Caillou
 https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
