@@ -1583,9 +1583,6 @@ http://146.59.93.251/0422/video.m3u8?token=BABAC523B3B5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 w
 http://w37cfnez.megogo.xyz/iptv/GUST29DYVBMQ7Q/6817/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 1 w
-https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 1 w
 http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
@@ -1625,21 +1622,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="Beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18639&extension=m3u8
 
-#EXTINF:-1 tvg-id="Beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2064&extension=m3u8
-
-#EXTINF:-1 tvg-id="Beinsports2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=18646&extension=m3u8
-
-#EXTINF:-1 tvg-id="Beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=18639&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 (SD)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 (SD) e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKD0yhqkNXCwYfWUzrfW3MZA/ts
-
-#EXTINF:-1 tvg-id="TR | Bein SPORTS 2  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 2K
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=399263&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | Bein SPORTS 2  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=399263&extension=m3u8
 
@@ -1673,42 +1655,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190970&extension=m3
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190971&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57800&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726187&extension=ts
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:16:f8:8e&stream=726187&extension=ts
-
-#EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190971&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190971&extension=m3u8
 
@@ -1718,53 +1664,8 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190971&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=262&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57801&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726188&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKA2C6b6kjWFnk10Grhz3Fmo/ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=289&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 2 UHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 UHD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKMJ4NDCbv0wJKK7keEo7c1w/ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 w
 http://146.59.93.251/0423/video.m3u8?token=BABAC523B3B5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 w
-https://odin.cd9184d3e95e6.shop/2/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=18640&extension=m3u8
@@ -1774,12 +1675,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="Beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=18640&extension=m3u8
-
-#EXTINF:-1 tvg-id="Beinsports3.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=18640&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | Bein SPORTS 3  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 2K
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=399262&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS 3  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=399262&extension=m3u8
@@ -1808,36 +1703,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18639&extension=m3u
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18640&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57803&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726189&extension=ts
-
 #EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2065&extension=m3u8
 
@@ -1846,54 +1711,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2065&extension=m3u8
-
-#EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2065&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=263&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57804&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726190&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAvLi6WHZxCNwl0sIlGOrHs/ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 3 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=290&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 3 UHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 UHD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAn74lSmdBNgyMRKPbGiiVM/ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 w
 http://146.59.93.251/0424/video.m3u8?token=BABAC523B3B5
@@ -1910,12 +1727,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18643&extension=m3u8
 
-#EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=18643&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | Bein SPORT4  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 2K
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=399261&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | Bein SPORT4  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=399261&extension=m3u8
 
@@ -1924,9 +1735,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="TR | Bein SPORT4  ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=399261&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | B.SPOR 4 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 2K
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190976&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | B.SPOR 4 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 2K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190976&extension=m3u8
@@ -1955,81 +1763,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2066&extension=m3u8
 #EXTINF:-1 tvg-id="TR | B.SPOR 4 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190976&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR: SSport 2 HD 720" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKONGvae65JX6i7QRCTWw9aQ/ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57806&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726191&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=264&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57808&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKJA7VjLzgh1YWhlofwQF9sY/ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 4 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 4 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=291&extension=ts
-
 #EXTINF:-1 tvg-id="TR | Bein SPORT 5" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=269056&extension=m3u8
 
@@ -2038,9 +1771,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="TR | Bein SPORT 5" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=269056&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | Bein SPORT 5" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=269056&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports 5 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 5 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136248&extension=ts
@@ -2051,47 +1781,14 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=136249&extension=t
 #EXTINF:-1 tvg-id="TR | BEIN SPORT 5" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=269056&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 5 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726193&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=290639&extension=ts
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726194&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS 5 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKKT_5hVBQpwtnJLs9WwYWuk/ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT 5 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 5 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117043&extension=ts
-
 #EXTINF:-1 tvg-id="TR | Bein SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=423479&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | Bein SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423479&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423479&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: FEED HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor FEED HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=126525&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT HABER" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57793&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT HABER" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57793&extension=ts
-
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sp_haber.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER d
-http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2067&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: beIN SPORTS HABER HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR HABER HD e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKM1P3cB3TVvz9tpd_mzgXm0/ts
 
 #EXTINF:-1 tvg-id="Beinsportsmax1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2068&extension=m3u8
@@ -2102,12 +1799,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="Beinsportsmax1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2068&extension=m3u8
 
-#EXTINF:-1 tvg-id="Beinsportsmax1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2068&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | B.SPOR MAX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190977&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190977&extension=m3u8
 
@@ -2116,12 +1807,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream
 
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190977&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57733&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 1 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7555&extension=ts
@@ -2132,21 +1817,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2068&extension=m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190977&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKHowlf-s2D_ff4Dwf-tDh-M/ts
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726195&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=265&extension=ts
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 HD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726196&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RTS MAX 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 1 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=292&extension=ts
-
 #EXTINF:-1 tvg-id="Beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2069&extension=m3u8
 
@@ -2155,9 +1825,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="Beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2069&extension=m3u8
-
-#EXTINF:-1 tvg-id="Beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2069&extension=m3u8
 
 #EXTINF:-1 tvg-id="(TR) Bein Sports Max 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor Max 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7556&extension=ts
@@ -2168,15 +1835,6 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2069&extension=m3u8
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190978&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR: beIN SPORTS MAX 2 HD" tvg-logo="B.noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKAm7lOU2zHisYTFYuxlfk0E/ts
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 FHD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726197&extension=ts
-
-#EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=190978&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=190978&extension=m3u8
 
@@ -2185,51 +1843,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 
 #EXTINF:-1 tvg-id="TR | B.SPOR MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190978&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=266&extension=ts
-
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=266&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | BEINSPORTS MAX 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=726198&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN SP0RT MAX 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=293&extension=ts
-
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAX 2 HD+
-http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:B3:9C:C7&stream=293&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=57733&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57734&extension=ts
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAXX 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=57734&extension=ts
-
-#EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED)
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423613&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED)
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=423613&extension=m3u8
@@ -2241,9 +1854,6 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423613&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED) 4K
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423612&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED) 4K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=423612&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED) 4K
@@ -2252,65 +1862,8 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="TR | Bein SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR MAÇ SAATI (FEED) 4K
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=423612&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57794&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57797&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57797&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57800&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57801&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 3 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57803&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 3 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57804&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57806&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT 4 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57808&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT MAXX 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=57733&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR| BEIN SPORT MAXX 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORT MAXX 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=57733&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORTS FEED
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=423478&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORTS FEED
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=423478&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | VIP Bein SPORTS FEED 4K ᵁᴴᴰ" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPORTS FEED
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423478&extension=m3u8
@@ -2321,44 +1874,11 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS FEED 1 (MAÇ ZAMANI) ᵁᴴᴰ" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/beinsport1hd.png" group-title="0.KIL-SP0R", 0.B.SPORTS FEED 1 (MAÇ ZAMANI) d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423479&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 1 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 1 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117040&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 2 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 2 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117041&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 3 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 3 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=117042&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 4 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 4 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=285966&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 5 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 5 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=285967&extension=ts
-
-#EXTINF:-1 tvg-id="TR: beiN CONNECT 6 maczamani" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.beiN CONNECT 6 maczamani
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=285968&extension=ts
-
-#EXTINF:-1 tvg-id="TR: Betorro FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Betorro FEED
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=125160&extension=ts
-
-#EXTINF:-1 tvg-id="TR: TR: Betorro FEED HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Betorro FEED HD
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=207540&extension=ts
-
-#EXTINF:-1 tvg-id="TR: Betorro FEED HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Betorro FEED HD+
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=142061&extension=ts
-
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS MAÇ SAATI (FEED) 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="0.KIL-SP0R", 0.BEIN SPORTS MAÇ SAATI (FEED) 4K d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423612&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | BEIN SPORTS MAÇ SAATI (FEED)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?53881" group-title="0.KIL-SP0R", 0.BEIN SPORTS MAÇ SAATI (FEED) d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=423613&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: CBC SPORT HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.CBC SPORT HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362962&extension=ts
-
-#EXTINF:-1 tvg-id="TR: E-X-X-E-N 1 HD (maczamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.E-X-X-E-N 1 HD (maczamani)c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362939&extension=ts
 
 #EXTINF:-1 tvg-id="TR: E-X-X-E-N 1 HD+ (maczamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.E-X-X-E-N 1 HD+ (maczamani)c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=361629&extension=ts
@@ -2411,9 +1931,6 @@ http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362947&exte
 #EXTINF:-1 tvg-id="TR: E-X-X-E-N 8 HD+ (maczamani)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.E-X-X-E-N 8 HD+ (maczamani)c
 http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=141924&extension=ts
 
-#EXTINF:-1 tvg-id="TR: EDGESPORT HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EDGESPORT HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362959&extension=ts
-
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2087&extension=m3u8
 
@@ -2423,20 +1940,11 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2087&extension=m3u8
 
-#EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2087&extension=m3u8
-
 #EXTINF:-1 tvg-id="(TR) EuroSport 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2989&extension=ts
 
 #EXTINF:-1 tvg-id="eurosport1.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport1.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2087&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 HD c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362948&extension=ts
-
-#EXTINF:-1 tvg-id="TR: EUROSPORT 1 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 1 HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=275&extension=ts
 
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2088&extension=m3u8
@@ -2447,23 +1955,11 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2088&extension=m3u8
 
-#EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2088&extension=m3u8
-
 #EXTINF:-1 tvg-id="(TR) EuroSport 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EuroSport 2 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2988&extension=ts
 
 #EXTINF:-1 tvg-id="eurosport2.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/eurosport2.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2088&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKBWZxjAXmo1zHfo5sT87v7c/ts
-
-#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 HD c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362949&extension=ts
-
-#EXTINF:-1 tvg-id="TR: EUROSPORT 2 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EUROSPORT 2 HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=276&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Exxen 1 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 1 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=117576&extension=ts
@@ -2500,9 +1996,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=118878&extension=t
 
 #EXTINF:-1 tvg-id="(TR) Exxen 6 HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen 6 b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=137818&extension=ts
-
-#EXTINF:-1 tvg-id="TR | EXXEN SPORT 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPOR 1
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=191248&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | EXXEN SPORT 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPOR 1
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=191248&extension=m3u8
@@ -2786,311 +2279,23 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="TR | EXXEN SPORT 6" tvg-logo="https://logo.diamondtv.one/images/logos/turkey/exxen.png" group-title="0.KIL-SP0R", 0.EXXEN SPORT 6 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=191260&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369553&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369553&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369553&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369553&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369555&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369555&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369555&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369555&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369555&extension=ts
-
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369554&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369554&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369554&extension=ts
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369554&extension=ts
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369554&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369554&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369554&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369554&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 1 HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 1 HD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369554&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369556&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369556&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369556&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369556&extension=ts
-
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369556&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369556&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369556&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369556&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369556&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369558&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)
-http://102.165.51.206:8080/OFLINE/Wait.ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369558&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369558&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 FHD a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369558&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369557&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369557&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369557&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369557&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369557&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369557&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369557&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 2 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 2 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369557&extension=ts
 
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369559&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369559&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369559&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B9:1D:FC&stream=369559&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 FHD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369561&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369560&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369560&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 3 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 3 HD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369560&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS `4 (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369562&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369564&extension=m3u8
-
 #EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD
 http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369564&extension=m3u8
 
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:17:7F&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:AE:DC:37&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:BF:98:2C&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 FHD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 FHD (ONLY EVENT)a
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B5:CE:FD&stream=369564&extension=ts
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:FB:3F:47&stream=369563&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 HD
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:B2:42:7F&stream=369563&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR|  EXXEN SPORTS 4 HD (ONLY EVENT)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN SPORTS 4 HD (ONLY EVENT)
-http://102.129.186.198:8080/play/live.php?mac=00:1A:79:4C:5B:09&stream=369563&extension=ts
-
-#EXTINF:-1 tvg-id="(TR) Exxen Tv" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Exxen Tv b
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=161405&extension=ts
-
-#EXTINF:-1 tvg-id="TR: EXXEN TV FHD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.EXXEN TV FHD c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=390014&extension=ts
-
-#EXTINF:-1 tvg-id="Fuchs Sports 1 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 1 b (Mac Saati)
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150194&extension=ts
-
-#EXTINF:-1 tvg-id="Fuchs Sports 2 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 2 b (Mac Saati)
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150195&extension=ts
-
-#EXTINF:-1 tvg-id="Fuchs Sports 3 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 3 b (Mac Saati)
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150196&extension=ts
-
-#EXTINF:-1 tvg-id="Fuchs Sports 4 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 4 b (Mac Saati)
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150197&extension=ts
-
-#EXTINF:-1 tvg-id="Fuchs Sports 5 4k+ (Mac Saati)" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Fuchs Sports 5 b (Mac Saati)
-http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=150198&extension=ts
-
-#EXTINF:-1 tvg-id="TR: FIGHT BOX HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.FIGHT BOX HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=362958&extension=ts
-
-#EXTINF:-1 tvg-id="TR | GOLDX SPORT 1 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 1 FEED b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944275&extension=ts
-
-#EXTINF:-1 tvg-id="TR | GOLDX SPORT 2 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 2 FEED b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944276&extension=ts
-
-#EXTINF:-1 tvg-id="TR | GOLDX SPORT 3 FEED" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.GOLDX SPORT 3 FEED b
-http://m.lynxtv.pro:8080/play/live.php?mac=00:1A:79:C1:EE:FD&stream=944442&extension=ts
-
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2071&extension=m3u8
-
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="0.KIL-SP0R", 0.NBA d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2071&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA e
-http://62.210.113.236:25461/play/toVVeCFdwLCP7JSK_WOKKLQrSFWYrxrqKiS_AMWd4x0/ts
 
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2043&extension=m3u8
@@ -3101,29 +2306,11 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:BF:BA:E5&stream
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream=2043&extension=m3u8
 
-#EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV
-http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:01:66:75&stream=2043&extension=m3u8
-
 #EXTINF:-1 tvg-id="(TR) Nba Tv 4K+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Nba Tv b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=7427&extension=ts
 
 #EXTINF:-1 tvg-id="nbatv.tr" tvg-logo="https://logo.diamondtv.one/images/logos/TURKIYE/nba.png" group-title="0.KIL-SP0R", 0.NBA TV d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2043&extension=m3u8
-
-#EXTINF:-1 tvg-id="TR: NBA TV HD" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV HD c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=274&extension=ts
-
-#EXTINF:-1 tvg-id="TR: NBA TV HD+" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.NBA TV HD+ c
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=296&extension=ts
-
-#EXTINF:-1 tvg-id="TR: Platinum X Sport 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Platinum X Sport 4K
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=106810&extension=ts
-
-#EXTINF:-1 tvg-id="TR: Platinum X Sports HEVC" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Platinum X Sports HEVC
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=116091&extension=ts
-
-#EXTINF:-1 tvg-id="TR: Platinum X Sports Ultimate" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.Platinum X Sports Ultimate
-http://merkezii.site:8080/play/live.php?mac=00:1a:79:53:9d:1a&stream=125161&extension=ts
 
 #EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S SPOR 2
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190956&extension=m3u8
@@ -4674,7 +3861,7 @@ https://cakal.click/yayinzirve.m3u8
 https://jyayintv10.site/assia2/cdn/mix-sport29/main.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxP7roDE1bQl3R4Gyan.png" group-title="0.KIL-SPOR WEB", 02.beIN Sport 1 HD
-https://odin.185789dea2fa8.shop/1/chunk_hd.m3u8
+https://hs-cors.herokuapp.com/https://odin.185789dea2fa8.shop/1/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="♨️beIN Sport 2 HD" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlovgB0xy1vm7j4wQWYnR.png" group-title="0.KIL-SPOR WEB", 02.beIN Sport 2 HD
 https://odin.185789dea2fa8.shop/2/chunk_hd.m3u8
@@ -4762,6 +3949,9 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=T3dIVTdDQXY5UVVJdzZVV0M0Wjc2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", 4K TR: S SPORT 2
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=S2ZRYWVoNG9DWEJNWk5hVFdjclM2VkRHWUhGeGwxTnUycHZhMXRpNXE3VUNLeFRqZ2hDd29jRmUwYzBXcm90Zg==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", B.Spor 1 w
+https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", BEIN 1 FEED (720P)
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=R2RYdFljZ0FjYVFyRi9aL0xMUytjdzBlZm11L0tkMWd4T28vVWt4d2U3amcxTlFMZHRkZk9VSjFaS0NWRlJqZQ==
@@ -6781,6 +5971,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18000&extension=m3u
 
 #EXTINF:-1 tvg-id="(TR) Epic Drama" tvg-logo="https://gbzeottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20180803/001300/XTV100000912/b5ae8c71-8050-404b-9b40-61ef405adbd9.png" group-title="00.KIL-ONLİNE FİLM", 0.Epic Drama b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170409&extension=ts
+
+#EXTINF:-1 tvg-id="(TR) Exxen Tv" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 0.Exxen Tv b
+http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=161405&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) Fx HD" tvg-logo="https://gbzeottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/20160211/001300/001300000000000741833/5305bd29-a4c7-47d7-9691-be975474a0a5.png" group-title="00.KIL-ONLİNE FİLM", 0.Fx b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=2975&extension=ts
@@ -9193,6 +8386,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/smurf-tv/logo_20240322_194411_70.png" group-title="06.KIL-ÇOCUK", Şirinler
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=35&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126119&ads.show_id=5058&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Smurf%20TV&ads.episodetitle=Smurf%20TV&ads.keywords=Smurf%2CSmurfs&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
+
+#EXTINF:-1 tvg-id="24/7: EA SPORTS 2024" tvg-logo="https://i.ibb.co/WGnKF0s/image.png" group-title="07.E SPOR ONLİNE TViCH", 24/7: EA SPORTS 2024
+http://94.130.11.56:8080/@STReAM_SPeCiALBoX_VoD_Xx0101/sDzBrCDYzaJD/101614
 
 #EXTINF:-1 tvg-id="US| eSports Network HD" tvg-logo="http://sf.bleutv.net:8080/images/e2bdb4b0198683853f24eeba4c2d824b.png" group-title="07.E SPOR ONLİNE TViCH", eSports Network HD
 http://sf.bleutv.net:8080/live/152019363716715/152077836405401/143135.ts
