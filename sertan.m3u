@@ -2630,6 +2630,9 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/bein-sports-haber.m3u8" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="0.KIL-SPOR KARIŞIK", 02.beIN Sports Haber
 https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="0.KIL-SPOR KARIŞIK", 02.beIN SPORTS HABER B
+https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="0.KIL-SPOR KARIŞIK", 02.SPORTS TV A
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
@@ -3617,6 +3620,21 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=S2ZRYWVoNG9DWEJNWk5hVFdjclM2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", B.Spor 1 w
 https://odin.cd9184d3e95e6.shop/1/chunk_hd.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", bein 1
+https://m3u8.trgoalsbabacdn.workers.dev/yayin1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", bein 2
+https://m3u8.trgoalsbabacdn.workers.dev/yayinb2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", bein 3
+https://m3u8.trgoalsbabacdn.workers.dev/yayinb3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", bein max1
+https://m3u8.trgoalsbabacdn.workers.dev/yayinbm1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", bein s 1 
+https://gentle-bar-4448.osmanistemin875.workers.dev/?https://odin.cd9184d3e95e6.shop/15/chunk_hd.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", BEIN 1 FEED (720P)
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=R2RYdFljZ0FjYVFyRi9aL0xMUytjdzBlZm11L0tkMWd4T28vVWt4d2U3amcxTlFMZHRkZk9VSjFaS0NWRlJqZQ==
 
@@ -3749,6 +3767,9 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=V0hoMi9wY3hHSktkTy9TdE91Y0tG
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", BEIN SPOTS1 SD
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=a0F6eVhJa0NFdzlVMWxnd2k5bHdRQzVxRVVsM3MrZGtTbVBrczZMQWE5aVJsU1FWL1lPM2hBbUswa05DQ09VWA==
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", eurosport 1
+https://m3u8.trgoalsbabacdn.workers.dev/yayineu1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", EUROSPORT 1
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=TXJQbDhuMUpoL0QxNEhRN3ROK1VrTkx0WHA0NlFzdkxaQ0dHUSs1bHpNMWZ1eWt6QlJMdThWZ1dyWENDZm9DMA==
 
@@ -3848,6 +3869,12 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=aklMcFJzSU4zbm9QU3krUE1xTm15
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", S SPORT
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=VlpZbEp4cldZY3ZzUjYzaVNEVDdhL21kUHFSTkxvNTlqVmpDaTV0NEc0dklXWkpIMHl6NXJ5RFQ1UU9ndFpCdw==
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", s sport 1
+https://m3u8.trgoalsbabacdn.workers.dev/yayinss.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", s sport 2
+https://m3u8.trgoalsbabacdn.workers.dev/yayinss2.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", S SPORT 2
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=MWo3UklqQmV0RlAxakxwajIzNGR5REx6R2F0RUxWRXVrblg2SWpyekZpRGZWZ2Rud0RWMFVST3NIK0xvN0M4Tw==
 
@@ -3892,6 +3919,15 @@ https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=RCtRMVFsQ2NpM1Y2YTgvQWsxd3U2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", S-SPORTS 2 SD
 https://home.us4-gpiktv.workers.dev/playlist.m3u8?i=bDBZamE4dXhyMGZwOGY4VkpQOFV5VEJ4QUYyNEV3STBXQjZwR2RQQVN2RTBocDdZMW9Sa0xYOC9iRWI0WlhZeA==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Spor smart
+https://m3u8.trgoalsbabacdn.workers.dev/yayinsmarts.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Tivibu 1
+https://m3u8.trgoalsbabacdn.workers.dev/yayint1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Tivibu 2
+https://m3u8.trgoalsbabacdn.workers.dev/yayint2.m3u8
 
 #EXTINF:-1 tvg-id="TR" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="0.KIL-SPOR WEB", TR: beIN Sport 1 HD
 https://cinque.1da87064b1b25605.shop/q/www.selcuksportshd1277.xyz/601/e.cf-worker-fe5c1d7e883eba4b.workers.dev/chunklist_hd.m3u8
@@ -4151,6 +4187,9 @@ https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV D
 https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="http://stream.tvcdn.net/ulusal/atv.m3u8" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV E
+https://live.anystreamrectv3.live/live/atv1.m3u8
+
 #EXTINF:-1 tvg-id="ATV AVRUPA" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="0.KIL-ULUSAL", 04.ATV Euro
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
 
@@ -4168,6 +4207,9 @@ https://nowtv.blutv.com/blutv_nowtv/live.m3u8
 
 #EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="0.KIL-ULUSAL", 05.NOW Blutv A
 https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live_720p2000000kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="0.KIL-ULUSAL", 05.NOW Blutv B
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="0.KIL-ULUSAL", 06.Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
@@ -5470,6 +5512,51 @@ http://xruistream.bio:8080/series/ayhanbekdemir/kzEWQ6CKeJVU/389974.mkv
 
 #EXTINF:-1 tvg-id="Mahsun J S01 Mahsun J - S01E08 -" tvg-logo="https://image.tmdb.org/t/p/w154/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="00.KIL-DİZİ-SERi-STAR", Mahsun J S01 E08
 http://xruistream.bio:8080/series/ayhanbekdemir/kzEWQ6CKeJVU/391011.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube adını Feriha koydum 
+https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Behzat ç
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Cennet mahallesi 
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube cilek kokusu 
+https://ythls.kekikakademi.org/youtube/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube e sonra 
+https://ythls.kekikakademi.org/youtube/channel/UCt28gd-5rh24_UPRwf-dulQ.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube geniş aile 
+https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Güldür Güldür 
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", Youtube işler güçler 
+https://ythls.kekikakademi.org/youtube/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Kemal Sunal 
+https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube relax
+https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube sener Şen 
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube sihirli annem 
+https://ythls.kekikakademi.org/youtube/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Türk malı 
+https://ythls.kekikakademi.org/youtube/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube yalan Dünya 
+https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube Yeşilçam
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f29a6f5-5ae4-4bcb-a9d6-26a11b781dd9.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.0.Güldür Güldür
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/guldurguldur.m3u8
