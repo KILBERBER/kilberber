@@ -8096,6 +8096,9 @@ http://palatv34.ozelip.com:22372/bilsem/bilsem/chunklist_w1564342469.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="06.KIL-ÇOCUK", 0.CARTOON NETWORK Blutv
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
+#EXTINF:-1 tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="06.KIL-ÇOCUK", 0.Cartoonito Blutv
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="06.KIL-ÇOCUK", 0.Minika Go
 http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 
@@ -8113,6 +8116,9 @@ https://ebao.blutv.com/blutv_ebao2/live.m3u8
 
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="06.KIL-ÇOCUK", 0.TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="06.KIL-ÇOCUK", 0.Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.KIL-ÇOCUK", Antiks
 https://raw.githubusercontent.com/YuanHsing/YTM/main/AntiksOfficial.m3u8
