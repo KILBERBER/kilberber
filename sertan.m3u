@@ -7511,14 +7511,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/earthtv_wh
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 5.antalya kam
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/cameras/ant-kamelya.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.Tokyo yürüyüş
-https://raw.githubusercontent.com/YuanHsing/YTM/main/JAPAN_4K.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.japonya sokak yürüyüş live
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.rusya cam
 http://lova.me/hls/hithd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 6.Tokyo yürüyüş
+https://raw.githubusercontent.com/YuanHsing/YTM/main/JAPAN_4K.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", 7.Kansas City zoo
 https://raw.githubusercontent.com/YuanHsing/YTM/main/kansascityzoo.m3u8
@@ -7533,70 +7533,109 @@ https://raw.githubusercontent.com/YuanHsing/YTM/main/SpaceVideosHD.m3u8
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Anadolu Hisarı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist_w792953491.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Beyazıt Kule
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/chunklist_w948988027.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Aşiyan
+https://hls.ibb.gov.tr/tkm1/hls/268.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Bebek
+https://hls.ibb.gov.tr/tkm1/hls/257.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dumhttps:\/\/hls.ibb.gov.tr\/ls\/cam_turistik\/cam_trsk_beyazit_kule_1.stream\/playlist.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Beyazıt Kule
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Beyazıt Kule 2
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_2.stream/chunklist_w1245958036.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Beyazıt Meydanı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Beşiktaş Meydanı
+https://hls.ibb.gov.tr/tkm4/hls/43.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Büyük Çamlıca
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist_w2086665654.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Dolmabahçe Taksim Arası
+https://hls.ibb.gov.tr/tkm4/hls/595.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Dragos
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/chunklist_w1380845023.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Eminönü
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/chunklist_w2103962469.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Emirgan
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/chunklist_w481946810.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Eyüp Akşemsettin parkı
 https://eyup4.taliavision.com/livestream/hls/aksemsettin1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Eyüp Sultan
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/chunklist_w602145784.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Fatih Camii
+https://601a55c88ec6d.streamlock.net/hls/185.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Gaziosmanpaşa Meydanı
+https://hls.ibb.gov.tr/tkm4/hls/192.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Hidiv tasri
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist_w755328375.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Kadıköy iskele
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kadikoy.stream/chunklist_w1724130940.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kadikoy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Kapalıçarşı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/chunklist_w545396964.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Karaköy
+https://hls.ibb.gov.tr/tkm1/hls/204.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Kasımpaşa
+https://hls.ibb.gov.tr/tkm1/hls/209.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul kız kulesi
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/chunklist_w556920024.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul metrohan
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_metrohan.stream/chunklist_w1700591317.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul miniatürk
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/chunklist_w551355830.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Ortaköy
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_ortakoy.stream/chunklist_w933910976.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_ortakoy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Salacak
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_salacak.stream/chunklist_w631287941.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Saraçhane
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sarachane.stream/chunklist_w1974311040.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Sarıyer
+https://hls.ibb.gov.tr/tkm1/hls/280.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul sepetçiler kasrı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sepetciler_kasri.stream/chunklist_w1578764938.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Sultanahmet
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sultanahmet_2.stream/chunklist_w1590642075.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Ulus parkı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_ulus_parki.stream/chunklist_w801923087.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-Kamera", İstanbul Üsküdar
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_uskudar.stream/chunklist_w1190627404.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_uskudar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Üsküdar Meydanı
+https://hls.ibb.gov.tr/tkm2/hls/405.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Üsküdar Sahili
+https://hls.ibb.gov.tr/tkm2/hls/405.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-Kamera", İstanbul Şişli
+https://hls.ibb.gov.tr/tkm4/hls/540.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QuranTV.sa" tvg-logo="https://w7.pngwing.com/pngs/407/223/png-transparent-quran-mecca-television-channel-television-show-the-holy-quran-miscellaneous-television-white.png" group-title="05.DİNİ", 0.Al Quran Al Kareem Kabe
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
