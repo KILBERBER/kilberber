@@ -4988,6 +4988,15 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=71213&extension=ts
 #EXTINF:-1 tvg-id="ZEKI VE METIN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZEKI VE METIN d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402932&extension=m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DİZİ-SERi-STAR", Kanal D Siyah Beyaz Aşk
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d5f9febc8301fbca42d43.jpg" group-title="00.KIL-DİZİ-SERi-STAR", Kanal D Tatlı İntikam
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" group-title="00.KIL-DİZİ-SERi-STAR", Kanal D Zalim İstanbul
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
+
 #EXTINF:-1 tvg-id="Mahsun J S01 Mahsun J - S01E01 - 1. Bölüm" tvg-logo="https://image.tmdb.org/t/p/w154/bSDF1ZzH0PVkEs1lVo68pA5MiGS.jpg" group-title="00.KIL-DİZİ-SERi-STAR", Mahsun J S01 E01
 http://xruistream.bio:8080/series/ayhanbekdemir/kzEWQ6CKeJVU/387270.mkv
 
@@ -5129,12 +5138,6 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/dizi/sefirinkizi.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bebad468-4a36-4543-9c9e-32d915390d3f.jpeg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Sihirli Annem
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/sihirliannem.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0b243603-d4a4-4318-bf26-e0e9d89e91cb.jpg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Siyah Beyaz Aşk
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/66321b58-16e7-444e-a56a-422e8c6878a7.jpg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Tatlı İntikam
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/96/Ufak_Tefek_Cinayetler.jpg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Ufak tefek cinayetler
 https://raw.githubusercontent.com/rideordie16/YouTube/main/dizi/ufaktefekcinayetler.m3u8
 
@@ -5143,9 +5146,6 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/dizi/yenigelin.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/ce570c18-78f1-4844-a650-f38a59e36d42.png" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Yeni Gelin
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/yenigelin.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/2931c3f7-f069-49ee-ab5d-ffd6a4a8fad7.jpg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Zalim İstanbul
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/c22b5e28-b221-4aa2-b5d6-c590f3d0f57c.jpeg" group-title="00.KIL-DİZİ-SERi-STAR", YouTube.Zemheri
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/zemheri.m3u8
@@ -6602,6 +6602,9 @@ https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="01.KIL-HABER", TR.YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-HABER", TRT arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
@@ -6616,6 +6619,12 @@ https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="01.KIL-HABER", TRT HABER C
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-kurdi-logo-300x109.jpg" group-title="01.KIL-HABER", TRT kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-world-hd-logo-300x172.png" group-title="01.KIL-HABER", TRT world
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="01.KIL-HABER", TURK HABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
