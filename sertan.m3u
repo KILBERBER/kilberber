@@ -383,6 +383,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/vZ3knKt.png" group-title="0.KIL-MÜZİK", 22.Pluto TV VH1 Hip Hop Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 22.THT Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+
 #EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.THT Musicc
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
@@ -1739,6 +1742,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190970&extension=m3
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190971&extension=m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 2 HD
+http://146.59.93.251/0423/video.m3u8?token=BABAC523B3B5
+
 #EXTINF:-1 tvg-id="TR | B.SPOR 2 HD 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 2 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=190971&extension=m3u8
 
@@ -1786,6 +1792,9 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18639&extension=m3u
 
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bein_sports_3.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=18640&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.Spor 3 HD
+http://146.59.93.251/0424/video.m3u8?token=BABAC523B3B5
 
 #EXTINF:-1 tvg-id="Beinsports4.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.B.SPOR 3 HD
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2065&extension=m3u8
@@ -2411,6 +2420,12 @@ http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1a:79:c3:50:db&stream
 #EXTINF:-1 tvg-id="TR | VIP S SPOR 2 4K" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="0.KIL-SP0R", 0.S SPOR 2 d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=190956&extension=m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Spor 2 HD
+http://146.59.93.251/0978/video.m3u8?token=BABAC523B3B5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S Spor HD
+http://146.59.93.251/0977/video.m3u8?token=BABAC523B3B5
+
 #EXTINF:-1 tvg-id="ssport.tr" tvg-logo="noimage.png" group-title="0.KIL-SP0R", 0.S SPORT
 http://sdfgsdfgsdgasdf.diatunnel.link/play/live.php?mac=00:1A:79:55:18:21&stream=2073&extension=m3u8
 
@@ -2677,6 +2692,9 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/a-spor.m3u8" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="0.KIL-SPOR KARIŞIK", 02.A Spor
 http://hw1.jemtv.com/app/ASporHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="0.KIL-SPOR KARIŞIK", 02.A Spor b
+https://bozztv.com/inim03/live1/aspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="0.KIL-SPOR KARIŞIK", 02.beIN SPORTS HABER
 https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/beinsportshaber.m3u8
@@ -3347,8 +3365,14 @@ https://gentle-bar-4448.osmanistemin875.workers.dev/?https://odin.cd9184d3e95e6.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect3.png" group-title="0.KIL-SPOR WEB", 0.B.SPOR 3 b
 https://gentle-bar-4448.osmanistemin875.workers.dev/?https://odin.185789dea2fa8.shop/3/chunk_hd.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", 0.B.SPOR 3 HD
+https://odin.cd9184d3e95e6.shop/3/chunk_hd.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="0.KIL-SPOR WEB", 0.B.SPOR MAX 1
 https://gentle-bar-4448.osmanistemin875.workers.dev/?https://odin.cd9184d3e95e6.shop/7/chunk_hd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", 0.B.SPOR2 HD
+https://odin.cd9184d3e95e6.shop/2/chunk_hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.KIL-SPOR WEB", 0.S.SPOR 2
 https://gentle-bar-4448.osmanistemin875.workers.dev/?https://odin.cd9184d3e95e6.shop/14/chunk_hd.m3u8
@@ -5252,6 +5276,9 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170406&extension=t
 #EXTINF:-1 tvg-id="(TR) Sinema Yerli 4K+" tvg-logo="https://gbzeottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202002/20200203/20200203234951578bkz_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 0.Sinema TV Yerli b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170408&extension=ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.ATV Sinema
+http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
+
 #EXTINF:-1 tvg-id="86" tvg-logo="https://gbzeottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1
 https://d21eod2e3p9ljp.cloudfront.net/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
 
@@ -5261,6 +5288,9 @@ https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/in
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="00.KIL-ONLİNE FİLM", 01.Dizi Film TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.F Tv
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Zd6fMvZ/filtr.png" group-title="00.KIL-ONLİNE FİLM", 01.FİL TV
 https://live.filbox.com.tr/filtv/index.m3u8
 
@@ -5269,6 +5299,9 @@ http://195.9.195.3:8080/hls/204708.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mssoptical.com/wp-content/uploads/2020/04/FilmMax-Logo-Transp-300x100.png" group-title="00.KIL-ONLİNE FİLM", 01.FILMAX 2
 http://195.9.195.3:8080/hls/204717.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.H Tv
+https://hasantv87.interweb.com.tr:3799/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.RealBox Vizyon
 http://62.210.88.161:80/gin-trn09/gt-sinevizyon-3/tracks-v1a1/mono.m3u8
@@ -5425,6 +5458,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/kemalsunal
 
 #EXTINF:-1 tvg-id="icerik_SenerSen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-ONLİNE FİLM", 2.Şener Şen
 https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", TV PLAY
+https://raw.githubusercontent.com/master-90/RESTREAM/main/STREAM/tvplay.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery Blutv
 https://discovery.blutv.com/blutv_discovery/discovery.smil/playlist.m3u8
@@ -6355,6 +6391,9 @@ https://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="01.KIL-HABER", A HABER A
 https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="01.KIL-HABER", A HABER b
+http://hw1.jemtv.com/app/AHaber/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/KwXzY6B/apara.png" group-title="01.KIL-HABER", A PARA
 https://new.cache-stream.workers.dev/stream/UCzrGg6iyRDuUSnO0cQ5oLcA/live.m3u8
@@ -9158,6 +9197,12 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/24-01/16/dede-korkut-bamsi-beyrektitle_16x9-1705395115.jpg" group-title="FiLM PUHU TV", Dede Korkut Hikayeleri: Bamsı Beyrek
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_835226_F3F13119&SecretKey=NtvApiSecret2014*&.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Dehşet Gecesi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Dört Psikopat
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/gergedan-mevsimititle_16x9.jpg" group-title="FiLM PUHU TV", Gergedan Mevsimi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834768_D7C05BCB&SecretKey=NtvApiSecret2014*&.m3u8
 
@@ -9184,6 +9229,9 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_yola_geldik-1561406650.jpg" group-title="FiLM PUHU TV", Yola Geldik
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Ölüm Kalım Evi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/20-09/08/ozgurdunya_16x9.jpg" group-title="FiLM PUHU TV", Özgür Dünya
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8
