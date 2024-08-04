@@ -236,6 +236,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.portalfoxmix.cl/radioenvivo//images/portalfoxmix-radio-logo-gran-tras.png" group-title="0.KIL-MÜZİK", 17.Portal Foxmix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://backustv.ru/img/logo3.png" group-title="0.KIL-MÜZİK", 18.Backus
+https://vsd200.mycdn.me/hls/6184868907698.m3u8/sig/Vxg5255t8wY/expires/1722802848481/srcIp/188.3.179.221/urls/45.136.21.80/clientType/0/srcAg/CHROME_ANDROID/mid/7415952383666/6184868907698_fullhd/index.m3u8
+
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" group-title="0.KIL-MÜZİK", 18.m2o TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
@@ -2663,17 +2666,11 @@ https://d1m5647xilimr4.cloudfront.net/out/v1/955d5d90fa5247dca98839adc5c0a16b/in
 #EXTINF:-1 tvg-id="https://d28x47c58ja819.cloudfront.net/out/v1/e7e967b4b9904d8da44812692796a8d4/index_2.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7abc866ac318108e1f71" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport4 Blutv 
 https://d28x47c58ja819.cloudfront.net/out/v1/e7e967b4b9904d8da44812692796a8d4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7af9866ac318108e1f73" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport5 Blutv 
-https://mn-nl.mncdn.com/blutv_eurosport5/smil:blutv_eurosport5_drm.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://d1bn0xr4zxv7zv.cloudfront.net/out/v1/cdbb553658e74f8a8003ae3d33e3fe5f/index_2.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7af9866ac318108e1f73" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport5 Blutv b 
+#EXTINF:-1 tvg-id="https://mn-nl.mncdn.com/blutv_eurosport5/smil:blutv_eurosport5_drm.smil/chunklist.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7af9866ac318108e1f73" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport5 Blutv
 https://d1bn0xr4zxv7zv.cloudfront.net/out/v1/cdbb553658e74f8a8003ae3d33e3fe5f/index.m3u8
 
-#EXTINF:-1 tvg-id="https://d2i8i5our07l5g.cloudfront.net/out/v1/0b43ba8991954d9590fd5fe0eadeb635/index_4.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7b14866ac315b82c16f0" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport6 Blutv 
+#EXTINF:-1 tvg-id="https://mn-nl.mncdn.com/blutv_eurosport6/smil:blutv_eurosport6_drm.smil/chunklist.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7b14866ac315b82c16f0" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport6 Blutv 
 https://d2i8i5our07l5g.cloudfront.net/out/v1/0b43ba8991954d9590fd5fe0eadeb635/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7b14866ac315b82c16f0" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport6 Blutv b 
-https://mn-nl.mncdn.com/blutv_eurosport6/smil:blutv_eurosport6_drm.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="https://d2caitgb7lnkie.cloudfront.net/out/v1/4a7be8a0a55944b7801f29ec2aa83652/index_2.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7b2b866ac318108e1f77" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport7 Blutv 
 https://d2caitgb7lnkie.cloudfront.net/out/v1/4a7be8a0a55944b7801f29ec2aa83652/index.m3u8
