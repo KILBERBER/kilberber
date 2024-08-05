@@ -5312,6 +5312,9 @@ https://d21eod2e3p9ljp.cloudfront.net/out/v1/dbc93664979b4b6db20d13f0d58f4b07/in
 #EXTINF:-1 tvg-id="https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8" tvg-logo="https://gbzeottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2
 https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
 
+#EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.CLC TV
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="00.KIL-ONLİNE FİLM", 01.Dizi Film TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 
@@ -5350,6 +5353,9 @@ http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummyhttp://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="00.KIL-ONLİNE FİLM", 01.SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="00.KIL-ONLİNE FİLM", 01.YANSIMA TV  SİNEMA
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="00.KIL-ONLİNE FİLM", 01.Yeşilçam TV 1
 http://62.210.88.161:80/gin-trn09/gt-yesilcam-tv1/tracks-v1a1/mono.m3u8
