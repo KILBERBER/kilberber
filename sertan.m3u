@@ -1061,6 +1061,9 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="hlsproxy-539" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/c753f7050f8a610c0a6e_640x360.jpg" group-title="0.KIL-MÜZİK", Gakku TV
 http://87.99.87.203:2007/channel/3c36fdc7/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
+#EXTINF:-1 tvg-id="1409" tvg-logo="https://cdn.m3u.cl/logo/1409_GikTVMX.png" group-title="0.KIL-MÜZİK", GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="0.KIL-MÜZİK", HMI PROMZ NEWS
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 
@@ -2647,6 +2650,24 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2080&extension=m3u8
 
 #EXTINF:-1 tvg-id="TR | TIVIBU SPOR" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/tivibu_spor.png" group-title="0.KIL-SP0R", 0.TIVIBU SPOR d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=2081&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 1
+https://tabii-spor.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 2
+https://tabii-spor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii spor 3
+https://tabii-spor3.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 4
+https://tabii-spor4.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 5
+https://tabii-spor5.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 6
+https://tabii-spor6.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
