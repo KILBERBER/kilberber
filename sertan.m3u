@@ -5621,6 +5621,9 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 
+#EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV B
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/bbc_earth.png" group-title="01.KIL-BELGESEL", 6.BBC Earth b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=99747&extension=ts
 
@@ -9062,6 +9065,183 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10491.mp
 #EXTINF:-1 tvg-id="Three.Billboards.Outside.Ebbing.Missouri.BRRip.2017" tvg-logo="https://tr.web.img3.acsta.net/pictures/18/03/09/14/47/2757849.jpg" group-title="FiLM iMDB EN iYiLER", Missouri
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10488.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e8494c2ebc8302ac09bc6bd.jpg" group-title="FiLM KANALD", 88 Numaralı Oda
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279152_1278/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a14ce2260103fc704a84.jpg" group-title="FiLM KANALD", Agorafobi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279154_127c/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7daf7d44539531d08da1ff.jpg" group-title="FiLM KANALD", Aşk Bilmecesi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278467_0d1e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76637844539512c8d2bc52.jpg" group-title="FiLM KANALD", Aşkın 5 Hali
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277909_08c2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e984e49933ccb2d9c23afc1.jpg" group-title="FiLM KANALD", Balerin ve Afacan Mucit
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279324_13d0/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97fb833ab1661830df1af4.jpg" group-title="FiLM KANALD", Bayan Meadows
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279221_1302/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7664fc44539512c8d2bc76.jpg" group-title="FiLM KANALD", Beceriksiz Katil
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277913_08ca/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985137933ccb2d9c23b003.jpg" group-title="FiLM KANALD", Bodybuilder
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279312_13b8/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7665b944539512c8d2bc8b.jpg" group-title="FiLM KANALD", Boşu Bir Yerde
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277916_08d0/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db56f44539531d08da2b6.jpg" group-title="FiLM KANALD", Burada mısın?
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278454_0d04/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84ac75e2260103fc704ca9.jpg" group-title="FiLM KANALD", Büyük Aşk
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279192_12c8/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e9856e7933ccb2d9c23b086.jpg" group-title="FiLM KANALD", Büyümek ve Diğer Yalanlar
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279331_13de/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e9801c53ab1661830df1b55.jpg" group-title="FiLM KANALD", Cinayet Planı
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279277_1372/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e99586e933ccb3900a61c8a.jpg" group-title="FiLM KANALD", Dehşet Gecesi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995990933ccb3900a61c9e.jpg" group-title="FiLM KANALD", Dehşet Gemisi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279351_1406/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766bd344539512c8d2bcee.jpg" group-title="FiLM KANALD", Deli Saçması
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277930_08ec/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985376933ccb2d9c23b034.jpg" group-title="FiLM KANALD", Downer's Grove Laneti
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279313_13ba/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995144933ccb3900a61bc4.jpg" group-title="FiLM KANALD", Dört Psikopat
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db69044539531d08da2d4.jpg" group-title="FiLM KANALD", Ekim Fırtınası
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278506_0d6c/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7667d544539512c8d2bca6.jpg" group-title="FiLM KANALD", Elimiz Mahkum
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277931_08ee/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84adc3e2260103fc704cd4.jpg" group-title="FiLM KANALD", Elveda Dünya
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279172_12a0/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a8a1e2260103fc704c0e.jpg" group-title="FiLM KANALD", French Dolls
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279171_129e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db8d944539531d08da2f0.jpg" group-title="FiLM KANALD", Gerilim Odası
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278528_0d98/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7daead44539531d08da1e8.jpg" group-title="FiLM KANALD", Hudut
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278495_0d56/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f3cfebc83025149a1752.jpg" group-title="FiLM KANALD", Jane'in İntikamı
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279205_12e2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f5c5ebc83025149a1776.jpg" group-title="FiLM KANALD", Kanlı Dövüş
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279214_12f4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995302933ccb3900a61bee.jpg" group-title="FiLM KANALD", Kanunun Kuvveti
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279346_13fc/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84b369e2260103fc704d82.jpg" group-title="FiLM KANALD", Karanlık Kutu
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279189_12c2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a247e2260103fc704a9b.jpg" group-title="FiLM KANALD", Karartma
+https://kanaldvod.duhnet.tv/S11/MP4/KANALD/HDP1A_-279180_12b0-_1500.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db30e44539531d08da261.jpg" group-title="FiLM KANALD", Katil Deniz Kızı
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278505_0d6a/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f4d4ebc83025149a1766.jpg" group-title="FiLM KANALD", Katil Joe
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279204_12e0/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a52ee2260103fc704b47.jpg" group-title="FiLM KANALD", Kirli Oyun
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279186_12bc/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995ac6933ccb3900a61cb5.jpg" group-title="FiLM KANALD", Kurtuluş
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279319_13c6/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766dcf44539512c8d2bd03.jpg" group-title="FiLM KANALD", Mahrumlar
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277936_08f8/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7637f43ab1662564e12c1e.jpg" group-title="FiLM KANALD", Muhbir
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278077_0a12/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e849a9ee2260103fc70491d.jpg" group-title="FiLM KANALD", Podyumdaki Kül Kedisi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279157_1282/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76505744539512c8d2bbc7.jpg" group-title="FiLM KANALD", Sahte Cennet
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277979_094e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a360e2260103fc704acd.jpg" group-title="FiLM KANALD", Sevgili Kardeşim
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279158_1284/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e849618ebc8302ac09bc6ff.jpg" group-title="FiLM KANALD", Sevimli Kukla
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279156_1280/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763a013ab1662564e12c46.jpg" group-title="FiLM KANALD", Siyah ya da Beyaz
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277937_08fa/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e764e2144539512c8d2bbaf.jpg" group-title="FiLM KANALD", Son Vurgun
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277902_08b4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763d713ab1662564e12cab.jpg" group-title="FiLM KANALD", Suçlu
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277990_0964/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e763c0c3ab1662564e12c79.jpg" group-title="FiLM KANALD", Uyuyana Kadar
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277914_08cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97f6b7ebc83025149a1789.jpg" group-title="FiLM KANALD", Vasiyet
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279217_12fa/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db3df44539531d08da280.jpg" group-title="FiLM KANALD", Vatikan Kayıtları
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278527_0d96/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db04b44539531d08da219.jpg" group-title="FiLM KANALD", Vikingler
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278525_0d92/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84a5fae2260103fc704b77.jpg" group-title="FiLM KANALD", Yansıma
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279187_12be/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db15f44539531d08da232.jpg" group-title="FiLM KANALD", Yaz Aşkım
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278526_0d94/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7632bb3ab1662564e12bff.jpg" group-title="FiLM KANALD", Yeniden Başlamak
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277935_08f6/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e7db49f44539531d08da293.jpg" group-title="FiLM KANALD", Yüzde Yüz Kaşmir
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278523_0d8e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e766e6944539512c8d2bd29.jpg" group-title="FiLM KANALD", Zengin Kısmet
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277945_090a/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e97fd9b3ab1661830df1b08.jpg" group-title="FiLM KANALD", Zıt Kardeşler
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279220_1300/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e786620933ccb0fa400f421.jpg" group-title="FiLM KANALD", Çete Savaşları
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278349_0c32/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76623044539512c8d2bc3e.jpg" group-title="FiLM KANALD", Çetin Ceviz 2
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277929_08ea/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e995752933ccb3900a61c51.jpg" group-title="FiLM KANALD", Ölüm Kalım Evi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e764bf244539512c8d2bba3.jpg" group-title="FiLM KANALD", Ölümcül Takip
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/278080_0a18/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e84ab1ae2260103fc704c4b.jpg" group-title="FiLM KANALD", Şeytan Tepesi
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279173_12a2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e985960933ccb2d9c23b0d3.jpg" group-title="FiLM KANALD", Şifacı
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/279318_13c4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x111/5e76693044539512c8d2bccb.jpg" group-title="FiLM KANALD", Şimdi Aşk
+https://kanaldvod.duhnet.tv/S11/HLS_VOD/277942_0904/index.m3u8
+
 #EXTINF:-1 tvg-id="Kemal.Sunal-Atla.Gel.Saban" tvg-logo="http://filimci.xiptv.org:8080/images/603_movie_poster.jpg" group-title="FiLM KEMAL SUNAL", Kemal.Sunal-Atla.Gel.Saban
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/120.mkv
 
@@ -9245,6 +9425,111 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/146.mkv
 #EXTINF:-1 tvg-id="Kemal.Sunal-Iyi.Aile.Cocugu" tvg-logo="http://filimci.xiptv.org:8080/images/603_movie_poster.jpg" group-title="FiLM KEMAL SUNAL", Kemal.Sunal-Iyi.Aile.Cocugu
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/147.mkv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1479" group-title="FiLM NOW TV", 25 Litre
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=25-Litre&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1322" group-title="FiLM NOW TV", 4N1K 2
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=4N1K-2&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1392" group-title="FiLM NOW TV", Anamız Var
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1487" group-title="FiLM NOW TV", Anamız Var 2
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Anamiz-Var-2&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1391" group-title="FiLM NOW TV", Ağlak Arif
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Aglak-Arif&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1357" group-title="FiLM NOW TV", Aşktroloji
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Asktroloji&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1522" group-title="FiLM NOW TV", Aşkımızın Son Tekmesi
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Askimizin-Son-Tekmesi&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1273" group-title="FiLM NOW TV", Babası
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Babasi&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1299" group-title="FiLM NOW TV", Badem Şekeri 3
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-3&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1308" group-title="FiLM NOW TV", Badem Şekeri 5
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Badem-Sekeri-5&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1488" group-title="FiLM NOW TV", Başımız Belada
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Basimiz-Belada&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1084" group-title="FiLM NOW TV", Benden Bu Kadar
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Benden-Bu-Kadar&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1519" group-title="FiLM NOW TV", Bir Aşk İki Hayat
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bir-Ask-Iki-Hayat&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1504" group-title="FiLM NOW TV", Bizim İçin Şampiyon
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Bizim-Icin-Sampiyon&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1516" group-title="FiLM NOW TV", Canavar Gibi: Türk İşi Frankeştayn
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Canavar-Gibi-Turk-Isi-Frankestayn&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1485" group-title="FiLM NOW TV", Cingöz Recai: Bir Efsanenin Dönüşü
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Cingoz-Recai-Bir-Efsanenin-Donusu&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1343" group-title="FiLM NOW TV", Eski Köye Yeni Adet
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Eski-Koye-Yeni-adet&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1315" group-title="FiLM NOW TV", Hadi Be Oğlum
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hadi-Be-Oglum&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1489" group-title="FiLM NOW TV", Hayatımız Film
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Hayatimiz-Film&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1309" group-title="FiLM NOW TV", Kan Kardeşler
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kan-Kardesler&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1348" group-title="FiLM NOW TV", Koca Bulma Sanatı
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Koca-Bulma-Sanati&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1605" group-title="FiLM NOW TV", Küçük Yalanlar
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kucuk-Yalanlar&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1384" group-title="FiLM NOW TV", Kız Babası
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Kiz-Babasi&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1619" group-title="FiLM NOW TV", Mutlu Aile Tablosu
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Mutlu-Aile-Tablosu&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1370" group-title="FiLM NOW TV", Organik Aşk
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Organik-Ask&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1583" group-title="FiLM NOW TV", Petrol Sevdası
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Petrol-Sevdasi&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1381" group-title="FiLM NOW TV", Prangalı Yarim
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Prangali-Yarim&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1521" group-title="FiLM NOW TV", Sabahlar Olmasın
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sabahlar-Olmasin&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1351" group-title="FiLM NOW TV", Sosyetik Gelin
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sosyetik-Gelin&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1587" group-title="FiLM NOW TV", Vay Halime
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Vay-Halime&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1350" group-title="FiLM NOW TV", Yalancı Damat
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Damat&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1618" group-title="FiLM NOW TV", Yalancı Sevgilim
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yalanci-Sevgilim&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1380" group-title="FiLM NOW TV", Yol Ayrımı
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Yol-Ayrimi&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1363" group-title="FiLM NOW TV", Ölümü Gör
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Olumu-Gor&episode=1&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nowtv.com.tr/i/thumbnail/1359" group-title="FiLM NOW TV", Şansa Bak
+https://uzunmuhalefet.serv00.net/nowtv.php?serie=Sansa-Bak&episode=1&.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/8-saniyetitle_16x9.jpg" group-title="FiLM PUHU TV", 8 Saniye
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834785_EAE5ACB4&SecretKey=NtvApiSecret2014*&.m3u8
 
@@ -9290,12 +9575,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/24-01/16/dede-korkut-bamsi-beyrektitle_16x9-1705395115.jpg" group-title="FiLM PUHU TV", Dede Korkut Hikayeleri: Bamsı Beyrek
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_835226_F3F13119&SecretKey=NtvApiSecret2014*&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Dehşet Gecesi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279317_13c2/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Dört Psikopat
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279320_13c8/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/gergedan-mevsimititle_16x9.jpg" group-title="FiLM PUHU TV", Gergedan Mevsimi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834768_D7C05BCB&SecretKey=NtvApiSecret2014*&.m3u8
 
@@ -9322,9 +9601,6 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_834
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_yola_geldik-1561406650.jpg" group-title="FiLM PUHU TV", Yola Geldik
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_1ab07d33-920a-4980-9264-f934c1162b56&SecretKey=NtvApiSecret2014*&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FiLM PUHU TV", Ölüm Kalım Evi
-https://kanaldvod.duhnet.tv/S11/HLS_VOD/279299_139e/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img-puhutv.mncdn.com/media/20-09/08/ozgurdunya_16x9.jpg" group-title="FiLM PUHU TV", Özgür Dünya
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_816403_99E23A60&SecretKey=NtvApiSecret2014*&.m3u8
@@ -9836,8 +10112,14 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/5225.mkv
 #EXTINF:-1 tvg-id="TR Recep Ivedik 7 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTTo0PlRBzupo3zj8EoJXzYnj1i.jpg" group-title="FiLM YERLi", 0.Recep İvedik 7 (2022)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/10229.mp4
 
+#EXTINF:-1 tvg-id="TR 3 Gun (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.3 Gun (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11172.mp4
+
 #EXTINF:-1 tvg-id="TR 3 Gun (2024)" tvg-logo="https://ortakoltuk.com/wp-content/uploads/2024/04/3.-gun-e1713610812421.jpg" group-title="FiLM YERLi", 00.3 Gun (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11172.mp4
+
+#EXTINF:-1 tvg-id="TR 3391 Kilometre (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.3391 Kilometre (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11372.mp4
 
 #EXTINF:-1 tvg-id="TR Ah Leyla Vah Kerem (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Ah Leyla Vah Kerem (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11256.mp4
@@ -9845,11 +10127,20 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11256.mp4
 #EXTINF:-1 tvg-id="TR Ask Mevsimi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Ask Mevsimi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11361.mp4
 
+#EXTINF:-1 tvg-id="TR Biz Ayrilamayiz (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Biz Ayrilamayiz (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11147.mp4
+
 #EXTINF:-1 tvg-id="TR Biz Ayrilamayiz (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc5YzIxODgtYWEwMi00MTg4LWEwNDAtM2MzNjc4MmU3MDY5XkEyXkFqcGdeQXVyODczMDQ2MzM@._V1_.jpg" group-title="FiLM YERLi", 00.Biz Ayrilamayiz (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11147.mp4
 
 #EXTINF:-1 tvg-id="TR Cici Anne (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Cici Anne (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11212.mp4
+
+#EXTINF:-1 tvg-id="TR Cici Anne (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Cici Anne (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11212.mp4
+
+#EXTINF:-1 tvg-id="TR Ciftligimin Hanimi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Ciftligimin Hanimi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11215.mp4
 
 #EXTINF:-1 tvg-id="TR Ciftligimin Hanimi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Ciftligimin Hanimi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11215.mp4
@@ -9860,17 +10151,35 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11310.mp4
 #EXTINF:-1 tvg-id="TR Efsane (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Efsane (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11332.mp4
 
+#EXTINF:-1 tvg-id="TR Erdal ile Ece (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Erdal ile Ece (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11402.mp4
+
+#EXTINF:-1 tvg-id="TR Gaddar Kanli sular (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Gaddar Kanli sular (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11162.mp4
+
 #EXTINF:-1 tvg-id="TR Gaddar Kanli Sular (2024)" tvg-logo="https://tr.web.img4.acsta.net/pictures/23/12/28/11/21/3954711.jpg" group-title="FiLM YERLi", 00.Gaddar Kanli Sular (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11162.mp4
 
+#EXTINF:-1 tvg-id="TR Gidersen Gitme (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Gidersen Gitme (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11155.mp4
+
 #EXTINF:-1 tvg-id="TR Gidersen Gitme (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxZjIwNzEtNWJiNi00YWM3LTg0NmItZTg0OTg4YTYzMGJlXkEyXkFqcGdeQXVyODczMDQ2MzM@._V1_.jpg" group-title="FiLM YERLi", 00.Gidersen Gitme (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11155.mp4
+
+#EXTINF:-1 tvg-id="TR Hayatla Baris (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Hayatla Baris (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11378.mp4
+
+#EXTINF:-1 tvg-id="TR Kadin Kafasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kadin Kafasi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11205.mp4
 
 #EXTINF:-1 tvg-id="TR Kadin Kafasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kadin Kafasi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11205.mp4
 
 #EXTINF:-1 tvg-id="TR Kardes Takimi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kardes Takimi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11319.mp4
+
+#EXTINF:-1 tvg-id="TR Kasada Parti (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kasada Parti (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11241.mp4
 
 #EXTINF:-1 tvg-id="TR Kasada Parti (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kasada Parti (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11241.mp4
@@ -9881,6 +10190,9 @@ http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11260.mkv
 #EXTINF:-1 tvg-id="TR Kolpacino 4 4 luk (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kolpacino 4 4 luk (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11329.mp4
 
+#EXTINF:-1 tvg-id="TR Kul-Ashes (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Kul-Ashes (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11081.mp4
+
 #EXTINF:-1 tvg-id="TR Kul-Ashes (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk2OTUwZmYtMWFkNy00MDZmLTkxMjQtMmU4MDJkYzA4YjNkXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg" group-title="FiLM YERLi", 00.Kul-Ashes (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11081.mp4
 
@@ -9888,7 +10200,13 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11081.mp
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11326.mp4
 
 #EXTINF:-1 tvg-id="TR Para Nerede (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Para Nerede (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11188.mp4
+
+#EXTINF:-1 tvg-id="TR Para Nerede (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Para Nerede (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11188.mp4
+
+#EXTINF:-1 tvg-id="TR Romantik Hirsiz (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Romantik Hirsiz (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11106.mp4
 
 #EXTINF:-1 tvg-id="TR Romantik Hirsiz (2024)" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/08/18/08/5532308.png" group-title="FiLM YERLi", 00.Romantik Hirsiz (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11106.mp4
@@ -9897,13 +10215,22 @@ http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11106.mp
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11258.mp4
 
 #EXTINF:-1 tvg-id="TR Torun Davasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Torun Davasi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11213.mp4
+
+#EXTINF:-1 tvg-id="TR Torun Davasi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Torun Davasi (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11213.mp4
 
 #EXTINF:-1 tvg-id="TR Yasam Kocu (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Yasam Kocu (2024)
 http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11328.mp4
 
+#EXTINF:-1 tvg-id="TR Yeni Hayat (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Yeni Hayat (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11184.mp4
+
 #EXTINF:-1 tvg-id="TR Yeni Hayat (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1YzZhNzktNGM2Yy00ZTY0LWFhMDItOWUzZDFjNjhmZjliXkEyXkFqcGdeQXVyODczMDQ2MzM@._V1_.jpg" group-title="FiLM YERLi", 00.Yeni Hayat (2024)
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/11184.mp4
+
+#EXTINF:-1 tvg-id="TR Zaferin Rengi (2024)" tvg-logo="noimage.png" group-title="FiLM YERLi", 00.Zaferin Rengi (2024)
+http://asdf.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/11375.mp4
 
 #EXTINF:-1 tvg-id="TR.1.Kezban.1.Mahmut.Adana.Yollarinda.2016" tvg-logo="https://tr.web.img4.acsta.net/pictures/16/05/23/14/13/288481.jpg" group-title="FiLM YERLi", 1 Kezban 1 Mahmut.Adana.Yollarinda.2016
 http://asdf.xtreamtvplus.net:8080/movie/MND5s3awK8/2q5E06pdXchVAAMnT6!*/678.mp4
