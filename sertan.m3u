@@ -263,6 +263,9 @@ https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-id="RadioPiterPanTV.it" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="0.KIL-MÜZİK", 18.Radio Piter Pan
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/Thraki-Net.jpg" group-title="0.KIL-MÜZİK", 18.Thraki
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="0.KIL-MÜZİK", 18.Urbano
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
@@ -287,13 +290,13 @@ https://jmp2.uk/SamsungTVPlus/USAJ3000013FJ.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New KPop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop
-https://raw.githubusercontent.com/YuanHsing/YTM/main/TheKPOP.m3u8
-
 #EXTINF:-1 tvg-id="https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The k pop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop a
+https://raw.githubusercontent.com/YuanHsing/YTM/main/TheKPOP.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop b
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.The K Pop2
@@ -326,53 +329,41 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban d
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/46.png" group-title="0.KIL-MÜZİK", 21.MTV
+https://s6.hopslan.com:443/mtv/index.m3u8
+
 #EXTINF:-1 tvg-id="hlsproxy-191" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://87.99.87.203:2007/channel/f166d82/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://168.181.122.234:8000/play/a030/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-dance.png" group-title="0.KIL-MÜZİK", 21.MTV club
-http://79.101.53.3:8009/play/a09n
-
 #EXTINF:-1 tvg-id="hlsproxy-113" tvg-logo="http://158.101.214.187:8080/logos/mtv-dance.png" group-title="0.KIL-MÜZİK", 21.MTV Club
 http://158.101.214.187:8080/channel/5a627dea/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV HD ESP
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/46.png" group-title="0.KIL-MÜZİK", 21.MTV HD ESP
 http://170.82.37.21:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Latino Pluto tv
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
-http://79.101.53.3:8009/play/a09o
 
 #EXTINF:-1 tvg-id="hlsproxy-116" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://87.99.87.203:2007/channel/n39f4bbe1/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="0.KIL-MÜZİK", 21.MTV Music Made in Spain
-Pluto tv
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://193.70.86.92/chlogo/logo/tv/mm/mtv_us.png" group-title="0.KIL-MÜZİK", 21.MTV pl
-http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:9D:32:10&stream=51378&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto tv
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto Biggest
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-russia.png" group-title="0.KIL-MÜZİK", 21.MTV Polska HD
-http://iptv.darktv.in:80/play/live.php?mac=00:1A:79:9D:32:10&stream=42980&extension=ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto Reality Latin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto Reality usa
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 22.BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
@@ -401,7 +392,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/vZ3knKt.png" group-title="0.KIL-MÜZİK", 22.Pluto TV VH1 Hip Hop Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 22.THT Music
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.THT Musicc
@@ -425,10 +416,10 @@ http://158.101.214.187:8080/channel/n2b8d072a/index.m3u8?q=b92e505ee8a30dc40ddf8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="http://cdn.server-iptv.live/logo/tv/muz-tv-ru.png" group-title="0.KIL-MÜZİK", 22.МУЗ-ТВ
 http://ott.server-iptv.live/456/video.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 22.МузТВ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/muz.png" group-title="0.KIL-MÜZİK", 22.МузТВ
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 22.МузТВ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/muz.png" group-title="0.KIL-MÜZİK", 22.МузТВ
 http://91.142.158.107:8092/play/20/index.m3u8
 
 #EXTINF:-1 tvg-id="hlsproxy-7" tvg-logo="http://pl.ottg.app/icon/3533.png" group-title="0.KIL-MÜZİK", 23.1 HD Music Television
@@ -6362,6 +6353,102 @@ http://87.99.87.203:2007/channel/n74c435ae/index.m3u8?q=92e2ce7ea739863e3dafd254
 #EXTINF:-1 tvg-id="hlsproxy-87" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/fa28c8ec67d7c070750b_640x360.jpg" group-title="01.KIL-BELGESEL", Тайны галактики HD
 http://87.99.87.203:2007/channel/n42df59/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.3SAT
+https://s6.hopslan.com:443/3sat/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/06/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ARD
+https://s6.hopslan.com:443/ard1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/4.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ARTE
+https://s6.hopslan.com:443/arte/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/45.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.BR Fernsehen
+https://s6.hopslan.com:443/br/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.DW
+https://s6.hopslan.com:443/dw/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/43.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.HR Fernsehen
+https://s6.hopslan.com:443/hr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.KABEL 1
+https://s6.hopslan.com:443/kabel1x1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Kabel 1 Doku
+https://s6.hopslan.com:443/dokux1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/8.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.KIKA
+https://s6.hopslan.com:443/kika/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/79.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.MDR Fernsehen
+https://s6.hopslan.com:443/mdr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/46.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.MTV
+https://s6.hopslan.com:443/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.N-TV
+https://s6.hopslan.com:443/ntvx1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/81.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.NDR Fernsehen
+https://s6.hopslan.com:443/ndr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/14.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ONE TV
+https://s6.hopslan.com:443/onetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/42.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Phoenix
+https://s6.hopslan.com:443/phoenix/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.PRO7
+https://s6.hopslan.com:443/pro7x1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.PROSIEBENMAX
+https://s6.hopslan.com:443/pro7maxx1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/40.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RBB Fernsehen
+https://s6.hopslan.com:443/rbb/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL
+https://s6.hopslan.com:443/rtlq222/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL
+https://s6.hopslan.com:443/rtlq222/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL 2
+https://s6.hopslan.com:443/rtl2x1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL Nitro
+https://s6.hopslan.com:443/nitrox1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL2
+https://s6.hopslan.com:443/rtl2x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Sat 1
+https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SAT1
+https://s6.hopslan.com:443/sat1x1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SAT1 GOLD
+https://s6.hopslan.com:443/goldx1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SIXX
+https://s6.hopslan.com:443/sixx1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.VOXX
+https://s6.hopslan.com:443/voxx1/index.m3u8?
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/41.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Welt der Wunder
+https://s6.hopslan.com:443/wunder/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/5.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF
+https://s6.hopslan.com:443/zdf1111/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/7.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF NEO
+https://s6.hopslan.com:443/zdfneox1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/6.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF INFO
+https://s6.hopslan.com:443/zdfinfox1/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Agro TV Azerbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
 
@@ -6782,17 +6869,53 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="01.KIL-DİĞER ÜLKELER", Ukrayna
 http://iptv.prosto.tv:7000/ch303/video.m3u8
 
-#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan Skai TV Survivor Yunanistan 22.00 2
+#EXTINF:-1 tvg-id="https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8" tvg-logo="https://icanlive.tv/pictures/action-24.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Action 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.astratv.gr/wp-content/uploads/2023/11/mainlogo.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Astra TV
+https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CoIGJNfM_0BGGaa2nJHriitD1vcwNcMjX-sOsH5rcwPAZAuV3Dxbjq80BBAd8jQwqFpXVvBXU_WPerOV9EYOrG0oTN4aWklstLjfx4AKPix0Sdq6Pv3ljMWb7Ad3U-sUk2PnHLUQM6ARhuc7uC9yljZ7JVr7GLQ2myHiIQRO7Qmh_nOIGNYqbIbklp_Il4SvFHRXMOZVUKnUfd-QPiIFDZlqPpozvk3QYyJyHcQK0brFqx_x0elAroBfiUDnB8HH5knf4UjiiIrL3kb4xiva1iuxWvMFRHQcQZQ9GHPbQ9fbGsUF0LN2wJ2AiggV0zrnY1KxDVVhViCeHdJkmFmH4TC_iwA4NR_1zRgOdi1EjT5HV9nVZ10IDfWeuTyOLl3T87sOt2_-iHVSZJRqwlYBuiD_58TKbO2YsphZ_ZISxGy5s0nYx18T66NpXmJ7gZp_ci-7HYBuxA7aeM6dJ6GlnOsSC6W-RaA2k8UGUdq__prMpFquCvrgNZ42e2IAI8A6QTsrSMLjHmC8yZacrDoZOBntXQVSNz32_OaFVcXNcqQPraBC8M6pHeV2RXnhhI1lb6NqapKNSLvI85m7xH2TvBOFd1pzGUa0XMRF3aqWo8tc3Z_iu22UfMIdlryuG4aUR66r9WyvCFCUWrC-8mpw-fS8dfJ85zJ8CRHMBmyTDXHPY7iPhR0HdhFY4FokTZARMyHCWTtMxVbGdGo-AhllvAmCRU_9NvwgB-OuUAJYXTSLQbgthzFXt_WhLtKdVGTIUXVBxzc4k5KLGCoWJe2dH2x4QOTqzdBdsrUV2Tsbo5q4P2k2-ranJRIAqlYYMISGVvHU-faGlisnQI2_SYOEeqIrHaJI7lFOqgZpww7KvExEPxWe-v_poCFFS5UAevauxCJAbgPQkNrh2TVW7pEok4VbErP-kBRuIPQqacGz8akzRlHanah8WiQsTwQBX5n8FFaN2JLmehmUr0HD_LmyH-dikKCzDjAzx3D8--DvN68W8l9B8TVONKMiFvH9u9jVm12Y16waDD8vmEB2tMYbCwB1MCABKglldS13ZXN0LTIwlAo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://best-tv.gr/wp-content/uploads/2021/02/LOGO-BEST-NEW_resized.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.BestTv
+https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-280x96.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Blue Sky TV
+https://cdn1.smart-tv-data.com/bluesky/bluesky-live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/ena-channel.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.ENA
+https://til.pp.ua:3365/live/enachannellive.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kontrachannel.gr/images/kontrachannel24.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.KONTRA
+https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/2010060307.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.KΡΗΤΗ TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/megatv-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.MEGA
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.neatv.gr/wp-content/uploads/2018/09/logo.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.NEA
+https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/samiaki-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Samiaki
+https://live.cast-control.eu/samiaki/samiaki/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/skai-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Skai
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Skai TV
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER", GRM-RTL
-https://s6.hopslan.com:443/rtlq222/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/Thraki-Net.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Thraki
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER", GRM-RTL2
-https://s6.hopslan.com:443/rtl2x1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvcreta.gr/wp-content/uploads/2017/01/logo-retina-300x47.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Tv Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", GRM-Sat 1
-https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/tv100-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Tv100
+https://live.fm100.gr/hls/tv100/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/zougla-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Zougla
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="01.KIL-HABER", 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
