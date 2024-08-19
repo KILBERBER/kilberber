@@ -341,6 +341,9 @@ http://168.181.122.234:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Performans
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
@@ -3569,8 +3572,8 @@ https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV D
 https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://stream.tvcdn.net/ulusal/atv.m3u8" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV E
-https://live.anystreamrectv3.live/live/atv1.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV E
+http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:-1 tvg-id="ATV AVRUPA" tvg-logo="https://i.ibb.co/Mg8kV1j/atv-avrupa.png" group-title="0.KIL-ULUSAL", 04.ATV Euro
 https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
