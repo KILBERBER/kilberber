@@ -309,6 +309,9 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="0.KIL-MÜZİK", 20.Trace Latina
@@ -340,6 +343,9 @@ http://168.181.122.234:8000/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/48cde59116e943478ad1_640x360.png" group-title="0.KIL-MÜZİK", 21.MTV 00s
 http://170.82.37.21:8000/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png" group-title="0.KIL-MÜZİK", 21.MTV beats
+http://14.102.123.50:5001/live/753.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Performans
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
@@ -1342,6 +1348,258 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=75977&extension=ts
 
 #EXTINF:-1 tvg-id="(TR) XP Zeki M\u00fcren" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK YOUTUBE", Zeki Müren b
 http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=104949&extension=ts
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/mix5.m3u8?token=x1a2cwym0JC9N-lCalm6OA&tms=1722784570" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES 007 rectv 
+https://live.anystreamrectv3.live/live/mix5.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/aks2.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES AKSİYON 2 rectv 
+https://live.anystreamrectv3.live/live/aks2.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/aks3.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES AKSİYON 3 rectv 
+https://live.anystreamrectv3.live/live/aks3.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/wars.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES BİLİMKURGU 2 rectv 
+https://live.anystreamrectv3.live/live/wars.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/bil1.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES BİLİMKURGU rectv 
+https://live.anystreamrectv3.live/live/bil1.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/mix3.m3u8?token=x1a2cwym0JC9N-lCalm6OA&tms=1722784570" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES BOX rectv 
+https://live.anystreamrectv3.live/live/mix3.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/aks1.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES MAX rectv 
+https://live.anystreamrectv3.live/live/aks1.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/yer2.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/4n0rm6f.png" group-title="0.KIL-REC TV", 0.beIN MOVIES TURK 2 rectv 
+https://live.anystreamrectv3.live/live/yer2.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/yer4.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/4n0rm6f.png" group-title="0.KIL-REC TV", 0.beIN MOVIES TURK 3 rectv 
+https://live.anystreamrectv3.live/live/yer4.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/yer1.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/4n0rm6f.png" group-title="0.KIL-REC TV", 0.beIN MOVIES TURK rectv 
+https://live.anystreamrectv3.live/live/yer1.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/mix4.m3u8?token=x1a2cwym0JC9N-lCalm6OA&tms=1722784570" tvg-logo="https://i.hizliresim.com/n0bnsjw.png" group-title="0.KIL-REC TV", 0.beIN MOVIES VİZYON rectv 
+https://live.anystreamrectv3.live/live/mix4.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/yer5.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/4n0rm6f.png" group-title="0.KIL-REC TV", 0.beIN MOVIES YEŞİLCAM 2 rectv 
+https://live.anystreamrectv3.live/live/yer5.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/yer3.m3u8?token=_Vtiokwz-gePFgKpgjeUwQ&tms=1722789204" tvg-logo="https://i.hizliresim.com/4n0rm6f.png" group-title="0.KIL-REC TV", 0.beIN MOVIES YEŞİLCAM rectv 
+https://live.anystreamrectv3.live/live/yer3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-REC TV", 0.EPIC DRAMA rectv 
+https://live.anystreamrectv3.live/live/epicdrama.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ri0nly2.png" group-title="0.KIL-REC TV", 0.FX rectv 
+https://live.anystreamrectv3.live/live/fx.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="0.KIL-REC TV", 0.Moviesmart Turk rectv 
+https://live.anystreamrectv3.live/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="0.KIL-REC TV", 0.Sinema Animasyon 1 rectv 
+https://live.anystreamrectv3.live/live/anim1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="0.KIL-REC TV", 0.Sinema Animasyon 2 rectv 
+https://live.anystreamrectv3.live/live/anim2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/d154cf1561a13d9be7a2b52ab89c0ea2.png" group-title="0.KIL-REC TV", 0.Sinema Animasyon 3 rectv 
+https://live.anystreamrectv3.live/live/anim3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/de7c4cb5b781e00bf77564f544f35d81.png" group-title="0.KIL-REC TV", 0.Sinema Bilim Kurgu 2 rectv 
+https://live.anystreamrectv3.live/live/bil2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png" group-title="0.KIL-REC TV", 0.Sinema Gerilim 1 rectv 
+https://live.anystreamrectv3.live/live/ger1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/467c34febd72661dc04c193a2cf163a2.png" group-title="0.KIL-REC TV", 0.Sinema Gerilim 2 rectv 
+https://live.anystreamrectv3.live/live/ger2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="0.KIL-REC TV", 0.Sinema Komedi 1 rectv 
+https://live.anystreamrectv3.live/live/kom1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="0.KIL-REC TV", 0.Sinema Komedi 2 rectv 
+https://live.anystreamrectv3.live/live/kom2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/50f6731521a2b2056779a0b0ab5e265d.png" group-title="0.KIL-REC TV", 0.Sinema Komedi 3 rectv 
+https://live.anystreamrectv3.live/live/kom3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png" group-title="0.KIL-REC TV", 0.Sinema Korku 1 rectv 
+https://live.anystreamrectv3.live/live/kor1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/4cfa101adf435dcda3edc4ddfd67254e.png" group-title="0.KIL-REC TV", 0.Sinema Korku 2 rectv 
+https://live.anystreamrectv3.live/live/kor2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="0.KIL-REC TV", 0.Sinema Mix 1 rectv 
+https://live.anystreamrectv3.live/live/mix1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="0.KIL-REC TV", 0.Sinema Mix 2 rectv 
+https://live.anystreamrectv3.live/live/mix2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/cb8f8d4dabb5a2012e8bdd372b58f742.png" group-title="0.KIL-REC TV", 0.Sinema Mix 3 rectv 
+https://live.anystreamrectv3.live/live/mix3.m3u8?
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="0.KIL-REC TV", 0.Sinema TV 1 rectv 
+https://live.anystreamrectv3.live/live/sinema.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/h2s70f4.png" group-title="0.KIL-REC TV", 0.SİNEMA TV 1001 rectv 
+https://live.anystreamrectv3.live/live/sinema1001.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/lgwyddd.png" group-title="0.KIL-REC TV", 0.SİNEMA TV AİLE 2 rectv 
+https://live.anystreamrectv3.live/live/sinemaaile2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/lgwyddd.png" group-title="0.KIL-REC TV", 0.SİNEMA TV AİLE rectv 
+https://live.anystreamrectv3.live/live/sinemaaile.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="0.KIL-REC TV", 0.Sinema TV Aksiyon 2 rectv
+https://live.anystreamrectv3.live/live/sinemaaksiyon2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="0.KIL-REC TV", 0.Sinema TV Aksiyon rectv 
+https://live.anystreamrectv3.live/live/sinemaaksiyon.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="0.KIL-REC TV", 0.Sinema TV Komedi 2 rectv 
+https://live.anystreamrectv3.live/live/sinemakomedi2.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/sinemakomedi.m3u8?token=3Tya-L1bHH5s6HUm478fTQ&tms=1723397365" tvg-logo="https://i.hizliresim.com/c17zpg5.png" group-title="0.KIL-REC TV", 0.SİNEMA TV KOMEDi rectv 
+https://live.anystreamrectv3.live/live/sinemakomedi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/re4nsq5.png" group-title="0.KIL-REC TV", 0.Sinema Yerli 2 rectv 
+https://live.anystreamrectv3.live/live/sinemayerli2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/bz0w1zi.png" group-title="0.KIL-REC TV", 0.SINEMA TV 1002 rectv 
+https://live.anystreamrectv3.live/live/sinema1002.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ccp7432.png" group-title="0.KIL-REC TV", 0.SINEMA TV 2 rectv 
+https://live.anystreamrectv3.live/live/sinema2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/q793vvg.png" group-title="0.KIL-REC TV", 0.SINEMA YERLI rectv 
+https://live.anystreamrectv3.live/live/sinemayerli.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.apk-red.com/news/bbcearth-fhd.png" group-title="0.KIL-REC TV", 1.Bbc Earth 2life
+https://one.a5b4b1b50e70ec.shop/live/bbcearth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="0.KIL-REC TV", 1.BBC EARTH rectv 
+https://live.anystreamrectv3.live/live/bbc.m3u8
+
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="http://logo.apk-red.com/news/beiniz-hd.png" group-title="0.KIL-REC TV", 1.beIN Iz 2life
+https://one.a5b4b1b50e70ec.shop/live/beiniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://logo.apk-red.com/news/discoverychannel-hd.png" group-title="0.KIL-REC TV", 1.Discovery Channel 2life
+https://one.a5b4b1b50e70ec.shop/live/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://logo.apk-red.com/news/dmax-hd.png" group-title="0.KIL-REC TV", 1.Dmax dizi 2life
+https://one.a5b4b1b50e70ec.shop/live/dmax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="0.KIL-REC TV", 1.Docubox rectv 
+https://live.anystreamrectv3.live/live/docubox.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/n21vvf7.png" group-title="0.KIL-REC TV", 1.DISCOVERY CHANNEL rectv 
+https://live.anystreamrectv3.live/live/discovery.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="0.KIL-REC TV", 1.DISCOVERY SCIENCE rectv 
+https://live.anystreamrectv3.live/live/discs.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/ee18fc18c8429b726109d423db53424a.jpg" group-title="0.KIL-REC TV", 1.HABİTAT TV rectv 
+https://live.anystreamrectv3.live/live/habitat.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.apk-red.com/news/history-hd.png" group-title="0.KIL-REC TV", 1.History Channel 2life
+https://one.a5b4b1b50e70ec.shop/live/natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="0.KIL-REC TV", 1.HISTORY CHANNEL rectv 
+https://live.anystreamrectv3.live/live/history.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/s62p65m.png" group-title="0.KIL-REC TV", 1.HISTORY CHANNEL rectv 
+https://live.anystreamrectv3.live/live/tarihtv.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographicwild.tr" tvg-logo="http://logo.apk-red.com/news/natgeow%C4%B1ld-hd.png" group-title="0.KIL-REC TV", 1.Nat Geo 2life
+https://one.a5b4b1b50e70ec.shop/live/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="0.KIL-REC TV", 1.NATIONAL GEO rectv 
+https://live.anystreamrectv3.live/live/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="0.KIL-REC TV", 1.NATIONAL GEO WILD rectv 
+https://live.anystreamrectv3.live/live/natgeowild.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.apk-red.com/news/history-hd.png" group-title="0.KIL-REC TV", 1.TARİH TV rec
+https://live.anystreamrectv3.live/live/tarihtv.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://logo.apk-red.com/news/trtbelgesel-hd.png" group-title="0.KIL-REC TV", 1.TRT Belgesel dizi 2life
+https://one.a5b4b1b50e70ec.shop/live/trtbelgesel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.apk-red.com/news/nature-hd.png" group-title="0.KIL-REC TV", 1.Viasat Nature 2life
+https://one.a5b4b1b50e70ec.shop/live/viasat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="0.KIL-REC TV", 1.VIASAT HISTORY rectv 
+https://live.anystreamrectv3.live/live/viasathistory.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.apk-red.com/news/%C4%B1dbelgesel-hd.png" group-title="0.KIL-REC TV", 1.ID Xtra 2life
+https://one.a5b4b1b50e70ec.shop/live/discoveryscience/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/a00boa1.png" group-title="0.KIL-REC TV", REC A SPOR
+https://live.anystreamrectv3.live/live/aspor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 1
+https://tv.anystreamrectv16.xyz/live/bs1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 1 B
+https://tv.anystreamrectv16.xyz/live1/bs11/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 2 
+https://tv.anystreamrectv16.xyz/live/bs2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 3
+https://tv.anystreamrectv16.xyz/live/bs3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 4
+https://tv.anystreamrectv16.xyz/live/bs4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT 5
+https://tv.anystreamrectv16.xyz/live/bs5/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT MAX
+https://tv.anystreamrectv16.xyz/live/bsmax1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC BEIN SPORT MAX 2
+https://tv.anystreamrectv16.xyz/live/bsmax2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC EURO SPORT
+https://live.anystreamrectv3.live/live/euro1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC EURO SPORT 2
+https://live.anystreamrectv3.live/live/euro2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC FB TV
+https://live.anystreamrectv3.live/live/fbtv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC NBA TV
+https://live.anystreamrectv3.live/live/nbatv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC S SPORT
+https://live.anystreamrectv3.live/live/ssport.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC S SPORT 2
+https://live.anystreamrectv3.live/live/ssport2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC SMART SPORT
+https://live.anystreamrectv3.live/live/smart1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC SMART SPORT 2
+https://live.anystreamrectv3.live/live/smart2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TRT SPOR YILDIZ
+https://live.anystreamrectv3.live/live/trtspor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TIVIBU SPORT
+https://live.anystreamrectv3.live/live/tivi1.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/tivi2.m3u8?token=mwJCO32-vssa0IkymVFd0A&tms=1723394565" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TIVIBU SPORT 2
+https://live.anystreamrectv3.live/live/tivi2.m3u8
+
+#EXTINF:-1 tvg-id="https://live.anystreamrectv3.live/live/tivi3.m3u8" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TIVIBU SPORT 3
+https://live.anystreamrectv3.live/live/tivi3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TIVIBU SPORT 4
+https://live.anystreamrectv3.live/live/tivi4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.fireplace
 https://raw.githubusercontent.com/rideordie16/YouTube/main/other/fireplace.m3u8
@@ -2600,17 +2858,11 @@ https://tabii-spor5.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 0.Tabii Spor 6
 https://tabii-spor6.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv
+#EXTINF:-1 tvg-id="https://d1ry0tq05gs10r.cloudfront.net/out/v1/7f32ad91a5384123be10850487fd669a/index.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv b
-https://d1ry0tq05gs10r.cloudfront.net/out/v1/7f32ad91a5384123be10850487fd669a/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv
+#EXTINF:-1 tvg-id="https://d12i7u2tmvmyze.cloudfront.net/out/v1/fe0dcdbc92f34eccac00df6d7b52ebe2/index.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://d12i7u2tmvmyze.cloudfront.net/out/v1/fe0dcdbc92f34eccac00df6d7b52ebe2/index_1.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv b
-https://d12i7u2tmvmyze.cloudfront.net/out/v1/fe0dcdbc92f34eccac00df6d7b52ebe2/index.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
@@ -2737,6 +2989,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist.m3
 
 #EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" group-title="0.KIL-SPOR KARIŞIK", 07.Poker TV
 https://hls.pokertvfa.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png" group-title="0.KIL-SPOR KARIŞIK", 07.World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22893/world-poker-tour/logo_20231219_224338_70.png" group-title="0.KIL-SPOR KARIŞIK", 07.World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/88a710b8-5c30-4b93-81eb-52d8b20aaa80/2.m3u8
@@ -3290,6 +3545,12 @@ https://wispy-snowflake-9ae0.cf-worker-998ffd3bd5cfce98.workers.dev/live/bein-sp
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1        xyz b
 https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/bein-sports-1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 bozzz
+https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+
+#EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/bein-sports-1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 rectv 
+https://tv.anystreamrectv16.xyz/live/bs1/index.m3u8
+
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayininat.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.b.spor 1    inattv 
 https://s2.inattvcom189.xyz/cdn/b1.m3u8
 
@@ -3511,6 +3772,21 @@ https://yillargecse.getirbettv3.com/yayint4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 4 xyz
 https://wispy-snowflake-9ae0.cf-worker-998ffd3bd5cfce98.workers.dev/live/tivibu-spor-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/550px-Major_League_Baseball_logo.svg.png" group-title="0.KIL-SPOR WEB", Z.MLB TV
+https://lnc-mlb3.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SPOR WEB", Z.NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SPOR WEB", Z.NBA TV 2
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports football 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
@@ -5438,26 +5714,26 @@ https://one.a5b4b1b50e70ec.shop/live/beiniz/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery Blutv
 https://discovery.blutv.com/blutv_discovery/discovery.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery Blutv b
+https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery Blutv c
 https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/aa4fcc60a651fa8d790513d7f0a680e3.png" group-title="01.KIL-BELGESEL", 0.Discovery Chanel dizilife
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.Discovery dizilife
 https://one.a5b4b1b50e70ec.shop/live/discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/5485943789579345123.png" group-title="01.KIL-BELGESEL", 0.Discovery Science dizilife 
 https://one.a5b4b1b50e70ec.shop/live/discoveryscience/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.Discovery ID Blutv
+https://discoveryid.blutv.com/blutv_discoveryid/discoveryid.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/9435934859348591.png" group-title="01.KIL-BELGESEL", 0.DMAX dizilife 
 https://one.a5b4b1b50e70ec.shop/live/dmax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY Blutv b
-https://discovery.blutv.com/blutv_discovery/smil:discovery.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY CHANNEL rectv 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_channel.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY rectv 
 https://live.anystreamrectv3.live/live/discovery.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID Blutv
-https://discoveryid.blutv.com/blutv_discoveryid/discoveryid.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/discovery_idx.png" group-title="01.KIL-BELGESEL", 0.DISCOVERY ID Blutv b
 https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
@@ -5468,37 +5744,37 @@ https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/chunklist.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="01.KIL-BELGESEL", 0.History Channel dizilife
 https://one.a5b4b1b50e70ec.shop/live/history/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="01.KIL-BELGESEL", 0.HISTORY CHANNEL rectv 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/585ac9444f6ae202fedf2947.png" group-title="01.KIL-BELGESEL", 0.HISTORY CHANNEL rectv 
 https://live.anystreamrectv3.live/live/history.m3u8
 
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/5489068490539302.png" group-title="01.KIL-BELGESEL", 0.Nat Geo dizilife
+https://one.a5b4b1b50e70ec.shop/live/natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO rectv 
+https://live.anystreamrectv3.live/live/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO web
 https://edge02.odtv.az/o3/natgeo/q_0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo.png" group-title="01.KIL-BELGESEL", 0.NAT GEO web
 https://edge02.odtv.az/o3/natgeo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.Nat Geo Wild
-http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/84567458748355345.png" group-title="01.KIL-BELGESEL", 0.Nat Geo Wild dizilife
 https://one.a5b4b1b50e70ec.shop/live/natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD
-https://edge02.odtv.az/o3/natgeowild/q_0/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.Nat Geo Wild web
+http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD
-https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/5489068490539302.png" group-title="01.KIL-BELGESEL", 0.National Geographic dizilife
-https://one.a5b4b1b50e70ec.shop/live/natgeo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="01.KIL-BELGESEL", 0.NATIONAL GEO rectv 
-https://live.anystreamrectv3.live/live/natgeo.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="01.KIL-BELGESEL", 0.NATIONAL GEO WILD rectv 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD rectv 
 https://live.anystreamrectv3.live/live/natgeowild.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1244.xyz/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="01.KIL-BELGESEL", 0.TARİH TV rectv 
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD web
+https://edge02.odtv.az/o3/natgeowild/q_0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://logo.diamondtv.one/images/logos/turkeyT/national_geo_wild.png" group-title="01.KIL-BELGESEL", 0.NAT GEO WILD web
+https://edge02.odtv.az/o3/natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv1245.xyz/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="01.KIL-BELGESEL", 0.TARİH TV rectv 
 https://live.anystreamrectv3.live/live/tarihtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dizi2.life/assets/img/uploads/4386593859435943534.png" group-title="01.KIL-BELGESEL", 0.Viasat Nature dizilife 
@@ -5800,6 +6076,9 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-0bac93fc5c7648d6bc5257f9bd4
 
 #EXTINF:-1 tvg-id="hlsproxy-61" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/10162c23f6796e41c9d1_640x360.jpg" group-title="01.KIL-BELGESEL", Discovery HD
 http://87.99.87.203:2007/channel/2e72ca6c/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/400px-Discovery_Turbo_logo.svg.png" group-title="01.KIL-BELGESEL", Discovery Turbo
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png" group-title="01.KIL-BELGESEL", DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
