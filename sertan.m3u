@@ -374,6 +374,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto Reality usa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV India 
+http://14.102.123.50:5001/live/248.m3u8
+
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="0.KIL-MÜZİK", 22.BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
@@ -977,6 +980,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="http://mntv.livebox.co.in/musichls/live.m3u8" tvg-logo="https://bx-tv.com/wp-content/uploads/2023/12/mn-music.jpg" group-title="0.KIL-MÜZİK", 48.MN TV Music Tamil
 https://mntv.livebox.co.in/musichls/live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Indian_Music_Industry_logo.svg/440px-Indian_Music_Industry_logo.svg.png" group-title="0.KIL-MÜZİK", 48.Music India 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/Musicindia.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23014/only-music/logo_20231219_220557_60.png" group-title="0.KIL-MÜZİK", 48.Only Music
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
 
@@ -985,6 +991,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="0.KIL-MÜZİK", 48.Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/YRFTV1.png" group-title="0.KIL-MÜZİK", 48.Yrf music 
+http://14.102.123.50:5001/live/2753.m3u8
 
 #EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="0.KIL-MÜZİK", 49.Javan
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
@@ -2861,8 +2870,20 @@ https://tabii-spor6.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="https://d1ry0tq05gs10r.cloudfront.net/out/v1/7f32ad91a5384123be10850487fd669a/index.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv
 https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv a
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a22866ac318108e1f6d" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport1 Blutv b
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="https://d12i7u2tmvmyze.cloudfront.net/out/v1/fe0dcdbc92f34eccac00df6d7b52ebe2/index.m3u8" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv
 https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv a
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/70x70/66ab7a84866ac318108e1f6f" group-title="0.KIL-SPOR KARIŞIK", 01.Eurosport2 Blutv b
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
@@ -3773,6 +3794,51 @@ https://yillargecse.getirbettv3.com/yayint4.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 4 xyz
 https://wispy-snowflake-9ae0.cf-worker-998ffd3bd5cfce98.workers.dev/live/tivibu-spor-4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.A sports
+http://103.131.214.129:9985/stream/channelid/868069455.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Acc network (ESPN)
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Arena sport 1 
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.BEIN sport 1 France 
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.BEIN sports extra 
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.canal+ sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.canal+ sport hd
+http://78.130.250.2:8023/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Eleven_Sports_1
+http://109.233.89.166/Eleven_Sports_1_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Eleven_Sports_4
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Espn
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.ESPN u
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Eurosport 1 eu
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Eurosport 2 eu
+http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/RGB_Logotipo_LALIGA_color_positivevg.svg/400px-RGB_Logotipo_LALIGA_color_positivevg.svg.png" group-title="0.KIL-SPOR WEB", Z.Laliga tv
+https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/550px-Major_League_Baseball_logo.svg.png" group-title="0.KIL-SPOR WEB", Z.MLB TV
 https://lnc-mlb3.tubi.video/playlist.m3u8
 
@@ -3782,11 +3848,107 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SPOR WEB", Z.NBA TV 2
 http://212.102.60.231/NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.nova hd
+http://78.130.250.2:8023/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.nova sport 1 hd
+http://78.130.250.2:8023/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="0.KIL-SPOR WEB", Z.Sky sports cricket
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports f1
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_F1_Live_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports football 
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky-sports-golf.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports golf 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="0.KIL-SPOR WEB", Z.Sky sports main event 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="0.KIL-SPOR WEB", Z.Sky Sports mix
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Sky-sports-premiere.jpg" group-title="0.KIL-SPOR WEB", Z.Sky sports premier league 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.sport 1 hd
+http://78.130.250.2:8023/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 1 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7269/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 2 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7270/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 3 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7271/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 4 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7272/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 5 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7273/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 6 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7274/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 7 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7275/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub 8 HD
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7276/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/600px-Sportklub_Logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Sport Klub Golf
+http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/7277/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Spotv
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/400px-STAR_Sports_logo.png" group-title="0.KIL-SPOR WEB", Z.Star sports 1 
+http://103.131.214.129:9985/stream/channelid/319502366.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/400px-STAR_Sports_logo.png" group-title="0.KIL-SPOR WEB", Z.Star sports 2
+http://103.131.214.129:9985/stream/channelid/467812421.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/61/STAR_Sports_logo.png/400px-STAR_Sports_logo.png" group-title="0.KIL-SPOR WEB", Z.Star sports 3
+http://103.131.214.129:9985/stream/channelid/1098044515.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports action 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports biltz 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Blitz_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports cricket 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports football 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports golf 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.supersport.com/media/u40dtm0w/supersport-logo.png" group-title="0.KIL-SPOR WEB", Z.Super sports premier league 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Tigo sports 
+https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.TVP_Sport
+http://109.233.89.166/TVP_Sport_HD/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Major_League_Cricket_logo.svg/280px-Major_League_Cricket_logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Willow cricket
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Major_League_Cricket_logo.svg/280px-Major_League_Cricket_logo.svg.png" group-title="0.KIL-SPOR WEB", Z.Willow Cricket Extra
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/78fb444f-0b3b-446f-bc1e-052fd1b52f8a.png" group-title="0.KIL-ULUSAL", 0.Milli Piyango
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/millipiyangotv.m3u8
@@ -5489,6 +5651,12 @@ https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1 b
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-id="86" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1 c
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1 d
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2
 https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
 
@@ -5497,6 +5665,12 @@ https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2 b
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2 c
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2 d
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.CLC TV
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
@@ -6047,6 +6221,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="01.KIL-BELGESEL", AKC TV
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Animal planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22866/awe-encore/logo_20231219_184403_70.png" group-title="01.KIL-BELGESEL", AWE Plus
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/AWE_Encore.m3u8
 
@@ -6074,11 +6251,23 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WULCjJZ.png" group-title="01.KIL-BELGESEL", Discovery & Tourism Guyana
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-0bac93fc5c7648d6bc5257f9bd4777dc/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+
 #EXTINF:-1 tvg-id="hlsproxy-61" tvg-logo="https://images.beetv.kz/rosing-beelinekz-production/10162c23f6796e41c9d1_640x360.jpg" group-title="01.KIL-BELGESEL", Discovery HD
 http://87.99.87.203:2007/channel/2e72ca6c/index.m3u8?q=92e2ce7ea739863e3dafd254b1810f4b
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Discovery id
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscID.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Discovery sci
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscSci.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/400px-Discovery_Turbo_logo.svg.png" group-title="01.KIL-BELGESEL", Discovery Turbo
 https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscTurbo.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Dmax
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/Dmax.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png" group-title="01.KIL-BELGESEL", DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
@@ -6229,6 +6418,9 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="01.KIL-BELGESEL", WeatherSpy
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", Zina TV Wild
+http://85.237.89.6:9590/live/zinatvwild/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="01.KIL-BELGESEL", zоо
 http://iptv.prosto.tv:7000/ch319/video.m3u8
@@ -8324,6 +8516,9 @@ https://linear-863.frequency.stream/dist/distrotv/863/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="09.KIL ORTAYA KARISIK :)", amc +
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="09.KIL ORTAYA KARISIK :)", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
@@ -8363,8 +8558,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/frightflix/logo_20231219_201959_68.png" group-title="09.KIL ORTAYA KARISIK :)", Frightflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1966&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=frightflix&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Fx
+http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20231219_202129_68.png" group-title="09.KIL ORTAYA KARISIK :)", Galxy TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1967&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=galxy-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", HBO
+http://212.102.60.231/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20231219_213950_56.png" group-title="09.KIL ORTAYA KARISIK :)", Horror Machine
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
@@ -8384,11 +8591,23 @@ https://api-ott-ottpri-sl.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20231219_215112_55.png" group-title="09.KIL ORTAYA KARISIK :)", Life Style by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22759/lone-star/logo_20231219_215208_70.png" group-title="09.KIL ORTAYA KARISIK :)", Lone Star
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22728/monarch/logo_20231219_215904_69.png" group-title="09.KIL ORTAYA KARISIK :)", Monarch
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Movies 1080p English 
+https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Movies channel English 
+https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Movies TV ENGLISH
+https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/mgbgNmKZ/file-20191203-67028-qfiw3k.jpg" group-title="09.KIL ORTAYA KARISIK :)", MR BEAN
 http://51.159.104.29:8080/mrbean/index.m3u8
@@ -8404,6 +8623,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22919/revry-her/logo_20231219_221435_68.png" group-title="09.KIL ORTAYA KARISIK :)", Revry Her
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Sony pix 
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="09.KIL ORTAYA KARISIK :)", Star movies
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22886/the-grid/logo_20231219_223119_65.png" group-title="09.KIL ORTAYA KARISIK :)", TheGrid
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-grid/5573c80e6921946e87df68ae6f7a67ef.m3u8
