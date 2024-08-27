@@ -1610,21 +1610,6 @@ https://live.anystreamrectv3.live/live/tivi3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/agk5w8g.png" group-title="0.KIL-REC TV", REC TIVIBU SPORT 4
 https://live.anystreamrectv3.live/live/tivi4.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.fireplace
-https://raw.githubusercontent.com/rideordie16/YouTube/main/other/fireplace.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.fireplace 2
-https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.ocean
-https://raw.githubusercontent.com/rideordie16/YouTube/main/other/ocean.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.relaxing müzik
-https://raw.githubusercontent.com/rideordie16/YouTube/main/other/relaxingmusic.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="0.KIL-RELAX", 0.snowstorm
-https://raw.githubusercontent.com/rideordie16/YouTube/main/other/snowstorm.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1280x720_3291200/index.m3u8
 
@@ -3561,10 +3546,7 @@ https://tayland.kesintisizmaclar11.site/hls/bein-sports-1.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/bein-sports-1
 
 #EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/xyzsport.php?channel=1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1        xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/bein-sports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1        xyz b
-https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-1/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/bein-sports-1" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 bozzz
 https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
@@ -3573,10 +3555,10 @@ https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
 https://tv.anystreamrectv16.xyz/live/bs1/index.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayininat.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.b.spor 1    inattv 
-https://s2.inattvcom189.xyz/cdn/b1.m3u8
+https://s2.inattvcom193.xyz/cdn/b1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.b.spor 1    inattv b
-https://s2.inattvcom191.xyz/cdn/b1.m3u8
+https://s1.inattvcom193.xyz/cdn/b1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png" group-title="0.KIL-SPOR WEB", Web.b.spor 1    inattv c
 https://yillargecse.getirbettv3.com/yayininat.m3u8
@@ -3594,16 +3576,13 @@ https://tayland.kesintisizmaclar11.site/hls/bein-sports-2.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/bein-sports-2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 2      xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/bein-sports-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 2      xyz b
-https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-2/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 2    jyayın
 https://jyayintv7.site/cdn/bein_sports_2_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinb2.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.b.spor 2 inattv 
-https://s2.inattvcom189.xyz/cdn/b2.m3u8
+https://s1.inattvcom193.xyz/cdn/b2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.b.spor 2 inattv b
 https://yillargecse.getirbettv3.com/yayinb2.m3u8
@@ -3615,10 +3594,7 @@ https://tayland.kesintisizmaclar11.site/hls/bein-sports-3.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/bein-sports-3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect3.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 3  xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/bein-sports-3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect3.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 3  xyz b
-https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-3/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://s2.inattvcom184.xyz/cdn/b2.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnetc2.png" group-title="0.KIL-SPOR WEB", Web.b.spor 3 inattv 
 https://yillargecse.getirbettv3.com/yayinb3.m3u8
@@ -3630,10 +3606,7 @@ https://tayland.kesintisizmaclar11.site/hls/bein-sports-4.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/bein-sports-4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect4.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 4   xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/bein-sports-4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect4.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 4   xyz b
-https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-4/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/bein-sports-4" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect4.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 4 inattv 
 https://yillargecse.getirbettv3.com/yayinb4.m3u8
@@ -3645,10 +3618,7 @@ https://tayland.kesintisizmaclar11.site/hls/bein-sports-5.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/bein-sports-5
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect5.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 5   xyz
-https://wispy-snowflake-9ae0.cf-worker-998ffd3bd5cfce98.workers.dev/live/bein-sports-5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect5.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 5   xyz b
-https://black-thunder-6a4e.cf-worker-2599d027b9e3f25e.workers.dev/live/bein-sports-5/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/bein-sports-5" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinconnect5.png" group-title="0.KIL-SPOR WEB", Web.B.SPOR 5 inattv 
 https://yillargecse.getirbettv3.com/yayinb5.m3u8
@@ -3657,7 +3627,7 @@ https://yillargecse.getirbettv3.com/yayinb5.m3u8
 https://yillargecse.getirbettv3.com/yayinbm1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="0.KIL-SPOR WEB", Web.beinmax1 xyz
-https://wispy-snowflake-9ae0.cf-worker-998ffd3bd5cfce98.workers.dev/live/bein-sports-max-1/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/bein-sports-max-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://s1.inattvcom189.xyz/cdn/eu1.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="0.KIL-SPOR WEB", Web.Euro sport 1 inattv
 https://yillargecse.getirbettv3.com/yayineu1.m3u8
@@ -3672,7 +3642,7 @@ https://yillargecse.getirbettv3.com/yayineu2.m3u8
 https://live.anystreamrectv3.live/live/euro2.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinex1.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="0.KIL-SPOR WEB", Web.exen inattv
-https://s2.inattvcom189.xyz/cdn/exen1.m3u8
+https://s2.inattvcom193.xyz/cdn/exen1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="0.KIL-SPOR WEB", Web.exen inattv b
 https://s2.inattvcom191.xyz/cdn/exen1.m3u8
@@ -3687,7 +3657,7 @@ https://tayland.kesintisizmaclar11.site/hls/exxenesra.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/maci-canli-izle/exxenesra
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="0.KIL-SPOR WEB", Web.exxen xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/exxen-sport-1/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/exxen-sport-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SPOR WEB", Web.NBA inattv 
 https://yillargecse.getirbettv3.com/yayinnbatv.m3u8
@@ -3699,7 +3669,7 @@ https://tayland.kesintisizmaclar11.site/hls/s-sport.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/s-sport
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinss.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="0.KIL-SPOR WEB", Web.s sport 1 inattv
-https://s1.inattvcom189.xyz/cdn/ssport.m3u8
+https://s2.inattvcom193.xyz/cdn/ssport.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="0.KIL-SPOR WEB", Web.S Sport 1 inattv a
 https://s2.inattvcom191.xyz/cdn/ssport.m3u8
@@ -3714,7 +3684,7 @@ https://s2.inattvcom189.xyz/cdn/ssport.m3u8
 https://yillargecse.getirbettv3.com/yayinss.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="0.KIL-SPOR WEB", Web.s sport 1 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/s-sport/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/s-sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://deathlesstg.serv00.net/taraftarium.php?url=https://www.taraftarium24-6.site/canli-izle/s-sport-2" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.KIL-SPOR WEB", Web.S Sport 2 
 https://tayland.kesintisizmaclar11.site/hls/s-sport-2.m3u8
@@ -3723,13 +3693,13 @@ https://tayland.kesintisizmaclar11.site/hls/s-sport-2.m3u8
 https://deathlesstg.serv00.net/taraftarium-wuffy.php?url=https://www.taraftarium24-7.site/canli-izle/s-sport-2
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinss2.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.KIL-SPOR WEB", Web.S Sport 2 inattv 
-https://s1.inattvcom189.xyz/cdn/ssport2.m3u8
+https://s1.inattvcom193.xyz/cdn/ssport2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.KIL-SPOR WEB", Web.S Sport 2 inattv b 
 https://yillargecse.getirbettv3.com/yayinss2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="0.KIL-SPOR WEB", Web.s sport2 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/s-sport-2/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/s-sport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg" group-title="0.KIL-SPOR WEB", Web.Sky Sports F1 inattv 
 https://yillargecse.getirbettv3.com/yayinf1.m3u8
@@ -3738,7 +3708,7 @@ https://yillargecse.getirbettv3.com/yayinf1.m3u8
 https://tayland.kesintisizmaclar11.site/hls/smartspor.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinsmarts.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="0.KIL-SPOR WEB", Web.spor smart 1 inattv 
-https://s1.inattvcom189.xyz/cdn/sporsmart.m3u8
+https://s1.inattvcom193.xyz/cdn/sporsmart.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinsmarts.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="0.KIL-SPOR WEB", Web.spor smart 1 inattv c
 https://s2.inattvcom191.xyz/cdn/sporsmart.m3u8
@@ -3747,22 +3717,22 @@ https://s2.inattvcom191.xyz/cdn/sporsmart.m3u8
 https://s1.inattvcom191.xyz/cdn/sporsmart.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayinsms2.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="0.KIL-SPOR WEB", Web.spor smart 2 inattv
-https://s1.inattvcom189.xyz/cdn/sporsmart2.m3u8
+https://s1.inattvcom193.xyz/cdn/sporsmart2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="0.KIL-SPOR WEB", Web.spor smart 2 inattv b
 https://yillargecse.getirbettv3.com/yayinsms2.m3u8
 
 #EXTINF:-1 tvg-id="https://hs-cors.herokuapp.com/https://yillargecse.getirbettv3.com/yayint1.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.tivibu 1 inattv 
-https://s1.inattvcom189.xyz/cdn/tivi1.m3u8
+https://s1.inattvcom193.xyz/cdn/tivi1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.tivibu 1 inattv a
-https://s1.inattvcom191.xyz/cdn/tivi1.m3u8
+https://s2.inattvcom193.xyz/cdn/tivi1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.tivibu 1 inattv b
 https://yillargecse.getirbettv3.com/yayint1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 1 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/tivibu-spor-1/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/tivibu-spor-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://yillargecse.getirbettv3.com/yayint2.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="0.KIL-SPOR WEB", Web.tivibu 2 inattv
 https://s1.inattvcom189.xyz/cdn/tivi2.m3u8
@@ -3774,7 +3744,7 @@ https://s1.inattvcom191.xyz/cdn/tivi2.m3u8
 https://yillargecse.getirbettv3.com/yayint2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 2 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/tivibu-spor-2/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/tivibu-spor-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://yillargecse.getirbettv3.com/yayint3.m3u8" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="0.KIL-SPOR WEB", Web.tivibu 3 inattv
 https://s1.inattvcom189.xyz/cdn/tivi3.m3u8
@@ -3786,13 +3756,13 @@ https://s1.inattvcom191.xyz/cdn/tivi3.m3u8
 https://yillargecse.getirbettv3.com/yayint3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 3 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/tivibu-spor-3/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/tivibu-spor-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 4 inattv 
 https://yillargecse.getirbettv3.com/yayint4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="0.KIL-SPOR WEB", Web.Tivibu 4 xyz
-https://wispy-snowflake-9ae0.cf-worker-f5dc2e75989847f3.workers.dev/live/tivibu-spor-4/playlist.m3u8
+https://wispy-snowflake-9ae0.cf-worker-072819102cc3ae04.workers.dev/live/tivibu-spor-4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SPOR WEB", Z.A sports
 http://103.131.214.129:9985/stream/channelid/868069455.ts
@@ -5642,9 +5612,6 @@ http://mag.ukhd.tv/play/live.php?mac=00:1A:79:7C:7F:6A&stream=170408&extension=t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.ATV Sinema
 http://135.181.115.81:8000/play/a02f/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="86" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1
-https://d21eod2e3p9ljp.cloudfront.net/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1 a
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8
 
@@ -5656,9 +5623,6 @@ https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230407/68/202304071239042521wk_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 1 d
 https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index_1.m3u8" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2
-https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://izmottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202304/20230425/3/20230425082517475g61_op_0_XL.png" group-title="00.KIL-ONLİNE FİLM", 01.BLUTV PLAY 2 a
 https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8?DVR
