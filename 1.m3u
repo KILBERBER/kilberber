@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="645d1abbe1979c0008779d5a" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="Argentina", Archivos Extraterrestres
 https://jmp2.uk/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
-
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://fragrant-dream-aad1.cc12bb13dd14aa15.workers.dev/yayinstar.m3u8
+#EXTINF:-1 tvg-id="TR" tvg-name="TR: beIN Sport 1 HD" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="DeaTHLesS",TR: beIN Sport 1 HD
 #EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Argentina", Archivos Forenses
 https://jmp2.uk/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
 
