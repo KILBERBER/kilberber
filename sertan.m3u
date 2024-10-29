@@ -328,6 +328,9 @@ http://168.181.122.234:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-id="Muzik_MTVBiggestPop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 
@@ -444,6 +447,9 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.VEVO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.VEVO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="0.KIL-MÜZİK", 26.Vevo 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
@@ -1515,6 +1521,9 @@ https://lives.anystreamrectv3.live/live/tivi3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-REC TV", TIVIBU SPORT 4
 https://lives.anystreamrectv3.live/live/tivi4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 01.Relax
+https://ythls.kekikakademi.org/youtube/channel/UCjzHeG1KWoonmf9d5KBvSiw.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mqsZQXJ.png" group-title="0.KIL-RELAX", 02.Relax
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -2599,6 +2608,9 @@ https://yayincorsproxy.loyefnbyf3.workers.dev/https://cinque.7485a56a493cbfc3.cl
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 Selçuk a
 https://yayincorsproxy.loyefnbyf3.workers.dev/https://sette.53bcc5ec13d72fd5.click/i/neden/601/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 Selçuk a..
+https://yayincorsproxy.loyefnbyf3.workers.dev/https://sette.e039a135e2d6b18d.click/i/selcuksportshd1440.xyz/601/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SPOR WEB", Web.B.SP0R 1 Selçuk b
 https://yayincorsproxy.loyefnbyf3.workers.dev/https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/2/playlist.m3u8
@@ -4015,6 +4027,24 @@ http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402935&extension=m3
 #EXTINF:-1 tvg-id="ZEKI VE METIN" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="00.KIL-DİZİ-SERi-STAR", 0.ZEKI VE METIN d
 http://geldia.xyz/play/live.php?mac=00:1A:79:BF:BA:E5&stream=402932&extension=m3u8
 
+#EXTINF:-1 tvg-id="icerik_KurtlarVadisi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Kurtlar Vadisi
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+
+#EXTINF:-1 tvg-id="icerik_Seksenler" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Seksenler
+https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
+
+#EXTINF:-1 tvg-id="icerik_Selena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Selena
+https://ythls.kekikakademi.org/youtube/channel/UCC_iReQZgbPtOBfn3bjNnPw.m3u8
+
+#EXTINF:-1 tvg-id="icerik_YaprakDokumu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Yaprak Dökümü
+https://ythls.kekikakademi.org/youtube/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
+
+#EXTINF:-1 tvg-id="icerik_CocuklarDuymasin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Çocuklar Duymasın
+https://ythls.kekikakademi.org/youtube/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+
+#EXTINF:-1 tvg-id="icerik_CocuklarDuymasinEski" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title=""00.KIL-DİZİ-SERi-STAR", Çocuklar Duymasın (Eski Sezon)
+https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
+
 #EXTINF:-1 tvg-id="icerik_AdiniFerihaKoydum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" group-title="00.KIL-DİZİ-SERi-STAR", Adını Feriha Koydum
 https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
 
@@ -4143,6 +4173,9 @@ http://stream.tvcdn.net/diger/eva-tv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.F Tv
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-ONLİNE FİLM", 01.Flux tv
+https://fulxtv7.interweb.com.tr:3436/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="00.KIL-ONLİNE FİLM", 01.Fark Turk TV
 http://palatv34.ozelip.com:22372/farkturktv/farkturktv/playlist.m3u8
@@ -4534,6 +4567,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="01.KIL-BELGESEL", Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="01.KIL-BELGESEL", CGTN BELGESEL
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20231219_185321_53.png" group-title="01.KIL-BELGESEL", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
@@ -6787,6 +6823,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1970&live=1&avo
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="09.KIL ORTAYA KARISIK :)", WOMAN Blutv
 https://womantv.blutv.com/blutv_womantv/smil:blutv_womantv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/TTwc1rR/saglikch.png" group-title="09.KIL ORTAYA KARISIK :)", SAĞLIK CHANNEL
+https://live.euromediacenter.com/saglikchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/qRsfyb2/tvmor.png" group-title="09.KIL ORTAYA KARISIK :)", MOR TV
+https://live.euromediacenter.com/tvmor/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="09.KIL ORTAYA KARISIK :)", WOMAN KADIN TV
 https://embedlp.b-cdn.net/womantv.m3u8
