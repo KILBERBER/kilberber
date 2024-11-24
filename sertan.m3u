@@ -1924,7 +1924,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/CBC-Sport.png" group-title="0.KIL-SPOR KARIŞIK⚽🏀🏐", 05.cbc sport
-https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8
+https://yayin8.canlitv.day/livetv/cbcsport.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://idmantv.az/storage/settings/October2019/rbyweoRZLrnCvpc3qp9q.png" group-title="0.KIL-SPOR KARIŞIK⚽🏀🏐", 05.idman tv
 https://canlitvulusal.xyz/live/idmantv/index.m3u8
@@ -2477,10 +2477,10 @@ https://vavoo.to/play/1447241506/index.m3u8
 https://vavoo.to/play/2509466191/index.m3u8
 
 #EXTINF:-1 tvg-id="2851539143" tvg-logo="noimage.png" group-title="0.KIL-SPOR VAVOO PANEL", BEIN SPORTS 2 HD (1)
-https://vavoo.to/play/2851539143/index.m3u8
+https://vavoo.to/play/2851539143/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="3236362911" tvg-logo="noimage.png" group-title="0.KIL-SPOR VAVOO PANEL", BEIN SPORTS 2 SD (1)
-https://vavoo.to/play/3236362911/index.m3u8
+https://vavoo.to/play/3236362911/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="3694662475" tvg-logo="noimage.png" group-title="0.KIL-SPOR VAVOO PANEL", BEIN SPORTS 2 UHD (1)
 https://vavoo.to/play/3694662475/index.m3u8
