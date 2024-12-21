@@ -44,6 +44,9 @@ http://yktv2828.ozelip.com:30838/palatv/palatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="0.KIL-MÜZİK", 04.PALA TV b
 http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SHOW PLUS TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" group-title="0.KIL-MÜZİK", 04.SHOW PLUS TV
+http://str.yodacdn.net/showplus/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sun9-65.userapi.com/YfWLsWixUhsn2BUC0kKl1LdJkBGc7scYiUlSvg/RPUzgrbJonQ.jpg" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
@@ -64,6 +67,9 @@ http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i1.sndcdn.com/artworks-ses6lbuxt6WSL8jx-UThPmA-t500x500.jpg" group-title="0.KIL-MÜZİK", 04.Turkce POP REMIX
 https://new.cache-stream.workers.dev/video/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/K_AVRUPA_LOGO.png" group-title="0.KIL-MÜZİK", 04.TV Avrupa ʜᴅ
+http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.Number 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
@@ -767,12 +773,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="0.KIL-MÜZİK", 38.Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="SHOW PLUS TV" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" group-title="0.KIL-MÜZİK", 4.SHOW PLUS TV
-http://str.yodacdn.net/showplus/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/K_AVRUPA_LOGO.png" group-title="0.KIL-MÜZİK", 4.TV Avrupa ʜᴅ
-http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="GlobalTV.ar" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="0.KIL-MÜZİK", 40.Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 
@@ -1334,12 +1334,6 @@ http://iptv.prosto.tv:7000/ch316/video.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/Fb.gif" group-title="0.KIL-SPOR  MAÇ", -Yaşa Fenerbahçe-
 https://raw.githubusercontent.com/KILBERBER/kilberber/main/7yasa.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mediacms01.digiturkplay.com/sa_bc/PS0000001110/super-lig-ozetler-2023-24_220x286.jpg" group-title="0.KIL-SPOR  MAÇ", Bein Arşiv+Maç Özet
-https://yt.ariev.workers.dev/ch/UCNopxUNUMinlK3ybMGlpbGQ.m3u8
-
-#EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://goltvcomtr.teimg.com/goltv-com-tr/images/banner/190x90-gol-tv-logo-2.png" group-title="0.KIL-SPOR  MAÇ", GOL TV
-https://new.cache-stream.workers.dev/stream/qfyam6JjSDE/live.m3u8
-
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SPOR  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
@@ -1387,9 +1381,6 @@ https://tinyurl.com/DeaTHLesS-Opsun-Sizi?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wb
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SPOR  MAÇ", Web....B.SP0R 1 Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.macizletsinler24.site/hls/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.macizletsinler24.site/hls/bein-sports-1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SPOR  MAÇ", Web....B.SP0R 1 Maç Zamanı b
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.macizletsinler24.site/hls/bein-sports-1-hd.m3u8
 
 #EXTINF:-1 tvg-id="Dummyhttps://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://y0.trgoalshls37.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SPOR  MAÇ", Web..B.SP0R 1a TARAFTARRiUM
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://k0.trgoalshls38.cfd/yayinzirve.m3u8?live=true?|referer=https://trgoals1080.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -4463,502 +4454,502 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="01.KIL-BELGESEL", zоо
 http://iptv.prosto.tv:7000/ch319/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.3SAT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.3SAT
 https://s6.hopslan.com:443/3sat/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/06/2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ARD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2020/06/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ARD
 https://s6.hopslan.com:443/ard1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/4.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ARTE
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/4.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ARTE
 https://s6.hopslan.com:443/arte/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/45.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.BR Fernsehen
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/45.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.BR Fernsehen
 https://s6.hopslan.com:443/br/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.DW
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/77.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.DW
 https://s6.hopslan.com:443/dw/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/43.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.HR Fernsehen
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/43.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.HR Fernsehen
 https://s6.hopslan.com:443/hr/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.KABEL 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.KABEL 1
 https://s6.hopslan.com:443/kabel1x1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.Kabel 1 Doku
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Kabel 1 Doku
 https://s6.hopslan.com:443/dokux1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/8.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.KIKA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/8.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.KIKA
 https://s6.hopslan.com:443/kika/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/79.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.MDR Fernsehen
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/79.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.MDR Fernsehen
 https://s6.hopslan.com:443/mdr/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/46.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.MTV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/46.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.MTV
 https://s6.hopslan.com:443/mtv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.N-TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.N-TV
 https://s6.hopslan.com:443/ntvx1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/81.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.NDR Fernsehen
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/10/81.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.NDR Fernsehen
 https://s6.hopslan.com:443/ndr/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/14.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ONE TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/14.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ONE TV
 https://s6.hopslan.com:443/onetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/42.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.Phoenix
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/42.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Phoenix
 https://s6.hopslan.com:443/phoenix/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.PRO7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.PRO7
 https://s6.hopslan.com:443/pro7x1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.PROSIEBENMAX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.PROSIEBENMAX
 https://s6.hopslan.com:443/pro7maxx1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/40.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RBB Fernsehen
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/40.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RBB Fernsehen
 https://s6.hopslan.com:443/rbb/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RTL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL
 https://s6.hopslan.com:443/rtlq222/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RTL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL
 https://s6.hopslan.com:443/rtlq222/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RTL 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL 2
 https://s6.hopslan.com:443/rtl2x1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RTL Nitro
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL Nitro
 https://s6.hopslan.com:443/nitrox1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.RTL2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.RTL2
 https://s6.hopslan.com:443/rtl2x1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.Sat 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Sat 1
 https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.SAT1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SAT1
 https://s6.hopslan.com:443/sat1x1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.SAT1 GOLD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-gold-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SAT1 GOLD
 https://s6.hopslan.com:443/goldx1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.SIXX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.SIXX
 https://s6.hopslan.com:443/sixx1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.VOXX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.VOXX
 https://s6.hopslan.com:443/voxx1/index.m3u8?
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/41.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.Welt der Wunder
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.2ix2.com/wp-content/uploads/2021/06/41.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.Welt der Wunder
 https://s6.hopslan.com:443/wunder/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/5.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ZDF
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/5.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF
 https://s6.hopslan.com:443/zdf1111/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/7.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ZDF NEO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/7.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF NEO
 https://s6.hopslan.com:443/zdfneox1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/6.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Alm.ZDF INFO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/6.png" group-title="01.KIL-DİĞER ÜLKELER", Alm.ZDF INFO
 https://s6.hopslan.com:443/zdfinfox1/index.m3u8
 
-#EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Asgabat (Turkm)
+#EXTINF:-1 tvg-id="TuranTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv.png" group-title="01.KIL-DİĞER ÜLKELER", Asgabat (Turkm)
 http://217.174.225.146/legacyhls/ch006_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Agro TV Azerbaycan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Agro TV Azerbaycan
 https://yayin30.haber100.com/live/agrotv2/chunklist_w758555833.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Alvin_Channel_TV_-_AZE.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Alvin Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Alvin_Channel_TV_-_AZE.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr:80/alvinchannel/alvinchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Apa TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Apa TV
 http://rtmp.apa.tv/@pagroup!23.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.APA TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.APA TV
 http://rtmp.apa.tv:80/@pagroup!23.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-id="arb-tv" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB
+#EXTINF:-1 tvg-id="arb-tv" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB
 http://88.99.66.6:8080/str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB
 https://edge02.odtv.az/o1/arbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB
 http://edge02.odtv.az/o1/arbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24
 http://88.99.66.6:8080/str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24
 http://edge02.odtv.az/o7/arb24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB 24 HD
+#EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://www.arbtv.az/assets/uploads/sites/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB 24 HD
 https://edge02.odtv.az/o7/arb24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB Gunes
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB Gunes
 https://github.com/UzunMuhalefet/streams/raw/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB Günəş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB Günəş
 http://88.99.66.6:8080/str.yodacdn.net/arbgunesh/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ARB Günəş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ARB Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
-#EXTINF:-1 tvg-id="⚜️ATV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ATV
+#EXTINF:-1 tvg-id="⚜️ATV" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLdaxQjNld35WLBJ1w.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ATV
 http://88.99.66.6:8080/str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.AZ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.AZ TV
 http://str.yodacdn.net/aztv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.AZ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.AZ TV
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Azad TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
 
-#EXTINF:-1 tvg-id="⚜️AzStar TV" tvg-logo="https://i.postimg.cc/Vksts79F/images.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.AzStar TV
+#EXTINF:-1 tvg-id="⚜️AzStar TV" tvg-logo="https://i.postimg.cc/Vksts79F/images.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.AzStar TV
 http://live.livestreamtv.ca:80/azstar/azstar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Baku TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Baku TV
 https://rtmp.baku.tv/streams/bakutv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Baku TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Baku TV
 https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Bakü TV🔸" tvg-logo="https://i.postimg.cc/CLLPPY5J/unnamed.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Bakü TV🔸
+#EXTINF:-1 tvg-id="⚜️Bakü TV🔸" tvg-logo="https://i.postimg.cc/CLLPPY5J/unnamed.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Bakü TV🔸
 http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Bloomberg
 https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.CBC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.CBC
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Dünya TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Dünya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
 
-#EXTINF:-1 tvg-id="⚜️FTV" tvg-logo="https://i.postimg.cc/SNtmP2Fr/images-2.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.FTV
+#EXTINF:-1 tvg-id="⚜️FTV" tvg-logo="https://i.postimg.cc/SNtmP2Fr/images-2.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
-#EXTINF:-1 tvg-id="⚜️GünAz TV" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ732ZArgRlD9de8NWP.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.GünAz TV
+#EXTINF:-1 tvg-id="⚜️GünAz TV" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ732ZArgRlD9de8NWP.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.GünAz TV
 http://88.99.66.6:8080/str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.ictimai TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.ictimai TV
 https://hw2.jemtv.com/app/ict/playlist.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Kanal 35" tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Kanal 35
+#EXTINF:-1 tvg-id="⚜️Kanal 35" tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Kanal 35
 http://88.99.66.6:8080/str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="⚜️Kanal S" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Kanal S
+#EXTINF:-1 tvg-id="⚜️Kanal S" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Kanal S
 http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Kanal S 🔸" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Kanal S 🔸
+#EXTINF:-1 tvg-id="⚜️Kanal S 🔸" tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Kanal S 🔸
 http://88.99.66.6:8080/str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f452378d-d17e-47fd-8eac-565aaeb8bf24.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Kepez TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f452378d-d17e-47fd-8eac-565aaeb8bf24.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Kepez TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
-#EXTINF:-1 tvg-id="⚜️KTV" tvg-logo="https://i.postimg.cc/5tw6QhBW/maxresdefault.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.KTV
+#EXTINF:-1 tvg-id="⚜️KTV" tvg-logo="https://i.postimg.cc/5tw6QhBW/maxresdefault.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.KTV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="⚜️ARB Kəpəz" tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Kəpəz TV
+#EXTINF:-1 tvg-id="⚜️ARB Kəpəz" tvg-logo="https://i.postimg.cc/43h3krLh/images-1.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.Kəpəz TV
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.MCJ TV Shop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.MCJ TV Shop
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mcj-tv-shop.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medeniyyettv.az/storage/settings/September2019/RDRVyTmdeB1NvyNm4UnF.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Az.MEDENİYYET
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://medeniyyettv.az/storage/settings/September2019/RDRVyTmdeB1NvyNm4UnF.png" group-title="01.KIL-DİĞER ÜLKELER", Az.MEDENİYYET
 http://str.yodacdn.net/medeniyyet/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Az.MEDENİYYET
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="01.KIL-DİĞER ÜLKELER", Az.MEDENİYYET
 https://str.yodacdn.net/medeniyyet/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Az.MEDENİYYET
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="01.KIL-DİĞER ÜLKELER", Az.MEDENİYYET
 http://88.99.66.6:8080/str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="⚜️MTV" tvg-logo="https://i.postimg.cc/SNrB3mYt/16770668061136031979-1200x630.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.MTV
+#EXTINF:-1 tvg-id="⚜️MTV" tvg-logo="https://i.postimg.cc/SNrB3mYt/16770668061136031979-1200x630.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.MTV
 http://88.99.66.6:8080/str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Muz TV Azerbaycan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Muz TV Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mtv-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Naxçıvan" tvg-logo="https://i.postimg.cc/529XW97H/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Naxçıvan
+#EXTINF:-1 tvg-id="⚜️Naxçıvan" tvg-logo="https://i.postimg.cc/529XW97H/logo.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Naxçıvan
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.NEWS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.NEWS
 https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Qafqaz TV" tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Qafqaz TV
+#EXTINF:-1 tvg-id="⚜️Qafqaz TV" tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Qafqaz TV
 http://88.99.66.6:8080/str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="⚜️QƏBƏLƏ TV" tvg-logo="https://i.postimg.cc/8PxSy5x2/1660890233967.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.QƏBƏLƏ TV
+#EXTINF:-1 tvg-id="⚜️QƏBƏLƏ TV" tvg-logo="https://i.postimg.cc/8PxSy5x2/1660890233967.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.QƏBƏLƏ TV
 https://qebeletv.ozelip.net:3918/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Real TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Real TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Real TV" tvg-logo="https://i.postimg.cc/zf3Jw9Zc/images.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Real TV
+#EXTINF:-1 tvg-id="⚜️Real TV" tvg-logo="https://i.postimg.cc/zf3Jw9Zc/images.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Real TV
 http://88.99.66.6:8080/str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Sahar TV Azeri
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b76cbebd-8271-49fb-b968-e1a1f570462a.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Sahar TV Azeri
 https://hw2.jemtv.com/app/azeri/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Sehiyye TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/0e0b12f3-022e-4871-b7d4-f11955e281e0.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Sehiyye TV
 http://uzunmuhalefet.serv00.net/myvideo.php?channel=shtv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/ac50480b-1647-42be-9340-20d8861c7218.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Ses TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/ac50480b-1647-42be-9340-20d8861c7218.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Ses TV
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="⚜️SHOW Plus" tvg-logo="https://i.postimg.cc/283RpW3X/Logo-gold-font.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.SHOW Plus
+#EXTINF:-1 tvg-id="⚜️SHOW Plus" tvg-logo="https://i.postimg.cc/283RpW3X/Logo-gold-font.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.SHOW Plus
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Space TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Space TV
 https://github.com/UzunMuhalefet/streams/raw/main/myvideo-az/space-tv.m3u8
 
-#EXTINF:-1 tvg-id="space-tv" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Space TV
+#EXTINF:-1 tvg-id="space-tv" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbOYM9wmD7pjLP28OE.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Space TV
 http://88.99.66.6:8080/str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Az.Star TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="01.KIL-DİĞER ÜLKELER", Az.Star TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Star TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/azstartv.default.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Start TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Start TV
 https://github.com/UzunMuhalefet/streams/raw/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Səhiyyə TV" tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Səhiyyə TV
+#EXTINF:-1 tvg-id="⚜️Səhiyyə TV" tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Səhiyyə TV
 http://88.99.66.6:8080/str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="⚜️Səhər" tvg-logo="https://i.postimg.cc/XYLvCW30/images-3.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Səhər
+#EXTINF:-1 tvg-id="⚜️Səhər" tvg-logo="https://i.postimg.cc/XYLvCW30/images-3.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.Səhər
 http://stream.tvcdn.net/azerbaycan/sahar-tv-azeri.m3u8
 
-#EXTINF:-1 tvg-id="⚜️SƏS TV" tvg-logo="https://i.postimg.cc/05VbRY1N/channels4-profile.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.SƏS TV
+#EXTINF:-1 tvg-id="⚜️SƏS TV" tvg-logo="https://i.postimg.cc/05VbRY1N/channels4-profile.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.SƏS TV
 http://palatv34.ozelip.com:22372/maksimtv/maksimtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.TMB Azerbaycan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.TMB Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Vilayet TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet_high.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Vostok TV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxn7vMJ9XldROAzkg75.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Vostok TV
+#EXTINF:-1 tvg-id="⚜️Vostok TV" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxn7vMJ9XldROAzkg75.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Vostok TV
 http://88.99.66.6:8080/str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.VIP HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="01.KIL-DİĞER ÜLKELER", AZ.VIP HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
 
-#EXTINF:-1 tvg-id="⚜️VIP HD" tvg-logo="https://i.postimg.cc/MZhZ70hD/download-1.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.VIP HD
+#EXTINF:-1 tvg-id="⚜️VIP HD" tvg-logo="https://i.postimg.cc/MZhZ70hD/download-1.jpg" group-title="01.KIL-DİĞER ÜLKELER", AZ.VIP HD
 http://88.99.66.6:8080/str.yodacdn.net/vip/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Xezer TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Xezer TV
 https://hw2.jemtv.com/app/xazar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="⚜️Xəzər TV" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9veMREnk3GBgNLKQX.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Xəzər TV
+#EXTINF:-1 tvg-id="⚜️Xəzər TV" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9veMREnk3GBgNLKQX.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Xəzər TV
 http://88.99.66.6:8080/str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
 
-#EXTINF:-1 tvg-id="⚜️Xəzər TV🔸" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9veMREnk3GBgNLKQX.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", AZ.Xəzər TV🔸
+#EXTINF:-1 tvg-id="⚜️Xəzər TV🔸" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9veMREnk3GBgNLKQX.png" group-title="01.KIL-DİĞER ÜLKELER", AZ.Xəzər TV🔸
 http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", EL TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/el-tv-live-vipotv.png" group-title="01.KIL-DİĞER ÜLKELER", EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", K+
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png" group-title="01.KIL-DİĞER ÜLKELER", K+
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/kplus.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", K-Drama
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER", K-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", K-Movies
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER", K-Movies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", K-MOVIES NEW
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/KILBERBER.png" group-title="01.KIL-DİĞER ÜLKELER", K-MOVIES NEW
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", K-PLUS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/KPlus.png" group-title="01.KIL-DİĞER ÜLKELER", K-PLUS
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
-#EXTINF:-1 tvg-id="AdaTV.cy" tvg-logo="http://assets.tvcdn.net/82d236a1-6b78-4929-90dd-489edd6c4240.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Ada TV
+#EXTINF:-1 tvg-id="AdaTV.cy" tvg-logo="http://assets.tvcdn.net/82d236a1-6b78-4929-90dd-489edd6c4240.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Ada TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist_w2040230946.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.adatv.tv/images/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS ADA TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.adatv.tv/images/logo.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.adatv.tv/images/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Ada tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.adatv.tv/images/logo.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Ada tv
 https://yayin1.canlitv.day/live/kibrisadatv.stream/chunklist_w213502940.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS BRT 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs BRT 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w1521560921.m3u8
 
-#EXTINF:-1 tvg-id="BRT1.cy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs BRT 1
+#EXTINF:-1 tvg-id="BRT1.cy" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist_w1518000539.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS BRT 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS BRT 2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs BRT 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs BRT 2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w2058569506.m3u8
 
-#EXTINF:-1 tvg-id="BRT2.cy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs BRT 2
+#EXTINF:-1 tvg-id="BRT2.cy" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs BRT 2
 https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/chunklist_w1574945461.m3u8
 
-#EXTINF:-1 tvg-id="KibrisGencTV.cy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Genç TV
+#EXTINF:-1 tvg-id="KibrisGencTV.cy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Genç TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w50087831.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS GENÇ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/1be58505-bf6a-43cc-a15b-aa01b31f4824.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS GENÇ TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/genctv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Genç tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/genctv.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Genç tv
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w1078783411.m3u8
 
-#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Güneş TV
+#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Güneş TV
 http://stream.tvcdn.net/kibris/gunes-tv.m3u8
 
-#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Güneş TV
+#EXTINF:-1 tvg-id="TVGunes.cy" tvg-logo="http://assets.tvcdn.net/93582e6d-bc23-4ba9-8270-4b2d51cca77b.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Güneş TV
 https://sc-kuzeykibrissmarttv.ercdn.net/gunestv/bant1/chunklist_w1578549713.m3u8
 
-#EXTINF:-1 tvg-id="KanalSim.cy" tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Kanal Sim
+#EXTINF:-1 tvg-id="KanalSim.cy" tvg-logo="http://assets.tvcdn.net/ad763e2a-457e-41ee-9c1e-ed498aefbb88.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Kanal Sim
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1045670691.m3u8
 
-#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Kanal T
+#EXTINF:-1 tvg-id="KibrisKanalT.cy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Kanal T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w118598659.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS KANAL T
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/5277f06b-9eb9-4678-b377-48cb69417e83.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/kanalt.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs kanal t
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/kanalt.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs kanal t
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist_w560070739.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS Kuzey Kıbrıs tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS Kuzey Kıbrıs tv
 http://kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Kuzey Kıbrıs TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/cc1364ce-becb-43de-be34-216ef55f8fea.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Kuzey Kıbrıs TV
 https://kuzeykibris.tv/m3u8/kktv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/simtv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs sim
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/simtv.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs sim
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1976707711.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/simtv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS SİM TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/simtv.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS SİM TV
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs Torba TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Torba TV
 http://stream.tvcdn.net/kibris/torba-tv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/ktv.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/ktv.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs tv
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist_w254345633.m3u8
 
-#EXTINF:-1 tvg-id="KibrisTV.cy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs TV
+#EXTINF:-1 tvg-id="KibrisTV.cy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist_w957851671.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs tv 2020
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs tv 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist_w1050968190.m3u8
 
-#EXTINF:-1 tvg-id="TV2020.cy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kıbrıs TV 2020
+#EXTINF:-1 tvg-id="TV2020.cy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist_w937728126.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", KIBRIS TV2020
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/tv2020.png" group-title="01.KIL-DİĞER ÜLKELER", KIBRIS TV2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TcxpGA7.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Kırım-Millet TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TcxpGA7.png" group-title="01.KIL-DİĞER ÜLKELER", Kırım-Millet TV
 http://live.trkmillet.ru/millet/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TATARİSTAN TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER", TATARİSTAN TV
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", This is Bulgaria
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="01.KIL-DİĞER ÜLKELER", This is Bulgaria
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmen_owaz.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN OWAZY
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmen_owaz.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN OWAZY
 https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_altyn_asyr.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN.ALTYN ASYR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_altyn_asyr.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN.ALTYN ASYR
 https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_arkadag.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN.ARKADAĞ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_arkadag.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN.ARKADAĞ
 https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_ashgabat.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN.ASHGABAT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_ashgabat.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN.ASHGABAT
 https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_miras.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN.MİRAS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_miras.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN.MİRAS
 https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_yaslyk.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMEN.YAŞLYK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_yaslyk.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMEN.YAŞLYK
 https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMENELİ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmenelitv.com/storage/logo-turk.png" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMENELİ TV
 https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OjUTb79.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMENELİ TV ʜᴅ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OjUTb79.png" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMENELİ TV ʜᴅ
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmenistan.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Türkmenistan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmenistan.jpg" group-title="01.KIL-DİĞER ÜLKELER", Türkmenistan
 https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", TÜRKMENİSTAN SPORT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkmentv.gov.tm/video_turkmen_sport.jpg" group-title="01.KIL-DİĞER ÜLKELER", TÜRKMENİSTAN SPORT
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Ukrayna
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="01.KIL-DİĞER ÜLKELER", Ukrayna
 http://iptv.prosto.tv:7000/ch303/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", UYGUR TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-DİĞER ÜLKELER", UYGUR TV
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8
 
-#EXTINF:-1 tvg-id="https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8" tvg-logo="https://icanlive.tv/pictures/action-24.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Action 24
+#EXTINF:-1 tvg-id="https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_source/chunks.m3u8" tvg-logo="https://icanlive.tv/pictures/action-24.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Action 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.astratv.gr/wp-content/uploads/2023/11/mainlogo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Astra TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.astratv.gr/wp-content/uploads/2023/11/mainlogo.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Astra TV
 https://video-weaver.mil02.hls.ttvnw.net/v1/playlist/CoIGJNfM_0BGGaa2nJHriitD1vcwNcMjX-sOsH5rcwPAZAuV3Dxbjq80BBAd8jQwqFpXVvBXU_WPerOV9EYOrG0oTN4aWklstLjfx4AKPix0Sdq6Pv3ljMWb7Ad3U-sUk2PnHLUQM6ARhuc7uC9yljZ7JVr7GLQ2myHiIQRO7Qmh_nOIGNYqbIbklp_Il4SvFHRXMOZVUKnUfd-QPiIFDZlqPpozvk3QYyJyHcQK0brFqx_x0elAroBfiUDnB8HH5knf4UjiiIrL3kb4xiva1iuxWvMFRHQcQZQ9GHPbQ9fbGsUF0LN2wJ2AiggV0zrnY1KxDVVhViCeHdJkmFmH4TC_iwA4NR_1zRgOdi1EjT5HV9nVZ10IDfWeuTyOLl3T87sOt2_-iHVSZJRqwlYBuiD_58TKbO2YsphZ_ZISxGy5s0nYx18T66NpXmJ7gZp_ci-7HYBuxA7aeM6dJ6GlnOsSC6W-RaA2k8UGUdq__prMpFquCvrgNZ42e2IAI8A6QTsrSMLjHmC8yZacrDoZOBntXQVSNz32_OaFVcXNcqQPraBC8M6pHeV2RXnhhI1lb6NqapKNSLvI85m7xH2TvBOFd1pzGUa0XMRF3aqWo8tc3Z_iu22UfMIdlryuG4aUR66r9WyvCFCUWrC-8mpw-fS8dfJ85zJ8CRHMBmyTDXHPY7iPhR0HdhFY4FokTZARMyHCWTtMxVbGdGo-AhllvAmCRU_9NvwgB-OuUAJYXTSLQbgthzFXt_WhLtKdVGTIUXVBxzc4k5KLGCoWJe2dH2x4QOTqzdBdsrUV2Tsbo5q4P2k2-ranJRIAqlYYMISGVvHU-faGlisnQI2_SYOEeqIrHaJI7lFOqgZpww7KvExEPxWe-v_poCFFS5UAevauxCJAbgPQkNrh2TVW7pEok4VbErP-kBRuIPQqacGz8akzRlHanah8WiQsTwQBX5n8FFaN2JLmehmUr0HD_LmyH-dikKCzDjAzx3D8--DvN68W8l9B8TVONKMiFvH9u9jVm12Y16waDD8vmEB2tMYbCwB1MCABKglldS13ZXN0LTIwlAo.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://best-tv.gr/wp-content/uploads/2021/02/LOGO-BEST-NEW_resized.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.BestTv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://best-tv.gr/wp-content/uploads/2021/02/LOGO-BEST-NEW_resized.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.BestTv
 https://besttv.siliconweb.com/bestTV/live_abr/bestTV/stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-280x96.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Blue Sky TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-280x96.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Blue Sky TV
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/ena-channel.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.ENA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/ena-channel.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.ENA
 https://til.pp.ua:3365/live/enachannellive.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kontrachannel.gr/images/kontrachannel24.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.KONTRA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kontrachannel.gr/images/kontrachannel24.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.KONTRA
 https://kontralive.siliconweb.com/live/kontratv/kontralive/kontratv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/2010060307.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.KΡΗΤΗ TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/2010060307.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.KΡΗΤΗ TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/megatv-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.MEGA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/megatv-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.neatv.gr/wp-content/uploads/2018/09/logo.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.NEA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.neatv.gr/wp-content/uploads/2018/09/logo.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.NEA
 https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/samiaki-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Samiaki
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/samiaki-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Samiaki
 https://live.cast-control.eu/samiaki/samiaki/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/skai-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Skai
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/skai-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Skai
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Skai TV
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Skai TV
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/Thraki-Net.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Thraki
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/Thraki-Net.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Thraki
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvcreta.gr/wp-content/uploads/2017/01/logo-retina-300x47.png" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Tv Creta
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvcreta.gr/wp-content/uploads/2017/01/logo-retina-300x47.png" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Tv Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/tv100-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Tv100
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/tv100-gr.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Tv100
 https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/zougla-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER🏳️🏴", Yunan.Zougla
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://icanlive.tv/pictures/zougla-tv.jpg" group-title="01.KIL-DİĞER ÜLKELER", Yunan.Zougla
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="01.KIL-HABER", 24
@@ -6958,9 +6949,6 @@ https://cdn.prectv2.lat/hls/8/cdn801/f8eab7e45208e1dd7202d08c98995a7c17344339205
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b9198327ace3e91437d90c4bbf2fd943.jpg" group-title="FiLM YENi SERi KARIŞIK", 0.Boneyard
 https://cdn.prectv2.lat/hls/8/cdn801/2bf1237f3ccd3d01f81512ec46f4c595173460544310.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/8f11f86f0c42e93962c9d2720b16eb3e.jpg" group-title="FiLM YENi SERi KARIŞIK", 0.Boneyard
-https://cdn.prectv2.lat/hls/11/cdn60/ed23c3746ea4d0fa0d2879be099a2610172129349811.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/7c86158794f90d731271bf5b76af3bb1173425932210.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83033d0e3b9e1ff7c4a5c38b9a958df3.jpg" group-title="FiLM YENi SERi KARIŞIK", 0.Borderlands
 https://cdn.prectv2.lat/hls/8/cdn801/2792bf38577e5b037b43253ded11f9f3173425933612.mp4/index.m3u8
