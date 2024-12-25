@@ -1988,25 +1988,25 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", Z.NBA TV 2
 http://212.102.60.231/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="1363827223" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN 1 FEED (720P) (1)
-https://vavoo.to/play/136s3827223/index.m3u8|referer=https://vavoo.to/&|user-agent=Dalvik/VAVOO/1.0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN 1 FEED (720P) (1)
+https://vavoo.to/play/1363827223/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 (6)
-https://vavoo.to/play/300113394/index.m3u8|referer=https://vavoo.to/&|user-agent=Dalvik/VAVOO/1.0
+https://vavoo.to/play/300113394/index.m3u8
 
-#EXTINF:-1 tvg-id="3840475653" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 (720P) (1)
-https://vavoo.to/play/3840475653/index.m3u8|referer=https://vavoo.to/&|user-agent=Dalvik/VAVOO/1.0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 (720P) (1)
+https://vavoo.to/play/3840475653/index.m3u8
 
-#EXTINF:-1 tvg-id="2233066433" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 (720PFEED) (1)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 (720PFEED) (1)
 https://vavoo.to/play/2233066433/index.m3u8
 
-#EXTINF:-1 tvg-id="2576216897" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 + (1)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 + (1)
 https://vavoo.to/play/2576216897/index.m3u8
 
-#EXTINF:-1 tvg-id="1352421053" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 50 FPS (1)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 50 FPS (1)
 https://vavoo.to/play/1352421053/index.m3u8
 
-#EXTINF:-1 tvg-id="3428984703" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] (7)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] (7)
 https://vavoo.to/play/3428984703/index.m3u8
 
 #EXTINF:-1 tvg-id="2403425031" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 1 H265 (1)
@@ -2057,7 +2057,7 @@ https://vavoo.to/play/450076655/index.m3u8
 #EXTINF:-1 tvg-id="1872232768" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 4 HD (1)
 https://vavoo.to/play/1872232768/index.m3u8
 
-#EXTINF:-1 tvg-id="2938268353" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 4 UHD (1)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 4 UHD (1)
 https://vavoo.to/play/2938268353/index.m3u8
 
 #EXTINF:-1 tvg-id="267105889" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN SPORTS 4K FEED(KUTU) (1)
@@ -5345,41 +5345,65 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 tvg-id="icerik_KemalSunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Kemal Sunal
 https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
+#EXTINF:-1 tvg-id="icerik_SenerSen" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Kemal Sunal 2
+https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+
 #EXTINF:-1 tvg-id="icerik_YesilCam" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Yeşil Çam
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
 
-#EXTINF:-1 tvg-id="icerik_SenerSen" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Şener Şen
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+#EXTINF:-1 tvg-id="icerik_CennetMahallesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Cennet Mahallesi
+https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+
+#EXTINF:-1 tvg-id="icerik_GuldurGuldur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Güldür Güldür
+https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
+
+#EXTINF:-1 tvg-id="icerik_Seksenler" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Seksenler
+https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
+
+#EXTINF:-1 tvg-id="icerik_YalanDunya" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Yalan Dünya
+https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Çiçek taksi 
+https://ythls.kekikakademi.org/youtube/channel/UCYWwhdgFmZR0uWwaS-GURyg.m3u8
+
+#EXTINF:-1 tvg-id="icerik_CocuklarDuymasin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Çocuklar Duymasın
+https://ythls.kekikakademi.org/youtube/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+
+#EXTINF:-1 tvg-id="icerik_CocuklarDuymasinEski" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 3.Çocuklar Duymasın (Eski Sezon)
+https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DiZi-FİLM", 4.Kanal D Siyah Beyaz Aşk
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d5f9febc8301fbca42d43.jpg" group-title="00.KIL-DiZi-FİLM", 4.Kanal D Tatlı İntikam
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" group-title="00.KIL-DiZi-FİLM", 4.Kanal D Zalim İstanbul
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="icerik_BehzatC" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 5.Behzat Ç.
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 5.Ezel
+https://ythls.kekikakademi.org/youtube/channel/UC82UK_P4DuDZ42Q0SHcey1w.m3u8
+
+#EXTINF:-1 tvg-id="icerik_KurtlarVadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 5.Kurtlar Vadisi
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Adanalı
 https://ythls.kekikakademi.org/youtube/channel/UCRP2h7AKS4nnUho0pyBCHgw.m3u8
 
-#EXTINF:-1 tvg-id="icerik_BehzatC" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Behzat Ç.
-https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Bir Zamanlar Çukurova
+https://ythls.kekikakademi.org/youtube/channel/UCdWD3k5SQUGXpHDkioiTFCw.m3u8
 
-#EXTINF:-1 tvg-id="icerik_CennetMahallesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Cennet Mahallesi
-https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Diriliş Ertuğrul
+https://ythls.kekikakademi.org/youtube/channel/UCrr2fV8yd6r8k-FZKGxDr9Q.m3u8
 
-#EXTINF:-1 tvg-id="icerik_GuldurGuldur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Güldür Güldür
-https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DiZi-FİLM", Kanal D Siyah Beyaz Aşk
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d5f9febc8301fbca42d43.jpg" group-title="00.KIL-DiZi-FİLM", Kanal D Tatlı İntikam
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" group-title="00.KIL-DiZi-FİLM", Kanal D Zalim İstanbul
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="icerik_KurtlarVadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Kurtlar Vadisi
-https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Kuruluş Osman
+https://ythls.kekikakademi.org/youtube/channel/UCGR1XmkoQedeJMT2ajRHvsw.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Muhteşem Yüzyıl
 https://ythls.kekikakademi.org/youtube/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
-
-#EXTINF:-1 tvg-id="icerik_Seksenler" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Seksenler
-https://ythls.kekikakademi.org/youtube/channel/UCYRPB4TbD2RYHlIQdLgEeYA.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Sihirli Annem
 https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
@@ -5387,17 +5411,8 @@ https://ythls.kekikakademi.org/youtube/channel/UC8rnNIpGh8n6ZpWVqOBaKUQ.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Söz
 https://ythls.kekikakademi.org/youtube/channel/UCJkBcPylctTT0_jVC5XMFIg.m3u8
 
-#EXTINF:-1 tvg-id="icerik_YalanDunya" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Yalan Dünya
-https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
-
 #EXTINF:-1 tvg-id="icerik_YaprakDokumu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Yaprak Dökümü
 https://ythls.kekikakademi.org/youtube/channel/UCi-nK74pBX9Ou66z1j7KYPQ.m3u8
-
-#EXTINF:-1 tvg-id="icerik_CocuklarDuymasin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Çocuklar Duymasın
-https://ythls.kekikakademi.org/youtube/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
-
-#EXTINF:-1 tvg-id="icerik_CocuklarDuymasinEski" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", Çocuklar Duymasın (Eski Sezon)
-https://ythls.kekikakademi.org/youtube/channel/UCHFxijaEOik8V6iH4rWoAYg.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUxOTA3MWYtMjg0My00MGNmLTg4N2ItZGYwN2QxNWJiNTEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="00.KIL-DiZi-TRENT", Asaf 1.01 Tek Yön
 https://cdn.prectv2.lat/hls/11/cdn62/7d56740802e974ed7c46a31aa4c9a610173279330414.mp4/index.m3u8
@@ -8582,6 +8597,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/44a65ae7e3e1eb5f47f5d2597c49c5fa17346015088
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/7fcb0b5b1e87c08376f7e2dada792552.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Arda Turan: Yüzleşme
 https://cdn.prectv2.lat/hls/9/cdn501/5c1e4825671edf23ae29d5f3d6caf32b17238055466.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/30cb0aab04252db61879a54c1a1b00f8.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Armand
+https://cdn.prectv2.lat/hls/8/cdn801/77d5672c9b667c4bce295f1bdbb0a1fe173512451712.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/24a0636b8329b648980117a7b134668d.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Armor
 https://cdn.rectv2024live.com/hls/11/cdn62/36892b7f5e62272222f1eb2dc50b66fb173252796010.mp4/index.m3u8
 
@@ -8795,6 +8813,9 @@ https://cdn.txtstream2.xyz/hls/11/cdn62/cb9d51e8f8407ce50b2effe6d1f70e9b17295051
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn62/a610eb2466d3f54139d831c2d24f6d6417281231048.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/eae0ab3514695f91d120c9c4e1f7c427.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Günlük
 https://cdn.prectv2.lat/hls/11/cdn62/8a76e9c061c1053e10cac2e77aaeb8e5172812316114.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b7e94b857ddc68d736203f7fe3a3aba1.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Hannas 2
+https://cdn.prectv2.lat/hls/8/cdn801/1eef5cb91350ecb2fe7c927efd1dbdb7173512230611.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/507f9be223182ad31831b3621b192d54.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Harold ve Mor Tebeşir
 https://cdn.prectv2.lat/hls/11/cdn62/5a5412d4587fdc635e03de8af886e83017301942058.mp4/index.m3u8
 
@@ -8944,6 +8965,9 @@ https://cdn.prectv2.lat/hls/10/cdn32/fdcfeda09c00c33757aa72b690da7c2117172432576
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/a3e6e21fd24cc14140f9842437a1570e.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.New Yorkta Bir Gece
 https://cdn.prectv2.lat/hls/9/cdn501/46f18cb8c6aa44c3553b9f4781891a0e17246001937.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/dfcfbf31434e933378a91c162c0e8e8e.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Omni Loop
+https://cdn.prectv2.lat/hls/8/cdn801/1304f86f52206ad06289a65be46b5f4e17351223315.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/c17aef110b0be11814827cfae301404a.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Outbreak
 https://cdn.prectv2.lat/hls/8/cdn801/af6399c34320e21d52a68cc984e6985e17343441979.mp4/index.m3u8
@@ -9121,6 +9145,12 @@ https://cdn.prectv2.lat/hls/11/cdn62/c74c421c5ac0c6bc0a6d133c6c7e6dcb17289947851
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/weekend-in-taipei.webp" group-title="08.FiLM YENi SERi KARIŞIK", 0.Weekend in Taipei
 https://cdn.prectv2.lat/hls/11/cdn169/04c321f20fec0ea1168255420d111a58173330783411.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9cce2bf3a2e70568dd6862ebd1915509.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Werewolves
+https://cdn.prectv2.lat/hls/8/cdn801/475e8e1b85cdd10638ab0c6001dba500173512235411.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b1c0e4f9720b4258889fb201f2f4cf1d.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Y2K
+https://cdn.prectv2.lat/hls/8/cdn801/2f000eef598d8abddeea23ad85875b07173512231714.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9d81903ddae65a8a8f35a31f15edb151.jpg" group-title="08.FiLM YENi SERi KARIŞIK", 0.Yalnız Gezegen
 https://cdn.prectv2.lat/hls/11/cdn62/7319178bd7ba69db906e6a35ea96529c172864439815.mp4/index.m3u8
@@ -10129,6 +10159,9 @@ https://p2.photostack.net/v/3j88h1e86xdz/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/16294/poster/thumb/hancock.jpg" group-title="08.FiLM YENi SERi KARIŞIK", Hancock (2008)
 https://p1.photofunia.org/v/7pzb73bgv2kd/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/266289bd5e4a747976287fe94c83c13f.jpg" group-title="08.FiLM YENi SERi KARIŞIK", Hannas: Karanlıkta Saklanan
+https://cdn.prectv2.lat/hls/8/cdn801/a1166b9c85b3c36d306b2116b30b2bfd173512229511.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/5535/poster/thumb-lg/hanuman-shadow-master-izle.jpg" group-title="08.FiLM YENi SERi KARIŞIK", Hanuman: Shadow Master
 https://vs3.photostack.net/mq/AUWknKM6MGO4n2c5d0zxpTuiqT9mqTSwnl5hMKDs0xi3vr1bhd
