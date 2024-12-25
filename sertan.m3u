@@ -539,6 +539,9 @@ http://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9dz8MsD.png" group-title="0.KIL-MÜZİK", 16.Muzzik MIX
 http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://edge20.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/1500px-CARAC1_logo_2023.svg.png" group-title="0.KIL-MÜZİK", 16.müzik Rouge TV
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="0.KIL-MÜZİK", 16.NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
@@ -1088,6 +1091,9 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="0.KIL-MÜZİK", 41.CLUBBİNG
 https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/images/dt-logo.png" group-title="0.KIL-MÜZİK", 41.dance
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/images/dt-logo.png" group-title="0.KIL-MÜZİK", 41.Dance Television
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
@@ -1339,6 +1345,9 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/europa_plus_tv.png" group-title="0.KIL-MÜZİK", Europa Plus TV
 http://ott.server-iptv.live/453/video.m3u8?token=M4f082ab4c
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://factomania.es/wp-content/uploads/2023/02/logo-factomania-1.png" group-title="0.KIL-MÜZİK", Factoria TV
+https://eu1.servers10.com:8081/8010/index.m3u8
 
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="0.KIL-MÜZİK", Farra Play
 http://159.203.148.226/live/farra.m3u8
