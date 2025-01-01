@@ -1349,14 +1349,20 @@ https://raw.githubusercontent.com/KILBERBER/kilberber/main/7yasa.mp4
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1golvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-
-#EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/taraf.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
-https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
+https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1golvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 c
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+
+#EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/taraf.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
+https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.macizletsinler24.site/hls/bein-sports-1.m3u8
@@ -1378,9 +1384,6 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.c
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1e Kral bet
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://t6co.ragicccc311x.workers.dev/yayinstar.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1f Atom spor
-https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SPOR 1a rec
 https://static.arectv2.xyz/static/bs1.html
@@ -1444,9 +1447,6 @@ https://v.arectv7.sbs/static/bs5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SPOR 5e
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/705/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.beincanli.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SPORS Haber
-http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.beinmax1a
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.cfd/yayinbm1.m3u8?live=true?|referer=https://trgoals1080.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1516,6 +1516,12 @@ https://v.arectv7.sbs/static/ssport2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 2c
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/3451/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport plus+
+https://v.arectv7.sbs/static/pl1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport plus+ b
+https://s.arectv7.sbs/static/pl1.html
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.Sky Sports F1
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.cfd/yayinf1.m3u8?live=true?|referer=https://trgoals1080.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1666,6 +1672,9 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.c
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", WebATV
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.cfd/yayinatv.m3u8?live=true?|referer=https://trgoals1080.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.beincanli.png" group-title="0.KIL-SP0R  MAÇ", WebB.SPORS Haber
+http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", WebTRT 1
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.trgoalshls44.cfd/yayintrt1.m3u8?live=true?|referer=https://trgoals1080.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -5555,6 +5564,27 @@ https://roka3.shop/cdn/down/882e91161c54fb8d1e1dd78ae25b7be7/Original/Original.t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/500217/poster/thumb/ersan-kuneri.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.8 Şekerpaşa
 https://roka3.shop/cdn/down/17ed4f2df7a58c0b1ed215733236e260/Original/Original.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.01
+https://cdn.prectv2.lat/hls/11/cdn62/6ee5f9f9664bcb364e2a1d8d861c8810173230686213.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.02
+https://cdn.prectv2.lat/hls/11/cdn62/6ee5f9f9664bcb364e2a1d8d861c8810173232086510.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.03
+https://cdn.prectv2.lat/hls/11/cdn62/2cd85a49d292e14211b297577a7c2b0d173286943713.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.04
+https://cdn.prectv2.lat/hls/11/cdn169/737d6a4570b505bb3aec382a042899e7173381844812.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.05
+https://load.rectv2024live.com/hls/8/cdn801/eb8b8306e89efc0204aca240b03a6471173408367613.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.06
+https://load.rectv2024live.com/hls/8/cdn801/ea84f01f097e5e80836f02bbc512602a173480007511.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/83082458ae0115b08ebf6c303d9c453f.jpg" group-title="00.KIL-DiZi-TRENT", Esas Oğlan 1.07
+https://load.rectv2024live.com/hls/8/cdn801/0cb64b534f7d9e81db513ebfdaa7d055173530108911.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/ryKRhmvW8LMSGzswv5VwFzV3zjh-185x278.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.01 Ben, Gassal
 https://mezeler5.shop/cdn/down/366a0c0cd433b7aa3d08f6fa9c8b6f80/Original/Original.txt
 
@@ -5767,6 +5797,30 @@ https://momstream1.mom/upload/videos/2024/05/vbKVduWKQLmRQt93kABj_08_87ff2298626
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dizimom.plus/wp-content/uploads/2023/07/prens.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.07
 https://momstream1.mom/upload/videos/2024/05/NWoiNRWAI17rtW2Kr3gH_15_93f9c21f98f2f35c5c067e21776af26c_video/master.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.01
+https://cdn.prectv2.lat/hls/10/cdn32/aca75c75cc40f37a6fe490ca3d0145eb17165282537.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.02
+https://cdn.prectv2.lat/hls/10/cdn32/6dcda5c4a35301a592ecb1e66d45fdbc171652824414.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.03
+https://cdn.prectv2.lat/hls/10/cdn32/137f57180ac30fbbb8641d6381d2847317171393599.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.04
+https://cdn.prectv2.lat/hls/11/cdn60/6b37e281402a3aef06bb246fe178be32171776367915.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.05
+https://cdn.prectv2.lat/hls/11/cdn60/9daeab5881b1f66c020fd2602151552917183677317.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.06
+https://cdn.prectv2.lat/hls/11/cdn60/edae6f03bf0ad971902b6e6cc319d86117189682525.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.07
+https://cdn.prectv2.lat/hls/11/cdn60/d1006388fae3f8aa7f07dca8d2858385171957052114.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/611ae3d6e7a26befd618a9950d5629a1.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.08
+https://cdn.prectv2.lat/hls/11/cdn60/bfe02c48a06ccee5516253c9cc5bfb03172038950514.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/diziposter/93405-2.jpg" group-title="00.KIL-DiZi-TRENT", Squid Game 2.01Bread and Lottery
 https://abant3.shop/cdn/down/930af7e4869db10ccb068934dfb2d029/Original/Original.txt
@@ -7814,9 +7868,6 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.Rusya Radyo cam
-http://lova.me/hls/hithd.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.Belçika Grand Place Meydanı Canlı
 https://livecam.brucity.be/LiveBrusselsWebcams/streams/IIbCJLnggPzOAFSL1701416341591.m3u8
 
@@ -7828,6 +7879,9 @@ https://s116.ipcamlive.com/streams/74igxwerk2u9i7bhj/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.izlanda Kiteschool Front
 https://s75.ipcamlive.com/streams/4bupqcdgotvy6j7hw/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.Rusya Radyo cam
+http://lova.me/hls/hithd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.Tazmanya taje plaj
 https://s10.ipcamlive.com/streams/0apcfmv4xtroutdna/stream.m3u8
@@ -7923,40 +7977,37 @@ http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist_w159491059.m
 http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist_w26825572.m3u8
 
 #EXTINF:-1 tvg-id="https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Anadolu Hisarı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Beyazıt Kule
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Beyazıt Meydanı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Büyük Çamlıca
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Dragos
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Eminönü
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Eyüp Sultan
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Hidiv Kasrı 
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Kapalıçarşı
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul kız kulesi
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul miniatürk
-https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/chunklist.m3u8
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Sarıyer
-https://hls.ibb.gov.tr/tkm1/hls/280.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Üsküdar Meydanı
-https://hls.ibb.gov.tr/tkm2/hls/405.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Şişli
-https://hls.ibb.gov.tr/tkm4/hls/540.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Ortaköy
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_ortakoy.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", Konya Büyükşehir stadyumu
 https://content.tvkur.com/l/c77i9nfbb2nj4i0fr83g/master.m3u8
