@@ -272,6 +272,9 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="0.KIL-MÜZİK", 18.Urbano
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE3900002R1.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20241105T025318SQUARE.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM
+https://d2p9bo32dvfrvh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4avpk0b4jtkht/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.KPop
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
@@ -551,8 +554,17 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png" group-title="0.KIL-MÜZİK", 28.Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE23000015Y.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20240924T050750SQUARE.png" group-title="0.KIL-MÜZİK", 28.Deluxe Dance By Kontor
+https://d37i8mvsaxucfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/index.m3u8
+
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DEBA150003050.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="0.KIL-MÜZİK", 28.Deluxe Deutschpop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png" group-title="0.KIL-MÜZİK", 28.Deluxe Flashback
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DEAH3904006A.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="0.KIL-MÜZİK", 28.Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="0.KIL-MÜZİK", 28.Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -838,6 +850,12 @@ https://myradio24.org/tisradio_video.m3u8
 
 #EXTINF:-1 tvg-id="7080TV.it" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="0.KIL-MÜZİK", 42.70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE2500001DO.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20240815T004655SQUARE.png" group-title="0.KIL-MÜZİK", 42.Cool Summer Channel
+https://d1vssasvzkudiq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zdujgjkznl6g0/csts.m3u8
+
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DEAK0500445A.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240918T132255SQUARE.png" group-title="0.KIL-MÜZİK", 42.GoldStar TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="LiveMusicReplay.us" tvg-logo="https://i.imgur.com/zoa7AIO.png" group-title="0.KIL-MÜZİK", 42.Live Music Replay
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
@@ -1364,6 +1382,12 @@ http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/taraf.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
 
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
+http://bal.pst.streaming-elbrus.su:8880/bigteisti3/FAST_FUN_BOX_TR/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1izlemac.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
+https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.macizletsinler24.site/hls/bein-sports-1.m3u8
 
@@ -1465,6 +1489,9 @@ https://v.arectv7.sbs/static/bsmax2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.beinmax2e
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/806/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor
+http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor Selçuk
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/3452/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
@@ -2212,6 +2239,9 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936198.png" group-title="0.KIL-SPOR KARIŞIK", 04.trt spor yıldız E
 http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.AZ CBC Sport  ʜᴅ
+http://109.107.189.180/11448/tracks-v1a1/mono.m3u8?token=65B16463F628
 
 #EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/CBC-Sport.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
@@ -5521,6 +5551,9 @@ https://mezeler5.shop/cdn/down/2c7fa3f36fd52046f45264b5765e9861/Original/Origina
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/jmbtI8hhNkw5Hpksr34x3gCCmjS-185x278.jpg" group-title="00.KIL-DiZi-TRENT", Dexter: Original Sin 1.04 Fender Bender
 https://mezeler5.shop/cdn/down/567adda8e98effbe828e26ea538a9691/Original/Original.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/jmbtI8hhNkw5Hpksr34x3gCCmjS-185x278.jpg" group-title="00.KIL-DiZi-TRENT", Dexter: Original Sin 1.05  F Is for Fuck-Up
+https://abant3.shop/cdn/down/c49d6bdd37f66f28e10ff0bb18607327/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/500217/poster/thumb/ersan-kuneri.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 1.1 Kuru murad
 https://vs7.photour.org/v/Ersan.Kuneri.S01E01.WEB-DL.1080p.H.264-HDM/master.m3u8
