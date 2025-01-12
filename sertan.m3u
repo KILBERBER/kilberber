@@ -1373,8 +1373,8 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
-https://it-cdn-1.varsportscdn1.lol/601/index.m3u8
+#EXTINF:-1 tvg-id="https://it-cdn-1.varsportscdn1.lol/601/index.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664785?play_token=&live=true
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1golvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 c
 http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
@@ -1382,11 +1382,11 @@ http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/taraf.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1izlemac.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
-https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-id="https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1izlemac.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/727460?play_token=&live=true
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
-http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs
+#EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
+http://line.sweet-4k.cc/HiFll2XSogYRvaj/KOBb78oDBd/664789?play_token=&live=true
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
@@ -1416,7 +1416,7 @@ https://v.arectv7.sbs/static/bs1.m3u8
 https://tv.prectv5.sbs/live/bs1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SPOR 1d rec
-https://twilight-truth-c3d7.wild-glade-1ff056998.workers.dev/static/bs1.m3u8
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://twilight-truth-c3d7.wild-glade-1ff056998.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/601/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
@@ -5582,6 +5582,9 @@ https://mezeler5.shop/cdn/down/567adda8e98effbe828e26ea538a9691/Original/Origina
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/jmbtI8hhNkw5Hpksr34x3gCCmjS-185x278.jpg" group-title="00.KIL-DiZi-TRENT", Dexter: Original Sin 1.05  F Is for Fuck-Up
 https://abant3.shop/cdn/down/c49d6bdd37f66f28e10ff0bb18607327/Original/Original.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2024/12/jmbtI8hhNkw5Hpksr34x3gCCmjS-185x278.jpg" group-title="00.KIL-DiZi-TRENT", Dexter: Original Sin 1.06 The Joy of Killing
+https://abant3.shop/cdn/down/0bc07cd34bafad8dd55bfaea7ec149d7/Original/Original.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/500217/poster/thumb/ersan-kuneri.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 1.1 Kuru murad
 https://vs7.photour.org/v/Ersan.Kuneri.S01E01.WEB-DL.1080p.H.264-HDM/master.m3u8
 
@@ -5923,6 +5926,9 @@ https://videoloji.net/upload/725a7daab8ccaa3f971d343b50f60eee687e/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/676e30116df32.webp" group-title="00.KIL-DiZi-TRENT", Tertemiz 1.02
 https://videoloji.net/upload/a5ad627200a9610a523292a9540c49d3f0ea/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/676e30116df32.webp" group-title="00.KIL-DiZi-TRENT", Tertemiz 1.03
+https://cdn.prectv2.lat/hls/8/cdn801/06575976618664a68b0f0138ebf37c36173650441510.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
 https://mp4.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122.mp4?token=Lge5OS1WdCCL5VG-RHnlCw&tms=1731189080
@@ -9647,6 +9653,9 @@ https://tokat2.shop/cdn/down/1758cda2c1176c6d78ea831f0ab5ba00/Original/Original.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/16613/poster/thumb-lg/azizler.webp" group-title="08.FiLM SERi KARIŞIK", Azizler (2021)
 https://p1.photostack.net/v/0zcnx4wzjhh4/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/qKdeSliK0TAHMLDO7CwEjbqG1af-185x278.jpg" group-title="08.FiLM SERi KARIŞIK", Azınlık Raporu (2002)
+https://abant3.shop/cdn/down/a7a5b6860dee0fc96fd8bfa3a4060bb2/Original/Original.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/11726/poster/thumb-lg/aclik-oyunlari.jpg" group-title="08.FiLM SERi KARIŞIK", Açlık Oyunları (2012)
 https://p1.photomag.biz/v/3pamzbnk1jgh/master.m3u8
 
@@ -10556,6 +10565,15 @@ https://cdn.rectv2024live.com/hls/9/cdn501/d25a314b615ba0ac36f1df4b418465a717255
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/25538/poster/thumb/her-sey-cok-guzel-olacak.jpg" group-title="08.FiLM SERi KARIŞIK", Her Şey Çok Güzel Olacak
 https://p2.photostack.net/v/0r8tw0144v55/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/3ViE9ZRzaPXbIY7XLtlFdJMCFSm-185x278.jpg" group-title="08.FiLM SERi KARIŞIK", Hobbit 1: Beklenmedik Yolculuk (2012)
+https://abant3.shop/cdn/down/e02e237df93fa16898fd924b97d30337/Original/Original.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/bFKZJBwBrm2AYlAQthA7a4Hd1jw-185x278.jpg" group-title="08.FiLM SERi KARIŞIK", Hobbit 2: Smaug’un Çorak Toprakları (2013)
+https://abant3.shop/cdn/down/01426a7b098b7e324c5ad0b5d53ecb6d/Original/Original.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/ncIV890nmkYCGImfp0oQflBvU5d-185x278.jpg" group-title="08.FiLM SERi KARIŞIK", Hobbit 3: Beş Ordunun Savaşı (2014)
+https://abant3.shop/cdn/down/0e47bba84a3d302ba711c7609cbbdd00/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.rectv2024.com/uploads/cache/poster_thumb/uploads/jpg/1e757446ab7f36900d093bc35aa754ab.jpg" group-title="08.FiLM SERi KARIŞIK", Hobbit: Beklenmedik Yolculuk
 https://cdn.prectv2.lat/hls/10/cdn32/409f86672d4c59e353536b3124b1dc5817113132159.mp4/index.m3u8
