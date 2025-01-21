@@ -23,9 +23,6 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummyhttp://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8" tvg-logo="http://assets.tvcdn.net/9e0d7b87-1ba4-4b1f-b769-4406a38a9851.jpeg" group-title="0.KIL-MÜZİK", 04.Fora Müzik
 http://palatv34.ozelip.com:22372/foramuzik/foramuzik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://megatv.com.tr/wp-content/uploads/2022/10/MEGATV.logo250.png" group-title="0.KIL-MÜZİK", 04.MAGA TV MUZIK
-https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" group-title="0.KIL-MÜZİK", 04.Mega Radio
 https://hls.goodgame.ru/hls/175789.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
@@ -34,9 +31,6 @@ http://palatv34.ozelip.com:22372/megatv/megatv/chunklist_w2021321667.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/milyon-tv.png" group-title="0.KIL-MÜZİK", 04.milyon tv
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 tvg-id="http://stream.tvcdn.net/muzik/muzik-tv.m3u8" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="0.KIL-MÜZİK", 04.Müzik TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummyhttp://stream.tvcdn.net/diger-muzik/pala-tv.m3u8" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="0.KIL-MÜZİK", 04.Pala TV
 http://yktv2828.ozelip.com:30838/palatv/palatv/playlist.m3u8
@@ -49,9 +43,6 @@ https://host.onlineradyotv.net:8081/sdmtv5/index.m3u8
 
 #EXTINF:-1 tvg-id="https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="0.KIL-MÜZİK", 04.SDM MÜZİK
 https://host.onlineradyotv.net:8081/sdmtv2/index.m3u8
-
-#EXTINF:-1 tvg-id="https://ssh101stream.ssh101.com/akamaissh101/ssh101/showplus/playlist.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png" group-title="0.KIL-MÜZİK", 04.SHOW PLUS TV
-http://str.yodacdn.net/showplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sun9-65.userapi.com/YfWLsWixUhsn2BUC0kKl1LdJkBGc7scYiUlSvg/RPUzgrbJonQ.jpg" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -70,9 +61,6 @@ http://88.99.66.6:8080/str.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8?token=f3215d5
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="0.KIL-MÜZİK", 04.TMB Azerbaycan
 http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i1.sndcdn.com/artworks-ses6lbuxt6WSL8jx-UThPmA-t500x500.jpg" group-title="0.KIL-MÜZİK", 04.Turkce POP REMIX
-https://new.cache-stream.workers.dev/video/UCoJqwTgi_lZpqKKai2na7kQ/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/K_AVRUPA_LOGO.png" group-title="0.KIL-MÜZİK", 04.TV Avrupa ʜᴅ
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
@@ -10041,6 +10029,9 @@ https://p3.photostack.net/v/t76ay2hsxzii/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.plus/wp-content/uploads/2019/12/tKHthsdWBq1dW6UpGAbHErGUByZ-185x278.jpg" group-title="09.FiLM SERi KARIŞIK", Carşı Pazar (2015)
 https://mecnuncinar5.shop/cdn/down/b2ece026b3b1d430582e248480f59f75/720p/720p.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/31421/poster/thumb-lg/casino.jpg" group-title="09.FiLM SERi KARIŞIK", Casino (1995)
+https://p3.photofunny.org/v/9ti5997w4pyj/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/20733/poster/thumb/cazci-kardesler.jpg" group-title="09.FiLM SERi KARIŞIK", Cazcı Kardeşler (1980)
 https://p1.gamephotos.biz/v/54t6egzvotxm/master.m3u8
 
@@ -10169,6 +10160,9 @@ https://cdn.prectv2.lat/hls/10/cdn32/e0b6c764ff82cc966425a2b17719e93717113201616
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn62/0c28b181929f25710380273427481d38173218253413.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/5170c9976ae43119f106108471a48bb4.jpg" group-title="09.FiLM SERi KARIŞIK", Cılgın Hırsız 4
 https://cdn.prectv2.lat/hls/11/cdn62/734d8ddd428e690f21502fa552d0ec4d17321826986.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/33039/poster/thumb-lg/cilgin-joe.jpg" group-title="09.FiLM SERi KARIŞIK", Cılgın Joe (2013)
+https://p2.photomag.biz/v/q66xnlarwp5a/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.wfilmizle.my/wp-content/uploads/2020/01/cilgin-max.jpg" group-title="09.FiLM SERi KARIŞIK", Cılgın Max 1 Mad Max
 1979
@@ -10445,6 +10439,15 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/279171_129e/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/6863/poster/thumb/fury-izle.jpg" group-title="09.FiLM SERi KARIŞIK", Fury (2014)
 https://vs4.naturepics.live/mq/MapmrQAwLwyyAz4ld0zxozS0qKWypTywpl5fnKMys0xi4vr1bhd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/10765/poster/thumb-lg/g-i-joe-kobranin-yukselisi.jpg" group-title="09.FiLM SERi KARIŞIK", G.I. Joe: Kobra'nın Yükselişi (2009)
+https://p1.photomag.biz/v/u4uee20da9gv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/27666/poster/thumb-lg/g-i-joe-misilleme.jpg" group-title="09.FiLM SERi KARIŞIK", G.I. Joe: Misilleme (2013)
+https://p2.photofunia.org/v/knvlfxsn5c8y/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/13271/poster/thumb-lg/snake-eyes-g-i-joe-origins-izle-hd-1.jpg" group-title="09.FiLM SERi KARIŞIK", G.I. Joe: Snake Eyes: G.I. Joe Origins (2021)
+https://p1.photostack.net/v/a307tm459mf8/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/23586/poster/thumb/gallowwalkers-hd.jpg" group-title="09.FiLM SERi KARIŞIK", Gallowwalkers
 https://vs6.photomeg.live/v/ex4wr16nkjgy/master.m3u8
@@ -11380,6 +11383,9 @@ https://cdn.prectv2.lat/hls/5/cdn8/yeni/Film/Korkunc.Bir.Film.3.2003.1080P.Nf.We
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/32130/poster/thumb-lg/korkusuz.webp" group-title="09.FiLM SERi KARIŞIK", Korkusuz (2006)
 https://p3.photofunny.org/v/9nly000e9o6y/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/16252/poster/thumb/koruyucu-2.jpg" group-title="09.FiLM SERi KARIŞIK", Koruyucu (2012)
+https://p2.photofunia.org/v/yyp5170t2rr8/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501210/poster/thumb/krull.jpg" group-title="09.FiLM SERi KARIŞIK", Krull (1983)
 https://vs9.photoflick.org/v/Krull.1983.WEB-DL.1080p.DUAL/master.m3u8
 
@@ -11896,6 +11902,9 @@ https://p2.photostack.net/v/ty16z2sn7wqi/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/movies/original/parisin-altinda-3858.webp" group-title="09.FiLM SERi KARIŞIK", Parisin Altinda
 https://videoloji.net/upload/8930ad767db8ba48066d192e1a257b8a5219/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/23770/poster/thumb/parker.jpg" group-title="09.FiLM SERi KARIŞIK", Parker (2013)
+https://p1.photostack.net/v/0d7i9n5n865j/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/c28083194c08e73647c145d8f56fa3fa.jpg" group-title="09.FiLM SERi KARIŞIK", Passenger - Uzay Yolcuları
 https://cdn.prectv2.lat/hls/4/cdn1/cdn/movies/trdublaj/uzayyolculari.mp4/index.m3u8
 
@@ -12312,6 +12321,9 @@ https://cdn.prectv2.lat/hls/10/cdn32/085c25e9fd26e25ec0f0096cee9b58d817113044848
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/86095be16487dcfb524742993c1f03b3.jpg" group-title="09.FiLM SERi KARIŞIK", Sirinler: Kayıp Köy
 https://cdn.prectv2.lat/hls/10/cdn32/b75b61a1a3ceed4897e20c4279a7d042171130444311.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/15472/poster/thumb/sivil-cephe.jpg" group-title="09.FiLM SERi KARIŞIK", Sivil Cephe (2013)
+https://p2.photofunia.org/v/c7y0y30tpv2e/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/da016b82087ed81b7dbb839634317624.jpg" group-title="09.FiLM SERi KARIŞIK", Siyah Giyen Adamlar 1
 https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/SiyahGiyenAdamlarDub.mp4/index.m3u8
