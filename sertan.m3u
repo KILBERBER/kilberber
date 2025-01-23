@@ -5172,6 +5172,9 @@ https://usher.ttvnw.net/api/channel/hls/teleontv.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiN
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="00.KIL-DiZi-FİLM", 02.Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr:80/alvinchannel/alvinchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="00.KIL-DiZi-FİLM", 02.DİZİ
+http://65.21.85.175:8000/play/a02j/index.m3u8?token=livetv
+
 #EXTINF:-1 tvg-id="⚜️FTV" tvg-logo="https://i.imgur.com/bFrpJ5n.png" group-title="00.KIL-DiZi-FİLM", 02.FTV
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 
@@ -5205,13 +5208,16 @@ https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="00.KIL-DiZi-FİLM", 1.isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.isvicretv.com/upload/tema/20150623__1150018573.jpg" group-title="00.KIL-DiZi-FİLM", 1.iSVICRE TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="00.KIL-DiZi-FİLM", 1.iSVICRE TV
 https://tivi44.ozelip.com:3269/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="00.KIL-DiZi-FİLM", 1.LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="00.KIL-DiZi-FİLM", 1.RIZE TÜRK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.pazarciktv.net/upload/tema/20230520__5564233661.jpg" group-title="00.KIL-DiZi-FİLM", 1.PAZARCIK TV
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="00.KIL-DiZi-FİLM", 1.RIZE TÜRK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png" group-title="00.KIL-DiZi-FİLM", 1.Süper 7 TV
@@ -5237,9 +5243,6 @@ https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
 
 #EXTINF:-1 tvg-id="icerik_SenerSen" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Kemal Sunal 2
 https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.pazarciktv.net/upload/tema/20230520__5564233661.jpg" group-title="00.KIL-DiZi-FİLM", 2.PAZARCIK TV
-https://tivi44.ozelip.com:3962/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="icerik_YesilCam" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 2.Yeşil Çam
 https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
@@ -8958,6 +8961,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/b7fa20bb1bf9cd7648c1238932e1321617349041181
 #EXTINF:-1 tvg-id="https://cdn.txtstream2.xyz/hls/11/cdn62/961310e06f8cf7c9a6bd7b9ff7900d23172950993711.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/74763db21f59405ec1b6b1ec17b70c3e.jpg" group-title="08.FiLM 2024", Furiosa Bir Mad Max Destanı
 https://cdn.txtstream2.xyz/hls/11/cdn62/961310e06f8cf7c9a6bd7b9ff7900d23172950964614.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501240/poster/thumb/galaktik-saldiri-uzayli-istilasi.jpg" group-title="08.FiLM 2024", Galaktik Saldırı: Uzaylı İstilası
+https://vs18.photomag.biz/v/Alien.Invasion.2023.1080p.WEBRip/master.m3u8
+
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/2a549fe90792b2e7b592c213f5a2723517159438785.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/24b30778a17d96a99d09d92dc85d9bf0.jpg" group-title="08.FiLM 2024", Gayribeyefendi Savaş Dairesi
 https://cdn.prectv2.lat/hls/9/cdn501/b6e64f15398bbc22f8cd1998c6ee8c2617226904398.mp4/index.m3u8
 
@@ -9300,8 +9306,8 @@ https://cdn.prectv2.lat/hls/11/cdn169/5fc128ef76ad9cf8c3bccdf2fa715ee81733678042
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/19b982919079a640d79b96ba72c6c498.jpg" group-title="08.FiLM 2024", The Critic
 https://cdn.prectv2.lat/hls/11/cdn62/74764498303334ef34de9f09f34c4129173019422214.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/ccaa06aa42a67a80d9d3e6017926f2ca.jpg" group-title="08.FiLM 2024", The Crow: Ölümsüz
-https://cdn.prectv2.lat/hls/8/cdn801/8de9c9f06af05cec09278c1ec6d6d58617349041525.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/8de9c9f06af05cec09278c1ec6d6d58617349041525.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/ccaa06aa42a67a80d9d3e6017926f2ca.jpg" group-title="08.FiLM 2024", The Crow: Ölümsüz
+https://cdn.prectv2.lat/hls/8/cdn801/8de9c9f06af05cec09278c1ec6d6d58617376287899.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/4b734a8f5410790631b9cf194347d7da.jpg" group-title="08.FiLM 2024", The Fix
 https://cdn.prectv2.lat/hls/11/cdn62/f71769de3c391c758972e0f297e1a92c17324420145.mp4/index.m3u8
@@ -9318,8 +9324,8 @@ https://cdn.prectv2.lat/hls/11/cdn62/be1669da98f83dd3be10b8d33400c0f017280357669
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/58468/poster/thumb/katil-3-hd.jpg" group-title="08.FiLM 2024", The Killer (2024)
 https://vs17.photofunia.org/v/The.Killer.2024.WEB-DL.1080p.DUAL/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/eda9c05e527347a509ce998076e93208.jpg" group-title="08.FiLM 2024", The Killers Game
-https://cdn.prectv2.lat/hls/11/cdn62/93dddec3d8f258d8b4d0d850cdb20ac2172814078511.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn62/93dddec3d8f258d8b4d0d850cdb20ac2172814078511.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/eda9c05e527347a509ce998076e93208.jpg" group-title="08.FiLM 2024", The Killers Game
+https://cdn.prectv2.lat/hls/8/cdn801/5891734928406bb4b1b3dfd7357ca31f17376295807.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/56eac1b5ca38587357345cadf6a3dcfb.jpg" group-title="08.FiLM 2024", The Last Stand of Ellen Cole
 https://cdn.prectv2.lat/hls/8/cdn801/3dfa08eefce43e637bd971eaee047c18173642138415.mp4/index.m3u8
@@ -9423,8 +9429,8 @@ https://vs18.photomag.biz/v/Back.in.Action.2025.WEB-DL.1080p.DUAL.H.264-HDM/mast
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/f4bb9d54809f867f7a10d2415ed6ff88.jpg" group-title="08.FiLM 2025", Bir Zamanlar Gelecek: 2121
 https://cdn.prectv2.lat/hls/8/cdn801/42301413217138b9d2ee8f4f42dbeed5173697036710.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/df18e5165cc5a9ae38c0551cfff55de5.jpg" group-title="08.FiLM 2025", Ezra
-https://cdn.prectv2.lat/hls/8/cdn801/20d75c11db93320e903445dcf0508f0a17373722725.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/20d75c11db93320e903445dcf0508f0a17373722725.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/df18e5165cc5a9ae38c0551cfff55de5.jpg" group-title="08.FiLM 2025", Ezra
+https://vs16.photoflick.org/v/Ezra.2023.WEB-DL.1080p.DUAL/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9fe8d295a6157df026532d4634718089.jpg" group-title="08.FiLM 2025", Henry Danger: The Movie
 https://cdn.prectv2.lat/hls/8/cdn801/969ed87e8689c63922ba75f36fb8ca9f173754248510.mp4/index.m3u8
@@ -9434,6 +9440,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/2fcf4145c60bd3800aab69f1357c036017371973741
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/ef03dcfbcdc12a9ef171a5b5061354a6.jpg" group-title="08.FiLM 2025", Konsey
 https://cdn.prectv2.lat/hls/8/cdn801/8200147ae1551677d43efe9f54e9b3ff17372123547.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16357.jpg" group-title="08.FiLM 2025", Maharaja
+https://cdn.dzen.ru/vod/converted-video/vod-content/34/38/85/69/24/98/52/26/16/8/aee122d4-2394-4243-8072-1607b45139e9/kaltura/desc_6d5477d68ff30745e6be5abe83491235/vdFCADt6snjg/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b50e69ac16793f8d8f55138f61c3f846.jpg" group-title="08.FiLM 2025", Mucizevi Londra: Zamanın Sınırında
 https://cdn.prectv2.lat/hls/8/cdn801/0b226390548e39d53771adf9463ab75917367655577.mp4/index.m3u8
@@ -9447,14 +9456,14 @@ https://cdn.prectv2.lat/hls/8/cdn801/b45acb772eeba1fddba3aa1188447c0617375425428
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501216/poster/thumb/takvim-katili.jpg" group-title="08.FiLM 2025", Takvim Katili
 https://vs14.photoflix.org/v/Sebastian.Fitzeks.Der.Heimweg.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/fc77f74b5be6ad32a718116816258ee1.jpg" group-title="08.FiLM 2025", The Damned
-https://cdn.prectv2.lat/hls/8/cdn801/618ad86f18db6709af081e46ae172517173754257611.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/618ad86f18db6709af081e46ae172517173754257611.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/fc77f74b5be6ad32a718116816258ee1.jpg" group-title="08.FiLM 2025", The Damned
+https://cdn.dzen.ru/vod/converted-video/vod-content/47/47/82/97/93/88/41/68/91/6/187803cc-6eb3-4c27-8ab2-2fedfef51d54/kaltura/desc_4af5b168df7c1623b03dbc41ed7a412f/vUp4v6LXu4kc/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/2f06f5e35ebd4edb4cef25e16e7c39f4.jpg" group-title="08.FiLM 2025", Ufkun Ötesinde
 https://cdn.prectv2.lat/hls/8/cdn801/aa57f12c9815e4182395befe6d76825f173736915612.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0130cd33938475687442ac1c9af62667.jpg" group-title="08.FiLM 2025", Winner
-https://cdn.prectv2.lat/hls/8/cdn801/a752768c10fe7c910421321fdf28749417373707477.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/a752768c10fe7c910421321fdf28749417373707477.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0130cd33938475687442ac1c9af62667.jpg" group-title="08.FiLM 2025", Winner
+https://vs13.pictureflix.org/v/Winner.2024.WEB-DL.1080p.DUAL/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9c53c0426c310b3ab8d43f1c629144ce.jpg" group-title="08.FiLM 2025", Yandaki Oda
 https://cdn.prectv2.lat/hls/8/cdn801/3ccb3977fac411e466ae78d9f87e18c0173684562814.mp4/index.m3u8
@@ -13012,6 +13021,18 @@ https://cdn.prectv2.lat/hls/6/cdn2/Movies/ValerianVeBinGezegenImparatorlugu.mp4/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0a3a7e205beb2e8f1fdd867ed8e8cefb.jpg" group-title="09.FiLM SERi KARIŞIK", Valhalla
 https://cdn.prectv2.lat/hls/5/ax61/mp4/3d9d7b658f50d767fb43ed13ccc0d888.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16336.jpg" group-title="09.FiLM SERi KARIŞIK", Vampires (1998)
+Vampirler
+https://cdn.dzen.ru/vod/converted-video/vod-content/32/79/96/07/07/10/36/99/88/0/88851666-e92f-48e6-879b-5a1d3fc09f2b/kaltura/desc_0315659bb033f2c1dc26b395e4085f89/vHZ-ZoTfGCgY/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16346.jpg" group-title="09.FiLM SERi KARIŞIK", Vampires: Los Muertos (2002)
+Vampirler 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/23/59/71/44/68/32/57/45/63/1/577caf06-9390-4fa1-96ad-96b63020b0f7/kaltura/desc_9abb60c8f998fb14d286e26f036aca20/vcNn8X4c2CAI/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16347.jpg" group-title="09.FiLM SERi KARIŞIK", Vampires: The Turning (2004)
+Vampirler 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/19/19/17/02/24/09/71/62/69/3/cf6706bd-a349-480b-89a1-a6e4923c04fe/kaltura/desc_16911a5f2d36644990a45c2c90f80023/vfXQOn6DWMnc/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/16295/poster/thumb/van-helsing.jpg" group-title="09.FiLM SERi KARIŞIK", Van Helsing (2004)
 https://p3.photofunia.org/v/his2f3o17wor/master.m3u8
