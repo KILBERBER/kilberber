@@ -1181,6 +1181,12 @@ https://ythls.kekikakademi.org/youtube/video/e7nM3et_bII.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="0.KIL-RELAX", 03.Chill TV
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 03.relax
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 03.relax 4k
+http://live.admuspeh.my/8822/video.m3u8?token=TestuspehTva
+
 #EXTINF:-1 tvg-id="https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 04.Relax baraza
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w63326066.m3u8
 
@@ -1749,11 +1755,20 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png" group-title="0.KIL-SP0R  MAÇ", Z.beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DEBA3300019EB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA+
+https://jmp2.uk/sam-DEBA3300019EB.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", Z.NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", Z.NBA TV 2
 http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="DEBD260000692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20231213T033336SQUARE.png_20231213033337.png" group-title="0.KIL-SP0R  MAÇ", Z.Scooore
+https://jmp2.uk/sam-DEBD260000692.m3u8
+
+#EXTINF:-1 tvg-id="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240611T061010SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.Sportdigital Free
+https://jmp2.uk/sam-DEAJ0500429A.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R VAVOO VPN", BEIN 1 FEED (720P) (1)
 https://vavoo.to/play/1363827223/index.m3u8
@@ -2262,11 +2277,20 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936198.png" group-title="0.KIL-SPOR KARIŞIK", 04.trt spor yıldız E
 http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/CBC-Sport.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
+http://162.212.179.34/dvrfl05/gin-cbcs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
+http://162.212.179.34:80/dvrfl05/gin-cbcs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport b
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport b
 http://50.7.144.122:1935/livetv/cbcsport.stream/chunklis.m3u8
+
+#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="0.KIL-SPOR KARIŞIK", 05.iDMAN TV
+http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SPOR KARIŞIK", 05.idman tv
 https://canlitvulusal.xyz/live/idmantv/index.m3u8
@@ -2330,6 +2354,9 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/maste
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23180/tr-rodeo/logo_20240627_221303_68.png" group-title="0.KIL-SPOR KARIŞIK", 08.Rodeo
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DEBA3300016EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20240905T090252SQUARE.png" group-title="0.KIL-SPOR KARIŞIK", 08.Strongman Champions League
+https://jmp2.uk/sam-DEBA3300016EV.m3u8
 
 #EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="0.KIL-SPOR KARIŞIK", 08.Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -9579,6 +9606,9 @@ https://vs13.photoflick.org/v/All.Souls.2023.WEB-DL.1080p.DUAL.H.264-HDM/master.
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/f76d8db8990f766d50c3941a92f65c3617373691375.mp4/index.m3u8" tvg-logo="https://www.hdfilmizle.to/v/500191/poster/thumb/avci-kraven.jpg" group-title="08.FiLM 2025", Avcı Kraven
 https://cdn.dzen.ru/vod/converted-video/vod-content/56/46/55/48/37/83/61/37/44/6/c6040f20-bc36-4e07-b140-dbc1ac81c605/kaltura/desc_2976751b7943cf58b3b7652be740110b/vgngrGIvlOTQ/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0670cae661c0e7f5040be4bb4846a834.jpg" group-title="08.FiLM 2025", Babygirl
+https://cdn.prectv2.lat/hls/8/cdn801/f83424cffc299de890c72984dd2dba8317382523428.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501220/poster/thumb/back-in-action.jpg" group-title="08.FiLM 2025", Back in Action
 https://vs18.photomag.biz/v/Back.in.Action.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 
@@ -9602,6 +9632,12 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/90/93/44/16/08/86/65/09/61/5
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/ef03dcfbcdc12a9ef171a5b5061354a6.jpg" group-title="08.FiLM 2025", Konsey
 https://cdn.prectv2.lat/hls/8/cdn801/8200147ae1551677d43efe9f54e9b3ff17372123547.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/64fc3068f1dd702bedd521baf70d2991.jpg" group-title="08.FiLM 2025", Kurt Adam
+https://cdn.prectv2.lat/hls/8/cdn801/4f5910f63f106cf1ff3e5e679e9c30b317382523629.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/67439e352f35e7abe2bb8980e350c3fb.jpg" group-title="08.FiLM 2025", Lick
+https://cdn.prectv2.lat/hls/8/cdn801/325a9e57bcbb8b831ef57c7f743861cf173825237613.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16357.jpg" group-title="08.FiLM 2025", Maharaja
 https://cdn.dzen.ru/vod/converted-video/vod-content/34/38/85/69/24/98/52/26/16/8/aee122d4-2394-4243-8072-1607b45139e9/kaltura/desc_6d5477d68ff30745e6be5abe83491235/vdFCADt6snjg/master.m3u8
@@ -9636,6 +9672,9 @@ https://vs19.photoflax.org/v/The.Convert.2023.WEB-DL.1080p.DUAL.H.264-HDM/master
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/618ad86f18db6709af081e46ae172517173754257611.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/fc77f74b5be6ad32a718116816258ee1.jpg" group-title="08.FiLM 2025", The Damned
 https://cdn.dzen.ru/vod/converted-video/vod-content/47/47/82/97/93/88/41/68/91/6/187803cc-6eb3-4c27-8ab2-2fedfef51d54/kaltura/desc_4af5b168df7c1623b03dbc41ed7a412f/vUp4v6LXu4kc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/8de9096813c1382d9ee57d493abac552.jpg" group-title="08.FiLM 2025", The Man in the White Van
+https://cdn.prectv2.lat/hls/8/cdn801/f04ed8a891f5bd6978ee68de378852f1173825240713.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/207fdf315095bb0c2a4ce477bb8cdfe8.jpg" group-title="08.FiLM 2025", The Intruder
 https://cdn.prectv2.lat/hls/8/cdn801/7acd290adbaccf4968e0c7912f8216d6173797339914.mp4/index.m3u8
@@ -10554,6 +10593,10 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/30/64/62/29/15/33/54/46/38/8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/22016/poster/thumb-lg/dokunulmazlar.jpg" group-title="09.FiLM SERi KARIŞIK", Dokunulmazlar (1987)
 https://p2.photomag.biz/v/s4bsklmyipn8/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a13148.jpg" group-title="09.FiLM SERi KARIŞIK", Don't Worry Darling (2022)
+Dert Etme Sevgilim
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/63/54/84/59/64/90/83/60/7/77d7db57-be13-4bd7-9974-de32500adff7/kaltura/desc_dc7de9756b45c07f6d97b436f201bc32/vqIRkriQWWSI/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a4554.jpg" group-title="09.FiLM SERi KARIŞIK", Doom (2005)
 https://cdn.dzen.ru/vod/converted-video/vod-content/46/15/65/95/52/26/34/89/92/4/436b0d86-d31c-4b88-aa5e-2cfd962da5d7/kaltura/desc_d638e0f7d922e77be4f8ffd854d1f7cc/vUaRlPH7xAyE/master.m3u8
