@@ -1391,8 +1391,11 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
+#EXTINF:-1 tvg-id="https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
 https://gagas.site/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a b
+https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://mactv5.net/701.m3u8
@@ -1736,7 +1739,7 @@ https://cinque.78c56a395e57b9134a.click/i/neden/172/playlist.m3u8|user-agent=Dal
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Y.Bein SPOR Haber
 https://cinque.78c56a395e57b9134a.click/i/neden/1/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.beincanli.png" group-title="0.KIL-SP0R  MAÇ", Y.Bein SPOR Haber
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/bhbr.jpg" group-title="0.KIL-SP0R  MAÇ", Y.Bein SPOR Haber
 http://65.21.85.175:8000/play/a033/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Y.TRT 1
