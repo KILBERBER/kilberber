@@ -1391,6 +1391,9 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
+https://gagas.site/cdn/bein_sports_1_hd/main.m3u8
+
 #EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://mactv5.net/701.m3u8
 
@@ -1403,12 +1406,6 @@ https://gesbd8syvu.zortspor1.online/601/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
 https://cdn2.lexter1.com/stream/431081.m3u8
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0pelikan.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:41:51:69&stream=549029&extension=m3u8
-
-#EXTINF:-1 tvg-id="https://jtvdhh.site/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1izlemac.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 g
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:41:51:69&stream=549030&extension=m3u8
-
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0son.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 i
 https://mobil.92test.cfd/yayint24.m3u8
 
@@ -1416,19 +1413,19 @@ https://mobil.92test.cfd/yayint24.m3u8
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1a TARAFTARRiUM
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d45.cfd/yayinzirve.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://h0.b4c8d3e9f1a2b7c5d48.cfd/yayinzirve.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1b inat
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d45.cfd/yayininat.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://h0.b4c8d3e9f1a2b7c5d48.cfd/yayininat.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://s1.inattvcom5217.xyz/cdn/b1.m3u8?|referrer=https://inattvcom5217.xyz/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.iinat.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1b inat b
 https://koprulu1.global.ssl.fastly.net/app/innatyeni.m3u8/?id=b1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1c trgoals
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d45.cfd/yayin1.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://h0.b4c8d3e9f1a2b7c5d48.cfd/yayin1.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1padisah.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1d padişahbet
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://e0.b4c8d3e9f1a2b7c5d45.cfd/yayint24.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://h0.b4c8d3e9f1a2b7c5d48.cfd/yayint24.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/beinsports-1/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1webspor.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1f Webspor
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://alpha.cf-worker-72ec4e1ff475d61d.workers.dev/live/beinsports-1/playlist.m3u8|referer=https://www.webspor113.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1460,8 +1457,8 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://t6co.ragigfrer83.
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/601/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk
 https://cinque.78c56a395e57b9134a.click/i/neden/601/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
-#EXTINF:-1 tvg-id="https://due.b5adba90658509c4.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/sellcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk a
-https://due.b5adba90658509c4.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/sellcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk a
+https://due.37dfb0c61b5625cd.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SPOR 2
 http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
@@ -1508,16 +1505,13 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/806/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.beinmax2e
 https://cinque.78c56a395e57b9134a.click/i/neden/806/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor
-http://50.7.144.122:1935/livetv/cbcsport.stream/chunklis.m3u8
-
 #EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor b
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor c
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor c
 http://162.212.179.34:80/dvrfl05/gin-cbcs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBCSportHD.az" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor d
+#EXTINF:-1 tvg-id="CBCSportHD.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/CBC_Sport_Logo.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor d
 http://162.212.179.34/dvrfl05/gin-cbcs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/3452/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.CBC Spor Selçuk
@@ -1550,11 +1544,11 @@ https://bcovlive-a.akamaihd.net/11d43931fe8741b286897fd8488a1a2b/eu-central-1/64
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="0.KIL-SP0R  MAÇ", Web.exxen 4 HD
 https://bcovlive-a.akamaihd.net/764299a9db4b429aa9250edc9e791156/eu-central-1/6415845530001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", Web.idman tv
-https://canlitvulusal.xyz/live/idmantv/index.m3u8
-
-#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="0.KIL-SP0R  MAÇ", Web.idman tv b
+#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", Web.idman tv a
 http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", Web.idman tv b
+https://canlitvulusal.xyz/live/idmantv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="0.KIL-SP0R  MAÇ", Web.içtimai TV
 https://node19.connect.az:9081/tv/live/playlist.m3u8
@@ -1706,7 +1700,7 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor6 b
 https://v.arectv7.sbs/static/tabi6.m3u8
 
-#EXTINF:-1 tvg-id="tivibuspor" tvg-logo="https://golvar2247.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu
+#EXTINF:-1 tvg-id="tivibuspor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/606/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu
@@ -1715,17 +1709,11 @@ https://cinque.78c56a395e57b9134a.click/i/neden/605/playlist.m3u8|user-agent=Dal
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 1a
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7c5d37.cfd/yayint1.m3u8|referer=https://trgoals1092.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="https://lives.anystreamrectv3.live/live/tivi1.m3u8 https://v.arectv7.sbs/static/tivi1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 1b
-https://live.arectv11.sbs/static/tivi1.m3u8
-
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/606/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 1c
 https://cinque.78c56a395e57b9134a.click/i/neden/606/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 2a
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7c5d37.cfd/yayint2.m3u8|referer=https://trgoals1092.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="https://lives.anystreamrectv3.live/live/tivi2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 2b
-https://live.arectv11.sbs/static/tivi2.m3u8
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/607/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 2c
 https://cinque.78c56a395e57b9134a.click/i/neden/607/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
@@ -1733,17 +1721,11 @@ https://cinque.78c56a395e57b9134a.click/i/neden/607/playlist.m3u8|user-agent=Dal
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 3a
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7c5d37.cfd/yayint3.m3u8|referer=https://trgoals1092.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="https://lives.anystreamrectv3.live/live/tivi3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 3b
-https://live.arectv11.sbs/static/tivi3.m3u8
-
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/608/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 3c
 https://cinque.78c56a395e57b9134a.click/i/neden/608/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4a
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://u0.b4c8d3e9f1a2b7c5d37.cfd/yayint4.m3u8|referer=https://trgoals1092.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="https://lives.anystreamrectv3.live/live/tivi4.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4b
-https://live.arectv11.sbs/static/tivi4.m3u8
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/609/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4c
 https://cinque.78c56a395e57b9134a.click/i/neden/609/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
@@ -1988,19 +1970,16 @@ http://hw1.jemtv.com/app/trtspor2/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Spor
 https://canlitvulusal.xyz/live/cbcsport/index.m3u8
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
 http://162.212.179.34/dvrfl05/gin-cbcs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 05.CBC Sport
 http://162.212.179.34:80/dvrfl05/gin-cbcs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport
+#EXTINF:-1 tvg-id="CBC SPORT" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport
 http://50.7.144.122:1935/livetv/cbcsport.stream/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SPOR KARIŞIK", 05.cbc sport b
-http://50.7.144.122:1935/livetv/cbcsport.stream/chunklis.m3u8
-
-#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="http://epg.it999.ru/img/2637.png" group-title="0.KIL-SPOR KARIŞIK", 05.iDMAN TV
+#EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SPOR KARIŞIK", 05.iDMAN TV
 http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SPOR KARIŞIK", 05.idman tv
@@ -2810,9 +2789,6 @@ https://canlitvulusal.xyz/live/cnbc-e/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-e 1
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="0.KIL-ULUSAL", CNBC-E FHD
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:41:51:69&stream=553119&extension=m3u8
-
 #EXTINF:-1 tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="0.KIL-ULUSAL", CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
@@ -3461,39 +3437,6 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="http://31.222.206.98/8852/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .MOVİE SMART TÜRK
-http://live.admuspeh.my/8852/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8848/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/g/6y/22901/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA 1001 TV
-http://live.admuspeh.my/8848/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8850/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/C/XZ/22902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA 1002 TV
-http://live.admuspeh.my/8850/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8849/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/t/tD/22896/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA AKSIYON
-http://live.admuspeh.my/8839/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/M/RG/22895/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA AKSIYON2
-http://live.admuspeh.my/8849/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8847/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/-/EU/22897/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA AILE
-http://live.admuspeh.my/8847/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8853/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Mq/22898/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA AILE 2
-http://live.admuspeh.my/8853/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8855/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/w/9a/22899/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA KOMEDİ
-http://live.admuspeh.my/8855/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8851/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/o/oG/22900/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA KOMEDİ 2
-http://live.admuspeh.my/8851/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="http://31.222.206.98/8835/tracks-v1a1/mono.ts.m3u8?token=test" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/T/QU/22894/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA TV
-http://live.admuspeh.my/8846/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/Y/3N/22904/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", .SINEMA TV2
-http://live.admuspeh.my/8835/index.m3u8?token=4gPHp5ZVYqDAR4oz
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
 https://tv.arectv3.xyz/live/box3.m3u8
 
@@ -3811,9 +3754,6 @@ https://almanyatv.ozelip.net:3130/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="00.KIL-DiZi-FİLM", 1.CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png" group-title="00.KIL-DiZi-FİLM", 1.CNBC-E FHD
-http://pars.viper01.xyz:8080/play/live.php?mac=00:1A:79:41:51:69&stream=553119&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="00.KIL-DiZi-FİLM", 1.CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -4156,6 +4096,9 @@ https://storage.diziyou.live/episodes/115207_tr/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/67625b3da72a7.webp" group-title="00.KIL-DiZi-TRENT", Beast Games 1.08
 https://storage.diziyou.live/episodes/115208_tr/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/67625b3da72a7.webp" group-title="00.KIL-DiZi-TRENT", Beast Games 1.09
+https://videoloji.net/upload/4c7c0484b3e1d909eaa1e3b90f6590df0bb5/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/675bef772f04f.webp" group-title="00.KIL-DiZi-TRENT", Dexter: Original Sin 1.01 And in the beginning...
 https://mezeler5.shop/cdn/down/af2369349a4544b215fad34a204f4789/Original/Original.txt
@@ -5530,9 +5473,6 @@ https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/b2b6Zn0/businesschtr.jpg" group-title="01.KIL-HABER", BUSINESS CHANNEL TÜRK
 https://new.cache-stream.workers.dev/stream/UCLPc5pYOl2clEkCA82Sfb0Q/live.m3u8
-
-#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="01.KIL-HABER", CNBC-E
-https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="01.KIL-HABER", CNBC-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.m3u8
@@ -8104,6 +8044,9 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/56/46/55/48/37/83/61/37/44/6
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501280/poster/thumb/kinda-pregnant.jpg" group-title="08.FiLM 2025", Az Çok Hamileyim
 https://vs16.photoflick.org/v/Kinda.Pregnant.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/she-is-love.webp" group-title="08.FiLM 2025", Aşkın Ta Kendisi
+https://s413.rapidrame.com/hls2/01/00022/e2a16kjxblez_,l,n,.urlset/master.m3u8?t=DJ8SFZheoMYkkB_p2ZxvkpY5CrYl4VXv0snQ8xgf_Fs&s=1739043209&e=1199998800&f=111973&srv=s379&i=0.0&sp=0&p1=s413&p2=s413
+
 #EXTINF:-1 tvg-id="https://watch.turkeyplayer.com/stream/bTN1OC84LzkxMjlmZDJhZWQ2MmQwZDJhNTA5M2JkOWQxMThmM2NlLzcyMHAvNzIwcC5tM3U4P2lkPTI1NDQ3" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0670cae661c0e7f5040be4bb4846a834.jpg" group-title="08.FiLM 2025", Babygirl
 https://cdn.prectv2.lat/hls/8/cdn801/f83424cffc299de890c72984dd2dba8317382523428.mp4/index.m3u8
 
@@ -8115,6 +8058,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/42301413217138b9d2ee8f4f42dbeed517369703671
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16395.jpg" group-title="08.FiLM 2025", Bogota: City of the Lost
 https://cdn.dzen.ru/vod/converted-video/vod-content/63/78/42/92/81/50/43/59/83/9/42e58f8a-0683-4eba-916d-287869fcee7a/kaltura/desc_dc98df18829d1215a8369b65ab9fe82e/v5YHh0i0zpD0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle3.com/i/afis/b/a15155.jpg" group-title="08.FiLM 2025", Cuckoo
+https://pixeldrain.com/api/file/3zEV8Rjd
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/8b4ef6e36986fed038d6242726c2d7f917377327288.mp4/index.m3u8" tvg-logo="https://www.hdfilmizle.to/v/501246/poster/thumb/dalgalarin-otesinde.jpg" group-title="08.FiLM 2025", Dalgaların Ötesinde
 https://vs9.photoflix.org/v/The.Sand.Castle.2024.WEB-DL.1080p.TRSUB.H.264-HDM/master.m3u8
@@ -8201,6 +8147,9 @@ https://vs1.photostack.net/ma/MJ41qGqdAUM4Lzpld0zxpTuiqT9mqTSwnl5hMKDs0xi1vr1bhd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/dee8bf3b4266f6d1040607aa207babd7.jpg" group-title="08.FiLM 2025", Santosh
 https://vidmody.com/mm/tt30444418/main/index-v1-a1.gif
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle3.com/i/afis/b/a16423.jpg" group-title="08.FiLM 2025", Sing Sing
+https://pixeldrain.com/api/file/pUADbBrK
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501251/poster/thumb/sizi-de-aramizda-gormekten-mutluluk-duyariz.jpg" group-title="08.FiLM 2025", Sizi De Aramızda Görmekten Mutluluk Duyarız (2025)
 You're Cordially Invited
@@ -12466,6 +12415,9 @@ https://p2.photofunny.org/v/25j03zs6i0e1/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/7409/poster/thumb/kesisen-yollar-izle.jpg" group-title="09.FiLM SERi KARIŞIK", Zzx Kesişen yollar (2001)
 Monsters Ball
 https://vs4.photofunny.org/mw/ZULmAmSarJ9fMQShd0zxpTuiqT9zqJ5hrF5ipzps0xi4vr1bhd
+
+#EXTINF:-1 tvg-id="https://balancehls10.playmix.uno/hls/neposlushnaya-2023-webdlmp4-oKWKsH0Qsfa.mp4/master.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/naughty.webp" group-title="09.FiLM SERi KARIŞIK", Zzx Naughty
+https://s230.rapidrame.com/hls2/01/00022/s2lxhaawsuvy_,l,n,.urlset/master.m3u8?t=XgtUIi8dNaZIA-_JhUp9rmPCtyLI-LViaI6lOHV6kVc&s=1739035799&e=1199998800&f=111972&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/a5887.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Sliver (1993)
 https://p3.gamephotos.biz/v/swqmi3zrbx57/master.m3u8
