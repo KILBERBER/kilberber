@@ -1391,11 +1391,8 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
-https://gagas.site/cdn/bein_sports_1_hd/main.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a b
-https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8
+#EXTINF:-1 tvg-id="https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8.    https://gagas.site/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://goley90giris-com.cdn.ampproject.org/i/goley90giris.com/wp-content/uploads/2023/07/Goley90Logo.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
+https://fadda.site/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://mactv5.net/701.m3u8
@@ -8101,8 +8098,8 @@ https://vs15.photostack.net/v/Joker.Folie.a.Deux.2024.WEB-DL.1080p.DUAL.H.264-HD
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501274/poster/thumb/kayiplar-sehri-bogota.jpg" group-title="08.FiLM 2025", Kayıplar Şehri Bogotá 
 https://vs9.photomag.biz/v/Bogota.City.of.the.Lost.2024.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fullhdfilm.vip/uploads/filmler/2024-12/kirpi-sonic-3-izle_f.jpg" group-title="08.FiLM 2025", Kirpi Sonic 3 Sonic the Hedgehog 3
-https://s231.rapidrame.com/hls2/01/00022/95jepcy75vla_,l,n,.urlset/master.m3u8?t=GYkWSFLuJBZVrOQHQDpN1WDZNtLaDoGQJ2QzL5N0yMM&s=1738702492&e=1199998800&f=111334&srv=s390&i=0.0&sp=0&p1=s231&p2=s231
+#EXTINF:-1 tvg-id="https://s231.rapidrame.com/hls2/01/00022/95jepcy75vla_,l,n,.urlset/master.m3u8?t=GYkWSFLuJBZVrOQHQDpN1WDZNtLaDoGQJ2QzL5N0yMM&s=1738702492&e=1199998800&f=111334&srv=s390&i=0.0&sp=0&p1=s231&p2=s231" tvg-logo="https://fullhdfilm.vip/uploads/filmler/2024-12/kirpi-sonic-3-izle_f.jpg" group-title="08.FiLM 2025", Kirpi Sonic 3 Sonic the Hedgehog 3
+https://s420.rapidrame.com/hls2/01/00022/95jepcy75vla_,l,n,.urlset/master.m3u8?t=Q3EuT5ejuUXRxEQjQOBqrXMQvSnAVsbkX6qAD5o1EEk&s=1739169017&e=1199998800&f=111334&srv=s390&i=0.0&sp=0&p1=s420&p2=s420
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/2fcf4145c60bd3800aab69f1357c0360173719737413.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/e4b20e1d6c12b85f436f1e22129eba6a.jpg" group-title="08.FiLM 2025", Komandir
 https://cdn.dzen.ru/vod/converted-video/vod-content/90/93/44/16/08/86/65/09/61/5/d5784d95-8397-47a7-870a-b2a6f3cd2eae/kaltura/desc_1ec6e9e8e9290afc08355ad5e4d069f0/viGwY5CSTKkM/master.m3u8
@@ -12415,17 +12412,38 @@ https://cadir2.shop/cdn/down/741dd3f071c771e116aa0922fa794640/720p/720p.txt
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/5da15f7a5eb416aaba1cc7f339d44636.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Butas
 https://cdn.prectv2.lat/hls/9/cdn501/26ac13003e473d3b854536d06aa7eb1617276948359.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lust-caution.webp" group-title="09.FiLM SERi KARIŞIK", zzx Dikkat Şehvet
+https://s342.rapidrame.com/hls2/01/00017/r4yayupw0s3d_,l,n,.urlset/master.m3u8?t=Y3ihd4qm0ZAT8GNuX_Cze7LwQbtmKOJupymnyzNw8vw&s=1739127767&e=1199998800&f=88562&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle3.com/i/afis/b/a1553.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Dokuz Buçuk Hafta
 https://cdn.dzen.ru/vod/converted-video/vod-content/13/63/69/51/03/15/04/62/95/8/21834fcc-95cf-410b-b848-0d59dce70595/kaltura/desc_4f8b25ed10cbdf1f7dc4950b108605b4/vONkIpakdtSk/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/18498/poster/thumb-lg/donus-yok.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Dönüş yok (2002)
 https://p2.photofunia.org/v/1o1yfke8j8zl/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/emmanuelle.webp" group-title="09.FiLM SERi KARIŞIK", zzx Emmanuelle (1974)
+https://s336.rapidrame.com/hls2/01/00017/j65q2u7x2nq0_,l,n,.urlset/master.m3u8?t=BA2erJvFsuzkFqBOslCGD8_BFEyL-ONxXbhJAxC7VmE&s=1739128552&e=1199998800&f=88764&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/emmanuelle-the-joys-of-a-woman.webp" group-title="09.FiLM SERi KARIŞIK", zzx Emmanuelle 2 The Joys of a Woman (1975)
+https://s336.rapidrame.com/hls2/01/00017/3td5tfwlvmm5_,l,n,.urlset/master.m3u8?t=APbp-3db-Ij40nLvQLUY3QMBm_fBpLhKLOsMq7RqK-0&s=1739128622&e=1199998800&f=88788&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/emmanuelle-3.webp" group-title="09.FiLM SERi KARIŞIK", zzx Emmanuelle 3 (1977)
+https://s336.rapidrame.com/hls2/01/00017/ceqclruffpjq_,l,n,.urlset/master.m3u8?t=rlhe4r_SLgt_7TQBoh2TQy75TTCfQh4OPtH1EIGdsW4&s=1739128661&e=1199998800&f=88784&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-genc-ve-guzel.webp" group-title="09.FiLM SERi KARIŞIK", zzx Genç ve Güzel
+https://s385.rapidrame.com/hls2/01/00015/72rfzfen460r_,l,n,.urlset/master.m3u8?t=Ef4y3HtNdT8UEVOUKTCma2PU76kazxmqCeyTqNrmyI8&s=1739127353&e=1199998800&f=78715&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/13397/poster/thumb-lg/grinin-elli-tonu.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Grinin Elli Tonu (2015)
 https://vs6.photofunny.org/v/us1jane92785/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/original-sin.webp" group-title="09.FiLM SERi KARIŞIK", zzx Günahkar
+https://s293.rapidrame.com/hls2/01/00017/c08h2aksekxf_,l,n,.urlset/master.m3u8?t=UlK32XDGKxPuttDovKS6D-UK1fuW_InE51AH50eOP70&s=1739128038&e=1199998800&f=89221&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b0f6ad508d98ea733de0a9ba7f0bb3b8.jpg" group-title="09.FiLM SERi KARIŞIK", zzx iyi ki Aldatılmışım
 https://cdn.prectv2.lat/7/cdn871/m/Iyikialdatmisim/v.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/jade.webp" group-title="09.FiLM SERi KARIŞIK", zzx Jade
+https://s354.rapidrame.com/hls2/01/00017/uaa9jo2rrsms_,l,n,.urlset/master.m3u8?t=aVlMKvhAi_EydjrEmPxs1AsPQOaYTvBpZvn4fUC5JZc&s=1739127603&e=1199998800&f=88719&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/13096/poster/thumb-lg/karanligin-elli-tonu.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Karanlığın Elli Tonu (2017)
 https://p2.photofunny.org/v/25j03zs6i0e1/master.m3u8
@@ -12434,8 +12452,26 @@ https://p2.photofunny.org/v/25j03zs6i0e1/master.m3u8
 Monsters Ball
 https://vs4.photofunny.org/mw/ZULmAmSarJ9fMQShd0zxpTuiqT9zqJ5hrF5ipzps0xi4vr1bhd
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cheeky.webp" group-title="09.FiLM SERi KARIŞIK", zzx Kışkırtma
+https://s402.rapidrame.com/hls2/01/00016/5wg6dtosc0cf_,l,n,.urlset/master.m3u8?t=ccsXDNuyK1oR4ZgxjtO7IUC8reaqhh5UdljGRZAfmtI&s=1739127458&e=1199998800&f=80270&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lolita.webp" group-title="09.FiLM SERi KARIŞIK", zzx Lolita
+https://s342.rapidrame.com/hls2/01/00016/67xzogdkg1ka_,l,n,.urlset/master.m3u8?t=mqnCpTXm4LXrIfaosztKl707_viNhiyBCiFRUPBXpt0&s=1739127532&e=1199998800&f=80459&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-piano-teacher.webp" group-title="09.FiLM SERi KARIŞIK", zzx Müzik Öğretmeni
+https://s351.rapidrame.com/hls2/01/00016/cpf37w555vqa_,l,n,.urlset/master.m3u8?t=IIJ3imkj9DJRtaXyAx47dmC542nVpSdbwEu9VNFIuT8&s=1739127850&e=1199998800&f=81080&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="https://balancehls10.playmix.uno/hls/neposlushnaya-2023-webdlmp4-oKWKsH0Qsfa.mp4/master.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/naughty.webp" group-title="09.FiLM SERi KARIŞIK", Zzx Naughty
 https://s230.rapidrame.com/hls2/01/00022/s2lxhaawsuvy_,l,n,.urlset/master.m3u8?t=XgtUIi8dNaZIA-_JhUp9rmPCtyLI-LViaI6lOHV6kVc&s=1739035799&e=1199998800&f=111972&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/femmefatale-2002-webdl-trdualmp4-aq7dcYCno2W.mp4/sublist_aud1.txt     https://hls11.playmix.uno/hls/femmefatale-2002-webdl-trdualmp4-aq7dcYCno2W.mp4/sublist_2.txt     https://hls11.playmix.uno/hls/femmefatale-2002-webdl-trdualmp4-aq7dcYCno2W.mp4/sublist_2.txt " tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/femme-fatale.webp" group-title="09.FiLM SERi KARIŞIK", zzx Oldüren Kadın
+https://hls11.playmix.uno/hls/femmefatale-2002-webdl-trdualmp4-aq7dcYCno2W.mp4/master.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/desire.webp" group-title="09.FiLM SERi KARIŞIK", zzx Q Desire
+https://s230.rapidrame.com/hls2/01/00018/j26s1r0w5jak_,l,n,.urlset/master.m3u8?t=irQ4Q7n1kCU4z4Jy0QUMpx5rSL82yNyK0Baz7Mtli3M&s=1739127166&e=1199998800&f=90591&srv=s389&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-lover.webp" group-title="09.FiLM SERi KARIŞIK", zzx Sevgili
+https://s351.rapidrame.com/hls2/01/00016/actmd2os3dkv_,l,n,.urlset/master.m3u8?t=waO7TqxGkuto4EHLY7fpgCQMHZ5qk8bwlvZDYujBFHM&s=1739127689&e=1199998800&f=81247&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/a5887.jpg" group-title="09.FiLM SERi KARIŞIK", zzx Sliver (1993)
 https://p3.gamephotos.biz/v/swqmi3zrbx57/master.m3u8
