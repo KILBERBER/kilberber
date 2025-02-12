@@ -1166,17 +1166,11 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="0.KIL-MÜZİK", Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Relax Dinlendirici
-https://ythls.kekikakademi.org/youtube/channel/UCjzHeG1KWoonmf9d5KBvSiw.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Relax doğa
 https://ythls.kekikakademi.org/youtube/video/2OM7adQl-YQ.m3u8
 
 #EXTINF:-1 tvg-id="Rahat_AtesBasi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 02.Relax Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 02.Relax Doğa
-https://ythls.kekikakademi.org/youtube/video/e7nM3et_bII.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="0.KIL-RELAX", 03.Chill TV
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
@@ -1185,16 +1179,13 @@ http://stream.tvcdn.net/muzik/chill-tv.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 03.relax 4k
-http://live.admuspeh.my/8822/video.m3u8?token=TestuspehTva
+http://185.57.68.33/232/mpegts
 
 #EXTINF:-1 tvg-id="https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 04.Relax baraza
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w63326066.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 04.Relax baraza
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 04.Relax baraza b
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 05.relax Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
@@ -1225,9 +1216,6 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22930/quietude-4k/logo_20231219_221151_68.png" group-title="0.KIL-RELAX", 07.Relax
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 07.Relaxation
-https://wisecdn3.wiseplayout.com/relaxation/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/logo_20231219_220128_53.png" group-title="0.KIL-RELAX", 08.Relax
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
@@ -1414,6 +1402,9 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://thedaddy.to/strea
 
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0son.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 i
 https://mobil.92test.cfd/yayint24.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 j
+https://t55.1ff05699778444598.workers.dev/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
@@ -8121,6 +8112,9 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/32/67/07/37/58/66/56/79/90/7
 
 #EXTINF:-1 tvg-id="https://s402.rapidrame.com/hls2/01/00022/k26rjjmu27tg_,l,n,.urlset/master.m3u8?t=QAdTrs-5X0ohbmvfxnct3Y7AuUGT-9lOSXw3OmcAgAY&s=1738750289&e=1199998800&f=111805&i=0.0&sp=0" tvg-logo="https://www.hallyusg.net/wp-content/uploads/2021/07/Ghost-Mansion_Teaser_Poster_15-Jul-scaled.jpg" group-title="08.FiLM 2025", Ghost mansion
 https://s413.rapidrame.com/hls2/01/00011/5qiuu2qxo2sf_,l,n,.urlset/master.m3u8?t=9YJ9PpUboY5SrMttJ3jvuF-k-Y4saiwX3lPcTj5y9IE&s=1738873973&e=1199998800&f=58189&srv=s386&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/heart-eyes.webp" group-title="08.FiLM 2025", Heart Eyes
+https://s230.rapidrame.com/hls2/01/00022/6jgse4psfkus_,l,n,.urlset/master.m3u8?t=diClt0_1j6uwienfsagjULc55ZDWKxkaTPre9nLVOU8&s=1739350520&e=1199998800&f=112110&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/homestead.webp" group-title="08.FiLM 2025", Homestead
 https://s413.rapidrame.com/hls2/01/00022/27vzrltvnhzw_,l,n,.urlset/master.m3u8?t=w5IwaXddC3oYI5IAgt2s-I62607XRqKVSNM3izMVwkI&s=1738790112&e=1199998800&f=111845&srv=s390&i=0.0&sp=0
