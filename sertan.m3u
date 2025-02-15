@@ -1376,8 +1376,8 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1
-http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Maç Zamanı
+https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id=" https://fadda.site/cdn/tabi_spor_hd/main.m3u8     https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8.    https://gagas.site/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
 https://ffada.site/cdn/bein_sports_1_hd/main.m3u8
@@ -1391,14 +1391,8 @@ https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://mactv5.net/701.m3
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0son.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
 https://mobil.92test.cfd/yayint24.m3u8
 
-#EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.kurt.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
 https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 Maç Zamanı
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1padisah.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1a padişahbet
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://c0.b4c8d3e9f1a2b7c5d53.cfd/yayint24.m3u8|referer=https://trgoals1136.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1447,6 +1441,12 @@ https://alpha.cf-worker-abee49828fa8fbd5.workers.dev/live/selcukbeinsports1/play
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk Maç Zamanı
 https://due.37dfb0c61b5625cd.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
+
+#EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 x
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="http://5.troya.info:34000/ch1424/mono.m3u8?token=rl_manamana.2ADe-pSAOeT5jietR0MFoVFSYk0hrwuQfUVA2gZSEUQ5Vu7h7f4YW9QWp0Lcbs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.kurt.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 x
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SPOR 2
 http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
@@ -8202,6 +8202,9 @@ https://vs18.photomag.biz/v/Afraid.2024.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/b45acb772eeba1fddba3aa1188447c0617375425428.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0709185ebc301e2f4c3d03018cf30def.jpg" group-title="08.FiLM 2025", Sniper: The Last Stand
 https://cdn.dzen.ru/vod/converted-video/vod-content/55/62/23/57/67/81/81/34/09/2/1b5906b1-e3e4-4ff2-8a2c-faaa67fc614d/kaltura/desc_534233c32a983599b25939a3ab8466d4/vGUEMHylaAk0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/so-cold-the-river.webp" group-title="08.FiLM 2025", Soğuk Nehir
+https://s231.rapidrame.com/hls2/01/00022/mbku5ynukwdv_,l,n,.urlset/master.m3u8?t=xlbqagEBsUQX6kx82IrKNjT-g1Lo2Vz2f8HrzsH3H2A&s=1739638110&e=1199998800&f=112249&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/54604/poster/thumb-lg/bir-astronotun-sonsuz-yolculugu.jpg" group-title="08.FiLM 2025", Spaceman Bir Astronotun Sonsuz Yolculuğu 
 https://p2.photofunny.org/v/4ga9f2kikoaq/master.m3u8
