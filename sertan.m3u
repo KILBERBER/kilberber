@@ -44,18 +44,6 @@ http://palatv34.ozelip.com:22372/megatv/megatv/chunklist_w2021321667.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/milyon-tv.png" group-title="0.KIL-MÜZİK", 04.milyon tv
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:-1 tvg-id="Dummyhttp://stream.tvcdn.net/diger-muzik/pala-tv.m3u8" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="0.KIL-MÜZİK", 04.Pala TV
-http://yktv2828.ozelip.com:30838/palatv/palatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/559756c0-d9b8-4ff6-8ff9-d4bb087b6167.png" group-title="0.KIL-MÜZİK", 04.PALA TV b
-http://palatv34.ozelip.com:22372/palatv/palatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="0.KIL-MÜZİK", 04.SDM HiTS
-https://host.onlineradyotv.net:8081/sdmtv5/index.m3u8
-
-#EXTINF:-1 tvg-id="https://host.onlineradyotv.net:8081/sdmtv2/tracks-v1a1/mono.m3u8" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="0.KIL-MÜZİK", 04.SDM MÜZİK
-https://host.onlineradyotv.net:8081/sdmtv2/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sun9-65.userapi.com/YfWLsWixUhsn2BUC0kKl1LdJkBGc7scYiUlSvg/RPUzgrbJonQ.jpg" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
@@ -79,12 +67,6 @@ http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.Number 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.NUMBER 1  Blutv
-https://nr1.blutv.com/blutv_n1/blutv_n1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.NUMBER 1  Blutv b
-https://nr1.blutv.com/blutv_n1/blutv_n1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/muzik/number-one-tv.m3u8" tvg-logo="https://canlitv.center/channels/number-one-tv.png" group-title="0.KIL-MÜZİK", 05.Number 1 b
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
@@ -131,9 +113,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/muzik/number-one-turk.m3u8" tvg-logo="https://tr.canlitv.team/poster/number-one-turk-tv.png" group-title="0.KIL-MÜZİK", 09.Number 1 Türk b
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.canlitv.team/poster/number-one-turk-tv.png" group-title="0.KIL-MÜZİK", 09.Number 1 Türk Blutv
-https://nr1turk.blutv.com/blutv_n1turk/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.canlitv.team/poster/number-one-turk-tv.png" group-title="0.KIL-MÜZİK", 09.Number 1 Türk c
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
@@ -142,12 +121,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-id="https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="0.KIL-MÜZİK", 10.Power b
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="0.KIL-MÜZİK", 10.POWER Blutv
-https://powerhd.blutv.com/blutv_powerhd/blutv_powerhd/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="0.KIL-MÜZİK", 10.POWER Blutv b
-https://powerhd.blutv.com/blutv_powerhd/smil:blutv_powerhd.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="0.KIL-MÜZİK", 10.POWER c
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
@@ -184,12 +157,6 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_35.png" group-title="0.KIL-MÜZİK", 13.POWER TÜRK b
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_35.png" group-title="0.KIL-MÜZİK", 13.POWER TÜRK Blutv
-https://powerturk.blutv.com/blutv_powerturk/blutv_powerturk/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_35.png" group-title="0.KIL-MÜZİK", 13.POWER TÜRK Blutv b
-https://powerturk.blutv.com/blutv_powerturk/blutv_powerturk/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_35.png" group-title="0.KIL-MÜZİK", 13.POWER TÜRK c
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
@@ -275,23 +242,11 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE3900002R1.m3u8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3900002R1_20241105T025318SQUARE.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM
 https://d2p9bo32dvfrvh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4avpk0b4jtkht/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.KPop
-https://marine2.miplay.cl/kpop/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Befunky_2022-9-6_21-59-4.jpg/400px-Befunky_2022-9-6_21-59-4.jpg" group-title="0.KIL-MÜZİK", 19.KPop 2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/12237/logo_256_1684134334.png" group-title="0.KIL-MÜZİK", 19.Kpop TV Play
-https://alanza.iptv2022.com/Kpo_TV_Play/index.m3u8
-
 #EXTINF:-1 tvg-id="http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play b
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New KPop
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop (KOR)
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
@@ -1166,12 +1121,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="0.KIL-MÜZİK", Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Relax doğa
-https://ythls.kekikakademi.org/youtube/video/2OM7adQl-YQ.m3u8
-
-#EXTINF:-1 tvg-id="Rahat_AtesBasi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 02.Relax Ateş Başı
-https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png" group-title="0.KIL-RELAX", 03.Chill TV
 http://stream.tvcdn.net/muzik/chill-tv.m3u8
 
@@ -1379,14 +1328,8 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Maç Zamanı
 https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id=" https://fadda.site/cdn/tabi_spor_hd/main.m3u8     https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8.    https://gagas.site/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
-https://ffada.site/cdn/bein_sports_1_hd/main.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
 https://gagas.site/cdn/bein_sports_1_hd/main.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a ab
-https://denvjt.top/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cdn2.lexter1.com/stream/431081.m3u8
@@ -8145,6 +8088,9 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/90/93/44/16/08/86/65/09/61/5
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-good-neighbor.webp" group-title="08.FiLM 2025", Komşunun İyisi The Good Neighbor
 https://s230.rapidrame.com/hls2/01/00022/2xh7t8j3ekxe_,l,n,.urlset/master.m3u8?t=BTN43TVgV74zm6e5zWL2oFYX-f7HdVWZjv5wdYrPwEo&s=1739782849&e=1199998800&f=112274&srv=s401&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2025-02/koparan-kardesler.webp" group-title="08.FiLM 2025", Koparan Kardeşler
+https://vidmody.com/mm/tt33131804/main/index-v1-a1.gif
 
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/vo6dhj64aoro_,l,n,.urlset/master.m3u8?t=oR3UTSQ1j2t3SPCYSFFxHgQtKGxo48W_2SvQStbLi68&s=1739098159&e=1199998800&f=111841&srv=s390&i=0.0&sp=0&p1=s230&p2=s230" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/64fc3068f1dd702bedd521baf70d2991.jpg" group-title="08.FiLM 2025", Kurt Adam
 https://cdn.dzen.ru/vod/converted-video/vod-content/55/22/76/19/21/92/33/36/07/4/06436c1f-3b48-46cc-88e7-795b0d8415e7/kaltura/desc_9a9c1970f8df8283fdc9ca695c08a141/vVjUzaLRHQmU/master.m3u8
