@@ -248,6 +248,9 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1 tvg-id="http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play b
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play c
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop (KOR)
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
 
@@ -341,8 +344,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc408
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CYctdFf.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="0.KIL-MÜZİK", 21.MTV Biggest Pop (United States)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8hpY3Qp.png" group-title="0.KIL-MÜZİK", 21.MTV Block Party
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="0.KIL-MÜZİK", 21.MTV Classic East
+
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4nGJPlt.png" group-title="0.KIL-MÜZİK", 21.MTV Dating
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -352,6 +362,9 @@ https://s6.hopslan.com:443/mtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="0.KIL-MÜZİK", 21.MTV Live (United States)
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
@@ -364,6 +377,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0a
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RKHebDz.png" group-title="0.KIL-MÜZİK", 21.MTV Spankin New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="0.KIL-MÜZİK", 21.MTV Spankin New (United States)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
 
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="0.KIL-MÜZİK", 22.Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -1103,8 +1119,15 @@ https://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png" group-title="0.KIL-MÜZİK", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="0.KIL-MÜZİK", Super TV (Romania)
+
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23139/surf-roots-tv/logo_20240523_220440_70.png" group-title="0.KIL-MÜZİK", Surf Roots TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="0.KIL-MÜZİK", Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="TMA.gp" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="0.KIL-MÜZİK", TMA
 http://hls.tmacaraibes.com/live/index.m3u8
@@ -8037,6 +8060,12 @@ https://p2.photofunia.org/v/u0a82jzgjkff/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/dhoom-dhaam.webp" group-title="08.FiLM 2025", Dhoom Dhaam 
 https://s230.rapidrame.com/hls2/01/00022/2tdh06gzp9fl_,l,n,.urlset/master.m3u8?t=SbODf5BAEkBRShmnkOOJO3Lh4X5K1SpPna3MMEwrpQM&s=1739551692&e=1199998800&f=112173&srv=s354&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/24611/poster/thumb-lg/dunyanin-butun-parasi.webp" group-title="08.FiLM 2025", Dünyanın Bütün Parası
+https://vs12.photoflax.org/v/All.the.Money.in.the.World.2017.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/57632/poster/thumb/the-dead-dont-hurt.jpg" group-title="08.FiLM 2025", Dünyanın Sonuna Doğru
+https://vs10.photoflix.org/v/The.Dead.Dont.Hurt.2023.Bluray.1080p.DUAL.x264-HDM/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/death-before-the-wedding.webp" group-title="08.FiLM 2025", Düğünden Önce Ölüm
 https://s413.rapidrame.com/hls2/01/00022/9ofee9keernq_,l,n,.urlset/master.m3u8?t=mBH5MpmmZSLPlthZTQJ3VhBMTIgbuGgQ0EKAFykDH2M&s=1739373472&e=1199998800&f=112117&srv=s354&i=0.0&sp=0
 
@@ -8123,8 +8152,8 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/47/25/37/21/94/24/04/79/41/8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/b50e69ac16793f8d8f55138f61c3f846.jpg" group-title="08.FiLM 2025", Mucizevi Londra: Zamanın Sınırında
 https://vidmody.com/mm/tt13701202/main/index-v1-a1.gif
 
-#EXTINF:-1 tvg-id="https://vidmody.com/mm/tt13186482/altyazi/main5/index-v1-a1.gif" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2024-12/mufasa-aslan-kral.webp" group-title="08.FiLM 2025", Mufasa Aslan Kral
-https://vidmody.com/mm/tt13186482/altyazi/main5/index-v1-a1.gif
+#EXTINF:-1 tvg-id="https://vidmody.com/mm/tt13186482/altyazi/main5/index-v1-a1.gif" tvg-logo="https://www.hdfilmizle.to/v/500192/poster/thumb-lg/mufasa-aslan-kral.webp" group-title="08.FiLM 2025", Mufasa Aslan Kral
+https://vs9.photofunia.org/v/Mufasa.The.Lion.King.2024.WEB-DL.1080p.DUAL.x264-HDM/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/my-fault-london.webp" group-title="08.FiLM 2025", My Fault London - Culpa Mia London
 https://cdn.prectv2.lat/hls/8/cdn444/VOWaJHg7eoVwrVAkjoFRJVQqzGWGvtPf7GUTCsZn.mp4/index.m3u8
@@ -12539,6 +12568,12 @@ https://p1.photomag.biz/v/chjkn04y450w/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a6200.jpg" group-title="09.FiLM SERi KARIŞIK", Yargıç Judge Dredd (1995)
 https://cdn.dzen.ru/vod/converted-video/vod-content/59/02/94/97/32/87/21/88/88/6/6281feb7-a6ba-4447-b6dd-b95fe725139d/kaltura/desc_4a06f3b0e4fecd59607cc10b5dacafaa/vGz5hXVLxsHo/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/5684/poster/thumb-lg/yarinin-savascilari-hd.jpg" group-title="09.FiLM SERi KARIŞIK", Yarının Savaşçıları
+https://vs3.picstock.pro/mz/AQyjowOkZaIepTxmd0zxpTywp3EiL2fhpUWis0xi3vr1bhd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/12769/poster/thumb-lg/yarinin-savasi.jpg" group-title="09.FiLM SERi KARIŞIK", Yarının Savaşı 
+https://p2.photomag.biz/v/873b0o6xbs85/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/2993b398cc5b463e889e9bd6f3174fa6.jpg" group-title="09.FiLM SERi KARIŞIK", Yarının Sınırında
 https://cdn.prectv2.lat/hls/4/cdn1/cdn/movies/trdublaj/yarininsinirinda.mp4/index.m3u8
