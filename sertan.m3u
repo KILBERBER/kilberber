@@ -1357,6 +1357,9 @@ https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
 https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.just.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a b
+https://wfasa.site/cdn/bein_sports_1_hd/main.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cdn2.lexter1.com/stream/431081.m3u8
 
@@ -1374,9 +1377,6 @@ https://mobil.92test.cfd/yayint24.m3u8
 
 #EXTINF:-1 tvg-id="https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
 https://r11.1ff05699778444598012.workers.dev/static/bs1.m3u8?|user-agent=Dart&Mozilla/5.0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 g
-https://renewed-georgeanne-nekonode-1aa70c0c.koyeb.app/fetch/?url=https://v.arectv11.sbs/static/bs1.m3u8?|user-agent=Dart&Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1padisah.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1a padişahbet
 https://r0.b4c8d3e9f1a2b7c5d67.cfd/yayint24.m3u8|referer=https://trgoals1185.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1425,6 +1425,12 @@ https://alpha.cf-worker-c2e1a0689f13d136.workers.dev/live/selcukbeinsports1/play
 
 #EXTINF:-1 tvg-id="https://due.113e23dda23791fa98.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk Maç Zamanı
 https://due.37dfb0c61b5625cd.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4)
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0taraf24.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 x
+http://xtream-ie.org/live/FreeShot/MurredenHediye2025/4.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macbox.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 x
+https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8
 
 #EXTINF:-1 tvg-id="http://65.21.85.175:8000/play/a034/14783243.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 x
 http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
@@ -4540,13 +4546,13 @@ https://one.fbf1eb5f21ff67.shop/live/natgeowild/playlist.m3u8?live=true?|referer
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/dizi.png" group-title="01.KIL-BELGESEL", 2.Viasat
 https://one.fbf1eb5f21ff67.shop/live/viasat/playlist.m3u8?live=true?|referer=https://dizi5.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
+#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
 https://tv.arectv3.xyz/live/bbc.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.da Vinci
+#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.da Vinci
 https://tv.arectv3.xyz/live/davinci.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DMAX
+#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DMAX
 https://tv.arectv3.xyz/live/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.Docubox
@@ -4567,7 +4573,7 @@ https://tv.arectv3.xyz/live/lovenature.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.NATIONAL GEO
 https://tv.arectv3.xyz/live/natgeo.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.NATIONAL GEO WILD
+#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.NATIONAL GEO WILD
 https://tv.arectv3.xyz/live/natgeowild.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.TARİH TV
@@ -7337,6 +7343,9 @@ https://s413.rapidrame.com/hls2/01/00022/c4s6szmnz6l5_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2025-02/beating-hearts.webp" group-title="08.FiLM YENi 2025", Beating Hearts izle
 https://vidmody.com/mm/tt27490099/main/index-v1-a1.gif
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/behave.webp" group-title="08.FiLM YENi 2025", Behave
+https://s230.rapidrame.com/hls2/01/00022/weayiu42m3do_,l,n,.urlset/master.m3u8?t=uQBc0sakxT2hKOGReG7I29c4q-M_x1xAwetMFrCexoE&s=1740345677&e=1199998800&f=112213&srv=s375&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/better-man.webp" group-title="08.FiLM YENi 2025", Better Man
 https://s230.rapidrame.com/hls2/01/00022/jz9xmj9i89gd_,l,n,.urlset/master.m3u8?t=rQvwlyPlzQyjm5aiPwN0ErTActQ2NwEybwkDeCiR68M&s=1739552000&e=1199998800&f=112165&srv=s390&i=0.0&sp=0
 
@@ -7610,8 +7619,8 @@ https://s343.rapidrame.com/hls2/01/00013/0xwolf54p59s_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/207fdf315095bb0c2a4ce477bb8cdfe8.jpg" group-title="08.FiLM YENi 2025", The Intruder
 https://cdn.prectv2.lat/hls/8/cdn801/7acd290adbaccf4968e0c7912f8216d6173797339914.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/207fdf315095bb0c2a4ce477bb8cdfe8.jpg" group-title="08.FiLM YENi 2025", The Intruder
-https://s230.rapidrame.com/hls2/01/00022/3avj9fwghooy_,l,n,.urlset/master.m3u8?t=CIQD9YtnZpCVZ79ozDc6n2ZMhYqTnGdfW1oL5dnQc_M&s=1738764320&e=1199998800&f=111540&srv=s390&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://s424.rapidrame.com/hls2/01/00022/3avj9fwghooy_,l,n,.urlset/master.m3u8?t=GdQKxUXpGOQrrs34FZxuWPMeCTpfr3sSGGPKzylSQSA&s=1740346351&e=1199998800&f=111540&i=0.0&sp=0" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/207fdf315095bb0c2a4ce477bb8cdfe8.jpg" group-title="08.FiLM YENi 2025", The Intruder
+https://s424.rapidrame.com/hls2/01/00022/3avj9fwghooy_,l,n,.urlset/master.m3u8?t=GdQKxUXpGOQrrs34FZxuWPMeCTpfr3sSGGPKzylSQSA&s=1740346351&e=1199998800&f=111540&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/jagxxxk97ztt_,l,n,.urlset/master.m3u8?t=KKpCPNqvIR0vuZMtvn96xdU7qqrubB6n_-xV9CdH3sU&s=1739782969&e=1199998800&f=112276&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/transformers-one.webp" group-title="08.FiLM YENi 2025", Transformers Başlangıç Transformers One
 https://vs13.photomag.biz/v/Transformers.One.2024.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
@@ -7625,8 +7634,14 @@ https://s230.rapidrame.com/hls2/01/00022/m5wh948noyf4_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/umjolo-there-is-no-cure.webp" group-title="08.FiLM YENi 2025", Umjolo There is No Cure 
 https://s230.rapidrame.com/hls2/01/00022/qerjqp8e0r6e_,l,n,.urlset/master.m3u8?t=GQQ8wAsEzEAwBhgWISCsEur8UquQCVa5uiUy_OXKn3g&s=1739551850&e=1199998800&f=112174&srv=s351&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/valiant-one.webp" group-title="08.FiLM YENi 2025", Valiant One
+https://s231.rapidrame.com/hls2/01/00022/u80uajvr89rt_,l,n,.urlset/master.m3u8?t=6A0yJ40fxuu92BAtDaUD1P4Jq3SM_XWw5acLl1C_v50&s=1740345933&e=1199998800&f=112242&srv=s394&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/a752768c10fe7c910421321fdf28749417373707477.mp4/index.m3u8" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/0130cd33938475687442ac1c9af62667.jpg" group-title="08.FiLM YENi 2025", Winner
 https://vs13.pictureflix.org/v/Winner.2024.WEB-DL.1080p.DUAL/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/woman-of-the-hour.webp" group-title="08.FiLM YENi 2025", Woman of the Hour
+https://s230.rapidrame.com/hls2/01/00021/x272qx3stdbg_,l,n,.urlset/master.m3u8?t=VkqzFeHg3GVz0n8d5V395Tc5adZWXQspRPhlNtjT2tk&s=1740345512&e=1199998800&f=109040&srv=s354&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9c53c0426c310b3ab8d43f1c629144ce.jpg" group-title="08.FiLM YENi 2025", Yandaki Oda
 https://cdn.prectv2.lat/hls/8/cdn801/3ccb3977fac411e466ae78d9f87e18c0173684562814.mp4/index.m3u8
@@ -12923,6 +12938,9 @@ https://p1.photofunia.org/v/9urepi11h59r/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a1945.jpg" group-title="10.FiLM DC/MARVEL", Catwoman (2004)
 Kedi Kadın
 https://cdn.dzen.ru/vod/converted-video/vod-content/55/54/44/11/22/74/08/52/76/3/4327060d-1279-47f9-9700-66dd174430fe/kaltura/desc_43b247dafceec8a6c7aa67bfe8c55afb/vWRKgxzBYEx8/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-punisher.webp" group-title="10.FiLM DC/MARVEL", Cezalandırıcı
+https://s230.rapidrame.com/hls2/01/00017/q5ufg15yq2qi_,l,n,.urlset/master.m3u8?t=5Y25Dvpx7DwXl1-Ikjn2_JePQ1ah5pePaZWkeIZwXfs&s=1740343277&e=1199998800&f=88121&srv=s285&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/28461/poster/thumb/barbar-conan-2.jpg" group-title="10.FiLM DC/MARVEL", Conan (1982)
 https://p2.photofunia.org/v/xkvrqbj5yk3p/master.m3u8
