@@ -359,15 +359,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8hpY3Qp.png" group-title="0.KIL-MÜZİK", 21.MTV Block Party
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="0.KIL-MÜZİK", 21.MTV Classic East
-
-https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4nGJPlt.png" group-title="0.KIL-MÜZİK", 21.MTV Dating
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV de
-https://s6.hopslan.com:443/mtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -375,14 +368,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d433
 #EXTINF:-1 tvg-id="MTVBlockParty.us" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="0.KIL-MÜZİK", 21.MTV Flow Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="0.KIL-MÜZİK", 21.MTV Live (United States)
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://158.101.214.187:8080/logos/mtv-live-hd.png" group-title="0.KIL-MÜZİK", 21.MTV Live HD
 http://stream01.vnet.am/Channel_117/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="0.KIL-MÜZİK", 21.MTV LIVE
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NQXLkd1.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -420,11 +407,8 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.THT Musicc
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA Polska
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA
 https://ssh101-fl.bozztv.com/ssh101/vivarussia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="https://hls.goodgame.ru/manifest/180805_master.m3u8" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA Russia
-https://hls.goodgame.ru/hls/180805.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/3533.png" group-title="0.KIL-MÜZİK", 23.1HD Music
 https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
@@ -1436,28 +1420,28 @@ https://u0.b4c8d3e9f1a2b7c5d70.cfd/yayin1.m3u8|referer=https://trgoals1185.xyz/&
 https://alpha.cf-worker-c2e1a0689f13d136.workers.dev/live/beinsports-1/playlist.m3u8|referer=https://www.webspor113.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://inat-tv.org/. https://inatvhdizle.baby/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinstar.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinstar.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex1
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex1.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex1.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex2
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex2.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex2.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex3
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex3.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex3.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex4
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex4.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex4.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex5
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex5.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex5.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex6
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex6.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex6.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://t6co.ragiccsdkjsjd107.workers.dev/list/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web..B.SP0R 1g Kral bet ex7
-https://t6co.ragiccsdkjsjd107.workers.dev/list/yayinex7.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://t6co.radgxigcccc111.workers.dev/list/yayinex7.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.7485a56a493cbfc3.click/i/selcuksportshd1396.xyz/601/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.B.SP0R 1 Selçuk
 https://alpha.cf-worker-820829d825636a1e.workers.dev/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1646.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1719,6 +1703,9 @@ https://l0.b4c8d3e9f1a2b7c5d62.cfd/yayint4.m3u8|referer=https://trgoals1092.xyz/
 
 #EXTINF:-1 tvg-id="https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://cinque.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/609/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4c
 https://alpha.cf-worker-820829d825636a1e.workers.dev/live/selcuktivibuspor4/playlist.m3u8|referer=https://www.selcuksportshd1646.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.selcuksports86.top/view/theme/v1/assets/images/channel/aspor.webp" group-title="0.KIL-SP0R  MAÇ", Y.A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="https://hlssssssss-term-70ef.derbiyehazirirzbro.workers.dev/https://fener2.demoscript.buzz/hls/a-spor.m3u8" tvg-logo="https://www.selcuksports86.top/view/theme/v1/assets/images/channel/aspor.webp" group-title="0.KIL-SP0R  MAÇ", Y.A SPOR
 https://fener2.demoscript.buzz/hls/a-spor.m3u8
@@ -2537,7 +2524,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-3
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="Show max" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="0.KIL-ULUSAL", 02.Show Max
-https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1740513782&st=iNjydznqDRZ0cWbAPm2neg&tv=1
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
 #EXTINF:-1 tvg-id="Show max" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="0.KIL-ULUSAL", 02.Show Max A
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
@@ -6724,11 +6711,14 @@ https://mobilharita.corum.bel.tr/live/tarihi-meydan.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="05.KIL-ÇOCUK", 0.CARTOON NETWORK Blutv
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
+#EXTINF:-1 tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="05.KIL-ÇOCUK", 0.Cartoonito TV
+https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="05.KIL-ÇOCUK", 0.Minika Go
-http://mehmetaslan.serv00.net/play.php?v=https://trkvz.daioncdn.net/minikago/minikago_720p.m3u8?st=SZeuyZVCx8hojVrINXHvyQ&e=1740715133&app=1a0fa873-c3df-4874-8182-baec3fcf4814
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="05.KIL-ÇOCUK", 0.Minika çocuk
-http://mehmetaslan.serv00.net/play.php?v=https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8?st=PlQ4QAiHzbKkbeX_PGG3Pw&e=1740715172&app=297aee61-13da-4585-b5a1-4f9c4c81f15a
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
 #EXTINF:-1 tvg-id="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="05.KIL-ÇOCUK", 0.TRT Diyanet çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
@@ -6739,9 +6729,6 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", 0.TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Caillou.fr" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="05.KIL-ÇOCUK", Caillou
-https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="05.KIL-ÇOCUK", Cizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 
@@ -6751,20 +6738,17 @@ http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" group-title="05.KIL-ÇOCUK", Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.ranini.tv/3f28e9cb-1f76-462b-8b9c-8cd873350a49.jpg" group-title="05.KIL-ÇOCUK", KUKULI TV
-http://105843.performstream.eu:80/elidaeeva/fin650022/10438
-
-#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-logo="noimage.png" group-title="05.KIL-ÇOCUK", Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/400px-Nickelodeon_2023_logo.svg.png" group-title="05.KIL-ÇOCUK", Nickelodeon HD
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2900&extension=m3u8
 
-#EXTINF:-1 tvg-id="(TR) 7/24 Simpsonlar" tvg-logo="noimage.png" group-title="05.KIL-ÇOCUK", Simpsonlar
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d6/Simpson.png" group-title="05.KIL-ÇOCUK", Simpsonlar
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=155136&extension=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Counter-Strike_CS_logo.svg/1200px-Counter-Strike_CS_logo.svg.png" group-title="06.E SPOR ONLİNE", cs live1
-https://euc11-0.playlist.ttvnw.net/v1/playlist/CrEGJ9M-o45KAQZpOsmXhfKp0xDBVSA2l9NrMFjZJp13hiNP8t7LLusw1lGn-E841T4MMaL4vLv1gWyKIXedC4pDe9hi6Nioxj_9_Ay_bgECurnwClANq4ks1T_sewXqQBj8iYOKPRtySOZF1T7AeVavWXBZT2xZmzjWE4cRI3lBhbzi1jqppsTM1YzPATXXkP4u67jQSfSuQh0bDUgeDZfpfljhpPLufvLm9rA3U2cV9cI2mqhK9G_SFOF6bsWfKtErFsZXGliouI-4WkiM3vBKVtKRlBloFxTwQuz1geQV6fqY4niv07xpGGw4i75J4gjqIcTiatN-7T5z0UDB8II6hp3A5pTJznjrYhLqp8hNL_PlCeZ6M5Rfm_MiHKKiigu44nrDaCXfca8nXNpa2Npm4G6h8-GxG7B9mhyLG2OEzE6hwTQLlXS-gHTBNuLAgUr-1eUwC90Tk4zYo1tOv0EPA3Hb9aM0TXwXYGrw2QHT0dySk0WIhVavnd0hgsj9rDqs9iOKW6NW19j1aSzevR3k6sygRrhDdm24DpajEoTcsRSqz-BzX8YKIg0cIuPKh8-FRM9nfUTs7hNO944w0R3nfrfoTmx9_N-ORg8VDBphZ77Gq0nm9HfT366VgDPEm0RIUKccDRnPyUGs4lFg002sbdwUJ-cZoWu00oDZiDq6OzuKtEhdLBl-3f9Zs3lh7KkH7MtNn0lZYuQ7KHkXc_ZlraIfiHCnzalpKSYX_mekwoh9Q360IiJvoqth2ZrDlOGU-4500cC8Eo36R7SFxoB0rwqUbfdE25x1yp8eOG4mZByErxfwKVibSCOiuNB6EES9NLHe_fZPmrBL0ph0ebsx5gFc7yBMk3VsPvYnyKpPo8iBOcVX-ZGDElQLdW3tXahBJ2YfbsvmecYzkvBA2rJOMjnfhYYc98NnWGY30J5WuiA1ieFw7nApF3RoPUelqSvBoTnyCSjmPYQ5PqbA8Y3MJg_b3cY7qWTeleEDzhkFeBKSm2NSMDHPOdlrRL4aaPIxqJSCWkOspL1Fb9Jim8Kjk99Z3bYW6bqLQ4qjTpM8ag3ULhvL8ca-HH9AnogIJeGOJRoMAJAZ6gVU1MrAyl5eIAEqCWV1LXdlc3QtMjDXCw.m3u8
+https://euw22-0.playlist.ttvnw.net/v1/playlist/CrQG677y9aYb9muxofDSBy7G9olf2MeIrbP0JMjoZZQs-rWGj168FD0cyIT75XUIPYGQtxstdZCkJNvf3beRrN6Jz5Xg34HHUH-lFiH97zICAVRT8utr8fqiKmB79Z-HuyWO5a-Ro5wXM88TpIzVlcuLbRsSEZSaFo-9Bw-4uszMNgqY6EWpPDpH0R2EV55jaPieaBKCa1b5k4xAWVZd7D6CMawMh788kIbWViN8VDVGRoOiE-DsE4JSIadXo4w4ECMenpyguTrJl4Ev5dKI8CIsUglqlhp21GxOsetTVr_MGF3D89L2rFEdFx4PiicIrP3GCLKsKu3qL1y-6dAqMQxiFOk9VEUjz_xdVsr_9i4UaReyLt9tbayLOHaUlJlUziNKzNCwWU5fV2s4il9XGLf9h_zz2T9NiKiYI3sik0aZ5cAGHvKrLfMSr0yxM35X7MKjsIev3J0xRmsHNkKXaL_sU7jxSRxdUzicLIhuvR3Kr0vuyz2bh7O2Amwmg6DPNFTqJQc3zNVtAUuHMgqt9ypj5F5s224fQAsLqubN0K3f8t7KdDzNbYXFSHbwEDDlmOP9jAaBWfplsOeESLD7d7h793IcQcARIE4C1R_fN8uA3NN5DUaRc3KbKULan_cyaI9amOreV5Y7vTbZvHEpJpiFLjb4tztp-gZBLXH8F0hipZj4th4o5O4AVYzmlyjgfPkjobg6ydYaXxAqs5Ih5edm1ZpX-cPdyKp6UQ_Q4kBor2xlPACBb18Y2dlS5dzVn7qMtLDI4JYnxr6f4FDCs87tWhmilLNeBDybxA_5ApA0LTEdF1IPbLDEPBrhX8JtAYRWOwJIMpZVAwQ6CucYI9wdHkOI3h2tHYrTRGHqqXVyjVba2d0zR9Sk5cD8crGYrfYbjNOAq9tVwSA48dgnfDICSUr3KJgRFUGEEyc4H0wopDjhmvHumTcgGN1tdAYVhWhr4troxlyKR7jFJ293IkQxCA8maD2GyWz_1ZXAiKdbMwaFWllPObnVPKaKDcbfvy43Hb7eaRIIVyMwTSmdocCUqgmatyS778lx3eIRCeimB4l1M63qAX-gmAEW2sT90tal7ThRqBoMF0aZzHuB_bxp53rmIAEqCWV1LXdlc3QtMjDYCw.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Counter-Strike_CS_logo.svg/1200px-Counter-Strike_CS_logo.svg.png" group-title="06.E SPOR ONLİNE", cs live2
-https://euc13-0.playlist.ttvnw.net/v1/playlist/CsEGhY_PQzMN3vy3nNJ7kQzrG9HCPfiCvlMd-s8eSnkZ2SW8TUPZDOVUm4JkgytuIf70QGfWcNl3jmRi8Sgx5tLn25IduJ6iHuqSqeL2VoyWzL_-1hZSxlcCFc-QEl9mRb-wXes2fAs8m_WnZxgGIWblJ3xduAgFeKecMHhagAb-jepKjCcK0R-hLLZsO7j-z2tgkULoqsWgEkBXWPLUN5Yt3Qeux3beOOVAQwJzHmFHZSG8i7D8vpsEqW-pSOVQbJwT0-GQdOi-axjLrJTUJvtelc9T9LmjAp9EGUfEXbBqjGuAL4U9_JMQRYJ5jv1DtVqb2KhkVAJAhOZwIkaCikxE2xgtGdEhLfhDKbj1HXR3-yaxZUxIZWZiPllpJrvlEyQSO2YjS8S7JjfvJvbDcNMNTZVzpWTq2ur1jOpOm07C_abisntuCidYAdgVGDiBZMI_ZDx0sRaZTA4R3_0ZzId4P8nCxlyM7Ew24RMrNZbANnpZktJ_iQxmum0GOHex_zNoSuNYfahoXIoe1QWm1fwzld0zfbev9JzngyfbGTmL1Cyt07bSZXQj-zLnhgQBjvVcoOngJu9HsWYki1H2EH2YH1P9YLTn2ynprhTozY-uSn3IFpiz3KvUI19A8-GKOxhbfc2VzL7iADJdKcYQsxbZt7GOlJ7Y9d97toEXdoNDSz_f4CXbAHmYsPBYE7wrtwFEfRQcNQ8yteZJclUVuKIPOW-N8C8laqzhlh010roAldi-IGzMqpr7bfG0KMNWN0HCqriBjS2d0E2aybGElVCicMnOL26T3Kabx8MmZyYtdGMIYRPIMF_SV1ob7Lzp2nWuo50Vay64Xd7YAD6ejDR8CtVZXc5UJHKxFz1TeU0H_b16y6ZhUT_YrxjpJxUvrP0ybcRt-918va2rvw_jONVDfkRauS0AUvygMCwnGDmVkLmRc30ePzvfqtDrCtubKxW1OwGQgHo_KeP75OL1rVvYXSB9F6oK74nZSAQfiqBTTKQKMlZYtR6hipuopEghgFFiW0mcaNdkDYhLqfmFv-U14gbhSkyYPhWaDf8pQmJvTlDc_r9tcdIm5Zq_DzPZhCSC3nKd4oW3eAQ9vAT3Hldij0IaDPf4Nzfcw9UTWvBWqyABKglldS13ZXN0LTIw1ws.m3u8
+https://euw23-0.playlist.ttvnw.net/v1/playlist/CrsGD2DEg-OtnUuaKFFCL3olFlHiSDoG6eqWrL-maEq6qukDZ3k9UsrJYNh31Vetg08xESGw2pjcWON7vJWXRgccxJ6DtDIBpIrjQ9YrQgNclOFPo09LnfkZ_liY_Snc60Q91krG_JOt9_kjipi3D8p5ybBsp9O1JQ0qUgYeHG9xpAbao5EqV4g0wbqYw_ekjW58TGj9KOoGK4JjrCwZ5-enM3fFg5zya3GlJTqmJd4LYh7cp2jZHcqCltfOjgt6XwyIZBtZvRzf9iAO1ZUMC9JfaDk8S8EuGZZBbdIVXNwHTNy_Tq78UgbzhqaIOUyXBi2FdFsUkkjMy-zZhq203LI3iQN2wkcHVFS-fmVLZ9LRw9-a2W_yxr1iXQi7td-b9LAPm4IVqlrWLZXhdC3_s1gtguGlOTQ3b5zK885QgCBTQZyjA93V_93Wz3DdjchCSGWEuO8YhvIQI4WHgeD1oHkc-XXe2tgiTLu5d8RWpO5HSN_oAoXsCpH69nvyU-fj4YPEBbYxMB9011T3yU5BHg_dDBz0UJvxiLDOsxCeUUg4Unoc3dzml1l-PWFwcjanXkcwkPEJ7ESnPtn-kmasEZvpyQ_2smkS2qmU5XWzx-ag8DQ6DscdVr4FjambEdmqqWw2gXXD74IMBqb_RWh_637oZpszWjzsqC1Nh0rPG5TqUxk7NVNpLnESVrGxmwGh0iZtfk0Ci2MTWFXzqQD7MIBHcalYR5et2TrNZw6WcJrD-3YT6TgUs47nlr69JfvBq2JxxdOtmC8figoP2Hlq4DlME8Jqr0ICagY8jwuIp5dWH5pfbKAnMAdV7udghUuNeQACma8iVJtsMWH7tT6JDs-fxrRSAqw-q4q0WdNq8CK8eaee99zv2f2v_IJCO4ZylTwzhKtzKq7Nzo1Oz4YG9c4HNJx9RtV4zxstrz_Tmlc7E2Rnk26ph5NLp2fOh9TpdCrFTfvoYRBCCkl8_8K7RTPpo6ujnQs4EOhuq7RXFctHjHq_L2aEgQZtzQmIg3sP9LjqcjMncBR_8dFAESPMPYgdrC-t-mRqKslVS40Kbm2kpxgK16pzozxWqlXRGFcuPTM0ntT93cOb0ur2pLwaDDoE3q3yHXs_8-IeKiABKglldS13ZXN0LTIw2As.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Counter-Strike_CS_logo.svg/1200px-Counter-Strike_CS_logo.svg.png" group-title="06.E SPOR ONLİNE", cs live3
 https://euw11-0.playlist.ttvnw.net/v1/playlist/CrcGvt6Gc7b8XU822P56MS87ox5kN5jdPJlenPICPXJrvzkhNQyMC3PdHA6kzC5yAvMNtMdpTLdnvElC-EzKPDiPHCyOuxtyxV__o1fThc0ywW4Dgw7GFiPtPDfJkYwA82YHFWqQ0cYuV0buuKzPS_QoMfLvk5o_u-qRYPASL94pirVfoGhsyPSaxDzjlfL_sqSgVxxIP-AGG0kxK1MV61W8c2PAPdfh0Xjw0fX_RSVLGykpy8VwTBzoBas-U1z8AP3yAnHRmyGlrPpALManEhZHrO8POFeTmTFCLPlFhEnpVjPgTMw3_rYLFVyk04VbNe2qqCVQXgGf7lxSZPdR4BxCq_GsEH-zoQtblfle6t9L8D4u9oRFNWx7PfWSa-eH0oSZjFzZCWcIJ2pXm9bnRJOQsbOg566psRsixAH3SQrhPxzkgTIla20o81boJXFJMng2_H9-iOvPoHOrPeg7aUlE02HxwNLY96vjTf4QsyTWh9Dc17HhKcPPmq7XN060NHX7qVSVTyAySLPx82o3r1bWdSur3zVe4nnri5oI8sDnkIoXUlvT6wOMeA7HM9pp1ct_NhoqKzm_cvSeCTY3n5eI6zDDnlPSH7jiRQDKoyv8FODh2d_pVdBhbcg57WaBPW1PRQj4ZkmXeaSBH4DC8m_4k5v4xozUFlC4rUzKKpxH8m25RXSf85p50j7z9fqhKY1iCt0Xk8eYXmqK7vx9GkybQzCvGdZnVnFc26Fxc9J3FigWdx960Xg3_tTaiu56wVe14c2YcxKuL3vVKqwLZZcsPnvIFkFawEDMGAvHtHYFOzkdT6XYansV5cfsfIeEoRtsPglubNJmQ7lse4XFZ12g2fWJwmv6HP-aezFC1Z7Y9oOX_YTxcATRC4OiQmMY1khwROsjtaT8y097pefhrAkKMCaN2a1FtQ4oxWeNUhCzk0r8x0JtCxsEkKYUlzbkStpV2SnUomaB96n_NZldaqtPPzdn4pGAShO2DdRM94W2IL7ATrOwpqL74lNs1n1sJew8NR5-t0N_moSGe8VjXaC8eZ7jKx-CNSTY3wd0JhAhELVBkqbHeBiv7h2G6uzGeKO9tOFr_w1i8RoMqUDT8rULW3mlm55uIAEqCWV1LXdlc3QtMjDXCw.m3u8
@@ -6807,6 +6791,9 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,
 
 #EXTINF:-1 tvg-id="https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e72a55131ffe44f85845456ed45a407d.webp" group-title="07.KIL ORTAYA KARISIK", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/aci-on-the-go/logo_20250220_231008_70.png" group-title="07.KIL ORTAYA KARISIK", ACI On The Go
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="07.KIL ORTAYA KARISIK", AFV en Esp
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
@@ -6979,6 +6966,9 @@ https://streamer1.nexgen.bz//HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="07.KIL ORTAYA KARISIK", iFC Films Picks
 https://bit.ly/3T2BL51?profile=inspirationlivetv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/logo_20241210_231749_68.png" group-title="07.KIL ORTAYA KARISIK", indieBox
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now,-1m/m.m3u8
+
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="07.KIL ORTAYA KARISIK", insight TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
@@ -7045,8 +7035,14 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/nigbati-tv/logo_20250109_233418_70.png" group-title="07.KIL ORTAYA KARISIK", Nigbati TV
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/logo_20250225_225158_70.png" group-title="07.KIL ORTAYA KARISIK", NOMADslow tv
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/old-west-tv/logo_20241119_225939_68.png" group-title="07.KIL ORTAYA KARISIK", Old West TV
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/ourvinyl/logo_20250211_203651_70.png" group-title="07.KIL ORTAYA KARISIK", OurVinyl
+https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", Paramount Movie Channel
 https://bit.ly/ParamountMovie_m3u8
@@ -7086,6 +7082,9 @@ https://dr2t9f8nivbc6.cloudfront.net/hls/WIWLIOI/B3491CDE2EB5/m.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="07.KIL ORTAYA KARISIK", Sony pix
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="07.KIL ORTAYA KARISIK", Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="07.KIL ORTAYA KARISIK", Star movies
 http://republikadobiolo.ottb.xyz/423927909736/655788392083/1116488
@@ -7478,8 +7477,14 @@ https://s230.rapidrame.com/hls2/01/00022/59g0a90qxbco_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/35446/poster/thumb-lg/cehennem-gecesi.jpg" group-title="08.FiLM YENi 2025", Cehennem Gecesi burn
 https://s386.rapidrame.com/hls2/01/00005/tv5cwef5cqq2_,l,n,.urlset/master.m3u8?t=DQMH6qtSbTqdNmgSvBzRfCf-sEVMdwwdDcJI8Ed2RQQ&s=1739820967&e=1199998800&f=28648&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-village-next-to-paradise.webp" group-title="08.FiLM YENi 2025", Cennetin Yanındaki Köy
+https://s231.rapidrame.com/hls2/01/00022/oa8v3jcti26z_,l,n,.urlset/master.m3u8?t=uKkdbmNgbwivswF2AfmiJJAgTuIP-RgYXOH-q7dDpew&s=1740750207&e=1199998800&f=112781&srv=s390&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/cleaner-hdfc.webp" group-title="08.FiLM YENi 2025", Cleaner korsan sürüm
 https://s230.rapidrame.com/hls2/01/00022/lh4z7janweh6_,l,n,.urlset/master.m3u8?t=cXOxd1hv5kYbyDyINehnkpamqlVZeKwIofbh4PV12JU&s=1740587199&e=1199998800&f=112634&srv=s390&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/counterstrike.webp" group-title="08.FiLM YENi 2025", Counterstrike
+https://s230.rapidrame.com/hls2/01/00022/hepos7s7hlyy_,l,n,.urlset/master.m3u8?t=VoxcvO6_a9va7jIzuQeedSobR_w7cckfN5W3PLDey5w&s=1740750266&e=1199998800&f=112789&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle3.com/i/afis/b/a15155.jpg" group-title="08.FiLM YENi 2025", Cuckoo
 https://pixeldrain.com/api/file/3zEV8Rjd
@@ -7581,8 +7586,8 @@ https://s230.rapidrame.com/hls2/01/00022/no80obsbg16k_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/vo6dhj64aoro_,l,n,.urlset/master.m3u8?t=oR3UTSQ1j2t3SPCYSFFxHgQtKGxo48W_2SvQStbLi68&s=1739098159&e=1199998800&f=111841&srv=s390&i=0.0&sp=0&p1=s230&p2=s230" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/64fc3068f1dd702bedd521baf70d2991.jpg" group-title="08.FiLM YENi 2025", Kurt Adam
 https://cdn.dzen.ru/vod/converted-video/vod-content/55/22/76/19/21/92/33/36/07/4/06436c1f-3b48-46cc-88e7-795b0d8415e7/kaltura/desc_9a9c1970f8df8283fdc9ca695c08a141/vVjUzaLRHQmU/master.m3u8
 
-#EXTINF:-1 tvg-id="https://s413.rapidrame.com/hls2/01/00022/lobuajinj3qi_,l,n,.urlset/master.m3u8?t=CcZ4zP-ze4vODqoSTJQBqoojht46xOFeuL4sbhmB4TI&s=1740166353&e=1199998800&f=112218&srv=s342&i=0.0&sp=0" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2025-02/kirarim-kalbini.webp" group-title="08.FiLM YENi 2025", Kırarım Kalbini korsan sürüm 
-https://s230.rapidrame.com/hls2/01/00022/0t604efkaz3o_,l,n,.urlset/master.m3u8?t=nRhRJyFlSyRvMX6VOdRRYeWm-G6FEGbbSWBA3FHLL3M&s=1740248317&e=1199998800&f=112234&srv=s380&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/0t604efkaz3o_,l,n,.urlset/master.m3u8?t=nRhRJyFlSyRvMX6VOdRRYeWm-G6FEGbbSWBA3FHLL3M&s=1740248317&e=1199998800&f=112234&srv=s380&i=0.0&sp=0" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2025-02/kirarim-kalbini.webp" group-title="08.FiLM YENi 2025", Kırarım Kalbini
+https://s230.rapidrame.com/hls2/01/00022/fzd8u1o76632_,l,n,.urlset/master.m3u8?t=RdVnsfN6cYdyqilJYmy3H0BJjFxC1FH0Xtwv81uaX7M&s=1740723729&e=1199998800&f=112772&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/la-dolce-villa.webp" group-title="08.FiLM YENi 2025", La Dolce Villa 
 https://s231.rapidrame.com/hls2/01/00022/hajsh71ilucw_,l,n,.urlset/master.m3u8?t=9C0Xf1C4LV6qJiiepYjVeWu26II_LpOgD6ec8EnLELA&s=1739455084&e=1199998800&f=112152&srv=s400&i=0.0&sp=0
@@ -7687,6 +7692,9 @@ https://s230.rapidrame.com/hls2/01/00022/mbku5ynukwdv_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/54604/poster/thumb-lg/bir-astronotun-sonsuz-yolculugu.jpg" group-title="08.FiLM YENi 2025", Spaceman Bir Astronotun Sonsuz Yolculuğu 
 https://p2.photofunny.org/v/4ga9f2kikoaq/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/squad-36.webp" group-title="08.FiLM YENi 2025", Squad 36 
+https://s230.rapidrame.com/hls2/01/00022/hcfy6jgshosp_,l,n,.urlset/master.m3u8?t=eAtJThvN19uXlncpkq0W9Ccxv7apf7zNVn5VAUz-09I&s=1740750315&e=1199998800&f=112790&srv=s379&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle3.com/i/afis/b/a16421.jpg" group-title="08.FiLM YENi 2025", Stormskars Maja
 https://pixeldrain.com/api/file/D2NimqBP
 
@@ -7749,6 +7757,9 @@ https://s231.rapidrame.com/hls2/01/00022/vjtiloybt1um_,l,n,.urlset/master.m3u8?t
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-piper.webp" group-title="08.FiLM YENi 2025", The Piper izle
 https://s230.rapidrame.com/hls2/01/00022/3c9wnovz018o_,l,n,.urlset/master.m3u8?t=afH9R2pu4DC_pFe2ca20DgosJjvx2B7RUgLYp-Qwsvg&s=1738789577&e=1199998800&f=111802&srv=s390&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-present.webp" group-title="08.FiLM YENi 2025", The Present
+https://s231.rapidrame.com/hls2/01/00022/0oilyjnkckdu_,l,n,.urlset/master.m3u8?t=Diw7zmhat6mkbvOzwotKOeJoTqQsGwJ5OnZ7DE3321A&s=1740750132&e=1199998800&f=112780&srv=s379&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-scapegoats.webp" group-title="08.FiLM YENi 2025", The Scapegoats 
 Zondebokken
