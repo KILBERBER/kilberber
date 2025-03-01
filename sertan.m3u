@@ -1365,9 +1365,6 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="https://fener.demoscript.buzz/hls/bein-sports-1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Maç Zamanı
 https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
-https://wfasa.site/cdn/bein1fhd/main.m3u8
-
 #EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
 https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
 
@@ -1382,9 +1379,6 @@ https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8|Referer=https://newembedpl
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b
 https://cdn2.lexter1.com/stream/431081.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b a
-https://cdn2.lexter2.com/stream/431081.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.lexter.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 b b
 https://cdn2.lextertv.com/stream/431081.m3u8
@@ -7525,6 +7519,9 @@ https://vs16.photoflick.org/v/Ezra.2023.WEB-DL.1080p.DUAL/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.de/uploads/filmler/2024-12/f-marry-kill.webp" group-title="08.FiLM YENi 2025", F Marry Kill korsan sürüm 
 https://s402.rapidrame.com/hls2/01/00022/dwn2ui0ni9zv_,l,n,.urlset/master.m3u8?t=rBUZWWLaz41EYBLtEGF5Lebipj5Y2EOTwk2kjHVUjoY&s=1740589009&e=1199998800&f=110883&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/finist-the-first-warrior.webp" group-title="08.FiLM YENi 2025", Finist The First Warrior
+https://s230.rapidrame.com/hls2/01/00022/j5nscj01kcrv_,l,n,.urlset/master.m3u8?t=H9EK7pFDcJ4TZ17QUqj30JA1Zkz8bOpUftghUFLeQU4&s=1740813307&e=1199998800&f=112812&srv=s390&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16367.jpg" group-title="08.FiLM YENi 2025", Get Away
 https://cdn.dzen.ru/vod/converted-video/vod-content/32/67/07/37/58/66/56/79/90/7/216f6878-690b-4936-b46a-dccf6547c7c9/kaltura/desc_7538e3c461c94be80b3ced002808d4af/vrpH1Zt4rmzQ/master.m3u8
 
@@ -7797,6 +7794,9 @@ https://s230.rapidrame.com/hls2/01/00022/m5wh948noyf4_,l,n,.urlset/master.m3u8?t
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/umjolo-there-is-no-cure.webp" group-title="08.FiLM YENi 2025", Umjolo There is No Cure 
 https://s230.rapidrame.com/hls2/01/00022/qerjqp8e0r6e_,l,n,.urlset/master.m3u8?t=GQQ8wAsEzEAwBhgWISCsEur8UquQCVa5uiUy_OXKn3g&s=1739551850&e=1199998800&f=112174&srv=s351&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/undercover.webp" group-title="08.FiLM YENi 2025", Undercover
+https://s230.rapidrame.com/hls2/01/00022/i02guuki9xl3_,l,n,.urlset/master.m3u8?t=nnWB2q71sf5AOVymshkpFrFP91gdU0tcIeY18Q-fTp0&s=1740813363&e=1199998800&f=112813&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-wild-robot.webp" group-title="08.FiLM YENi 2025", Vahşi Robot 
 https://s231.rapidrame.com/hls2/01/00022/7744rpczeyts_,l,n,.urlset/master.m3u8?t=FvxTZHotbByZh4R_7u28x9WPQ1ZOUmOftSz3tI6iPLM&s=1740497749&e=1199998800&f=112601&srv=s390&i=0.0&sp=0
