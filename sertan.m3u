@@ -1546,7 +1546,7 @@ https://due.8bc6d5e7534b6dbc.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android
 
 #EXTINF:-1 tvg-id="https://golvar2014.sbs/   https://playerpro.live/proxy.php?url=" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Streamradar
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-43707ca08c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar2014.sbs/&origin=https://golvar2014.sbs/
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar4679.sbs/&origin=https://golvar4679.sbs/
 
 #EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
 https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
@@ -7830,6 +7830,9 @@ https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/september-5.webp" group-title="08.FiLM YENi 2025", 5 Eylül
 https://s424.rapidrame.com/hls2/01/00022/toao2jtcn5rd_,l,n,.urlset/master.m3u8?t=qcfdn07ZfVaqwfdOoVnZZmSmNZfxEkUzd2rN5yAYkHQ&s=1740588492&e=1199998800&f=111949&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/para-konusur.webp" group-title="08.FiLM YENi 2025", Para Konuşur
+https://vidmody.com/vs/tt28620337
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/farkli-bir-adam.webp" group-title="08.FiLM YENi 2025", A Different Man
 https://vidmody.com/vs/tt21097228
 
@@ -8340,7 +8343,7 @@ https://cdn.prectv2.lat/hls/11/cdn65/zuXGqqhrWcBK80Bt2GWO5fkteGtydXDYX7HlG426.mp
 https://s230.rapidrame.com/hls2/01/00022/9vv36th0ltaz_,l,n,.urlset/master.m3u8?t=yi_HHwDTIydDaRy9hEaHPUkoDItaU2c9U-9OOI7xcwU&s=1740669206&e=1199998800&f=112738&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/mickey-17.webp" group-title="08.FiLM YENi 2025", Mickey 17
-https://vidmody.com/vs/tt12299608
+https://vidmody.com/vs/tt12299608/alt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/midnight-peepshow_1.webp" group-title="08.FiLM YENi 2025", Midnight Peepshow
 https://vidmody.com/vs/tt13209904
@@ -13943,16 +13946,16 @@ https://vidmody.com/vs/tt12361974
 #EXTINF:-1 tvg-id="https://p3.gamephotos.biz/v/5rmg6k3b227l/master.m3u8" tvg-logo="https://www.hdfilmizle.to/v/13243/poster/thumb-lg/adalet-takimi.jpg" group-title="10.FiLM DC/MARVEL", Adalet Takımı
 https://vidmody.com/vs/tt0974015
 
-#EXTINF:-1 tvg-id="https://mezeler5.shop/cdn/down/25de29ed1e98bc803b4e50bd9ace3c89/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-aquaman-hd-izle-fhd7.webp" group-title="10.FiLM DC/MARVEL", Aquaman 1
+#EXTINF:-1 tvg-id="https://mezeler5.shop/cdn/down/25de29ed1e98bc803b4e50bd9ace3c89/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-aquaman-hd-izle-fhd7.webp" group-title="10.FiLM DC/MARVEL", Aquaman 1
 https://vidmody.com/vs/tt1477834
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2025-01/aquaman-ve-kayip-krallik-dbx.webp" group-title="10.FiLM DC/MARVEL", Aquaman 2 Kayıp Krallık
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/aquaman-ve-kayip-krallik-dbx.webp" group-title="10.FiLM DC/MARVEL", Aquaman 2 Kayıp Krallık
 https://cdn.prectv2.lat/hls/10/cdn32/c41023b02e697e8601e6dd1a559a936117151133969.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/Yenilmezler1.mp4/index.m3u8    https://vidrame.pro/vr/get/9de3d24b/1080.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-yenilmezler-the-avengers-izle.webp" group-title="10.FiLM DC/MARVEL", Avengers 1
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/Yenilmezler1.mp4/index.m3u8    https://vidrame.pro/vr/get/9de3d24b/1080.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-yenilmezler-the-avengers-izle.webp" group-title="10.FiLM DC/MARVEL", Avengers 1
 https://vidmody.com/vs/tt0848228
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn2/12/y13152.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-yenilmezler-ultron-cagi-avengers-age-of-ultron_1.webp" group-title="10.FiLM DC/MARVEL", Avengers 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn2/12/y13152.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-yenilmezler-ultron-cagi-avengers-age-of-ultron_1.webp" group-title="10.FiLM DC/MARVEL", Avengers 2
 https://vidmody.com/vs/tt2395427
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn2/12/y13163.mp4/index.m3u8      https://vidrame.pro/vr/get/58a86ee0/1080.txt" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Yenilmezler-3-Sonsuzluk-Savasi.jpg" group-title="10.FiLM DC/MARVEL", Avengers 3
@@ -13985,37 +13988,37 @@ https://izmirm2.shop/cdn/down/9735d4c170fc4415d7359ca56f79a6a3/720p/720p.txt
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2022/08/3B19RaHTSpyNEcjWtsAPqgJsQ0h-185x278.jpg" group-title="10.FiLM DC/MARVEL", Batman 8 (2022)
 https://golcuk3.shop/cdn/down/0788dc1d4a0a2ad7623da7e55bac40ac/720p/720p.txt
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/batman/Batman-v-Superman.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-adaletin-safagi-hd-film-izle.webp" group-title="10.FiLM DC/MARVEL", Batman ve Superman: Adaletin Şafağı
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/batman/Batman-v-Superman.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-adaletin-safagi-hd-film-izle.webp" group-title="10.FiLM DC/MARVEL", Batman ve Superman: Adaletin Şafağı
 https://vidmody.com/vs/tt2975590
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn60/199b5aa0cb63fa9dc9bed352e43f639c17176189177.mp4/index.m3u8     https://cdn.prectv2.lat/hls/11/cdn60/e3f41e1c0d146fe5c364b9be95123b1f171761876715.mp4/index.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/black-adam-3-82015.webp" group-title="10.FiLM DC/MARVEL", Black Adam
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn60/199b5aa0cb63fa9dc9bed352e43f639c17176189177.mp4/index.m3u8     https://cdn.prectv2.lat/hls/11/cdn60/e3f41e1c0d146fe5c364b9be95123b1f171761876715.mp4/index.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/black-adam-3-82015.webp" group-title="10.FiLM DC/MARVEL", Black Adam
 https://vidmody.com/vs/tt6443346
 
-#EXTINF:-1 tvg-id="https://p2.photofunia.org/v/jn0sr997zouo/master.m3u8.    https://mp4.txtstream2.xyz/5/ax61/mp4/6b483802a18f46d4248652881714c06d.mp4.    https://cdn.prectv2.lat/hls/5/ax61/mp4/6b483802a18f46d4248652881714c06d.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-kara-panter-full-izle.webp" group-title="10.FiLM DC/MARVEL", Black Panther
+#EXTINF:-1 tvg-id="https://p2.photofunia.org/v/jn0sr997zouo/master.m3u8.    https://mp4.txtstream2.xyz/5/ax61/mp4/6b483802a18f46d4248652881714c06d.mp4.    https://cdn.prectv2.lat/hls/5/ax61/mp4/6b483802a18f46d4248652881714c06d.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-kara-panter-full-izle.webp" group-title="10.FiLM DC/MARVEL", Black Panther
 https://vidmody.com/vs/tt1825683
 
-#EXTINF:-1 tvg-id="https://ihlamur3.shop/cdn/down/e9b9657e379f8c2fdebae50d17f27273/Original/Original.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-12/kara-panter-2-yasasin-wakanda.webp" group-title="10.FiLM DC/MARVEL", Black Panther 2
+#EXTINF:-1 tvg-id="https://ihlamur3.shop/cdn/down/e9b9657e379f8c2fdebae50d17f27273/Original/Original.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/kara-panter-2-yasasin-wakanda.webp" group-title="10.FiLM DC/MARVEL", Black Panther 2
 https://vidmody.com/vs/tt9114286
 
-#EXTINF:-1 tvg-id="https://vidrame.pro/vr/get/226fe687/1080.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/kara-dul-black-widow-2020-film-izle-81727.webp" group-title="10.FiLM DC/MARVEL", Black Widow
+#EXTINF:-1 tvg-id="https://vidrame.pro/vr/get/226fe687/1080.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/kara-dul-black-widow-2020-film-izle-81727.webp" group-title="10.FiLM DC/MARVEL", Black Widow
 https://vidmody.com/vs/tt3480822
 
-#EXTINF:-1 tvg-id="https://p2.gamephotos.biz/v/a8gynffasp89/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-blade-1-filmini-online-hd-turkce-izle.webp" group-title="10.FiLM DC/MARVEL", BLADE 1 Bıçağın İki Yüzü (1998)
+#EXTINF:-1 tvg-id="https://p2.gamephotos.biz/v/a8gynffasp89/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-blade-1-filmini-online-hd-turkce-izle.webp" group-title="10.FiLM DC/MARVEL", BLADE 1 Bıçağın İki Yüzü (1998)
 https://vidmody.com/vs/tt0120611
 
-#EXTINF:-1 tvg-id="https://p3.photostack.net/v/pq459tks6wg7/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-blade-2-filmini-full-hd-film-izle.webp" group-title="10.FiLM DC/MARVEL", BLADE 2 Bıçağın İki Yüzü (2002)
+#EXTINF:-1 tvg-id="https://p3.photostack.net/v/pq459tks6wg7/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-blade-2-filmini-full-hd-film-izle.webp" group-title="10.FiLM DC/MARVEL", BLADE 2 Bıçağın İki Yüzü (2002)
 https://vidmody.com/vs/tt0187738
 
-#EXTINF:-1 tvg-id="https://p3.photofunny.org/v/vxowsw9zsxq5/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2025-01/blade-3.webp" group-title="10.FiLM DC/MARVEL", BLADE 3 Bıçağın İki Yüzü Kutsal Üçleme (2004)
+#EXTINF:-1 tvg-id="https://p3.photofunny.org/v/vxowsw9zsxq5/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/blade-3.webp" group-title="10.FiLM DC/MARVEL", BLADE 3 Bıçağın İki Yüzü Kutsal Üçleme (2004)
 https://vidmody.com/vs/tt0359013
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/7/cdn333/f23b53f2-9a25-4cbb-b01c-b99de627deb4/f23b53f2-9a25-4cbb-b01c-b99de627deb4-master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/blue-beetle-28604.webp" group-title="10.FiLM DC/MARVEL", Blue Beetle
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/7/cdn333/f23b53f2-9a25-4cbb-b01c-b99de627deb4/f23b53f2-9a25-4cbb-b01c-b99de627deb4-master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/blue-beetle-28604.webp" group-title="10.FiLM DC/MARVEL", Blue Beetle
 https://vidmody.com/vs/tt9362930
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/3/cdn4/movies/hd/mp4/captanmarvel.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kaptan-marvel-captain-marvel-fullhd-2019-film-izle.webp" group-title="10.FiLM DC/MARVEL", Captain Marvel
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/3/cdn4/movies/hd/mp4/captanmarvel.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kaptan-marvel-captain-marvel-fullhd-2019-film-izle.webp" group-title="10.FiLM DC/MARVEL", Captain Marvel
 https://vidmody.com/vs/tt4154664
 
-#EXTINF:-1 tvg-id="https://p1.photofunia.org/v/9urepi11h59r/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-12/kaptan-marvel-2.webp" group-title="10.FiLM DC/MARVEL", Captain Marvel 2 The Malvers
+#EXTINF:-1 tvg-id="https://p1.photofunia.org/v/9urepi11h59r/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/kaptan-marvel-2.webp" group-title="10.FiLM DC/MARVEL", Captain Marvel 2 The Malvers
 https://vidmody.com/vs/tt10676048
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a1945.jpg" group-title="10.FiLM DC/MARVEL", Catwoman (2004)
@@ -14037,10 +14040,10 @@ https://p1.photofunia.org/v/tgc0qqqzj9a3/master.m3u8
 #EXTINF:-1 tvg-id="https://p1.gamephotos.biz/v/mmw89s02ps9j/master.m3u8" tvg-logo="https://www.hdfilmizle.to/v/13802/poster/thumb/constantine.jpg" group-title="10.FiLM DC/MARVEL", Constantine
 https://vidmody.com/vs/tt0360486
 
-#EXTINF:-1 tvg-id="https://p2.photomag.biz/v/lq5tnez6pw0o/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/korkusuz-turkce-dublaj-izle-fhd-67362.webp" group-title="10.FiLM DC/MARVEL", Daredevil
+#EXTINF:-1 tvg-id="https://p2.photomag.biz/v/lq5tnez6pw0o/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/korkusuz-turkce-dublaj-izle-fhd-67362.webp" group-title="10.FiLM DC/MARVEL", Daredevil
 https://vidmody.com/vs/tt0287978
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/50/19/49/48/17/76/28/63/79/1/52829c2f-26dd-4624-9ec3-3a0232e761ab/kaltura/desc_4c5af0c6f86db9fa023d345a179f38af/vR6213Qm9TGw/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-59626470319926.webp" group-title="10.FiLM DC/MARVEL", Darkman (1990)
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/50/19/49/48/17/76/28/63/79/1/52829c2f-26dd-4624-9ec3-3a0232e761ab/kaltura/desc_4c5af0c6f86db9fa023d345a179f38af/vR6213Qm9TGw/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-59626470319926.webp" group-title="10.FiLM DC/MARVEL", Darkman (1990)
 Karanlık Adam
 https://vidmody.com/vs/tt0099365
 
@@ -14052,19 +14055,19 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/56/21/53/18/21/53/33/10/60/7
 Karanlık Adam 3: Öl Karanlık Adam Öl
 https://cdn.dzen.ru/vod/converted-video/vod-content/84/87/23/90/83/14/88/54/27/6/acf564c8-c3f8-4595-b54d-8f86ec5a41f5/kaltura/desc_9f7420b8b4e9245f741a50ea7665b83c/vXuvkJ-mVSCc/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/Deadpool1Dub/v.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-deadpool-1-full-filmi-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Deadpool
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/Deadpool1Dub/v.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-deadpool-1-full-filmi-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Deadpool
 https://vidmody.com/vs/tt1431045
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/DeadPool2Alt/v.m3u8.   https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/DeadPool2Dub/v.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-ddpool-2-izlehd-full.webp" group-title="10.FiLM DC/MARVEL", Deadpool 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/DeadPool2Alt/v.m3u8.   https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/DeadPool2Dub/v.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-ddpool-2-izlehd-full.webp" group-title="10.FiLM DC/MARVEL", Deadpool 2
 https://vidmody.com/vs/tt5463162
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn62/92a47e127aa18f0a6fed71848022a250173142430315.mp4/index.m3u8.      https://cdn.prectv2.lat/hls/11/cdn62/a0c370020e71e09afb723c722c4e7a0a17314243207.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-10/deadpool-wolverine-deadpool-3-79457.webp" group-title="10.FiLM DC/MARVEL", Deadpool 3 & Wolverine
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn62/92a47e127aa18f0a6fed71848022a250173142430315.mp4/index.m3u8.      https://cdn.prectv2.lat/hls/11/cdn62/a0c370020e71e09afb723c722c4e7a0a17314243207.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-10/deadpool-wolverine-deadpool-3-79457.webp" group-title="10.FiLM DC/MARVEL", Deadpool 3 & Wolverine
 https://vidmody.com/vs/tt6263850
 
-#EXTINF:-1 tvg-id="https://cdn.txtstream2.xyz/hls/2/cdn5/cdn/movies/doctorstrange.mp4/index.m3u8.    https://cdn.prectv2.lat/hls/10/cdn32/6b814c99f5fa7ae0fb1497bd4e898897171131782612.mp4/index.m3u8.     https://s26.imglink.pro/mh/ET9eqT9lYyA0pzShM2HhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5jpz8s0xi26vr1" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-doktor-strg-2016-filmi-izle.webp" group-title="10.FiLM DC/MARVEL", Doctor Strange
+#EXTINF:-1 tvg-id="https://cdn.txtstream2.xyz/hls/2/cdn5/cdn/movies/doctorstrange.mp4/index.m3u8.    https://cdn.prectv2.lat/hls/10/cdn32/6b814c99f5fa7ae0fb1497bd4e898897171131782612.mp4/index.m3u8.     https://s26.imglink.pro/mh/ET9eqT9lYyA0pzShM2HhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5jpz8s0xi26vr1" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-doktor-strg-2016-filmi-izle.webp" group-title="10.FiLM DC/MARVEL", Doctor Strange
 https://vidmody.com/vs/tt1211837
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/cddff837a1008c4db25436faf55978ab171131785411.mp4.  https://cdn.prectv2.lat/hls/10/cdn32/cddff837a1008c4db25436faf55978ab171131785411.mp4/index.m3u8.   https://mp4.txtstream2.xyz/2/cdn11/DrTr.mp4.  https://cdn.prectv2.lat/hls/2/cdn11/DrTr.mp4/index.m3u8.     https://s26.pixtures.art/mu/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-doktor-strange-deliligin-coklu-evreninde-izlehd.webp" group-title="10.FiLM DC/MARVEL", Doctor Strange Çoklu Evren Çılgınlığında
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/cddff837a1008c4db25436faf55978ab171131785411.mp4.  https://cdn.prectv2.lat/hls/10/cdn32/cddff837a1008c4db25436faf55978ab171131785411.mp4/index.m3u8.   https://mp4.txtstream2.xyz/2/cdn11/DrTr.mp4.  https://cdn.prectv2.lat/hls/2/cdn11/DrTr.mp4/index.m3u8.     https://s26.pixtures.art/mu/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-doktor-strange-deliligin-coklu-evreninde-izlehd.webp" group-title="10.FiLM DC/MARVEL", Doctor Strange Çoklu Evren Çılgınlığında
 https://vidmody.com/vs/tt9419884
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a129.jpg" group-title="10.FiLM DC/MARVEL", Elektra (2005)
@@ -14076,10 +14079,10 @@ https://vidmody.com/vs/tt9032400
 #EXTINF:-1 tvg-id="https://p2.photostack.net/v/7isb6p56g9v9/master.m3u8" tvg-logo="https://www.hdfilmizle.to/v/12055/poster/thumb-lg/fantastik-dortlu.jpg" group-title="10.FiLM DC/MARVEL", Fantastik Dörtlü (2015)
 https://vidmody.com/vs/tt1502712
 
-#EXTINF:-1 tvg-id="https://ocakbasi5.shop/cdn/down/62fa57998e6d57f4ef2a00f1be964310/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-fantastik-dortlu-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Fantastik Dörtlü 1 (2005)
+#EXTINF:-1 tvg-id="https://ocakbasi5.shop/cdn/down/62fa57998e6d57f4ef2a00f1be964310/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-fantastik-dortlu-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Fantastik Dörtlü 1 (2005)
 https://vidmody.com/vs/tt0120667
 
-#EXTINF:-1 tvg-id="https://p3.photofunia.org/v/vzo3c2f0wrj1/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-fantastik-4-lu-gumus-sorfcunun-yukselisi.webp" group-title="10.FiLM DC/MARVEL", Fantastik Dörtlü 2: Gümüş sörfçünün yükselişi (2007
+#EXTINF:-1 tvg-id="https://p3.photofunia.org/v/vzo3c2f0wrj1/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-fantastik-4-lu-gumus-sorfcunun-yukselisi.webp" group-title="10.FiLM DC/MARVEL", Fantastik Dörtlü 2: Gümüş sörfçünün yükselişi (2007
 
 https://vidmody.com/vs/tt0486576
 
@@ -14087,65 +14090,65 @@ https://vidmody.com/vs/tt0486576
 Fezada Çarpışanlar
 https://cdn.dzen.ru/vod/converted-video/vod-content/71/41/32/99/97/28/85/81/11/499e2a44-c63b-4dfb-862e-416cdd58b49d/kaltura/desc_38a3000191efe289f1ffb64da361f7f2/vpNMxa6MmelI/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/0d89c88db794d07e9e7155453dd94b1717113282776.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-07/galaksinin-koruyuculari-izle-66874.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/0d89c88db794d07e9e7155453dd94b1717113282776.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/galaksinin-koruyuculari-izle-66874.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları
 https://p3.photostack.net/v/5502whb5liog/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/2cdcad7c7a1f0b7da064cdc7d4e1d2eb171132831613.mp4/index.m3u8    https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/2cdcad7c7a1f0b7da064cdc7d4e1d2eb171132831613.mp4/index.m3u8    https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları 2
 https://vidmody.com/vs/tt3896198
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/6a90bcfe7672a7e6475bcd26ea269f4b171132836012.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2025-01/galaksinin-koruyuculari-3.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları 3
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/6a90bcfe7672a7e6475bcd26ea269f4b171132836012.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/galaksinin-koruyuculari-3.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları 3
 https://vidmody.com/vs/tt6791350
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/776d6237887bed71a79caa81d46643e7171132820811.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/the-guardians-of-the-galaxy-holiday-special-39792.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları Tatil Özel
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/776d6237887bed71a79caa81d46643e7171132820811.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/the-guardians-of-the-galaxy-holiday-special-39792.webp" group-title="10.FiLM DC/MARVEL", Galaksinin Koruyucuları Tatil Özel
 https://vidmody.com/vs/tt13623136
 
-#EXTINF:-1 tvg-id="https://p2.photomag.biz/v/vc38lfdpfn6l/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-hayalet-surucu-1-ghost-rider-1-izle.webp" group-title="10.FiLM DC/MARVEL", Hayalet Sürücü 1 (2007)
+#EXTINF:-1 tvg-id="https://p2.photomag.biz/v/vc38lfdpfn6l/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-hayalet-surucu-1-ghost-rider-1-izle.webp" group-title="10.FiLM DC/MARVEL", Hayalet Sürücü 1 (2007)
 https://vidmody.com/vs/tt0259324
 
-#EXTINF:-1 tvg-id="https://p1.photostack.net/v/l98zte9vlrnd/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-hayalet-surucu-2-intikam-atesi_1.webp" group-title="10.FiLM DC/MARVEL", Hayalet Sürücü 2 İntikam Ateşi (2011)
+#EXTINF:-1 tvg-id="https://p1.photostack.net/v/l98zte9vlrnd/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-hayalet-surucu-2-intikam-atesi_1.webp" group-title="10.FiLM DC/MARVEL", Hayalet Sürücü 2 İntikam Ateşi (2011)
 https://vidmody.com/vs/tt1071875
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/af8ad146340c2315597d97f1ca290ab1171131606114.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-yesil-dev-animasyon-turkce-izle.webp" group-title="10.FiLM DC/MARVEL", Hulk 1 2003
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/af8ad146340c2315597d97f1ca290ab1171131606114.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-yesil-dev-animasyon-turkce-izle.webp" group-title="10.FiLM DC/MARVEL", Hulk 1 2003
 https://vidmody.com/vs/tt0286716
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/026954316d2c363f44d5f6c30afbf8fd17113159779.mp4/index.m3u8.   https://vidrame.pro/vr/get/84bf9980/720.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/5996231576d969b64f7dc080144a3188.webp" group-title="10.FiLM DC/MARVEL", Hulk 2   2008
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/026954316d2c363f44d5f6c30afbf8fd17113159779.mp4/index.m3u8.   https://vidrame.pro/vr/get/84bf9980/720.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/5996231576d969b64f7dc080144a3188.webp" group-title="10.FiLM DC/MARVEL", Hulk 2   2008
 https://vidmody.com/vs/tt0800080
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f9b68f1919755052cc6424854938cdd2171123502912.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-inanilmaz-orumcek-adam-2012.webp" group-title="10.FiLM DC/MARVEL", inanılmaz Örümcek Adam
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f9b68f1919755052cc6424854938cdd2171123502912.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-inanilmaz-orumcek-adam-2012.webp" group-title="10.FiLM DC/MARVEL", inanılmaz Örümcek Adam
 https://vidmody.com/vs/tt0948470
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/69885956751c9e232077d70e95c5946d17112351049.mp4/index.m3u8" tvg-logo="https://www.hdfilmizle.to/v/11686/poster/thumb-lg/inanilmaz-orumcek-adam-2.jpg" group-title="10.FiLM DC/MARVEL", inanılmaz Örümcek Adam 2
 https://vs1.photofunny.org/v/d98xvx038llf/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/796f9d0a3b2024f20f023192570a075417112336689.mp4/index.m3u8.   https://vidrame.pro/vr/get/ef7709d0/1080.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-demir-adam-1-iron-man-1.webp" group-title="10.FiLM DC/MARVEL", iron Man
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/796f9d0a3b2024f20f023192570a075417112336689.mp4/index.m3u8.   https://vidrame.pro/vr/get/ef7709d0/1080.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-demir-adam-1-iron-man-1.webp" group-title="10.FiLM DC/MARVEL", iron Man
 https://vidmody.com/vs/tt0371746
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8.  https://cdn.prectv2.lat/hls/10/cdn32/94c74db82008c127261bd851bc4023f2171123359214.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-demir-adam-2-iron-man-2-film-izle-full.webp" group-title="10.FiLM DC/MARVEL", iron Man 2
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8.  https://cdn.prectv2.lat/hls/10/cdn32/94c74db82008c127261bd851bc4023f2171123359214.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-demir-adam-2-iron-man-2-film-izle-full.webp" group-title="10.FiLM DC/MARVEL", iron Man 2
 https://vidmody.com/vs/tt1228705
 
-#EXTINF:-1 tvg-id="https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1      https://cdn.prectv2.lat/hls/10/cdn32/9e44179e20ec3dfe673dd6519783d930171123354710.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-demir-adam-3-iron-men-3.webp" group-title="10.FiLM DC/MARVEL", iron Man 3
+#EXTINF:-1 tvg-id="https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1      https://cdn.prectv2.lat/hls/10/cdn32/9e44179e20ec3dfe673dd6519783d930171123354710.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-demir-adam-3-iron-men-3.webp" group-title="10.FiLM DC/MARVEL", iron Man 3
 https://vidmody.com/vs/tt1300854
 
-#EXTINF:-1 tvg-id="https://vs8.photomeg.live/v/89e8zhf6095k/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-jonah-hex-film-izle.webp" group-title="10.FiLM DC/MARVEL", Jonah Hex
+#EXTINF:-1 tvg-id="https://vs8.photomeg.live/v/89e8zhf6095k/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-jonah-hex-film-izle.webp" group-title="10.FiLM DC/MARVEL", Jonah Hex
 https://vidmody.com/vs/tt1075747
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a7658.jpg" group-title="10.FiLM DC/MARVEL", Kaptan America (1990)
 Kaptan Amerika
 https://cdn.dzen.ru/vod/converted-video/vod-content/25/01/20/35/15/10/54/41/18/5/1bdee429-7f02-4628-a082-69e3d7afca31/kaltura/desc_7bfbe92889acda0deb42411e98cb04f0/vCbiEI0w4NjU/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8      https://cdn.prectv2.lat/hls/10/cdn32/4786f6668cbefc98785b4e8a2361d11e17113276827.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kaptan-amerika-ilk-yenilmez-2011-izle.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika1: İlk Yenilmez
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8      https://cdn.prectv2.lat/hls/10/cdn32/4786f6668cbefc98785b4e8a2361d11e17113276827.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kaptan-amerika-ilk-yenilmez-2011-izle.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika1: İlk Yenilmez
 https://vidmody.com/vs/tt0458339
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/45e6fb4009c5efa3a855347cf9c3d32d171132772512.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kaptan-amerika-kis-askeri-izle.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika2: Kış Askeri
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/45e6fb4009c5efa3a855347cf9c3d32d171132772512.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kaptan-amerika-kis-askeri-izle.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika2: Kış Askeri
 https://vidmody.com/vs/tt1843866
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/550639bc561aed026e8dfc5bd1fda939171132777010.mp4/index.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kaptan-amerika-ic-savas-captain-america-civil-war.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika3: Kahramanların Savaşı
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/550639bc561aed026e8dfc5bd1fda939171132777010.mp4/index.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kaptan-amerika-ic-savas-captain-america-civil-war.webp" group-title="10.FiLM DC/MARVEL", Kaptan Amerika3: Kahramanların Savaşı
 https://vidmody.com/vs/tt3498820
 
-#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/51662a11f5ad241f1c61f65d6e93f1fa/720p/720p.txt      https://cdn.dzeninfra.com/vod/converted-video/vod-content/64/85/04/01/66/99/79/40/12/7/776e7ac7-2297-435d-8034-3f09cbc0c789/kaltura/desc_2961da716cfaf819d91b9c02913d770c/v9oT-E_wE3U0/vw=1920,vh=1040,fps=24.00,vbrt=1856228,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-karinca-adam-antman-film-izle.webp" group-title="10.FiLM DC/MARVEL", Karinca Adam 1
+#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/51662a11f5ad241f1c61f65d6e93f1fa/720p/720p.txt      https://cdn.dzeninfra.com/vod/converted-video/vod-content/64/85/04/01/66/99/79/40/12/7/776e7ac7-2297-435d-8034-3f09cbc0c789/kaltura/desc_2961da716cfaf819d91b9c02913d770c/v9oT-E_wE3U0/vw=1920,vh=1040,fps=24.00,vbrt=1856228,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-karinca-adam-antman-film-izle.webp" group-title="10.FiLM DC/MARVEL", Karinca Adam 1
 https://vidmody.com/vs/tt0478970
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/40070dd0ee8b911b823dab90c1ce86f917112336328.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/ant-man-and-the-wasp-quantumania-fhd-28390.webp" group-title="10.FiLM DC/MARVEL", Karınca Adam 2 Eşek Arısı
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/40070dd0ee8b911b823dab90c1ce86f917112336328.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/ant-man-and-the-wasp-quantumania-fhd-28390.webp" group-title="10.FiLM DC/MARVEL", Karınca Adam 2 Eşek Arısı
 https://vidmody.com/vs/tt10954600
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/30938/poster/thumb-lg/goster-gununu.jpg" group-title="10.FiLM DC/MARVEL", Kick-Ass 1 Göster Gününü (2010)
@@ -14158,43 +14161,43 @@ https://p3.gamephotos.biz/v/ravtkja8axcc/master.m3u8
 The Kings Man: Başlangıç
 https://cdn.dzen.ru/vod/converted-video/vod-content/10/09/88/42/20/85/02/54/85/7/4202c4ea-4209-4592-bc64-ec9da17aa9d3/kaltura/desc_c8a238260be3820967b1306213b12051/vSwNpJLriRiw/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/KingsmanTheSecretService.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/kingsman-gizli-servis-izle-1-51728.webp" group-title="10.FiLM DC/MARVEL", Kingsman 1 Gizli Servis
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/KingsmanTheSecretService.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/kingsman-gizli-servis-izle-1-51728.webp" group-title="10.FiLM DC/MARVEL", Kingsman 1 Gizli Servis
 https://vidmody.com/vs/tt2802144
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/KingsmanTheGolden.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kingsman-altin-cember-kingsman-the-golden-circle-2017-film-izle.webp" group-title="10.FiLM DC/MARVEL", Kingsman 2  Altın Çember
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/KingsmanTheGolden.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kingsman-altin-cember-kingsman-the-golden-circle-2017-film-izle.webp" group-title="10.FiLM DC/MARVEL", Kingsman 2  Altın Çember
 https://vidmody.com/vs/tt4649466
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/37/86/22/04/76/67/85/08/76/1/3c1bd0f2-2fd2-4cab-9f87-f461314b8fd3/kaltura/desc_bff04a3cd6e314b03691169b7870b16d/v6k5NNFVMsD8/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/morbius-izle-308.webp" group-title="10.FiLM DC/MARVEL", Morbius (2022)
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/37/86/22/04/76/67/85/08/76/1/3c1bd0f2-2fd2-4cab-9f87-f461314b8fd3/kaltura/desc_bff04a3cd6e314b03691169b7870b16d/v6k5NNFVMsD8/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/morbius-izle-308.webp" group-title="10.FiLM DC/MARVEL", Morbius (2022)
 https://vidmody.com/vs/tt5108870
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/44aaf7bc019b89c83a9e858064acd92317112353409.mp4/index.m3u8    https://m.rectv1250.xyz/uploads/m3u8/cb641d6622989208e151c6f929144cec.mp4/index.m3u8  " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/644ef9bbc06d15baa9fc85f6fc96b4e7.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 1
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/44aaf7bc019b89c83a9e858064acd92317112353409.mp4/index.m3u8    https://m.rectv1250.xyz/uploads/m3u8/cb641d6622989208e151c6f929144cec.mp4/index.m3u8  " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/644ef9bbc06d15baa9fc85f6fc96b4e7.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 1
 https://vidmody.com/vs/tt0145487
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/e9b21ef596865cdc7f836a2ef1ef7283171123527511.mp4/index.m3u8      https://m.rectv1250.xyz/uploads/m3u8/25371af9132a2cce82bd6e50d1c225a2.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-orumcek-adam-2-spider-man-2-full-izlehd-v3.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/e9b21ef596865cdc7f836a2ef1ef7283171123527511.mp4/index.m3u8      https://m.rectv1250.xyz/uploads/m3u8/25371af9132a2cce82bd6e50d1c225a2.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-orumcek-adam-2-spider-man-2-full-izlehd-v3.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 2
 https://vidmody.com/vs/tt0316654
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/6f35f4fbc48713235de1eb8c0c12ec0917112352198.mp4/index.m3u8      https://m.rectv1250.xyz/uploads/m3u8/c3e9aee99e1c845a94129bcdfc6a778d.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-orumcek-adam-3-spider-man-3-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 3
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/6f35f4fbc48713235de1eb8c0c12ec0917112352198.mp4/index.m3u8      https://m.rectv1250.xyz/uploads/m3u8/c3e9aee99e1c845a94129bcdfc6a778d.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-orumcek-adam-3-spider-man-3-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam 3
 https://vidmody.com/vs/tt0413300
 
-#EXTINF:-1 tvg-id="https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1   https://cdn.prectv2.lat/hls/5/ax61/mp4/7011ee3e4f58bc96368ff72fe184d68d.mp4/index.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/orumcek-adam-evden-uzakta-izle-1-23390.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Evden Uzakta
+#EXTINF:-1 tvg-id="https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1   https://cdn.prectv2.lat/hls/5/ax61/mp4/7011ee3e4f58bc96368ff72fe184d68d.mp4/index.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/orumcek-adam-evden-uzakta-izle-1-23390.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Evden Uzakta
 https://vidmody.com/vs/tt6320628
 
-#EXTINF:-1 tvg-id="https://m.rectv1250.xyz/uploads/m3u8/ab60d5cd08a3c9091bab8a91b4965d0f.mp4/index.m3u8     https://m.rectv1250.xyz/uploads/m3u8/ab60d5cd08a3c9091bab8a91b4965d0f.mp4/index.m3u8      https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-orumcek-adam-eve-donus-spider-man-homecoming.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Eve Dönüş
+#EXTINF:-1 tvg-id="https://m.rectv1250.xyz/uploads/m3u8/ab60d5cd08a3c9091bab8a91b4965d0f.mp4/index.m3u8     https://m.rectv1250.xyz/uploads/m3u8/ab60d5cd08a3c9091bab8a91b4965d0f.mp4/index.m3u8      https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-orumcek-adam-eve-donus-spider-man-homecoming.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Eve Dönüş
 https://vidmody.com/vs/tt2250912
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn22/Film/Spider-Man.No.Way.Home.2022.1080P.Bluray.Dual.Dd%2B5.1.X264-Bdc.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/orumcek-adam-eve-donus-yok-izle-1-16915.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Eve Dönüş Yok
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn22/Film/Spider-Man.No.Way.Home.2022.1080P.Bluray.Dual.Dd%2B5.1.X264-Bdc.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/orumcek-adam-eve-donus-yok-izle-1-16915.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Eve Dönüş Yok
 https://vidmody.com/vs/tt10872600
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/orumcekadamorumcekevreninde.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-orumcek-adam-orumcek-evreninde-animasyon-film-izle.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Örümcek Evreninde
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/6/cdn3/filmler/Dublaj/orumcekadamorumcekevreninde.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-orumcek-adam-orumcek-evreninde-animasyon-film-izle.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Örümcek Evreninde
 https://vidmody.com/vs/tt4633694
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/7/cdn871/m/OrumcekAdamOrumcekEvreni/v.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/orumcek-adam-orumcek-evrenine-gecis-izle-8-77240.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Örümcek-Evrenine Geçiş
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/7/cdn871/m/OrumcekAdamOrumcekEvreni/v.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/orumcek-adam-orumcek-evrenine-gecis-izle-8-77240.webp" group-title="10.FiLM DC/MARVEL", Orümcek Adam: Örümcek-Evrenine Geçiş
 https://vidmody.com/vs/tt9362722
 
-#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00017/q5ufg15yq2qi_,l,n,.urlset/master.m3u8?t=5Y25Dvpx7DwXl1-Ikjn2_JePQ1ah5pePaZWkeIZwXfs&s=1740343277&e=1199998800&f=88121&srv=s285&i=0.0&sp=0      https://cdn.dzen.ru/vod/converted-video/vod-content/45/30/16/81/66/98/12/78/43/80dca8c5-033c-47ef-939d-cfe52dd16777/kaltura/desc_e94b69f8eacd1c03fb2e8c801684ef44/vxnYVswBepXQ/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-10/infazci-the-punisher-67336.webp" group-title="10.FiLM DC/MARVEL", Punisher 1 İnfazcı
+#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00017/q5ufg15yq2qi_,l,n,.urlset/master.m3u8?t=5Y25Dvpx7DwXl1-Ikjn2_JePQ1ah5pePaZWkeIZwXfs&s=1740343277&e=1199998800&f=88121&srv=s285&i=0.0&sp=0      https://cdn.dzen.ru/vod/converted-video/vod-content/45/30/16/81/66/98/12/78/43/80dca8c5-033c-47ef-939d-cfe52dd16777/kaltura/desc_e94b69f8eacd1c03fb2e8c801684ef44/vxnYVswBepXQ/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-10/infazci-the-punisher-67336.webp" group-title="10.FiLM DC/MARVEL", Punisher 1 İnfazcı
 https://vidmody.com/vs/tt0330793
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/47/26/52/47/69/47/46/66/80/9/4d3882c1-3231-4b18-a0ed-8553fab5d808/kaltura/desc_2de7367abfdcf51523d59bc42ddd499c/vhncDaXO-GHA/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-cezalandirici-savas-hatti-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Punisher 2 Savaş Hattı
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/47/26/52/47/69/47/46/66/80/9/4d3882c1-3231-4b18-a0ed-8553fab5d808/kaltura/desc_2de7367abfdcf51523d59bc42ddd499c/vhncDaXO-GHA/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-cezalandirici-savas-hatti-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Punisher 2 Savaş Hattı
 https://vidmody.com/vs/tt0450314
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a404.jpg" group-title="10.FiLM DC/MARVEL", RED (2010)
@@ -14205,129 +14208,129 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/22/02/59/89/17/44/24/10/89/4
 Hızlı ve Emekli 2
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/75/28/11/81/16/13/68/65/3/7a3301e0-0dfd-4775-a815-320bb646971d/kaltura/desc_4fcc7ffdecb48ba25ca743116cc03775/vRdY6CUmYIH8/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.txtstream2.xyz/hls/5/cdn8/Movies/ShangChi.mp4/index.m3u8?token=Dxw5l263TTTAh9HyYZ2IIA&tms=1727092723my" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/shang-chi-ve-on-halka-efsanesi-65118.webp" group-title="10.FiLM DC/MARVEL", Shang-Chi ve on Halka Efsanesi
+#EXTINF:-1 tvg-id="https://cdn.txtstream2.xyz/hls/5/cdn8/Movies/ShangChi.mp4/index.m3u8?token=Dxw5l263TTTAh9HyYZ2IIA&tms=1727092723my" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/shang-chi-ve-on-halka-efsanesi-65118.webp" group-title="10.FiLM DC/MARVEL", Shang-Chi ve on Halka Efsanesi
 https://vidmody.com/vs/tt9376612
 
-#EXTINF:-1 tvg-id="https://vs6.photour.org/mq/nQL4ZachomImMQO3d0zxpTuiqT91pv5ipzps0xi6vr1bhd   https://cdn.dzen.ru/vod/converted-video/vod-content/70/93/20/68/55/98/26/21/76/0/f08ce67d-e3f1-45d6-b832-5a79b738ccbd/kaltura/desc_477ed84d2576ef75a807785da98dc62a/vFsVqfMRKDXA/master.m3u8     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/Shazam.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/shazam-izle-1-27700.webp" group-title="10.FiLM DC/MARVEL", Shazam! 1
+#EXTINF:-1 tvg-id="https://vs6.photour.org/mq/nQL4ZachomImMQO3d0zxpTuiqT91pv5ipzps0xi6vr1bhd   https://cdn.dzen.ru/vod/converted-video/vod-content/70/93/20/68/55/98/26/21/76/0/f08ce67d-e3f1-45d6-b832-5a79b738ccbd/kaltura/desc_477ed84d2576ef75a807785da98dc62a/vFsVqfMRKDXA/master.m3u8     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/Shazam.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/shazam-izle-1-27700.webp" group-title="10.FiLM DC/MARVEL", Shazam! 1
 https://vidmody.com/vs/tt0448115
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2025-01/shazam-tanrilarin-ofkesi.webp" group-title="10.FiLM DC/MARVEL", Shazam! Tanrıların Öfkesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/shazam-tanrilarin-ofkesi.webp" group-title="10.FiLM DC/MARVEL", Shazam! Tanrıların Öfkesi
 https://cdn.prectv2.lat/hls/2/cdn611/m/Shazam2TR.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/SiyahGiyenAdamlarDub.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-1-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 1
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/SiyahGiyenAdamlarDub.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-1-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 1
 https://vidmody.com/vs/tt0119654
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlack2.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-2-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlack2.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-2-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 2
 https://vidmody.com/vs/tt0120912
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlack3.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-3-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 3
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlack3.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-3-film-izle.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 3
 https://vidmody.com/vs/tt1409024
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlackInternational4.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-4-izle-men-in-black-international-bu-son-yarim.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 4 Global Tehdit
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/MeninBlackInternational4.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-siyah-giyen-adamlar-4-izle-men-in-black-international-bu-son-yarim.webp" group-title="10.FiLM DC/MARVEL", Siyah Giyen Adamlar 4 Global Tehdit
 https://vidmody.com/vs/tt2283336
 
-#EXTINF:-1 tvg-id="https://p2.photofunia.org/v/3gvntq6aejfb/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/intihar-timi-suicide-squad-izle-1-941.webp" group-title="10.FiLM DC/MARVEL", Suicide Squad: Gerçek Kötüler (2016)
+#EXTINF:-1 tvg-id="https://p2.photofunia.org/v/3gvntq6aejfb/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/intihar-timi-suicide-squad-izle-1-941.webp" group-title="10.FiLM DC/MARVEL", Suicide Squad: Gerçek Kötüler (2016)
 https://vidmody.com/vs/tt1386697
 
-#EXTINF:-1 tvg-id="https://p1.photofunia.org/v/nessz52ddt53/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/the-suicide-squad-intihar-timi-62868.webp" group-title="10.FiLM DC/MARVEL", Suicide Squad: İntihar Timi 
+#EXTINF:-1 tvg-id="https://p1.photofunia.org/v/nessz52ddt53/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/the-suicide-squad-intihar-timi-62868.webp" group-title="10.FiLM DC/MARVEL", Suicide Squad: İntihar Timi 
 https://vidmody.com/vs/tt6334354
 
-#EXTINF:-1 tvg-id="https://norvec4.shop/cdn/down/b17ce30a4059597c38936cf5c802242c/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-08/fullhd-supermen-1-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Superman (1978)
+#EXTINF:-1 tvg-id="https://norvec4.shop/cdn/down/b17ce30a4059597c38936cf5c802242c/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-supermen-1-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Superman (1978)
 https://vidmody.com/vs/tt0078346
 
-#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/ad8d468cc79d8f5d9c7c5f7eab3b1c82/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-08/fullhd-superman-2-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 2 (1980)
+#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/ad8d468cc79d8f5d9c7c5f7eab3b1c82/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-superman-2-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 2 (1980)
 https://vidmody.com/vs/tt0081573
 
-#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/a4224f7a87cf56f03242456d0d8bbbe4/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-08/fullhd-superman-3-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 3 (1983)
+#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/a4224f7a87cf56f03242456d0d8bbbe4/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-superman-3-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 3 (1983)
 https://vidmody.com/vs/tt0086393
 
-#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/8e430c230f51585eb4f7b4632b82ef88/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-08/fullhd-supermen-4-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 4 (1987)
+#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/8e430c230f51585eb4f7b4632b82ef88/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-supermen-4-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 4 (1987)
 https://vidmody.com/vs/tt0094074
 
-#EXTINF:-1 tvg-id="https://cankaya5.shop/cdn/down/e8930bbf09cde751893702585118cc2a/720p/720p.txt" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-superman-donuyor-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 5 Dönüyor (2006)
+#EXTINF:-1 tvg-id="https://cankaya5.shop/cdn/down/e8930bbf09cde751893702585118cc2a/720p/720p.txt" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-superman-donuyor-turkce-dublaj-izle-hd-720p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", Superman 5 Dönüyor (2006)
 https://vidmody.com/vs/tt0348150
 
-#EXTINF:-1 tvg-id="https://p1.photostack.net/v/hjg8w41lqesz/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-sprmn-celik-adam-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Superman 6 (2013)
+#EXTINF:-1 tvg-id="https://p1.photostack.net/v/hjg8w41lqesz/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-sprmn-celik-adam-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Superman 6 (2013)
 Man of Steel
 https://vidmody.com/vs/tt0770828
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/500525/poster/thumb/the-flash.jpg" group-title="10.FiLM DC/MARVEL", The Flash
 https://cdn.prectv2.lat/hls/1/cdn783/m/3/TheFlash.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/49/48/64/80/28/62/20/04/83/7/f68c8a30-9e03-4033-99ed-a9e63575bda7/kaltura/desc_7254fe59dd9e68bba30ec6cdf1d56bfa/v-msZXjGBU3k/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kizilmaske-the-phantom.webp" group-title="10.FiLM DC/MARVEL", The Phantom (1996)
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/49/48/64/80/28/62/20/04/83/7/f68c8a30-9e03-4033-99ed-a9e63575bda7/kaltura/desc_7254fe59dd9e68bba30ec6cdf1d56bfa/v-msZXjGBU3k/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kizilmaske-the-phantom.webp" group-title="10.FiLM DC/MARVEL", The Phantom (1996)
 https://vidmody.com/vs/tt0117331
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a12034.jpg" group-title="10.FiLM DC/MARVEL", The Shadow (1994)
 Gölge
 https://cdn.dzen.ru/vod/converted-video/vod-content/18/26/30/67/39/53/71/21/69/1/ee4540f9-3a98-439f-befe-f33b871036ae/kaltura/desc_77b64c769b8b11d279e72a3a13c61530/vq44qRspiEkI/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/878c615c4e4e2970667fd09823948857171132148411.mp4/index.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-thor-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Thor
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/878c615c4e4e2970667fd09823948857171132148411.mp4/index.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-thor-turkce-dublaj-izle.webp" group-title="10.FiLM DC/MARVEL", Thor
 https://vidmody.com/vs/tt0800369
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/a20daea94b973d88a0daea15af8ca22c171132143912.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-thor-2-karanlik-dunya-izle.webp" group-title="10.FiLM DC/MARVEL", Thor 2: Karanlık Dünya
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/a20daea94b973d88a0daea15af8ca22c171132143912.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-thor-2-karanlik-dunya-izle.webp" group-title="10.FiLM DC/MARVEL", Thor 2: Karanlık Dünya
 https://vidmody.com/vs/tt1981115
 
-#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8      https://cdn.prectv2.lat/hls/10/cdn32/2756efe387fdb0b35463ebc71de8e83517113215228.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-thr-3-rgn-hdx-izle.webp" group-title="10.FiLM DC/MARVEL", Thor 3
+#EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8      https://cdn.prectv2.lat/hls/10/cdn32/2756efe387fdb0b35463ebc71de8e83517113215228.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-thr-3-rgn-hdx-izle.webp" group-title="10.FiLM DC/MARVEL", Thor 3
 https://vidmody.com/vs/tt3501632
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/94736ec1798d382455172bd3b343b740171132157512.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-12/thor-4-ask-ve-gok-gurultusu.webp" group-title="10.FiLM DC/MARVEL", Thor: Aşk ve Gök Gürültüsü
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/94736ec1798d382455172bd3b343b740171132157512.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/thor-4-ask-ve-gok-gurultusu.webp" group-title="10.FiLM DC/MARVEL", Thor: Aşk ve Gök Gürültüsü
 https://vidmody.com/vs/tt10648342
 
-#EXTINF:-1 tvg-id="https://vs1.photomag.biz/v/ozkts9eggf7b/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-v-for-vendetta-turkce-dublaj-hd-1080p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", V for Vendetta
+#EXTINF:-1 tvg-id="https://vs1.photomag.biz/v/ozkts9eggf7b/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-v-for-vendetta-turkce-dublaj-hd-1080p-nette-ilk.webp" group-title="10.FiLM DC/MARVEL", V for Vendetta
 https://vidmody.com/vs/tt0434409
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/VenomZehrlOfkeAlt/v.m3u8   https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/VenomZehrlOfkeDub/v.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.vip/uploads/filmler/2024-08/fullhd-vnm-full-film-2018-izle.webp" group-title="10.FiLM DC/MARVEL", Venom1: Zehirli Öfke
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/VenomZehrlOfkeAlt/v.m3u8   https://cdn.prectv2.lat/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/VenomZehrlOfkeDub/v.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-vnm-full-film-2018-izle.webp" group-title="10.FiLM DC/MARVEL", Venom1: Zehirli Öfke
 https://vidmody.com/vs/tt1270797
 
-#EXTINF:-1 tvg-id="https://vs1.photomag.biz/mo/oGWaoJqlAwqgZ2S5d0zxpTuiqT9gLJphLzy6s0xi1vr1bhd" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/venom-zehirli-ofke-2-14377.webp" group-title="10.FiLM DC/MARVEL", Venom2: Zehirli Öfke
+#EXTINF:-1 tvg-id="https://vs1.photomag.biz/mo/oGWaoJqlAwqgZ2S5d0zxpTuiqT9gLJphLzy6s0xi1vr1bhd" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/venom-zehirli-ofke-2-14377.webp" group-title="10.FiLM DC/MARVEL", Venom2: Zehirli Öfke
 https://vidmody.com/vs/tt7097896
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/1da9b3b92d4276bce122a09fb564f3a817362474485.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-10/venom-son-dans-izle.webp" group-title="10.FiLM DC/MARVEL", Venom3: Son Dans
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/1da9b3b92d4276bce122a09fb564f3a817362474485.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-10/venom-son-dans-izle.webp" group-title="10.FiLM DC/MARVEL", Venom3: Son Dans
 https://vidmody.com/vs/tt16366836
 
-#EXTINF:-1 tvg-id="https://p3.photostack.net/v/ayme9n4vqnbe/master.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-watchmen-full-hd-izle-turkce.webp" group-title="10.FiLM DC/MARVEL", Watchmen
+#EXTINF:-1 tvg-id="https://p3.photostack.net/v/ayme9n4vqnbe/master.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-watchmen-full-hd-izle-turkce.webp" group-title="10.FiLM DC/MARVEL", Watchmen
 https://vidmody.com/vs/tt0409459
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f2b246ed9ed808fa9c500ed75b65a8a817113160348.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-wonder-woman-2017-film-izle.webp" group-title="10.FiLM DC/MARVEL", Wonder Woman
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f2b246ed9ed808fa9c500ed75b65a8a817113160348.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-wonder-woman-2017-film-izle.webp" group-title="10.FiLM DC/MARVEL", Wonder Woman
 https://vidmody.com/vs/tt0451279
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/68531d00eaa9bcf07465f9b6d994dda617113160075.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-kavsak-filmini-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Wonder Woman 1984
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/68531d00eaa9bcf07465f9b6d994dda617113160075.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-kavsak-filmini-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", Wonder Woman 1984
 https://vidmody.com/vs/tt7126948
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f5361c3fe39ab1f7b2bdf99297c7c194171123881312.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/boxset/2024-08/x-men-fh-serisi-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 1
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/f5361c3fe39ab1f7b2bdf99297c7c194171123881312.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/boxset/2024-08/x-men-fh-serisi-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 1
 https://vidmody.com/vs/tt0120903
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/9c6365f110ef9c8f2d2388176839316e17112390006.mp4/index.m3u8    https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen2.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-x-men-2-2002-filmi-tek-part-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/9c6365f110ef9c8f2d2388176839316e17112390006.mp4/index.m3u8    https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen2.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-x-men-2-2002-filmi-tek-part-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 2
 https://vidmody.com/vs/tt0290334
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen3.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/936e4c8dc9184e33ff7734045ec5b09517112389399.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-x-men-3-son-direnis-filmini-seyret_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 3: Son Direniş
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen3.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/936e4c8dc9184e33ff7734045ec5b09517112389399.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-x-men-3-son-direnis-filmini-seyret_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 3: Son Direniş
 https://vidmody.com/vs/tt0376994
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/5/cdn8/Movies/XMen4.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/faad4c73f854876650c169cd40359683171123887313.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/x-men-baslangic-wolverine-full-hd-izle165.webp" group-title="10.FiLM DC/MARVEL", X-Men 4 Başlangıç Wolverine
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/5/cdn8/Movies/XMen4.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/faad4c73f854876650c169cd40359683171123887313.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/x-men-baslangic-wolverine-full-hd-izle165.webp" group-title="10.FiLM DC/MARVEL", X-Men 4 Başlangıç Wolverine
 https://vidmody.com/vs/tt0458525
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen5.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/2de40cc616d9e5dc6c67f6f007c0db4f171124144414.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-x-men-birinci-sinif-x-men-first-class-2011-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 5: Birinci Sınıf
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen5.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/2de40cc616d9e5dc6c67f6f007c0db4f171124144414.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-x-men-birinci-sinif-x-men-first-class-2011-full-hd-izle.webp" group-title="10.FiLM DC/MARVEL", X-Men 5: Birinci Sınıf
 https://vidmody.com/vs/tt1270798
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/X-MenWolverine.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/2b1e34aa4dca4774aec1234cb9461d2017112407456.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-the-wolverine_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 6: Wolverine
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/X-MenWolverine.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/2b1e34aa4dca4774aec1234cb9461d2017112407456.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-the-wolverine_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 6: Wolverine
 https://vidmody.com/vs/tt1430132
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/73e64181156624105a6a78307a00a62017112415015.mp4/index.m3u8    https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen7.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-x-men-gecmis-gunler-gelecek-film-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 7:  Geçmiş Günler Gelecek
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/73e64181156624105a6a78307a00a62017112415015.mp4/index.m3u8    https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen7.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-x-men-gecmis-gunler-gelecek-film-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 7:  Geçmiş Günler Gelecek
 https://vidmody.com/vs/tt1877832
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/c881a0f86b003aa29559eabdecb7fc7b17112408939.mp4/index.m3u8     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen8.mp4/index.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-x-men-apocalypse-film-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 8: Kıyamet
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/c881a0f86b003aa29559eabdecb7fc7b17112408939.mp4/index.m3u8     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen8.mp4/index.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-x-men-apocalypse-film-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 8: Kıyamet
 https://vidmody.com/vs/tt3385516
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen9.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/24e729b3b42b73040b208cb8a4668a3d171124082814.mp4/index.m3u8   https://cdn.prectv2.lat/hls/5/ax61/mp4/d81f74214a7613cef4382acb7ff06d72.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/logan-izle-fhd5-36704_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 9: Logan
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/xmen9.mp4/index.m3u8     https://cdn.prectv2.lat/hls/10/cdn32/24e729b3b42b73040b208cb8a4668a3d171124082814.mp4/index.m3u8   https://cdn.prectv2.lat/hls/5/ax61/mp4/d81f74214a7613cef4382acb7ff06d72.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/logan-izle-fhd5-36704_2.webp" group-title="10.FiLM DC/MARVEL", X-Men 9: Logan
 https://vidmody.com/vs/tt3315342
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/a05f82b852818426e71caf8a8fed9334171124067413.mp4/index.m3u8.     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/X-MenDarkPhoenix.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-karanlik-anka-kusu-fullhd-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men10: Dark Phoenix
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/a05f82b852818426e71caf8a8fed9334171124067413.mp4/index.m3u8.     https://cdn.prectv2.lat/hls/2/cdn5/cdn/movies/yeni/X-MenDarkPhoenix.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-karanlik-anka-kusu-fullhd-izle_2.webp" group-title="10.FiLM DC/MARVEL", X-Men10: Dark Phoenix
 https://vidmody.com/vs/tt6565702
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/4/cdn1/Filmler/Dublaj/The.New.Mutants.2020.mp4/index.m3u8" tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-08/fullhd-yeni-mutantlar.webp" group-title="10.FiLM DC/MARVEL", X-Men11: Yeni Mutantlar
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/4/cdn1/Filmler/Dublaj/The.New.Mutants.2020.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/fullhd-yeni-mutantlar.webp" group-title="10.FiLM DC/MARVEL", X-Men11: Yeni Mutantlar
 https://vidmody.com/vs/tt4682266
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/ups/filess/greenlatern3.mp4/index.m3u8      https://cdn.dzen.ru/vod/converted-video/vod-content/20/78/76/52/62/60/88/17/78/6/42386249-07da-42fe-9362-86aef799f5d0/kaltura/desc_bd6f4382e51e6437ac11807f6bbad8cf/vuwlWW0InXTg/master.m3u8 " tvg-logo="https://cors.eu.org/https://hdfilmsitesi.de/uploads/filmler/2024-07/fullhd-yesil-fener-2011-izle.webp" group-title="10.FiLM DC/MARVEL", Yeşil Fener
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/2/cdn5/ups/filess/greenlatern3.mp4/index.m3u8      https://cdn.dzen.ru/vod/converted-video/vod-content/20/78/76/52/62/60/88/17/78/6/42386249-07da-42fe-9362-86aef799f5d0/kaltura/desc_bd6f4382e51e6437ac11807f6bbad8cf/vuwlWW0InXTg/master.m3u8 " tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-07/fullhd-yesil-fener-2011-izle.webp" group-title="10.FiLM DC/MARVEL", Yeşil Fener
 https://vidmody.com/vs/tt1133985
 
 #EXTINF:-1 tvg-id="TR: KURAN DINLE NasserAlQatamii" tvg-logo="https://kuranportali.com/wp-content/uploads/2015/08/quran1.png" group-title="KURAN DINLE", ABESE
