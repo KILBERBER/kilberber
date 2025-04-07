@@ -4626,6 +4626,12 @@ https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 1.TLC Türknet
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png" group-title="01.KIL-BELGESEL", 2.Discovery Channel
+https://217.30.11.74/e/500.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png" group-title="01.KIL-BELGESEL", 2.NatGeo
+https://217.30.11.74/e/501.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 #EXTINF:-1 tvg-id="https://tls.tc/M0Vkz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="01.KIL-BELGESEL", 2.National Geographic HD
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
