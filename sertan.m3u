@@ -1506,14 +1506,14 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş Galatasaray 2-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_29_bjk_gs_29h_29mart_ip&secure=1
+#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe Trabzonspor 4-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_30_fb_ts_30h_6nisan_ip&secure=1
 
-#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Bodrum Fenerbahçe 2-4
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_29_bod_fb_29h_28mart_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe Gaziantep 1-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_30_goz_gazi_30h_7nisan_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Trabzonspor Göztepe 1-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_29_ts_goz_29h_29mart_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa Beşiktaş 1-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_30_kas_bjk_30h_7nisan_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
@@ -7836,17 +7836,14 @@ https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/september-5.webp" group-title="08.FiLM YENi 2025", 5 Eylül
 https://s424.rapidrame.com/hls2/01/00022/toao2jtcn5rd_,l,n,.urlset/master.m3u8?t=qcfdn07ZfVaqwfdOoVnZZmSmNZfxEkUzd2rN5yAYkHQ&s=1740588492&e=1199998800&f=111949&i=0.0&sp=0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/para-konusur.webp" group-title="08.FiLM YENi 2025", Para Konuşur
-https://vidmody.com/vs/tt28620337
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/farkli-bir-adam.webp" group-title="08.FiLM YENi 2025", A Different Man
 https://vidmody.com/vs/tt21097228
 
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/zvy0ep1kxp0l_,l,n,.urlset/master.m3u8?t=9IlTI1UXKGOo2wSp1CuIMXRTiU3z3BZahTMLq6PG9KE&s=1743752622&e=1199998800&f=114611&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/a-working-man.webp" group-title="08.FiLM YENi 2025", A Working Man
 https://vidmody.com/vs/tt9150192
 
-#EXTINF:-1 tvg-id="https://s231.rapidrame.com/hls2/01/00022/q19vtsgyie3d_,l,n,.urlset/master.m3u8?t=iBE0Iup0C-R2VsNfLj5OZi_xVeWHPLXzNL2tJ3C3EMc&s=1742399765&e=1199998800&f=113528&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/novocaine-hdfc.webp" group-title="08.FiLM YENi 2025", Acıya Yer Yok 
-https://s230.rapidrame.com/hls2/01/00022/nxajcz3clrow_,l,n,.urlset/master.m3u8?t=iGXnal8Vr9U642dUaOJUz2dTKiFDeVl2CQb_NlrFt1M&s=1742489436&e=1199998800&f=113703&srv=s379&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/nxajcz3clrow_,l,n,.urlset/master.m3u8?t=iGXnal8Vr9U642dUaOJUz2dTKiFDeVl2CQb_NlrFt1M&s=1742489436&e=1199998800&f=113703&srv=s379&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/novocaine-hdfc.webp" group-title="08.FiLM YENi 2025", Acıya Yer Yok 
+https://vidmody.com/vs/tt29603959
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn801/144b1193375af9294b757e026c4d595817365076449.mp4/index.m3u8" tvg-logo="https://www.hdfilmizle.to/v/501185/poster/thumb-lg/ad-vitam.jpg" group-title="08.FiLM YENi 2025", Ad Vitam
 https://vs14.photour.org/v/Ad.Vitam.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
@@ -8179,6 +8176,9 @@ https://s231.rapidrame.com/hls2/01/00022/6jgse4psfkus_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/88-soygunu.webp" group-title="08.FiLM YENi 2025", Heist 88
 https://vidmody.com/vs/tt7718100
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/henry-danger-the-movie.webp" group-title="08.FiLM YENi 2025", Henry Danger: The Movie
+https://vidmody.com/vs/tt7787524/dub
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/all-gone-wrong.webp" group-title="08.FiLM YENi 2025", Her Şey mi Ters Gider
 All Gone Wrong
 https://s230.rapidrame.com/hls2/01/00022/l2879ozbqxx6_,l,n,.urlset/master.m3u8?t=-r4z-1G26k4ut5BZvSUwFAHL6c0IrCAKt-yZQ3_YgEI&s=1739782913&e=1199998800&f=112275&srv=s400&i=0.0&sp=0
@@ -8230,6 +8230,9 @@ https://vidmody.com/vs/tt32648798
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501281/poster/thumb/joker-ikili-delilik.jpg" group-title="08.FiLM YENi 2025", Joker: İkili Delilik 
 https://vs15.photostack.net/v/Joker.Folie.a.Deux.2024.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/juror-no-2.webp" group-title="08.FiLM YENi 2025", Juror No 2 
+https://vidmody.com/vs/tt27403986
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/kaos-manson-vakasi.webp" group-title="08.FiLM YENi 2025", Kaos: Manson Vakası 
 https://vidmody.com/vs/tt35628886
@@ -8432,6 +8435,9 @@ https://vidmody.com/vs/tt6208148
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/panda-plan.webp" group-title="08.FiLM YENi 2025", Panda Plan
 https://s230.rapidrame.com/hls2/01/00022/9pj72wij4oqn_,l,n,.urlset/master.m3u8?t=YQIl_XquwffyjyNk97sd13kI0fzWEYXk9WqwUNrFitE&s=1740497809&e=1199998800&f=112595&srv=s390&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/para-konusur.webp" group-title="08.FiLM YENi 2025", Para Konuşur
+https://vidmody.com/vs/tt28620337
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle1.xyz/i/afis/b/a16366.jpg" group-title="08.FiLM YENi 2025", Pigen med nålen Şişli Kız
 https://cdn.dzen.ru/vod/converted-video/vod-content/17/91/73/14/62/42/52/57/11/1/12899f24-574c-4428-a900-482d8b1c255e/kaltura/desc_126e3fefb430b52c51cee7c1634e373b/vFjkQGhNP2TY/master.m3u8
