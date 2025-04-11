@@ -1530,8 +1530,8 @@ https://due.8bc6d5e7534b6dbc.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 #EXTINF:-1 tvg-id="TR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk Maç Zamanı c
 https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android
 
-#EXTINF:-1 tvg-id="https://golvar2014.sbs/   https://playerpro.live/proxy.php?url=" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Streamradar
-https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-5059aab70c.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar4679.sbs/&origin=https://golvar4679.sbs/
+#EXTINF:-1 tvg-id="https://golvar4593.sbs/ https://golvar2014.sbs/   https://playerpro.live/proxy.php?url=" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Streamradar
+https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-55219e3d34.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar4593.sbs/&origin=https://golvar4679.sbs/
 
 #EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
 https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
@@ -6676,7 +6676,7 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/logo_20231219_200859_58.png" group-title="06.E SPOR GAMES", Dungeon TV
-https://stream-us-east-1.getpublica.com/cl/250409cvrdvgrgitmitvim1fig/1280x720_2953156_1_f.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?ads.dpname=distrotv&network_id=2251&live=1&avod=1&site_page=&site_name=Dungeon%20TV&hls_marker=1&cb=njzl&ip=31.206.165.53&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Infinix%20X6850)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.6998.135%20Mobile%20Safari%2F537.36&player_height=203&player_width=360&is_lat=0&ads.deviceidtype=localStorage&ads.gdpr=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22914/fwtv/logo_20231219_202112_61.png" group-title="06.E SPOR GAMES", fw.tv by Firework
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fwtv/master.m3u8
@@ -6744,8 +6744,8 @@ https://hls.goodgame.ru/manifest/7807_master.m3u8|User-Agent=Mozilla/5.0 (Linux;
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", Ru.Games 2
 https://hls.goodgame.ru/manifest/108536_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
-https://stream.ads.ottera.tv/cl/250409cvre3fgi7vgoq8qbpihg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id=",https://stream.ads.ottera.tv/cl/250411cvseml0i7vgpujfu1km0/1280x720_2300000_0_f.m3u8" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
+https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=261346&partner=distro&ads.rnd=3zs7&ads.env_i=f639eefb-213d-4121-9c34-358b13b63315&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=31.206.165.53&ads.geo=TR&ads.lat=41.02470&ads.long=28.92520&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=20250411
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
@@ -7498,6 +7498,9 @@ https://s231.rapidrame.com/hls2/01/00022/amgsithlzuxc_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/better-man.webp" group-title="08.FiLM YENi 2025", Better Man
 https://s230.rapidrame.com/hls2/01/00022/jz9xmj9i89gd_,l,n,.urlset/master.m3u8?t=wXRxfKOrjko8fV-vdR0oOUckPdcpQSjOWytkeDloQlQ&s=1740588759&e=1199998800&f=112165&srv=s424&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/beyaz-esya.webp" group-title="08.FiLM YENi 2025", Beyaz Eşya
+https://s230.rapidrame.com/hls2/01/00022/cdz8e9ptw30s_,l,n,.urlset/master.m3u8?t=BtGvf8VmBjzt6bpDr0oXfmJcCHQX63AlFIAxaS9HCig&s=1744367790&e=1199998800&f=114919&srv=s293&i=0.0&sp=0
+
 #EXTINF:-1 tvg-id="https://s425.rapidrame.com/hls2/01/00022/6j5a84c46nbt_,l,n,.urlset/master.m3u8?t=cGqDmeMz2sneGESmeTKJA0yqomq7HEXvyqfjnKF3gAA&s=1743874010&e=1199998800&f=114726&srv=s390&i=0.0&sp=0" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/bir-minecraft-filmi.webp" group-title="08.FiLM YENi 2025", Bir Minecraft Filmi korsan sürüm 
 https://vidmody.com/vs/tt3566834
 
@@ -7512,6 +7515,9 @@ https://vidmody.com/vs/tt15939198
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv39.sbs/uploads/cache/poster_thumb/uploads/jpg/cc6015eac27c71d334d99a12ec636c88.jpg" group-title="08.FiLM YENi 2025", Bloat
 https://cdn.prectv2.lat/hls/11/cdn65/4HH1KQ8l3FMETxtb2RVe8FFoPD641lWIj4ZTTcQg.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/blood-star.webp" group-title="08.FiLM YENi 2025", Blood Star
+https://vidmody.com/vs/tt28452681
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle1.xyz/i/afis/b/a16395.jpg" group-title="08.FiLM YENi 2025", Bogota: City of the Lost
 https://cdn.dzen.ru/vod/converted-video/vod-content/63/78/42/92/81/50/43/59/83/9/42e58f8a-0683-4eba-916d-287869fcee7a/kaltura/desc_dc98df18829d1215a8369b65ab9fe82e/v5YHh0i0zpD0/master.m3u8
@@ -7769,6 +7775,9 @@ https://s230.rapidrame.com/hls2/01/00022/e0mfddufzuy8_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle1.xyz/i/afis/b/a16492.jpg" group-title="08.FiLM YENi 2025", ikinci Perde
 https://cdn.dzen.ru/vod/converted-video/vod-content/49/94/89/35/00/65/76/21/70/6/d3851cec-ade7-4cc3-8475-a50899d70518/kaltura/desc_da35d289046ac5d6efc13fea6786619d/vGLDnPYmu4Wg/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/in-the-lost-lands.webp" group-title="08.FiLM YENi 2025", in the Lost Lands
+https://vidmody.com/vs/tt4419684
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inheritance-hdfc.webp" group-title="08.FiLM YENi 2025", inheritance
 https://s230.rapidrame.com/hls2/01/00022/tki0p2rrz88u_,l,n,.urlset/master.m3u8?t=DkwGGRfR1QPY1CpYZv-QVH2eeOjggyJ44UzVbeyBG9A&s=1740376656&e=1199998800&f=112526&srv=s390&i=0.0&sp=0
 
@@ -7948,6 +7957,9 @@ https://vidmody.com/vs/tt11786924
 
 #EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/37/81/98/07/03/02/06/34/69/0/a6f344f1-6a2e-4a5c-9c2b-9f0b6d2ae77d/kaltura/desc_e61c583b47a68a3231b37b9a9a1cef4d/vZOGh2ZAHZTs/master.m3u8   https://cdn.prectv2.lat/hls/8/cdn801/1329fc754afd83892da2bcba16f64be8173754250312.mp4/index.m3u8" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/nosferatu.webp" group-title="08.FiLM YENi 2025", Nosferatu
 https://vidmody.com/vs/tt5040012
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/o-dessa.webp" group-title="08.FiLM YENi 2025", O'Dessa
+https://vidmody.com/vs/tt26304178
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/oceans-are-the-real-continents.webp" group-title="08.FiLM YENi 2025", Oceans Are the Real Continents
 https://vidmody.com/vs/tt28635355
@@ -8132,6 +8144,9 @@ https://vs6.photofunia.org/v/zcev8dw63psk/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/the-8th-day.webp" group-title="08.FiLM YENi 2025", The 8th Day 
 https://vidmody.com/vs/tt28230718
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/the-alto-knights.webp" group-title="08.FiLM YENi 2025", The Alto Knights 
+https://vidmody.com/vs/tt21815562
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-bayou.webp" group-title="08.FiLM YENi 2025", The Bayou
 https://s230.rapidrame.com/hls2/01/00022/5d44gna26ox2_,l,n,.urlset/master.m3u8?t=RK7mdPIOjKVMEJNinqvDRuQfUerISDxHwDshQQ13-y8&s=1740248830&e=1199998800&f=112497&srv=s390&i=0.0&sp=0
