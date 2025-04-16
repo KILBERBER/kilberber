@@ -296,6 +296,9 @@ https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="0.KIL-MÜZİK", 20.TRACE UK c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
+http://95.67.12.82:9068
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
@@ -449,8 +452,11 @@ https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="TNTMusic.ru" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="0.KIL-MÜZİK", 22.THT Musicc
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA
+#EXTINF:-1 tvg-id="https://hls.goodgame.ru/manifest/180805_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA
 https://hls.goodgame.ru/hls/180805.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/2238.png" group-title="0.KIL-MÜZİK", 22.VIVA Russia
+https://hls.goodgame.ru/manifest/180805_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.app/icon/3533.png" group-title="0.KIL-MÜZİK", 23.1HD Music
 https://stream1.cinerama.uz/1267/tracks-v1a1/mono.m3u8
@@ -641,35 +647,53 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png" group-title="0.KIL-MÜZİK", 28.Deluxe Rock
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 29.1 Abdo
+https://hls.goodgame.ru/hls/206355.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg" group-title="0.KIL-MÜZİK", 29.15plusmusic
 https://hls.goodgame.ru/manifest/208677_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 29.bober12
+https://hls.goodgame.ru/manifest/196745_master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1499153_llgo.jpg" group-title="0.KIL-MÜZİK", 29.HotBeatsTv
-https://hls.goodgame.ru/hls/191858.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+https://hls.goodgame.ru/manifest/191858_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1527385_x2Ay.jpg" group-title="0.KIL-MÜZİK", 29.jackfrostst
 https://hls.goodgame.ru/hls/194731.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 29.MB TV
+https://hls.goodgame.ru/manifest/198928_master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" group-title="0.KIL-MÜZİK", 29.Mega Radio
+https://hls.goodgame.ru/manifest/175789_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="Dummyhttps://hls.goodgame.ru/manifest/175789_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36" tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" group-title="0.KIL-MÜZİK", 29.Mega Radio
 https://hls.goodgame.ru/hls/175789.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="https://hls.goodgame.ru/hls/211955.m3u8" tvg-logo="https://static.goodgame.ru/files/avatars/av_1663741_jd7e.jpg" group-title="0.KIL-MÜZİK", 29.Muzic info
 https://hls.goodgame.ru/manifest/211955_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1393822_dLSf.jpg" group-title="0.KIL-MÜZİK", 29.MIXM.TV
-https://hls.goodgame.ru/hls/181490.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+https://hls.goodgame.ru/manifest/181490_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/logo_20250225_225158_70.png" group-title="0.KIL-MÜZİK", 29.NOMAD slow tv
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
 
-#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="0.KIL-MÜZİK", 29.Impact TV Dance
-https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M" group-title="0.KIL-MÜZİK", 29.Techno Dance Music
+https://hls.goodgame.ru/manifest/180509_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 29.TMF RUS
+https://hls.goodgame.ru/hls/201891.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="0.KIL-MÜZİK", 30.Atomic
 https://atomic.streamnet.ro/atomictv.m3u8
 
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="0.KIL-MÜZİK", 30.Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="0.KIL-MÜZİK", 30.Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="0.KIL-MÜZİK", 30A Music
 https://30a-tv.com/music.m3u8
@@ -1377,6 +1401,24 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="hlsproxy-21062" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig" group-title="0.KIL-RELAX", 24.Relax
 http://158.101.214.187:8080/channel/103af3d9/index.m3u8?q=b92e505ee8a30dc40ddf8c9d0c3bbb38
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20240520T212540SQUARE.png" group-title="0.KIL-RELAX", 25.Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="0.KIL-RELAX", 25.Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="0.KIL-RELAX", 25.Stingray Naturescape
+https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="0.KIL-RELAX", 25.Stingray Spa
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="0.KIL-RELAX", 25.ZenLIFE by Stingray
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="0.KIL-RELAX", Avia Stream
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="0.KIL-RELAX", Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 
@@ -1385,6 +1427,12 @@ http://iptv.prosto.tv:7000/ch314/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-RELAX", Stingray Naturescape
 https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="0.KIL-RELAX", Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tgtv.ua/images/tgtv_logo.png" group-title="0.KIL-RELAX", Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://zoostreamtv.com/wp-content/uploads/2023/10/cropped-5.png" group-title="0.KIL-RELAX", ZOO Stream
 http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
@@ -1413,11 +1461,20 @@ http://iptv.prosto.tv:7000/ch339/video.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="0.KIL-RELAX", Дожди
 http://iptv.prosto.tv:7000/ch304/video.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="0.KIL-RELAX", Железная дорога
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="0.KIL-RELAX", Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="0.KIL-RELAX", Зима
 https://iptv.prosto.tv/ch327/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="0.KIL-RELAX", Камин
 http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="0.KIL-RELAX", Катастрофы
+http://iptv.prosto.tv:7000/ch312/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="0.KIL-RELAX", Комната релакс
 http://iptv.prosto.tv:7000/ch328/video.m3u8
@@ -1446,14 +1503,26 @@ http://iptv.prosto.tv:7000/ch332/video.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="0.KIL-RELAX", Подводный мир
 http://iptv.prosto.tv:7000/ch305/video.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="0.KIL-RELAX", Про Факт
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="0.KIL-RELAX", Просто Украина
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="0.KIL-RELAX", Река
 http://iptv.prosto.tv:7000/ch338/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="0.KIL-RELAX", Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="0.KIL-RELAX", Сад
 http://iptv.prosto.tv:7000/ch347/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" group-title="0.KIL-RELAX", Свет вокруг
 http://iptv.prosto.tv:7000/ch351/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="0.KIL-RELAX", Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="0.KIL-RELAX", Терраса
 https://iptv.prosto.tv/ch336/video.m3u8
@@ -4008,6 +4077,12 @@ https://cdn.prectv2.lat/hls/8/cdn801/06575976618664a68b0f0138ebf37c3617365044151
 #EXTINF:-1 tvg-id="https://vkvd453.okcdn.ru/expires/1743964606668/clientType/13/srcIp/188.119.48.39/type/2/mid/9272621737996/id/8090420120076/ms/185.226.53.165/srcAg/CHROME/urls/45.136.22.187/pr/40/ct/28/sig/l2YbcGD8etM/ondemand/hls4_8090420120076.CIzQzJrvjQJIjMCf9gJQKFgNJL8VdrKPz5s.m3u8   https://cdn.dzen.ru/vod/converted-video/vod-content/71/28/52/46/51/80/98/33/86/3/e5693eda-d963-4937-a32a-a92ccaa463a1/kaltura/desc_0638654d180ac40c4d58fdb2b6e36e47/viUXP5SawMT0/master.m3u8" tvg-logo="https://jetdizi.net/upload/poster/676e30116df32.webp" group-title="00.KIL-DiZi-TRENT", Tertemiz 1.04
 https://cdn.prectv2.lat/hls/8/cdn801/44a41fb5670ac9032c101822ba5950c0173712188711.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/The_Last_of_Us_season_2_poster.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
+https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/The_Last_of_Us_season_2_poster.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1 Altyazı 
+https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/76/21/24/82/00/06/55/97/70/3/28630203-f852-47a6-83ce-069f76c4cd5f/kaltura/desc_c4529a2716c6c0c7b1dc888c8a8d42aa/vJrpFXPXubW8/ysign1=b71e2ac12f654f3353dabbccc321482689598d36c8d88926fb42e9ef91434f57,abcID=967,from=zen,pfx,region=10000,sfx,ts=65c8d224/manifest.mpd?clid=495&dzenuid=&slots=&from=zen&partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&vsid=b868d9916d02a10a37f7b81e3e875a9ab9fc3d7115aaxZWPx1126x1706795812&frontend_vh_reqid=1706795812728022-25539242874935652000189-production-app-host-vla-zen-489&puid=1887293244&zen-content-id=vJrpFXPXubW8&video-content-duration=2875&partner-stat-id=0&content_id=vJrpFXPXubW8&from_block=editor&sandboxVersion=0x95e4ae7&audio_mbr=1&mburl=1&t=1706795813029" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
 https://mp4.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122.mp4?token=Lge5OS1WdCCL5VG-RHnlCw&tms=1731189080
 
@@ -5391,6 +5466,9 @@ https://yayin.santraltr.com/hls/tvsms.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" group-title="02.KIL-MÜZİK WEB", Zeyno TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
+#EXTINF:-1 tvg-id="https://www.youtube.com/live/UgKxh04Iv9o" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Arzu film
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o/live.m3u8
+
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/pKseESsKBz0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Fanatik TV
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=pKseESsKBz0/live.m3u8
 
@@ -5406,8 +5484,8 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=hfx8H7YrmTw/live.m3u8
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/ImDkkmx9BVA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Sinema go
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ImDkkmx9BVA/live.m3u8
 
-#EXTINF:-1 tvg-id="https://www.youtube.com/live/UgKxh04Iv9o" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Yeşilçam Arzu film
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=UgKxh04Iv9o/live.m3u8
+#EXTINF:-1 tvg-id="https://www.youtube.com/live/ftfJHeVJbek" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Türk Filmleri
+
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/9ZMh3wSverE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Zeki metin Türk filmleri tv
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9ZMh3wSverE/live.m3u8
@@ -5448,6 +5526,9 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=qikDqZfTHOA/live.m3u8
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/DT2M4h17lGM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Gönül Dağı 
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DT2M4h17lGM/live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.inci taneleri
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7ansDZhrY6Q/live.m3u8
+
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/5ChB3dkc0Kk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.İstanbullu gelin
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=5ChB3dkc0Kk/live.m3u8
 
@@ -5480,6 +5561,9 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=3nlND4audLg/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/MLUGblGpm8A" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Medcezir
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=MLUGblGpm8A/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Mehmed: Fetihler Sultanı
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=6_AnQrbFvY8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/4HZW53S0bv8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Muhteşem yüzyıl 
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4HZW53S0bv8/live.m3u8
@@ -5536,235 +5620,235 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ipZ_UO7NnSA/live.m3u8
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Bp2C4XBJnLo/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/4rXv9LQ2Grw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Kontra Spor
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4rXv9LQ2Grw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4rXv9LQ2Grw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/z7SiAaN4ogw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Live cam word
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=z7SiAaN4ogw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=z7SiAaN4ogw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/2BLqhS59Elc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Live cam world 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=2BLqhS59Elc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=2BLqhS59Elc/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/p2NynJi-h9s" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Live webcams 280 city
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=p2NynJi-h9s.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=p2NynJi-h9s/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/vmQWMmS79Hk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Milli piyango
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=vmQWMmS79Hk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=vmQWMmS79Hk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/99ljTyIPuC4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Neo spor
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=99ljTyIPuC4.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=99ljTyIPuC4/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/qfyam6JjSDE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Radyogol
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=qfyam6JjSDE/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/mKCieTImjvU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Relaxing Fireplace Ambience
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=mKCieTImjvU.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=mKCieTImjvU/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/eI3Rp5vLUhk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Vole spor
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=eI3Rp5vLUhk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=eI3Rp5vLUhk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/JYalrF0y2eo" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Yaren leylek
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=JYalrF0y2eo.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=JYalrF0y2eo/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/ILEa3RogNEU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Yaren leylek 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ILEa3RogNEU.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ILEa3RogNEU/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/xPNnh6DcEvc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Şömine
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xPNnh6DcEvc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xPNnh6DcEvc/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/-h_xg8ake8c" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 22.K-pop All the k pop 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=-h_xg8ake8c.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=-h_xg8ake8c/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/ggDKdb2oaL4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 22.K-pop NON-STOP LIVE BEST
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ggDKdb2oaL4.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ggDKdb2oaL4/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/JVocS7Yftw8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 22.K-pop The K-pop
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=JVocS7Yftw8.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=JVocS7Yftw8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Xki2MCehoDw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 22.K-pop The K-pop 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Xki2MCehoDw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Xki2MCehoDw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/iqgNnHTYLxs" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 22.K-pop Vibing witch
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iqgNnHTYLxs.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iqgNnHTYLxs/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/gqTG7XUeGpg" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Best pop radio music
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=gqTG7XUeGpg.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=gqTG7XUeGpg/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/DuOrxAB2dPQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Chill Spotify 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DuOrxAB2dPQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DuOrxAB2dPQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/sgEJ4sOwboM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Chillout
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=sgEJ4sOwboM.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=sgEJ4sOwboM/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/PplxWRgPd8M" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Chillout Lounge - Ambient Chillout Lounge
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=PplxWRgPd8M.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=PplxWRgPd8M/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/I4FclAh5dsg" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Dance Radio
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=I4FclAh5dsg.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=I4FclAh5dsg/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/IkmLXvBfVv0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Deep House Radio • 24/7 Live Radio | Relaxing
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=IkmLXvBfVv0.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=IkmLXvBfVv0/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/n7bxrTwgLik" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Deep mod radio
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=n7bxrTwgLik.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=n7bxrTwgLik/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/tNkZsRW7h2c" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Deep Space Music
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=tNkZsRW7h2c.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=tNkZsRW7h2c/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/CT1Rk4fBUwU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Dj remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=CT1Rk4fBUwU.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=CT1Rk4fBUwU/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/TPEJeug2b7A" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.dj remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TPEJeug2b7A.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TPEJeug2b7A/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/0T1FPUV2wRQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.enhanced radio
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=0T1FPUV2wRQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=0T1FPUV2wRQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/0MOkLkTP-Jk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Gangsta rap
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=0MOkLkTP-Jk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=0MOkLkTP-Jk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/EmdtE7sRMSY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Güncel paylaşımlar TV enstrümantal
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EmdtE7sRMSY.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EmdtE7sRMSY/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/r50YLk5z5JQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Hit Remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=r50YLk5z5JQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=r50YLk5z5JQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/KVAocy0gnOo" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Hits Radio 1 Live Pop Radio
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=KVAocy0gnOo.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=KVAocy0gnOo/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/n5CBQTdLkLA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kanun enstrümantal 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=n5CBQTdLkLA.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=n5CBQTdLkLA/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Fru_Ss-TqgY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Karadeniz akustik radyo
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fru_Ss-TqgY.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fru_Ss-TqgY/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/A49bKX8gb-8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kral FM
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=A49bKX8gb-8.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=A49bKX8gb-8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/5J-w9AHKHsc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kral pop radyo
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=5J-w9AHKHsc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=5J-w9AHKHsc/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/GuFTuKoXepw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kral pop TV 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=GuFTuKoXepw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=GuFTuKoXepw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Fe7RYxtYLgE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Melodik tecno
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fe7RYxtYLgE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fe7RYxtYLgE/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/fpwx3tqvRg4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Music Mix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=fpwx3tqvRg4.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=fpwx3tqvRg4/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Fq-O2NVAStk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Nonstop 80s Greatest Hits
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fq-O2NVAStk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Fq-O2NVAStk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/jZ0RQQ-m11w" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Nostalgia mix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=jZ0RQQ-m11w.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=jZ0RQQ-m11w/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/h148VovpqLQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.NT party
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=h148VovpqLQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=h148VovpqLQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/9NWUvXAW6Cc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.NT party 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9NWUvXAW6Cc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9NWUvXAW6Cc/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/kRpuwdMZJSU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.NT party 3
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=kRpuwdMZJSU.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=kRpuwdMZJSU/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/KWxrAV5X3VM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Party remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=KWxrAV5X3VM.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=KWxrAV5X3VM/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/VyPZzzcxlBg" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Platonik FM
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VyPZzzcxlBg.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VyPZzzcxlBg/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.popmix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ZTgOayHfSPE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ZTgOayHfSPE/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/wgzOnWm7F0Y" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo dram
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wgzOnWm7F0Y.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wgzOnWm7F0Y/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/_V8XXGBh_kw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo kalp❤️
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=_V8XXGBh_kw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=_V8XXGBh_kw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/exENdG8YrP8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo mix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=exENdG8YrP8.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=exENdG8YrP8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/jSBXmELy-Mo" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo türküler 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=jSBXmELy-Mo.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=jSBXmELy-Mo/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/gSBZcx5YbH4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo44 arabesk
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=gSBZcx5YbH4.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=gSBZcx5YbH4/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/nRkIKBysbLU" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo44 pop
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=nRkIKBysbLU.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=nRkIKBysbLU/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/dk_uf4o2atY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo45 lik
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dk_uf4o2atY.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dk_uf4o2atY/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/TKKGDbqq96o" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Radyo7 akustik 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TKKGDbqq96o.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=TKKGDbqq96o/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/34H1XIjnfKM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Rave radio tecno
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=34H1XIjnfKM.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=34H1XIjnfKM/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/2OM7adQl-YQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Relaxing  music
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=2OM7adQl-YQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=2OM7adQl-YQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/-5ajVJ1Yxlg" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Relaxing music 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=-5ajVJ1Yxlg.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=-5ajVJ1Yxlg/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/4Z0anC1zn8o" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.saturdayjazz
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4Z0anC1zn8o.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=4Z0anC1zn8o/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/iVRBE1eXprE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sevda türküleri 
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iVRBE1eXprE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=iVRBE1eXprE/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/IGhvpnWZYo0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Seymen
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=IGhvpnWZYo0.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=IGhvpnWZYo0/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/HLnWXhvDGlk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Seçme türküler
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=HLnWXhvDGlk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=HLnWXhvDGlk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/tWTHF0r2oEw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Slowtürk
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=tWTHF0r2oEw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=tWTHF0r2oEw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/xf9Ejt4OmWQ" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Spinnin Records
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xf9Ejt4OmWQ.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xf9Ejt4OmWQ/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/wKg71lcs5Nw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Stres, kaygı ve depresyonu hafifletmek için rahatlatıcı müzik • Zihin, vücut 🐬 Sinirler için yatıştırıcı müzik
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wKg71lcs5Nw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=wKg71lcs5Nw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/R4RtV-TmOIE" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Summer Vibes
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=R4RtV-TmOIE.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=R4RtV-TmOIE/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/eTTKs9hvemM" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.tomorrowland mix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=eTTKs9hvemM.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=eTTKs9hvemM/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/dmDc3xyPskY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Tomorrowlands remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dmDc3xyPskY.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=dmDc3xyPskY/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/EYEzBgL7Pf0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Top Music
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EYEzBgL7Pf0.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=EYEzBgL7Pf0/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Mg71qKLF9Fk" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Training Music Motivation
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Mg71qKLF9Fk.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Mg71qKLF9Fk/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/VOHJ8ZVYfHw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Türkçe pop remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VOHJ8ZVYfHw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=VOHJ8ZVYfHw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/ez7nTy7-K-k" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Türkçe pop remix 2
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ez7nTy7-K-k.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ez7nTy7-K-k/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Eahp5rOIrJw" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Türkçe pop remix 3
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Eahp5rOIrJw.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Eahp5rOIrJw/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Wj14HAWXL0E" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Türkçe remix
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Wj14HAWXL0E.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Wj14HAWXL0E/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/Bto75pRPQNA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Ulustan türküler
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Bto75pRPQNA.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=Bto75pRPQNA/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/ANYzZozjZb8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Viva slow
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ANYzZozjZb8.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ANYzZozjZb8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/DPXQG8S9Xwc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.vocaltrance radio
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DPXQG8S9Xwc.m3u8
+https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=DPXQG8S9Xwc/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/9cIRS0bYyIY" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 4.Acme fools
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=9cIRS0bYyIY.m3u8
@@ -5877,9 +5961,6 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=W3D3dEpR3bs.m3u8
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/yOuYY4AL_1U" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", FALL INTO SLEEP INSTANTLY • Relaxing Music to Reduce Anxiety and Help You Sleep
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=yOuYY4AL_1U.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", inci taneleri
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=7ansDZhrY6Q/live.m3u8
-
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/0FBiyFpV__g" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", İnternational space station
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=0FBiyFpV__g.m3u8
 
@@ -5888,9 +5969,6 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=uWsf5Kxz6uI.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/H0jL7qrktA8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Matrix Trilogy with Keanu Reeves!
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=H0jL7qrktA8.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Mehmed: Fetihler Sultanı
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=6_AnQrbFvY8/live.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/xRPjKQtRXR8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", NASA live Stream
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=xRPjKQtRXR8.m3u8
@@ -5903,9 +5981,6 @@ https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=-JhoMGoAfFc.m3u8
 
 #EXTINF:-1 tvg-id="https://www.youtube.com/live/eIw1PaIbUqc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Terminal V - Virgin Voyages
 https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=eIw1PaIbUqc.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", YEŞİLÇAM FİLMLERİ 3
-https://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ftfJHeVJbek/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/440px-Alem_fm.jpg" group-title="03.KIL-RADYO", Fm alem
 https://alemfm.radyotvonline.net/alemfmaac
@@ -7017,6 +7092,12 @@ http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" group-title="05.KIL-ÇOCUK", Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", alpha Anime
+https://hls.goodgame.ru/manifest/205115_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="06.E SPOR GAMES", Alpha Games
+http://hls.goodgame.ru:8080/hls/205115.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+
 #EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/5VMNKQY/714701DC3D1C/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png" group-title="06.E SPOR GAMES", Box Gamers
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
 
@@ -7815,10 +7896,6 @@ https://s230.rapidrame.com/hls2/01/00022/mhfu5d01i663_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/anora.webp" group-title="08.FiLM YENi 2025", Anora
 https://vidmody.com/vs/tt28607951
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle.info/i/afis/b/a16400.jpg" group-title="08.FiLM YENi 2025", Another End 
-Farklı Bir Son
-https://pixeldrain.com/api/file/N81ZCkH9
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webteizle1.xyz/i/afis/b/a12144.jpg" group-title="08.FiLM YENi 2025", Arada Bir Yerde
 https://cdn.dzen.ru/vod/converted-video/vod-content/57/45/64/04/43/06/31/01/18/9/f2f3c21f-0244-451e-9847-f4229068c689/kaltura/desc_e08e3aaad7f60666459aa85c9ad48f6a/vZQc7QZyL-hQ/master.m3u8
 
@@ -7987,8 +8064,8 @@ https://vidmody.com/vs/tt17079606
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/dead-teenagers.webp" group-title="08.FiLM YENi 2025", Dead Teenagers
 https://vidmody.com/vs/tt22050990
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/death-of-a-unicorn.webp" group-title="08.FiLM YENi 2025", Death of a Unicorn korsan sürüm 
-https://s230.rapidrame.com/hls2/01/00023/nqznkpyoeaug_,l,n,.urlset/master.m3u8?t=uniFe21ktcl9uPkSor1GkR9ga4Ndx4xUXs_QRpjpkHg&s=1744739542&e=1199998800&f=115090&srv=s390&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00023/nqznkpyoeaug_,l,n,.urlset/master.m3u8?t=uniFe21ktcl9uPkSor1GkR9ga4Ndx4xUXs_QRpjpkHg&s=1744739542&e=1199998800&f=115090&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/death-of-a-unicorn.webp" group-title="08.FiLM YENi 2025", Death of a Unicorn korsan sürüm 
+https://vidmody.com/vs/tt28443655/dub
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-02/dehset-kapani-1.webp" group-title="08.FiLM YENi 2025", Dehşet Kapanı
 https://s402.rapidrame.com/hls2/01/00022/k26rjjmu27tg_,l,n,.urlset/master.m3u8?t=QAdTrs-5X0ohbmvfxnct3Y7AuUGT-9lOSXw3OmcAgAY&s=1738750289&e=1199998800&f=111805&i=0.0&sp=0
@@ -8085,6 +8162,9 @@ https://vs16.photoflick.org/v/Ezra.2023.WEB-DL.1080p.DUAL/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/f-marry-kill.webp" group-title="08.FiLM YENi 2025", F Marry Kill korsan sürüm 
 https://s402.rapidrame.com/hls2/01/00022/dwn2ui0ni9zv_,l,n,.urlset/master.m3u8?t=rBUZWWLaz41EYBLtEGF5Lebipj5Y2EOTwk2kjHVUjoY&s=1740589009&e=1199998800&f=110883&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="https://pixeldrain.com/api/file/N81ZCkH9" tvg-logo="https://webteizle.info/i/afis/b/a16400.jpg" group-title="08.FiLM YENi 2025", Farklı Bir Son
+https://vidmody.com/vs/tt26749648
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/fight-or-flight.webp" group-title="08.FiLM YENi 2025", Fight or Flight
 https://vidmody.com/vs/tt13652286
@@ -8769,6 +8849,9 @@ https://vidmody.com/vs/tt15143042
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2024-12/ygs-yasam-gunu-sayisi.webp" group-title="08.FiLM YENi 2025", YGS Yaşam Günü Sayısı
 https://vidmody.com/vs/tt21045564
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/yurt.webp" group-title="08.FiLM YENi 2025", Yurt
+https://vidmody.com/vs/tt20236042
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv39.sbs/uploads/cache/poster_thumb/uploads/jpg/1962b6b7cbda255caf0b44023302087c.jpg" group-title="08.FiLM YENi 2025", Yüksekten Korkmuyorum
 https://cdn.prectv2.lat/hls/11/cdn65/miDI2X5wwwcHPxGEKHhADtSqtVZSpvUiXnYtHbGt.mp4/index.m3u8
@@ -11745,6 +11828,9 @@ https://panel.rectv1248.xyz/uploads/m3u8/77320adfb0358b3a921a9a23bff71735.mp4/in
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/9154dd6265c3c32465f79b9ce7d4406a.jpg" group-title="09.FiLM SERi-KARIŞIK-VS", Labirent: Ölümcül Kaçış
 https://panel.rectv1248.xyz/uploads/m3u8/197e879a1b8655a11932bc962441d792.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-08/61ec165909d09db948a2e2743facafbb.webp" group-title="09.FiLM SERi-KARIŞIK-VS", Lake Mungo Mungo gölü
+https://vidmody.com/vs/tt0816556
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.arectv3.xyz/uploads/cache/poster_thumb/uploads/jpg/dc534cca3c8e9c3f15699c56b4f96241.jpg" group-title="09.FiLM SERi-KARIŞIK-VS", Last Three Days
 https://cdn.prectv2.lat/hls/9/cdn501/a2fde1aef504db98e854c53e434ba700172269326811.mp4/index.m3u8
