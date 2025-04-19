@@ -1335,6 +1335,9 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="0.KIL-MÜZİK", О!2 (EDTV)
 http://195.26.83.96:7006/play/1/index.m3u8
 
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="0.KIL-MÜZİK", Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1653292_kcjA.jpg" group-title="0.KIL-RELAX", 01.relax RainyRiff
 https://hls.goodgame.ru/hls/210477.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
@@ -4206,11 +4209,8 @@ https://cdn.prectv2.lat/hls/8/cdn801/06575976618664a68b0f0138ebf37c3617365044151
 #EXTINF:-1 tvg-id="https://vkvd453.okcdn.ru/expires/1743964606668/clientType/13/srcIp/188.119.48.39/type/2/mid/9272621737996/id/8090420120076/ms/185.226.53.165/srcAg/CHROME/urls/45.136.22.187/pr/40/ct/28/sig/l2YbcGD8etM/ondemand/hls4_8090420120076.CIzQzJrvjQJIjMCf9gJQKFgNJL8VdrKPz5s.m3u8   https://cdn.dzen.ru/vod/converted-video/vod-content/71/28/52/46/51/80/98/33/86/3/e5693eda-d963-4937-a32a-a92ccaa463a1/kaltura/desc_0638654d180ac40c4d58fdb2b6e36e47/viUXP5SawMT0/master.m3u8" tvg-logo="https://jetdizi.net/upload/poster/676e30116df32.webp" group-title="00.KIL-DiZi-TRENT", Tertemiz 1.04
 https://cdn.prectv2.lat/hls/8/cdn801/44a41fb5670ac9032c101822ba5950c0173712188711.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/The_Last_of_Us_season_2_poster.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
-https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/The_Last_of_Us_season_2_poster.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1 Altyazı 
-https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
+https://videoloji.net/upload/93dc8e8f540049b4aabd78b49c5af39232ee/master.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/76/21/24/82/00/06/55/97/70/3/28630203-f852-47a6-83ce-069f76c4cd5f/kaltura/desc_c4529a2716c6c0c7b1dc888c8a8d42aa/vJrpFXPXubW8/ysign1=b71e2ac12f654f3353dabbccc321482689598d36c8d88926fb42e9ef91434f57,abcID=967,from=zen,pfx,region=10000,sfx,ts=65c8d224/manifest.mpd?clid=495&dzenuid=&slots=&from=zen&partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&vsid=b868d9916d02a10a37f7b81e3e875a9ab9fc3d7115aaxZWPx1126x1706795812&frontend_vh_reqid=1706795812728022-25539242874935652000189-production-app-host-vla-zen-489&puid=1887293244&zen-content-id=vJrpFXPXubW8&video-content-duration=2875&partner-stat-id=0&content_id=vJrpFXPXubW8&from_block=editor&sandboxVersion=0x95e4ae7&audio_mbr=1&mburl=1&t=1706795813029" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
 https://mp4.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122.mp4?token=Lge5OS1WdCCL5VG-RHnlCw&tms=1731189080
@@ -8031,6 +8031,9 @@ https://vidmody.com/mm/tt35304903/main.mp4/index-v1-a1.gif
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/honeymoon-crasher.webp" group-title="08.FiLM YENi 2025", Ana-Oğul Balayı
 https://s230.rapidrame.com/hls2/01/00022/mhfu5d01i663_,l,n,.urlset/master.m3u8?t=qhRrXdesp2Rp26mf7un8SVGauApd_VqYFgCRd-86QXY&s=1739373515&e=1199998800&f=112115&srv=s350&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/annesinin-kuzusu.webp" group-title="08.FiLM YENi 2025", Annesinin Kuzusu
+https://vidmody.com/vs/tt21080876
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/anora.webp" group-title="08.FiLM YENi 2025", Anora
 https://vidmody.com/vs/tt28607951
 
@@ -8075,6 +8078,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/f83424cffc299de890c72984dd2dba8317382523428
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/501220/poster/thumb/back-in-action.jpg" group-title="08.FiLM YENi 2025", Back in Action
 https://vs18.photomag.biz/v/Back.in.Action.2025.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/bad-genius.webp" group-title="08.FiLM YENi 2025", Bad Genius
+https://vidmody.com/vs/tt17717416
 
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/gny83abild49_,l,n,.urlset/master.m3u8?t=fofGtlIhRf_ZEZEdGoXVj6eXc2dQ9UJ02jvfrcLBfTc&s=1743598128&e=1199998800&f=114442&srv=s379&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/banger.webp" group-title="08.FiLM YENi 2025", Banger
 https://vidmody.com/vs/tt35434840
@@ -8355,6 +8361,9 @@ https://vidmody.com/vs/tt15474916
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2024-12/gulumse-2-smile-2.webp" group-title="08.FiLM YENi 2025", Gülümse 2
 https://vidmody.com/vs/tt29268110
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/gunahkarlar.webp" group-title="08.FiLM YENi 2025", Günahkârlar
+https://vidmody.com/vs/tt31193180
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/hagen.webp" group-title="08.FiLM YENi 2025", Hagen
 https://vidmody.com/vs/tt6176336
 
@@ -8610,6 +8619,9 @@ https://vidmody.com/vs/tt28635355
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/8/cdn444/stNJTNAQsFcV3wG7YSKGcEDGrAuhIJC6VQTX9dc0.mp4/index.m3u8       https://s230.rapidrame.com/hls2/01/00022/tts7sa1x76gc_,l,n,.urlset/master.m3u8?t=QwlIQ142EigGQEd03u2L5rE34qmtEeBSPK8NGgTBMiA&s=1740520700&e=1199998800&f=112606&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/old-guy.webp" group-title="08.FiLM YENi 2025", Old Guy
 https://vidmody.com/vs/tt26442053
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/olumcul-dalis.webp" group-title="08.FiLM YENi 2025", Olümcül Dalış
+https://vidmody.com/vs/tt13566172
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-02/olumcul-oyun-1.webp" group-title="08.FiLM YENi 2025", Olümcül Oyun
 https://vidmody.com/vs/tt10092698
@@ -8999,6 +9011,9 @@ https://vidmody.com/vs/tt15143042
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2024-12/ygs-yasam-gunu-sayisi.webp" group-title="08.FiLM YENi 2025", YGS Yaşam Günü Sayısı
 https://vidmody.com/vs/tt21045564
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/yolun-basinda.webp" group-title="08.FiLM YENi 2025", Yolun Başında
+https://vidmody.com/vs/tt26731216
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/yurt.webp" group-title="08.FiLM YENi 2025", Yurt
 https://vidmody.com/vs/tt20236042
