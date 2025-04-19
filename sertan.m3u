@@ -716,29 +716,23 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="0.KIL-MÜZİK", 31.First music channel
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="0.KIL-MÜZİK", 32.Bridge TV
-http://ott.server-iptv.live/452/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="0.KIL-MÜZİK", 32.Bridge (EDTV)
+http://195.26.83.96:7007/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="0.KIL-MÜZİK", 32.Bridge TV Classic
-http://ott.server-iptv.live/462/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png" group-title="0.KIL-MÜZİK", 32.Bridge Classic (EDTV)
+http://178.212.71.253:8000/play/135/index.m3u8
 
-#EXTINF:-1 tvg-id="bridge-hd" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="0.KIL-MÜZİK", 32.Bridge TV Deluxe
-http://ott.server-iptv.live/466/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png" group-title="0.KIL-MÜZİK", 32.Bridge Hits (EDTV)
+http://178.212.71.253:8000/play/134/index.m3u8
 
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="0.KIL-MÜZİK", 32.Bridge TV Hits
-http://ott.server-iptv.live/461/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="0.KIL-MÜZİK", 32.Bridge Rock (EDTV)
+http://178.212.71.253:8000/play/101/index.m3u8
 
-#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://i.imgur.com/f9xdIlN.png" group-title="0.KIL-MÜZİK", 32.Bridge TV Русский хит
-http://ott.server-iptv.live/468/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="0.KIL-MÜZİK", 32.Bridge Русский хит (EDTV)
+http://5.166.64.254:81/udp/225.0.55.217:1234
 
-#EXTINF:-1 tvg-id="bridge-tv-fresh" tvg-logo="https://i.imgur.com/IkUhaiG.png" group-title="0.KIL-MÜZİK", 32.Bridge tv Фрэш
-http://ott.server-iptv.live/464/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://i.imgur.com/a9DXkMN.png" group-title="0.KIL-MÜZİK", 32.Bridge TV Шлягер
-http://ott.server-iptv.live/467/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="russian-musicbox" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="0.KIL-MÜZİK", 32.Bridre Rock
-http://ott.server-iptv.live/457/video.m3u8?token=M4f082ab4c
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png" group-title="0.KIL-MÜZİK", 32.Bridge Шлягер (EDTV)
+http://178.212.71.253:8000/play/142/index.m3u8
 
 #EXTINF:-1 tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="0.KIL-MÜZİK", 32.La-Minor TV
 http://ott.server-iptv.live/469/video.m3u8?token=M4f082ab4c
@@ -761,6 +755,9 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="0.KIL-MÜZİK", 32.Ru tv
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="0.KIL-MÜZİK", 32.RU TV (FWVGA)
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="0.KIL-MÜZİK", 32.RU.TV
 http://ott.server-iptv.live/463/video.m3u8?token=M4f082ab4c
 
@@ -775,6 +772,9 @@ https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tmf-rus.jpg" group-title="0.KIL-MÜZİK", 32.TMF RUS
 https://hls.goodgame.ru/hls/201891.m3u8
+
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png" group-title="0.KIL-MÜZİK", 32.Жара (EDTV)
+http://178.212.71.253:8000/play/141/index.m3u8
 
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="0.KIL-MÜZİK", 32.Жара HD
 http://ott.server-iptv.live/459/video.m3u8?token=M4f082ab4c
@@ -905,11 +905,11 @@ https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/images/dt-logo.png" group-title="0.KIL-MÜZİK", 41.Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="0.KIL-MÜZİK", 41.CLUBBİNG
-https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 41.Clubbing TV
+#EXTINF:-1 tvg-id="https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="0.KIL-MÜZİK", 41.CLUBBİNG
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png" group-title="0.KIL-MÜZİK", 41.Clubbing TV (HD ready)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/images/dt-logo.png" group-title="0.KIL-MÜZİK", 41.dance
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -1331,6 +1331,9 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RMPVvGR.png" group-title="0.KIL-MÜZİK", Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png" group-title="0.KIL-MÜZİK", О!2 (EDTV)
+http://195.26.83.96:7006/play/1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1653292_kcjA.jpg" group-title="0.KIL-RELAX", 01.relax RainyRiff
 https://hls.goodgame.ru/hls/210477.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
