@@ -1602,14 +1602,14 @@ https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 #EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Adanaspor Trabzonspor 0-1
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_32_ads_ts_32h_19nisan_ip&secure=1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe Kayserispor 3-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_32_fb_kays_32h_20nisan_ip&secure=1
+
 #EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray Bodrumspor 2-0
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_32_gs_bod_32h_18nisan_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe Beşiktaş 1-1
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_32_goz_bjk_19nisan_ip&secure=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Konyaspor Göztepe 1-0
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
@@ -4205,6 +4205,9 @@ https://cdn.prectv2.lat/hls/8/cdn801/44a41fb5670ac9032c101822ba5950c017371218871
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
 https://videoloji.net/upload/93dc8e8f540049b4aabd78b49c5af39232ee/master.m3u8
+
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2
+https://videoloji.net/upload/6a78042e5ca33653a3ab2b0014523f7f4fde/master.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/76/21/24/82/00/06/55/97/70/3/28630203-f852-47a6-83ce-069f76c4cd5f/kaltura/desc_c4529a2716c6c0c7b1dc888c8a8d42aa/vJrpFXPXubW8/ysign1=b71e2ac12f654f3353dabbccc321482689598d36c8d88926fb42e9ef91434f57,abcID=967,from=zen,pfx,region=10000,sfx,ts=65c8d224/manifest.mpd?clid=495&dzenuid=&slots=&from=zen&partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&vsid=b868d9916d02a10a37f7b81e3e875a9ab9fc3d7115aaxZWPx1126x1706795812&frontend_vh_reqid=1706795812728022-25539242874935652000189-production-app-host-vla-zen-489&puid=1887293244&zen-content-id=vJrpFXPXubW8&video-content-duration=2875&partner-stat-id=0&content_id=vJrpFXPXubW8&from_block=editor&sandboxVersion=0x95e4ae7&audio_mbr=1&mburl=1&t=1706795813029" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
 https://mp4.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122.mp4?token=Lge5OS1WdCCL5VG-RHnlCw&tms=1731189080
@@ -7212,8 +7215,14 @@ http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="05.KIL-ÇOCUK", Cocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 
+#EXTINF:-1 tvg-id="Disney Jr.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="05.KIL-ÇOCUK", Disney Jr
+http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" group-title="05.KIL-ÇOCUK", Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
+
+#EXTINF:-1 tvg-id="Smart Cocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png" group-title="05.KIL-ÇOCUK", Smart Cocuk
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", alpha Anime
 https://hls.goodgame.ru/manifest/205115_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
