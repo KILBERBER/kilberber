@@ -3480,7 +3480,7 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/500px-FX_Turkey_logo.svg.png" group-title="00.KIL-DiZi-FİLM", (Fx) saran
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/500px-FX_Turkey_logo.svg.png" group-title="00.KIL-DiZi-FİLM", (Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
@@ -4203,13 +4203,13 @@ https://cdn.prectv2.lat/hls/8/cdn801/06575976618664a68b0f0138ebf37c3617365044151
 #EXTINF:-1 tvg-id="https://vkvd453.okcdn.ru/expires/1743964606668/clientType/13/srcIp/188.119.48.39/type/2/mid/9272621737996/id/8090420120076/ms/185.226.53.165/srcAg/CHROME/urls/45.136.22.187/pr/40/ct/28/sig/l2YbcGD8etM/ondemand/hls4_8090420120076.CIzQzJrvjQJIjMCf9gJQKFgNJL8VdrKPz5s.m3u8   https://cdn.dzen.ru/vod/converted-video/vod-content/71/28/52/46/51/80/98/33/86/3/e5693eda-d963-4937-a32a-a92ccaa463a1/kaltura/desc_0638654d180ac40c4d58fdb2b6e36e47/viUXP5SawMT0/master.m3u8" tvg-logo="https://jetdizi.net/upload/poster/676e30116df32.webp" group-title="00.KIL-DiZi-TRENT", Tertemiz 1.04
 https://cdn.prectv2.lat/hls/8/cdn801/44a41fb5670ac9032c101822ba5950c0173712188711.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1 Future Days
 https://videoloji.net/upload/93dc8e8f540049b4aabd78b49c5af39232ee/master.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2
+#EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/11/cdn65/pubC3MLkoW6NeEg2dSkfoKujNNtUmPtZy2zQbAPa.mp4/index.m3u8       https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2 Through the Valley
 https://videoloji.net/upload/6a78042e5ca33653a3ab2b0014523f7f4fde/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2 altyazılı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2 Through the Valley altyazılı 
 https://cdn.prectv2.lat/hls/8/cdn1611/sPNyDpYqZ92hmBqMv4n7U0kw2OUxLSbWFe4BxUsm.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.dzen.ru/vod/converted-video/vod-content/76/21/24/82/00/06/55/97/70/3/28630203-f852-47a6-83ce-069f76c4cd5f/kaltura/desc_c4529a2716c6c0c7b1dc888c8a8d42aa/vJrpFXPXubW8/ysign1=b71e2ac12f654f3353dabbccc321482689598d36c8d88926fb42e9ef91434f57,abcID=967,from=zen,pfx,region=10000,sfx,ts=65c8d224/manifest.mpd?clid=495&dzenuid=&slots=&from=zen&partner-id=NaN&video-category-id=0&imp-id=undefined&gzip=1&vsid=b868d9916d02a10a37f7b81e3e875a9ab9fc3d7115aaxZWPx1126x1706795812&frontend_vh_reqid=1706795812728022-25539242874935652000189-production-app-host-vla-zen-489&puid=1887293244&zen-content-id=vJrpFXPXubW8&video-content-duration=2875&partner-stat-id=0&content_id=vJrpFXPXubW8&from_block=editor&sandboxVersion=0x95e4ae7&audio_mbr=1&mburl=1&t=1706795813029" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
@@ -4296,10 +4296,10 @@ https://217.30.11.74/e/500.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png" group-title="01.KIL-BELGESEL", 2.NatGeo
 https://217.30.11.74/e/501.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="https://tls.tc/M0Vkz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="01.KIL-BELGESEL", 2.National Geographic HD
+#EXTINF:-1 tvg-id="NationalGeographic.tr       https://tls.tc/M0Vkz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="01.KIL-BELGESEL", 2.National Geographic saranlive
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
-#EXTINF:-1 tvg-id="National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild HD
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild saranlive 
 https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
 #EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
@@ -6630,18 +6630,6 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.KABE
-https://ythls.kekikakademi.org/youtube/channel/UCraPI8sg-eiNzUrurxhKeEQ.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.Medine
-https://ythls.kekikakademi.org/youtube/channel/UCFrVnrQF6kTrkDdFZoT9CTQ.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 1.Palandöken - Erzurum 2
-https://listen.powerapp.com.tr/powercam/sway/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 1.Uludağ - Bursa
-https://listen.powerapp.com.tr/powercam/montebaia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.Belçika Grand Place Meydanı Canlı
 https://livecam.brucity.be/LiveBrusselsWebcams/streams/IIbCJLnggPzOAFSL1701416341591.m3u8
 
@@ -7209,8 +7197,8 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", 0.TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="wb-caillou-es" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/03a279bb-c78f-477d-8056-40b730bf1a5c-caillou-1628664175.jpeg" group-title="05.KIL-ÇOCUK", Caillou (Original)
-https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=d0318cfe-8d50-409c-9aef-6ab8332d0bf4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=665
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8d135126-4250-490b-914e-1a255d1e4d70.png" group-title="05.KIL-ÇOCUK", Baby TV (saran)
+https://saran-live.ercdn.net/babytv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="05.KIL-ÇOCUK", Cizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
@@ -7218,8 +7206,8 @@ http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="05.KIL-ÇOCUK", Cocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 
-#EXTINF:-1 tvg-id="Disney Jr.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="05.KIL-ÇOCUK", Disney Jr
-http://localhd.tv:8080/cs22cs.suroot/4amFSTThYHGGS2223/10004
+#EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="05.KIL-ÇOCUK", Disney Jr (saran)
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" group-title="05.KIL-ÇOCUK", Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
@@ -7343,6 +7331,9 @@ https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distr
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goodgame.ru/files/avatars/av_1001106_I3m9.jpg" group-title="06.E SPOR GAMES", Utan
+https://hls.goodgame.ru/hls/136091.m3u8
 
 #EXTINF:-1 tvg-id="https://30a-tv.com/feeds/720p/52.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/30A-TV-Classic-Movies-live-vipotv.png" group-title="07.KIL ORTAYA KARISIK", 30A Classic Movie 
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
@@ -7995,8 +7986,8 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", Zee BollyWorld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/september-5.webp" group-title="08.FiLM YENi 2025", 5 Eylül
-https://s424.rapidrame.com/hls2/01/00022/toao2jtcn5rd_,l,n,.urlset/master.m3u8?t=qcfdn07ZfVaqwfdOoVnZZmSmNZfxEkUzd2rN5yAYkHQ&s=1740588492&e=1199998800&f=111949&i=0.0&sp=0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2024-12/5-eylul.webp" group-title="08.FiLM YENi 2025", 5 Eylül
+https://vidmody.com/vs/tt28082769/_dub
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/farkli-bir-adam.webp" group-title="08.FiLM YENi 2025", A Different Man
 https://vidmody.com/vs/tt21097228
@@ -8358,6 +8349,9 @@ https://vidmody.com/vs/tt22863586
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/grafted.webp" group-title="08.FiLM YENi 2025", Grafted
 https://s413.rapidrame.com/hls2/01/00022/p306ptfss8or_,l,n,.urlset/master.m3u8?t=k-nuev0YOVVgl5nyrJNHbcZdCx9mbmPNc20l6yAh6SE&s=1739914441&e=1199998800&f=112132&srv=s424&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-04/grand-tour.webp" group-title="08.FiLM YENi 2025", Grand Tour
+https://vidmody.com/vs/tt27180099
+
 #EXTINF:-1 tvg-id="https://s231.rapidrame.com/hls2/01/00022/cllte21gvz4a_,l,n,.urlset/master.m3u8?t=IDb9yhMGCedEMA0rBp5ejbRQKy8RhKz-NNKX3gjSGFA&s=1744465614&e=1199998800&f=114957&srv=s390&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gunslingers.webp" group-title="08.FiLM YENi 2025", Gunslingers
 https://vidmody.com/vs/tt24850708
 
@@ -8545,6 +8539,9 @@ https://s230.rapidrame.com/hls2/01/00022/07zvgcfmmaf2_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="https://hdfilmsitesi.de/" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/lick.webp" group-title="08.FiLM YENi 2025", Lick
 https://vidmody.com/mm/tt32810511_translate/main/index-v1-a1.gif
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-04/locked.webp" group-title="08.FiLM YENi 2025", Locked
+https://vidmody.com/vs/tt26671996
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/love-forever.webp" group-title="08.FiLM YENi 2025", Love Forever
 https://s230.rapidrame.com/hls2/01/00022/4qc6w8j6gisa_,l,n,.urlset/master.m3u8?t=I8jzemrggqIWhSITRJs21bKtuIPsZdyM8x5ArjRx-AE&s=1739551803&e=1199998800&f=112172&srv=s394&i=0.0&sp=0
 
@@ -8675,6 +8672,9 @@ https://vidmody.com/vs/tt6208148
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/panda-plan.webp" group-title="08.FiLM YENi 2025", Panda Plan
 https://s230.rapidrame.com/hls2/01/00022/9pj72wij4oqn_,l,n,.urlset/master.m3u8?t=YQIl_XquwffyjyNk97sd13kI0fzWEYXk9WqwUNrFitE&s=1740497809&e=1199998800&f=112595&srv=s390&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-04/pangolin-kulu-nun-yolculugu.webp" group-title="08.FiLM YENi 2025", Pangolin: Kulunun Yolculuğu
+https://vidmody.com/vs/tt27931052
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/para-konusur.webp" group-title="08.FiLM YENi 2025", Para Konuşur
 https://vidmody.com/vs/tt28620337
 
@@ -8743,6 +8743,9 @@ https://vidmody.com/vs/tt21990214
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/sercenin-gozyasi.webp" group-title="08.FiLM YENi 2025", Serçenin Gözyaşı
 https://vidmody.com/vs/tt23049286
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-04/sessiz-kabus-sound-of-silence.webp" group-title="08.FiLM YENi 2025", Sessiz Kabus
+https://vidmody.com/vs/tt19363554
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/sessiz-kabus.webp" group-title="08.FiLM YENi 2025", Sessiz Kabus
 https://vidmody.com/vs/tt0118744
@@ -8993,6 +8996,9 @@ https://vidmody.com/vs/tt28249919/alt
 
 #EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00022/r7fchwlqvvrl_,l,n,.urlset/master.m3u8?t=rmJ4TeMU7KETgXG8H3zpA1RqhFAMnLNexkb8XGrxol0&s=1742558942&e=1199998800&f=113736&srv=s350&i=0.0&sp=0" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/vindicta.webp" group-title="08.FiLM YENi 2025", Vindicta
 https://vidmody.com/vs/tt28682039
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-04/when-the-screaming-starts.webp" group-title="08.FiLM YENi 2025", When the Screaming Starts
+https://vidmody.com/vs/tt11299422
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/wicked-part-1-izle.webp" group-title="08.FiLM YENi 2025", Wicked
 https://vidmody.com/vs/tt1262426
