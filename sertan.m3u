@@ -1338,6 +1338,9 @@ http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="0.KIL-MÜZİK", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-RELAX", 01.Home 4k
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/files/avatars/av_1653292_kcjA.jpg" group-title="0.KIL-RELAX", 01.relax RainyRiff
 https://hls.goodgame.ru/hls/210477.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
 
@@ -1618,7 +1621,7 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="https://steep-silence-b428.simitcigazozcuknk.workers.dev/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1     Maç Zamanı b
-https://hlsfreelinks.volevolevole.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+https://hlsfreelinks.f390f0s0d0l.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Goley90.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Goley90 Spikersiz
 https://217.30.11.74/e/6580.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1641,14 +1644,11 @@ https://due.8bc6d5e7534b6dbc.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 #EXTINF:-1 tvg-id="TR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk Maç Zamanı c
 https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android
 
-#EXTINF:-1 tvg-id="https://golvar4593.sbs/ https://golvar2014.sbs/   https://playerpro.live/proxy.php?url=" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Streamradar
+#EXTINF:-1 tvg-id="https://golvar4593.sbs/ https://golvar2014.sbs/  https://www.mackeyfi2567.sbs/ " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Streamradar
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar4593.sbs/&origin=https://golvar4679.sbs/
 
 #EXTINF:-1 tvg-id="https://kermantjv.top/cdn/bein_sports_1_hd/main.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
-https://fsvds.site/cdn/bein_sports_1_hd/main.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a c
-https://wfasa.site/cdn/bein_sports_1_hd/main.m3u8
+https://kjssa.cfd/cdn/main_v2.php?source=bein_sports_1_hd
 
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0son.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 c
 https://mobil.92test.cfd/yayint24.m3u8
