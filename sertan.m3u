@@ -1651,7 +1651,10 @@ https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 https://playerpro.live/proxy.php?url=https://a.strmrdr-cf-worker-e017f75fee.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8&referer=https://golvar4593.sbs/&origin=https://golvar4679.sbs/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a a
-https://kjssa.cfd/cdn/bein_sports_1_hd/main.m3u8
+https://fftty.cfd/cdn/main.php?source=bein_sports_1_hd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a b
+https://fftty.cfd/cdn/main.php?source=bein_1_hd
 
 #EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0son.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 c
 https://mobil.92test.cfd/yayint24.m3u8
