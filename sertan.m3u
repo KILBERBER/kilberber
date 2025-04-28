@@ -1620,11 +1620,8 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://api.codetabs.com/v1/proxy/?quest=         https://sporligtv600.live/restrm/cek.m3u8?u=" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1     Maç Zamanı
-https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-id="https://steep-silence-b428.simitcigazozcuknk.workers.dev/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1     Maç Zamanı b
-https://young-scene-fba5.freelinks3s.workers.dev/https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="http-user-agent=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1     Maç Zamanı b
+https://fener2.demoscript.buzz/hls/bein-sports-1.m3u8?|user-agent=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Goley90.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Goley90 Spikersiz
 https://217.30.11.74/e/6580.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1634,6 +1631,9 @@ https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinkral.m3u8|referer=ht
 
 #EXTINF:-1 tvg-id="https://wvlightningfootball.com/channel.html?id=yayinstar  https://inat-tv.org/. https://inatvhdizle.baby/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   KralBet a
 https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinstar.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="https://wvlightningfootball.com/channel.html?id=yayinstar  https://inat-tv.org/. https://inatvhdizle.baby/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/kral.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   KralBet b
+https://t6co.adysca78chshjajajhdhjs11.workers.dev/list/yayinpeakstream.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk
 https://alpha.cf-worker-5867c61e49ce10.workers.dev/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1646.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1656,6 +1656,12 @@ https://mobil.92test.cfd/yayint24.m3u8
 #EXTINF:-1 tvg-id="https://supertotobettv151.com/      https://29mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv150.com/ https://26mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv150.com/      " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporbett.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
 https://29mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.kurt.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
+http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="https://grtv35.live/ https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f Gurbet
 https://uuu.mevzuhls34.cfd/yayinzirve.m3u8|referer=https://grtv35.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -1665,10 +1671,10 @@ https://zekonew.newkso.ru/zeko/premium62/mono.m3u8|user-agent=Mozilla/5.0 (iPhon
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macbox.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 g a
 https://zekonew.newkso.ru/zeko/premium62/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://webxzplay.cfd
 
-#EXTINF:-1 tvg-id="https://r14.cf1-b09.workers.dev/list/yayinstar.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 h
+#EXTINF:-1 tvg-id="https://r14.cf2-af9.workers.dev/static/bs1.m3u8?|user-agent=okhttp/4.12.0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 h
 https://r14.cf2-af9.workers.dev/static/bs1.m3u8?|user-agent=Dart&Mozilla/5.0
 
-#EXTINF:-1 tvg-id="https://green-wildflower-90d6.1ff056997784445980.workers.dev/static/bs1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 h a
+#EXTINF:-1 tvg-id="https://r14.cf2-af9.workers.dev/static/bs11.m3u8?|user-agent=okhttp/4.12.0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 h a
 https://r14.cf2-af9.workers.dev/static/bs11.m3u8?|user-agent=Dart&Mozilla/5.0
 
 #EXTINF:-1 tvg-id="https://goatbahis.tv/   https://streambabasi.wooxfackage7.workers.dev/701.m3u8. https://tvbetjanti85.com/701.m3u8   https://goatbahis.tv/view/theme/safir/img/GoatTV.png" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 j
