@@ -6369,6 +6369,18 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://canlitvulusal.xyz/live/mekke/index.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.KABE TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.KABE TV 1
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#EXTINF:-1 tvg-id="https://canlitvulusal.xyz/live/medine/index.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.MEDiNE TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.MEDiNE TV 2
+https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.Belçika Grand Place Meydanı Canlı
 https://livecam.brucity.be/LiveBrusselsWebcams/streams/IIbCJLnggPzOAFSL1701416341591.m3u8
 
@@ -8242,6 +8254,9 @@ https://vs15.photostack.net/v/Joker.Folie.a.Deux.2024.WEB-DL.1080p.DUAL.H.264-HD
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2024-12/juror-no-2.webp" group-title="08.FiLM YENi 2025", Juror No 2 
 https://vidmody.com/vs/tt27403986
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.prectv46.lol/uploads/cache/poster_thumb/uploads/jpg/e37d4d4f2396b4ff54ddc37905f4bcb3.jpg" group-title="08.FiLM YENi 2025", Kalender Pide
+https://cdn.prectv2.lat/hls/8/cdn1611/bKWwkSdoNOugYUqlyuAqN5OqKtzpVtFk4muGnNZO.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/kaos-manson-vakasi.webp" group-title="08.FiLM YENi 2025", Kaos: Manson Vakası 
 https://vidmody.com/vs/tt35628886
 
@@ -8774,6 +8789,9 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/76/93/08/31/47/43/62/25/45/3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/the-woman-in-the-yard.webp" group-title="08.FiLM YENi 2025", The Woman in the Yard
 https://vidmody.com/vs/tt31314296
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/thunderbolts.webp" group-title="08.FiLM YENi 2025", Thunderbolts korsan sürüm 
+https://s230.rapidrame.com/hls2/01/00023/i6l7llkz0ags_,l,n,.urlset/master.m3u8?t=j8b0_p699yybIAMmmEKrvxtWh2Hjm14cPvdRTEEhDuQ&s=1746257413&e=1199998800&f=115973&srv=s390&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/topal-ukran-in-maceralari.webp" group-title="08.FiLM YENi 2025", Topal Şükranın Maceraları
 https://vidmody.com/vs/tt11080304
