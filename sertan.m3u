@@ -1827,8 +1827,8 @@ https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/64
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 1e
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="S SPORT.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 1f
-https://v.arectv13.sbs/static/ss1.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/ss1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 1f
+https://tv1.arectv30.sbs/live/ss1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.s-sports-2.webp" group-title="0.KIL-SP0R  MAÇ", Web.S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
@@ -1845,17 +1845,17 @@ https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukssport2/playlist.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1.mackeyfi.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 2c
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="S.Sport2.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 2f
-https://v.arectv13.sbs/static/ss2.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/ss2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport 2f
+https://tv1.arectv30.sbs/live/ss2.m3u8
 
 #EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/pl2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport+live1
-https://v.arectv11.sbs/static/pl2.m3u8
+https://tv1.arectv30.sbs/live/pl1.m3u8
 
 #EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/pl3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport+live2
-https://v.arectv11.sbs/static/pl3.m3u8
+https://tv1.arectv30.sbs/live/pl2.m3u8
 
 #EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/pl1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.S Sport+live3
-https://v.arectv11.sbs/static/pl1.m3u8
+https://tv1.arectv30.sbs/live/pl3.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/macizle.png" group-title="0.KIL-SP0R  MAÇ", Web.Spor Smart 1
 https://217.30.11.74/e/155.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1881,8 +1881,8 @@ https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor a
 https://b0.4928d54d950ee70q42.click/yayinex7.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor b
-https://v.arectv7.sbs/static/tabi.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor b
+https://tv1.arectv30.sbs/live/tabi.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor6/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1893,8 +1893,8 @@ https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor1 a
 https://b0.4928d54d950ee70q42.click/yayinex1.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor1 b
-https://v.arectv7.sbs/static/tabi1.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor1 b
+https://tv1.arectv30.sbs/live/tabi1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor1 c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor1/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1905,8 +1905,8 @@ https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor2 a
 https://b0.4928d54d950ee70q42.click/yayinex2.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor2 b
-https://v.arectv7.sbs/static/tabi2.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor2 b
+https://tv1.arectv30.sbs/live/tabi2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor2 c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor2/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1917,8 +1917,8 @@ https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor3 a
 https://b0.4928d54d950ee70q42.click/yayinex3.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor3 b
-https://v.arectv7.sbs/static/tabi3.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor3 b
+https://tv1.arectv30.sbs/live/tabi3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor3 c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor3/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1929,8 +1929,8 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor4 a
 https://b0.4928d54d950ee70q42.click/yayinex4.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor4 b
-https://v.arectv7.sbs/static/tabi4.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi4.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor4 b
+https://tv1.arectv30.sbs/live/tabi4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor4 c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor4/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1941,8 +1941,8 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor5 a
 https://b0.4928d54d950ee70q42.click/yayinex5.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor5 b
-https://v.arectv7.sbs/static/tabi5.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi5.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor5 b
+https://tv1.arectv30.sbs/live/tabi5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor5 c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktabiispor5/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1953,8 +1953,8 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor6 a
 https://b0.4928d54d950ee70q42.click/yayinex6.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor6 b
-https://v.arectv7.sbs/static/tabi6.m3u8
+#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi6.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tabii spor6 b
+https://tv1.arectv30.sbs/live/tabi6.m3u8
 
 #EXTINF:-1 tvg-id="tivibuspor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu
 https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
@@ -1962,11 +1962,17 @@ https://canlitvulusal.xyz/live/tivibuspor/index.m3u8
 #EXTINF:-1 tvg-id="Tivibuspor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 1
+https://tv1.arectv30.sbs/live/t1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 1a
 https://b0.4928d54d950ee70q42.click/yayint1.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 1c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor1/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 2a
+https://tv1.arectv30.sbs/live/t2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 2a
 https://b0.4928d54d950ee70q42.click/yayint2.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1974,11 +1980,17 @@ https://b0.4928d54d950ee70q42.click/yayint2.m3u8|referer=https://trgoals1313.xyz
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 2c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor2/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 3a
+https://tv1.arectv30.sbs/live/t3.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.tivibu 3a
 https://b0.4928d54d950ee70q42.click/yayint3.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 3c
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcuktivibuspor3/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4a
+https://tv1.arectv30.sbs/live/t4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.Tivibu 4a
 https://b0.4928d54d950ee70q42.click/yayint4.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -3535,61 +3547,94 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 http://media.finest.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="00.KIL-DiZi-FİLM", (Epic Drama) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (Film Screen) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (Fx) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/500px-FX_Turkey_logo.svg.png" group-title="00.KIL-DiZi-FİLM", (Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/56178ce8-fc2e-4f57-8f99-353ead25dfec.png" group-title="00.KIL-DiZi-FİLM", (Sinema 1001) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/33af7795-2bcd-48b3-a9b6-70f31c2df7b5.png" group-title="00.KIL-DiZi-FİLM", (Sinema Aile ) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f6e38e31-87b3-4285-ac48-a004df3c950a.png" group-title="00.KIL-DiZi-FİLM", (Sinema aksiyon) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7b944c6a-5a02-41bf-a0a8-18c711ca6a09.png" group-title="00.KIL-DiZi-FİLM", (Sinema Komedi ) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/17c37a88-9360-4c5a-9517-28a6394bd12a.png" group-title="00.KIL-DiZi-FİLM", (Sinema tv) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9970d971-fa76-4102-9ac6-3372665e0648.png" group-title="00.KIL-DiZi-FİLM", (Sinema Yerli) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
-https://tv.arectv3.xyz/live/box3.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
+https://tv1.arectv30.sbs/live/box3.m3u8
 
-#EXTINF:-1 tvg-id="TR: BEIN MOVIES FAMILY FHD" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein Box Office 3
-https://tv.arectv3.xyz/live/bsfamily.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsfamily.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein Box Office 3
+https://tv1.arectv30.sbs/live/bsfamily.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies premier 1
-https://tv.arectv3.xyz/live/bspremier1.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bspremier1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies premier 1
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies stars
-https://tv.arectv3.xyz/live/bsstars.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsstars.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies stars
+https://tv1.arectv30.sbs/live/bsstars.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies türk
-https://tv.arectv3.xyz/live/bsturk.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsturk.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies türk
+https://tv1.arectv30.sbs/live/bsturk.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein series drama
-https://tv.arectv3.xyz/live/box2.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein series drama
+https://tv1.arectv30.sbs/live/box2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein series hd 3
-https://tv.arectv3.xyz/live/box1.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein series hd 3
+https://tv1.arectv30.sbs/live/box1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.FX
-https://tv.arectv3.xyz/live/fx.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.movie smart türk
+https://tv1.arectv30.sbs/live/mvturk.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.SiNEMA TV AİLE 2
-https://tv.arectv3.xyz/live/sinemaaile2.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema 1
+https://tv1.arectv30.sbs/live/sinema.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema 2
+https://tv1.arectv30.sbs/live/sinema2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Aile 1
+https://tv1.arectv30.sbs/live/sinemaaile.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Aksiyon
+https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Aksiyon 2
+https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Komedi 1
+https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Komedi 2
+https://tv1.arectv30.sbs/live/sinemakomedi2.m3u8
+
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/sinemaaile2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.SiNEMA TV AİLE 2
+https://tv1.arectv30.sbs/live/sinemaaile2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Yerli 1
+https://tv1.arectv30.sbs/live/sinemayerli.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema Yerli 2
+https://tv1.arectv30.sbs/live/sinemayerli2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema1001
+https://tv1.arectv30.sbs/live/sinema1001.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema1002
+https://tv1.arectv30.sbs/live/sinema1002.m3u8
 
 #EXTINF:-1 tvg-id="https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/10/Mega-TV-az-izle-vipotv-azerbaycan.png" group-title="00.KIL-DiZi-FİLM", 00.MEGA SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
@@ -4374,44 +4419,74 @@ https://cdn.prectv2.lat/hls/8/cdn801/d16d46b155142a6cd84dc67ea3e25a0b17371219571
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.20
 https://cdn.dzen.ru/vod/converted-video/vod-content/22/84/65/03/05/34/37/61/17/5/b5ba53b7-add6-4bba-8d79-441edb98696e/kaltura/desc_44838d7f3deaec532ea837b39cbe3d55/v95E4PD-fSEk/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.01
+https://cdn.prectv2.lat/hls/8/cdn1611/3ABCdFFLAsllXWxKk3DyFnjw07T6T6L1aq7dk5sl.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.02
+https://cdn.prectv2.lat/hls/8/cdn1611/nHLB2wF1kzDNJUbmsyieNSiOLX20ZsT8JctcBeEx.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.03
+https://cdn.prectv2.lat/hls/8/cdn1611/VYcP83smX3QQq8MzY6OTGoC36NJQsP1KucmWj6Zn.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.04
+https://cdn.prectv2.lat/hls/8/cdn1611/Fxw1qlIXNwAzbgEZ7bHof6az9EhkjmuoChtnGxDD.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.05
+https://cdn.prectv2.lat/hls/8/cdn1611/8PCun8CgcplQGVO7vwrYe0tA7CTvtIthEGvhF1dZ.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.06
+https://cdn.prectv2.lat/hls/8/cdn1611/8QQz0qpusrerplLJMVjKZKqrbdM4XkqrRYM2eAu6.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.07
+https://cdn.prectv2.lat/hls/8/cdn1611/737tLKT6A802LcyeoSRs8IORfwa5SvQS22w5D6PU.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.08
+https://cdn.prectv2.lat/hls/8/cdn1611/BHi794n0hTy7wehxXMbgfzn4dFjQESC0cobPaE9W.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.09
+https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
+https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4d28b591-09a0-4563-8f69-889615c905f1.png" group-title="01.KIL-BELGESEL", 0.Cgtn Documentary (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9974f79f-c26e-45a2-8580-5d89d5e3fe3e.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/discoverychannel_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3a0ce37f-20db-4160-ac1d-4b881ba0d829.png" group-title="01.KIL-BELGESEL", 0.DMAX (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/dmax_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d7ef8c46-2ff8-4d6a-b651-f3bdbb49a6d5.png" group-title="01.KIL-BELGESEL", 0.Docu Screen (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/docuscreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6c592a8e-f3af-451b-93d5-e5784b96c1a3.png" group-title="01.KIL-BELGESEL", 0.iD (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/id_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/cd12f443-f492-48bb-b915-7ff44aefec74.png" group-title="01.KIL-BELGESEL", 0.Kitchen TV (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/kitchentv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f7ffea0d-c5c1-4ab1-b423-96cfa9f330be.png" group-title="01.KIL-BELGESEL", 0.Love Nature (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/lovenaturehd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/351331f8-aff3-4d10-9d66-fb1321541ce5.png" group-title="01.KIL-BELGESEL", 0.National Geographic (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f91b408-05f5-4085-bc0b-6fc13b5b5187.png" group-title="01.KIL-BELGESEL", 0.National Geographic Wild (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeowild_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/natgeowild_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="01.KIL-BELGESEL", 0.Tarih Tv (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub/tarihtv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0c828463-05ea-447c-89ab-7d8b24e398a8.png" group-title="01.KIL-BELGESEL", 0.TLC (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/tlc_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/446635c3-10ee-4497-8e94-e5d9ac52a22b.png" group-title="01.KIL-BELGESEL", 0.Viasat Explore (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasatexplore_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7cf6c3af-5941-4ab6-b394-9ddcb8e61356.png" group-title="01.KIL-BELGESEL", 0.Viasat History (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgMTA6Mzk6MTIgUE0maGFzaF92YWx1ZT1OYlJWenlIZXEvK0FtU3JxUDhOaDZnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC4yMDY=
+https://ottcdn.kablowebtv.net/live_turksat_sub3/viasathistory_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjUgODo0MzoyNiBQTSZoYXNoX3ZhbHVlPTVmVE95aCtZMWh5Q1hUMnB2M3FVTWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjIwNg==
 
 #EXTINF:-1 tvg-id="https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
@@ -4443,26 +4518,20 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=173
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild saranlive 
 https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
-#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
-https://tv.arectv3.xyz/live/bbc.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bbc.m3u8 https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
+https://tv1.arectv30.sbs/live/bbc.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DISCOVERY CHANNEL
-https://tv.arectv3.xyz/live/discovery.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.docubox
+https://tv1.arectv30.sbs/live/docubox.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.HISTORY CHANNEL
-https://tv.arectv3.xyz/live/history.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/discovery.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DISCOVERY CHANNEL
+https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:-1 tvg-id="https://tv.arectv13.sbs/live/natgeowild.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.NATIONAL GEO
-https://tv.arectv3.xyz/live/natgeo.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/history.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.HISTORY CHANNEL
+https://tv1.arectv30.sbs/live/history.m3u8
 
-#EXTINF:-1 tvg-id="https://tv.prectv5.sbs/live/     https://tv.arectv13.sbs/live/natgeowild.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.NATIONAL GEO WILD
-https://tv.arectv3.xyz/live/natgeowild.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.TARİH TV
-https://tv.arectv3.xyz/live/tarihtv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.ViASAT HiSTORY
-https://tv.arectv3.xyz/live/viasathistory.m3u8
+#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/tarihtv.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.TARİH TV
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="01.KIL-BELGESEL", 4.TGRT BELGESEL
 https://canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
