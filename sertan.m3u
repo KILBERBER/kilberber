@@ -1643,7 +1643,7 @@ https://due.8bc6d5e7534b6dbc.click/itis/8c1437d28413db5112720e3ce0579154/playlis
 #EXTINF:-1 tvg-id="TR" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk Maç Zamanı c
 https://due.b7021e57df9f3d9b.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android
 
-#EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.beluga.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Spikersiz Seyirci Ses
+#EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0pelikan.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Spikersiz Seyirci Ses
 https://217.30.11.74/e/6580.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a
@@ -2059,6 +2059,63 @@ https://jmp2.uk/sam-DEBA3300019EB.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA 3
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="0.KIL-SP0R  MAÇ", z.MLB Network
+https://7pal.short.gy/mlbnw
+
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="0.KIL-SP0R  MAÇ", z.NBA TV
+https://7pal.short.gy/nbatvus
+
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="0.KIL-SP0R  MAÇ", z.NH Network
+https://7pal.short.gy/nhlnw
+
+#EXTINF:-1 tvg-id="DEBD260000692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20231213T033336SQUARE.png_20231213033337.png" group-title="0.KIL-SP0R  MAÇ", Z.Scooore
+https://jmp2.uk/sam-DEBD260000692.m3u8
+
+#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1500468425/1514.png" group-title="0.KIL-SP0R  MAÇ", z.SKY F1
+https://kirca.com/sportsmac.php?ID=bein/379&=.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1507600205/1554.png" group-title="0.KIL-SP0R  MAÇ", z.sky-sport-premier-league-de
+https://kirca.com/sportsmac.php?ID=bein/354&=.m3u8
+
+#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1507600158/1086.png" group-title="0.KIL-SP0R  MAÇ", z.sky-sport-top-event-de
+https://kirca.com/sportsmac.php?ID=bein/243&=.m3u8
+
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports+FHD
+https://7pal.short.gy/ssportplus
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+
+#EXTINF:-1 tvg-id="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240611T061010SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.Sportdigital Free
+https://jmp2.uk/sam-DEAJ0500429A.m3u8
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="0.KIL-SP0R  MAÇ", z.WWE Network
+https://7pal.short.gy/wwenw
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
@@ -4355,8 +4412,8 @@ https://videoloji.net/upload/1805deab1261025aafd14a5d7b5fa2badf8a/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.3 The Path altyazılı
 https://cdn.prectv2.lat/hls/8/cdn1611/AdzjHwkHd1w6RwtuDUwefqqSWSwcm2O69BRImgVt.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="https://videoloji.net/upload/60ab1e91c93cad1df40d2e3e1014832b5f4f/master.m3u8" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.4
-https://cdn.prectv2.lat/hls/8/cdn1611/gMjgk7JNhx9Jh3hY1TcsSFSIh5mEDRwDr5ocsIV9.mp4/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.4
+https://cdn.prectv2.lat/hls/8/cdn1611/pa2XTXrmvRG7ne9z8HRvAwEaGFX9Q4I3foLhz72i.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jetdizi.net/upload/poster/68033bfdcf462.jpg" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.4 altyazılı
 https://cdn.prectv2.lat/hls/8/cdn1611/5DUeRYbW0DEaDy1UdbhJJ7AvbxxRlJFwtoOAsiOM.mp4/index.m3u8
@@ -15232,4 +15289,58 @@ https://archive.org/download/diyanetoktakiplihatim/C30_04.mp4
 
 #EXTINF:-1 tvg-id="TR: KURAN MEALI DINLE" tvg-logo="https://kuranportali.com/wp-content/uploads/2015/08/quran1.png" group-title="KURAN HATMİ", C30_05
 https://archive.org/download/diyanetoktakiplihatim/C30_05.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/3c0a81/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/09/1683636826467.png" group-title="VAV TV", Aile TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/3a4876/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530744651.png" group-title="VAV TV", Asr-ı Saadet TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.tmgrup.com.tr/rt/2023/05/08/1683529892397.png" group-title="VAV TV", AŞR-I ŞERİF
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/71ce44/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/06/02/1685720299762.png" group-title="VAV TV", Dizi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/2644e1/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683552981723.png" group-title="VAV TV", ilahi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/11593c/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553233419.png" group-title="VAV TV", ilmihal TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/582d28/64/64/0/0/542/542?u=https://i.tmgrup.com.tr/rt/2023/06/02/1685720061393.png" group-title="VAV TV", islam TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/d08ed2/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683530621770.png" group-title="VAV TV", Kuran-ı Kerim Dersleri
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/7da019/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/09/1683636877081.png" group-title="VAV TV", Kültür & Sanat TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/a7a1f7/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683547592840.png" group-title="VAV TV", Mukabele TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/4cd890/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683542038615.png" group-title="VAV TV", Sağlıklı Günler TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/1a07ef/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/09/1683637108558.png" group-title="VAV TV", Tarih TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/1987b4/64/64/0/0/336/336?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683548143527.png" group-title="VAV TV", Vaaz TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8" tvg-logo="https://ia.tmgrup.com.tr/babfd5/64/64/0/0/512/512?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683550851741.png" group-title="VAV TV", Vav TV
+https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8?st=BQjbGS5gTAY25PiaE9bTFA&e=1746698973
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/e7cdaa/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553211327.png" group-title="VAV TV", Çizgi Film TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/9c3a65/64/64/0/0/282/282?u=https://i.tmgrup.com.tr/rt/2023/05/08/1683553179916.png" group-title="VAV TV", Çocuklara Özel TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/e54b24/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/rt/2023/09/11/1694414087181.png" group-title="VAV TV", 1Mescid-i Nebevi TV
+https://trkvz-live-clean.ercdn.net/sunnahtv/sunnahtv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia.tmgrup.com.tr/5a64fe/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/rt/2023/09/11/1694414035109.png" group-title="VAV TV", 2Mescid-i Haram TV
+https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
 
