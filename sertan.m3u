@@ -368,6 +368,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d433
 #EXTINF:-1 tvg-id="mtv-europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/400px-MTV_2021_%28brand_version%29.svg.png" group-title="0.KIL-MÜZİK", 21.MTV Europe
 http://fl5.moveonjoy.com/MTV/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
 #EXTINF:-1 tvg-id="MTVBlockParty.us" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="0.KIL-MÜZİK", 21.MTV Flow Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -376,6 +379,9 @@ http://190.102.246.93:9005/play/a01p
 
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-logo="https://i.imgur.com/3hTfdWC.png" group-title="0.KIL-MÜZİK", 21.MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 21.MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RKHebDz.png" group-title="0.KIL-MÜZİK", 21.MTV Spankin New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
@@ -1769,8 +1775,14 @@ https://b0.4928d54d950ee70q42.click/yayinbm2.m3u8|referer=https://trgoals1313.xy
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web.beinmax2e
 https://alpha.cf-worker-2fa2f308d0ef6e.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8|referer=https://www.selcuksportshd1744.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/250px-Eurosport_Logo_%282011-2015%29.svg.png" group-title="0.KIL-SP0R  MAÇ", Web.EURO SPORT 1
+http://raalbatros.serv00.net/Freeshot.php?ID=eurosport-1-turkey/790.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.EURO SPORT 1a
 https://b0.4928d54d950ee70q42.click/yayineu1.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="0.KIL-SP0R  MAÇ", Web.EURO SPORT 2
+http://raalbatros.serv00.net/Freeshot.php?ID=eurosport-2-turkey/791.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", Web.EURO SPORT 2b
 https://b0.4928d54d950ee70q42.click/yayineu2.m3u8|referer=https://trgoals1313.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -2117,6 +2129,147 @@ https://jmp2.uk/sam-DEAJ0500429A.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="0.KIL-SP0R  MAÇ", z.WWE Network
 https://7pal.short.gy/wwenw
 
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="0.KIL-SP0R  MAÇ", zz.BeIN SPORTS USA
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="0.KIL-SP0R  MAÇ", zz.DAZN 1 Bar DE
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="0.KIL-SP0R  MAÇ", zz.DAZN 2 Bar De
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-deportes.png" group-title="0.KIL-SP0R  MAÇ", zz.FOX Deportes USA
+https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-soccer-plus.png" group-title="0.KIL-SP0R  MAÇ", zz.FOX Soccer Plus
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.Fox Sports 1 USA
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.Fox Sports 2 USA
+https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="0.KIL-SP0R  MAÇ", zz.GOLF Channel USA
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.LaLigaTV UK
+https://windnew.newkso.ru/wind/premium276/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mlb-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.MLB Network USA
+https://windnew.newkso.ru/wind/premium399/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NBA TV USA
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nfl-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NFL Network
+https://zekonew.newkso.ru/zeko/premium405/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nhl-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NHL Network USA
+https://dokko1new.newkso.ru/dokko1/premium663/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-2.png" group-title="0.KIL-SP0R  MAÇ", zz.Premier Sports Ireland 2
+https://zekonew.newkso.ru/zeko/premium799/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 1 NZ
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-2-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 2 NZ
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-3-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 3 NZ
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-4-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 4 NZ
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-5-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 5 NZ
+https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-6-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 6 NZ
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-7-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 7 NZ
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-8-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 8 NZ
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-9-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 9 NZ
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport Select NZ
+https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Action UK
+https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Arena UK
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Cricket
+https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports F1 UK
+https://windnew.newkso.ru/wind/premium60/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-football-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Football UK
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Golf UK
+https://windnew.newkso.ru/wind/premium70/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Main Event
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports MIX UK
+https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports News UK
+https://windnew.newkso.ru/wind/premium366/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Premier League
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Racing UK
+https://windnew.newkso.ru/wind/premium554/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Tennis UK
+https://windnew.newkso.ru/wind/premium46/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-de.png" group-title="0.KIL-SP0R  MAÇ", zz.Sport1 Germany
+https://ddy6new.newkso.ru/ddy6/premium641/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SPORT1+.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-plus-de.png" group-title="0.KIL-SP0R  MAÇ", zz.Sport1+ Germany
+https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/stream-771.png" group-title="0.KIL-SP0R  MAÇ", zz.Stream 771
+https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 1 UK
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 2 UK
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 3 UK
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 4 UK
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Sports 1 UK
+https://windnew.newkso.ru/wind/premium451/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Sports 2 UK
+https://windnew.newkso.ru/wind/premium550/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Xtra UK
+https://zekonew.newkso.ru/zeko/premium597/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="vodasport(src01).is" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vodafone-sport.png" group-title="0.KIL-SP0R  MAÇ", zz.Vodafone Sport
+https://windnew.newkso.ru/wind/premium260/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
+
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
@@ -2128,9 +2281,6 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="0.KIL-SPOR KARIŞIK", 02.A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="0.KIL-SPOR KARIŞIK", 02.beIN SPORTS HABER B
-https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:-1 tvg-id="Spor_SportsTV" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="0.KIL-SPOR KARIŞIK", 02.Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -2951,14 +3101,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="0.KIL-ULUSAL", 16.TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-e
-https://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", Cnbc-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-#EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-e
-https://canlitvulusal.xyz/live/cnbc-e/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-e 1
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.m3u8
@@ -3599,34 +3743,76 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="00.KIL-DiZi-FİLM", (Epic Drama) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/k/F2/11913/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.dizismart max) rus
+http://lb.wisp.cat/lb0/TR_DIZISMARTMAX/video.m3u8?token=9bmCmR7
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (Film Screen) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/Y/-N/11902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.Film Screen) rus
+http://lb.wisp.cat/lb0/TR_FILMBOX/video.m3u8?token=9bmCmR7
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (Fx) (kablo net)
-https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/y/L4/13864/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.MOVIESMART CLASSIC) rus
+http://lb.wisp.cat/lb0/TR_MOVIECLASSIC/video.m3u8?token=9bmCmR7
 
-#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/500px-FX_Turkey_logo.svg.png" group-title="00.KIL-DiZi-FİLM", (Fx) saran
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/e/ZI/13863/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.MOVIESMART Türk) rus
+http://lb.wisp.cat/lb0/TR_MOVIETURK/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/56178ce8-fc2e-4f57-8f99-353ead25dfec.png" group-title="00.KIL-DiZi-FİLM", (0.SİNEMA 1001) rus
+http://lb.wisp.cat/lb0/TR_SINEMA1001/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/C/XZ/22902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.Sinema 1002) rus
+http://lb.wisp.cat/lb0/TR_SINEMA1002/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/33af7795-2bcd-48b3-a9b6-70f31c2df7b5.png" group-title="00.KIL-DiZi-FİLM", (0.Sinema aile ) rus
+http://lb.wisp.cat/lb0/TR_SINEMAAILE/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/e/Mq/22898/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.Sinema aile 2) rus
+http://lb.wisp.cat/lb0/TR_SINEMAAILE2/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f6e38e31-87b3-4285-ac48-a004df3c950a.png" group-title="00.KIL-DiZi-FİLM", (0.SİNEMA AKSİYON ) rus
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10117.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/M/RG/22895/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.sinema Aksiyon 2) rus
+http://lb.wisp.cat/lb0/TR_SINEMAAKSIYON2/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7b944c6a-5a02-41bf-a0a8-18c711ca6a09.png" group-title="00.KIL-DiZi-FİLM", (0.SİNEMA KOMEDİ ) rus
+http://lb.wisp.cat/lb0/TR_SINEMAKOMEDI/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/o/oG/22900/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0.Sinema Komedi 2) rus
+http://lb.wisp.cat/lb0/TR_SINEMAKOMEDI2/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/17c37a88-9360-4c5a-9517-28a6394bd12a.png" group-title="00.KIL-DiZi-FİLM", (0.SİNEMA TV) rus
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10063.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9970d971-fa76-4102-9ac6-3372665e0648.png" group-title="00.KIL-DiZi-FİLM", (0.SİNEMA YERLİ) rus
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/10114.ts
+
+#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (0Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/56178ce8-fc2e-4f57-8f99-353ead25dfec.png" group-title="00.KIL-DiZi-FİLM", (Sinema 1001) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="00.KIL-DiZi-FİLM", (1Epic Drama) (kablo net)
+https://ottcdn.kablowebtv.net/live_turksat_sub/epicdramahd_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (1Film Screen) (kablo net)
+https://ottcdn.kablowebtv.net/live_turksat_sub/FilmScreen_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (1Fx) (kablo net)
+https://ottcdn.kablowebtv.net/live_turksat_sub/fx_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/56178ce8-fc2e-4f57-8f99-353ead25dfec.png" group-title="00.KIL-DiZi-FİLM", (1Sinema 1001) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/33af7795-2bcd-48b3-a9b6-70f31c2df7b5.png" group-title="00.KIL-DiZi-FİLM", (Sinema Aile ) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/33af7795-2bcd-48b3-a9b6-70f31c2df7b5.png" group-title="00.KIL-DiZi-FİLM", (1Sinema Aile ) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f6e38e31-87b3-4285-ac48-a004df3c950a.png" group-title="00.KIL-DiZi-FİLM", (Sinema aksiyon) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f6e38e31-87b3-4285-ac48-a004df3c950a.png" group-title="00.KIL-DiZi-FİLM", (1Sinema aksiyon) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7b944c6a-5a02-41bf-a0a8-18c711ca6a09.png" group-title="00.KIL-DiZi-FİLM", (Sinema Komedi ) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7b944c6a-5a02-41bf-a0a8-18c711ca6a09.png" group-title="00.KIL-DiZi-FİLM", (1Sinema Komedi ) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/17c37a88-9360-4c5a-9517-28a6394bd12a.png" group-title="00.KIL-DiZi-FİLM", (Sinema tv) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/17c37a88-9360-4c5a-9517-28a6394bd12a.png" group-title="00.KIL-DiZi-FİLM", (1Sinema tv) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9970d971-fa76-4102-9ac6-3372665e0648.png" group-title="00.KIL-DiZi-FİLM", (Sinema Yerli) (kablo net)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/9970d971-fa76-4102-9ac6-3372665e0648.png" group-title="00.KIL-DiZi-FİLM", (1Sinema Yerli) (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
@@ -3689,6 +3875,27 @@ https://tv1.arectv30.sbs/live/sinema1001.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.sinema1002
 https://tv1.arectv30.sbs/live/sinema1002.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.ELIT SMART
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10071
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.ELIT SMART 2 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10069
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.ELIT SMART3 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10070
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.LOCA 1 HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10083
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.LOCA AKSIYON
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10079
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.LOCA AILE
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10082
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 00.LOCA KOMEDI HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10080
+
 #EXTINF:-1 tvg-id="https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/10/Mega-TV-az-izle-vipotv-azerbaycan.png" group-title="00.KIL-DiZi-FİLM", 00.MEGA SİNEMA
 https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
 
@@ -3697,6 +3904,9 @@ https://tv208.radyotelekom.com.tr/p/3580/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="https://tv208.radyotelekom.com.tr: 3326/hybrid/play.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/10/Mega-TV-az-izle-vipotv-azerbaycan.png" group-title="00.KIL-DiZi-FİLM", 00.MEGA TV Şirvan
 https://a8.radyotelekom.com.tr:3326/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://f.pure-redirect.com/TR/moviesmartturk.png" group-title="00.KIL-DiZi-FİLM", 00.MOVIES TURK HD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/10072
 
 #EXTINF:-1 tvg-id="https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="00.KIL-DiZi-FİLM", 00.SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
@@ -3740,6 +3950,9 @@ https://tivi170.ozelip.com:3438/live/aktiftvlive.m3u8
 #EXTINF:-1 tvg-id="https://radyotelekomtv.com/player/m3u8/5d653b7e984e533176905a1cc338a68b/5d653b7e984e533176905a1cc338a68b.m3u8" tvg-logo="https://www.almanyatv.net/uploads/logo/almanyakucuk.png" group-title="00.KIL-DiZi-FİLM", 1.ALMANYA TV
 http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="00.KIL-DiZi-FİLM", 1.Cnbc-e
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
@@ -3761,20 +3974,47 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" group-title="00.KIL-DiZi-FİLM", 1.Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.DÜZGÜN TV
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/Teberdijitalmedya.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="00.KIL-DiZi-FİLM", 1.Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.ESMA TV
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="FarkTurkTV.tr" tvg-logo="http://assets.tvcdn.net/aa738840-bc02-41ec-80e5-188681441c4e.jpeg" group-title="00.KIL-DiZi-FİLM", 1.Fark Türk TV
 http://stream.tvcdn.net/diger-eglence/fark-turk-tv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.HOÇWAN TV ᵏᵃᵑᵏᵃ
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.İSMAYILLI TV
+https://ismaillitv.radyotelekom.com.tr:3202/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="00.KIL-DiZi-FİLM", 1.isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.KANAL PULUS
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.KANAL19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://api.kardelentv.com.tr/media/image/logo/2023/03/08032023-6408ffbeee001" group-title="00.KIL-DiZi-FİLM", 1.Kardelen tv
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="00.KIL-DiZi-FİLM", 1.Kıbrıs Torba TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
+
 #EXTINF:-1 tvg-id="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="00.KIL-DiZi-FİLM", 1.LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.MOVİE NOW
+https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.NİMO TV HD
+https://tx.flv.nimo.tv/live/su1599519794528rd200c3d19d9576c60d3833c7502f0501.flv?wsSecret=04bec7371780bcdf10c6e178b5b5753b&wsTime=681a1add&seqid=3447999250879&ctype=nimo_media_web&ver=1&appid=81&tp=1746541277710&needwm=1&ratio=1000&dMod=mseh-0&sdkPcdn=1_1&u=1704232386598&t=100&sv=2412091148&sdk_sid=1746541287225&a_block=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" group-title="00.KIL-DiZi-FİLM", 1.ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
@@ -3797,6 +4037,12 @@ http://palatv34.ozelip.com:22372/super/super/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="00.KIL-DiZi-FİLM", 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.TRAKYA TÜRK TV
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.TV25
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
+
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeaXqZVW8J7GyvOXld6.png" group-title="00.KIL-DiZi-FİLM", 1.TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
@@ -3812,6 +4058,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="00.KIL-DiZi-FİLM", 1.Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.ÖNDE TV ᵏᵃᵑᵏᵃ
+https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DiZi-FİLM", 2.Kanal D Siyah Beyaz Aşk
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
 
@@ -3820,9 +4069,6 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlis
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d6555ebc8301fbca42d47.jpg" group-title="00.KIL-DiZi-FİLM", 2.Kanal D Zalim İstanbul
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", BRÜKSEL TÜRK
-https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/226x313/66d712c7fe304127fa99b4d7.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Arka sokaklar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
@@ -4508,6 +4754,21 @@ https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv45.lol/uploads/cache/poster_thumb/uploads/png/33806ed01f6ddd11ce055679bd8382cc.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
 https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", (BBC EARTH) rus
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9994
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (discovery) rus
+http://lb.wisp.cat/lb0/TR_DISCOVERYCHANNEL/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", (iD) rus
+http://lb.wisp.cat/lb0/TR_DISCOVERYSCIENCE/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/U/GH/16199/Thumbnail.png" group-title="01.KIL-BELGESEL", (National geo wild) rus
+http://lb.wisp.cat/lb0/TR_WILDHD/video.m3u8?token=9bmCmR7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/V/zw/16198/Thumbnail.png" group-title="01.KIL-BELGESEL", (National geo) rus
+http://lb.wisp.cat/lb0/TR_NATGEOHD/video.m3u8?token=9bmCmR7
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4d28b591-09a0-4563-8f69-889615c905f1.png" group-title="01.KIL-BELGESEL", 0.Cgtn Documentary (kablo net)
 https://ottcdn.kablowebtv.net/live_turksat_sub3/cgtndocu_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS83LzIwMjUgNDo1MDoxNiBQTSZoYXNoX3ZhbHVlPXRiTWFTSmt5VlRqbnB5WVR6dkNqT2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjU=
 
@@ -4565,17 +4826,23 @@ https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 1.TLC Türknet
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png" group-title="01.KIL-BELGESEL", 2.Discovery Channel
+#EXTINF:-1 tvg-id="NationalGeographic.tr       https://tls.tc/M0Vkz https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/351331f8-aff3-4d10-9d66-fb1321541ce5.png" group-title="01.KIL-BELGESEL", 2.National Geographic saranlive
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr      https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f91b408-05f5-4085-bc0b-6fc13b5b5187.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild saranlive
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9974f79f-c26e-45a2-8580-5d89d5e3fe3e.png" group-title="01.KIL-BELGESEL", 22.Discovery Channel
 https://217.30.11.74/e/500.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png" group-title="01.KIL-BELGESEL", 2.NatGeo
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png" group-title="01.KIL-BELGESEL", 22.NatGeo
 https://217.30.11.74/e/501.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr       https://tls.tc/M0Vkz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="01.KIL-BELGESEL", 2.National Geographic saranlive
-https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/9974f79f-c26e-45a2-8580-5d89d5e3fe3e.png" group-title="01.KIL-BELGESEL", 222.DISCOVERY CHANNEL
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9992
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild saranlive
-https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/6c592a8e-f3af-451b-93d5-e5784b96c1a3.png" group-title="01.KIL-BELGESEL", 222.iD
+http://hdlocal.de:8080/cs22cs.suroot/4amFSTThYHGGS2223/9991
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bbc.m3u8 https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
 https://tv1.arectv30.sbs/live/bbc.m3u8
@@ -4643,7 +4910,7 @@ http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV C
 http://stream.tvcdn.net:80/belgesel/yaban-tv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 5.Yabantv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yabantv
 http://116.202.238.88/YABANTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="01.KIL-BELGESEL", 7.Darcizzle Offshore Fishing
@@ -5268,7 +5535,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklist_w1976707711.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs Torba TV
-http://stream.tvcdn.net/kibris/torba-tv.m3u8
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kuzeykibrissmart.tv/tvlogos/256/ktv.png" group-title="01.KIL-DİĞER ÜLKELER", Kıbrıs tv
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/chunklist_w254345633.m3u8
@@ -5861,141 +6128,6 @@ https://yayin.santraltr.com/hls/tvsms.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" group-title="02.KIL-MÜZİK WEB", Zeyno TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
-#EXTINF:-1 tvg-id="yedinumaradizisi" tvg-logo="http://13.60.64.58/stream/logo/yedinumaradizisi.png" group-title="02.KIL-YOUTUBE CANLI", 0.7. Numara
-http://13.60.64.58/stream/yt2/yedinumaradizisi.m3u8
-
-#EXTINF:-1 tvg-id="behzatc" tvg-logo="http://13.60.64.58/stream/logo/behzatc.png" group-title="02.KIL-YOUTUBE CANLI", 0.Behzat Ç.
-http://13.60.64.58/stream/yt2/behzatc.m3u8
-
-#EXTINF:-1 tvg-id="cennetmahallesishowtv" tvg-logo="http://13.60.64.58/stream/logo/cennetmahallesishowtv.png" group-title="02.KIL-YOUTUBE CANLI", 0.Cennet Mahallesi
-http://13.60.64.58/stream/yt2/cennetmahallesishowtv.m3u8
-
-#EXTINF:-1 tvg-id="emretkomutanim" tvg-logo="http://13.60.64.58/stream/logo/emretkomutanim.png" group-title="02.KIL-YOUTUBE CANLI", 0.Emret Komutanım
-http://13.60.64.58/stream/yt2/emretkomutanim.m3u8
-
-#EXTINF:-1 tvg-id="esaretdizisi" tvg-logo="http://13.60.64.58/stream/logo/esaretdizisi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Esaret Dizisi
-http://13.60.64.58/stream/yt2/esaretdizisi.m3u8
-
-#EXTINF:-1 tvg-id="fatmagulunsucunekanald" tvg-logo="http://13.60.64.58/stream/logo/fatmagulunsucunekanald.png" group-title="02.KIL-YOUTUBE CANLI", 0.Fatmagülün Suçu Ne?
-http://13.60.64.58/stream/yt2/fatmagulunsucunekanald.m3u8
-
-#EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="http://13.60.64.58/stream/logo/gulsahfilm.png" group-title="02.KIL-YOUTUBE CANLI", 0.Gülsah Film
-http://13.60.64.58/stream/yt2/gulsahfilm.m3u8
-
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="http://13.60.64.58/stream/logo/kemalsunal.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kemal Sunal Klasikleri
-http://13.60.64.58/stream/yt2/kemalsunal.m3u8
-
-#EXTINF:-1 tvg-id="kurtlarvadisi" tvg-logo="http://13.60.64.58/stream/logo/kurtlarvadisi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kurtlar Vadisi
-http://13.60.64.58/stream/yt2/kurtlarvadisi.m3u8
-
-#EXTINF:-1 tvg-id="kuzeyguney" tvg-logo="http://13.60.64.58/stream/logo/kuzeyguney.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kuzey Güney
-http://13.60.64.58/stream/yt2/kuzeyguney.m3u8
-
-#EXTINF:-1 tvg-id="kizilcikserbetidizi" tvg-logo="http://13.60.64.58/stream/logo/kizilcikserbetidizi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kızılcık Şerbeti
-http://13.60.64.58/stream/yt2/kizilcikserbetidizi.m3u8
-
-#EXTINF:-1 tvg-id="muhtesemyuzyil" tvg-logo="http://13.60.64.58/stream/logo/muhtesemyuzyil.png" group-title="02.KIL-YOUTUBE CANLI", 0.Muhteşem Yüzyıl
-http://13.60.64.58/stream/yt2/muhtesemyuzyil.m3u8
-
-#EXTINF:-1 tvg-id="ramodizisi" tvg-logo="http://13.60.64.58/stream/logo/ramodizisi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Ramo
-http://13.60.64.58/stream/yt2/ramodizisi.m3u8
-
-#EXTINF:-1 tvg-id="sihirliannemkanald" tvg-logo="http://13.60.64.58/stream/logo/sihirliannemkanald.png" group-title="02.KIL-YOUTUBE CANLI", 0.Sihirli Annem
-http://13.60.64.58/stream/yt2/sihirliannemkanald.m3u8
-
-#EXTINF:-1 tvg-id="sonyazdizi" tvg-logo="http://13.60.64.58/stream/logo/sonyazdizi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Son Yaz
-http://13.60.64.58/stream/yt2/sonyazdizi.m3u8
-
-#EXTINF:-1 tvg-id="yalandunyakanald" tvg-logo="http://13.60.64.58/stream/logo/yalandunyakanald.png" group-title="02.KIL-YOUTUBE CANLI", 0.Yalan Dünya
-http://13.60.64.58/stream/yt2/yalandunyakanald.m3u8
-
-#EXTINF:-1 tvg-id="yenigelindizi" tvg-logo="http://13.60.64.58/stream/logo/yenigelindizi.png" group-title="02.KIL-YOUTUBE CANLI", 0.Yeni Gelin
-http://13.60.64.58/stream/yt2/yenigelindizi.m3u8
-
-#EXTINF:-1 tvg-id="beinsportsturkiye" tvg-logo="http://13.60.64.58/stream/logo/beinsportsturkiye.png" group-title="02.KIL-YOUTUBE CANLI", 1.beIN Sports Türkiye
-http://13.60.64.58/stream/yt/beinsportsturkiye.m3u8
-
-#EXTINF:-1 tvg-id="cnbc-e" tvg-logo="http://13.60.64.58/stream/logo/cnbc-e.png" group-title="02.KIL-YOUTUBE CANLI", 1.CNBC-E
-http://13.60.64.58/stream/yt/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-id="kralmuzik" tvg-logo="http://13.60.64.58/stream/logo/kralmuzik.png" group-title="02.KIL-YOUTUBE CANLI", 1.Kral Müzik
-http://13.60.64.58/stream/yt2/kralmuzik.m3u8
-
-#EXTINF:-1 tvg-id="ahaber" tvg-logo="http://13.60.64.58/stream/logo/ahaber.png" group-title="02.KIL-YOUTUBE CANLI", A HABER
-http://13.60.64.58/stream/yt/ahaber.m3u8
-
-#EXTINF:-1 tvg-id="apara" tvg-logo="http://13.60.64.58/stream/logo/apara.png" group-title="02.KIL-YOUTUBE CANLI", A PARA
-http://13.60.64.58/stream/yt/apara.m3u8
-
-#EXTINF:-1 tvg-id="benguturk" tvg-logo="http://13.60.64.58/stream/logo/benguturk.png" group-title="02.KIL-YOUTUBE CANLI", BENGÜ TURK
-http://13.60.64.58/stream/yt/benguturk.m3u8
-
-#EXTINF:-1 tvg-id="bizimevtv" tvg-logo="http://13.60.64.58/stream/logo/bizimevtv.png" group-title="02.KIL-YOUTUBE CANLI", BİZİMEV TV
-http://13.60.64.58/stream/yt/bizimevtv.m3u8
-
-#EXTINF:-1 tvg-id="bloomberght" tvg-logo="http://13.60.64.58/stream/logo/bloomberght.png" group-title="02.KIL-YOUTUBE CANLI", BLOOMBERG HT
-http://13.60.64.58/stream/yt/bloomberght.m3u8
-
-#EXTINF:-1 tvg-id="businesschanneltv" tvg-logo="http://13.60.64.58/stream/logo/businesschanneltv.png" group-title="02.KIL-YOUTUBE CANLI", BUSİNESS CHANNEL TV
-http://13.60.64.58/stream/yt/businesschanneltv.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="http://13.60.64.58/stream/logo/cartoonnetwork.png" group-title="02.KIL-YOUTUBE CANLI", CARTOON NETWORK
-http://13.60.64.58/stream/yt/cartoonnetwork.m3u8
-
-#EXTINF:-1 tvg-id="cnnturk" tvg-logo="http://13.60.64.58/stream/logo/cnnturk.png" group-title="02.KIL-YOUTUBE CANLI", CNN TURK
-http://13.60.64.58/stream/yt/cnnturk.m3u8
-
-#EXTINF:-1 tvg-id="ekoturk" tvg-logo="http://13.60.64.58/stream/logo/ekoturk.png" group-title="02.KIL-YOUTUBE CANLI", EKO TURK TV
-http://13.60.64.58/stream/yt/ekoturk.m3u8
-
-#EXTINF:-1 tvg-id="ekoltv" tvg-logo="http://13.60.64.58/stream/logo/ekoltv.png" group-title="02.KIL-YOUTUBE CANLI", EKOL TV
-http://13.60.64.58/stream/yt/ekoltv.m3u8
-
-#EXTINF:-1 tvg-id="flashhaber" tvg-logo="http://13.60.64.58/stream/logo/flashhaber.png" group-title="02.KIL-YOUTUBE CANLI", FLASH HABER
-http://13.60.64.58/stream/yt/flashhaber.m3u8
-
-#EXTINF:-1 tvg-id="haberglobal" tvg-logo="http://13.60.64.58/stream/logo/haberglobal.png" group-title="02.KIL-YOUTUBE CANLI", HABER GLOBAL
-http://13.60.64.58/stream/yt/haberglobal.m3u8
-
-#EXTINF:-1 tvg-id="haberturk" tvg-logo="http://13.60.64.58/stream/logo/haberturk.png" group-title="02.KIL-YOUTUBE CANLI", HABERTURK
-http://13.60.64.58/stream/yt/haberturk.m3u8
-
-#EXTINF:-1 tvg-id="halktv" tvg-logo="http://13.60.64.58/stream/logo/halktv.png" group-title="02.KIL-YOUTUBE CANLI", HALK TV
-http://13.60.64.58/stream/yt/halktv.m3u8
-
-#EXTINF:-1 tvg-id="htspor" tvg-logo="http://13.60.64.58/stream/logo/htspor.png" group-title="02.KIL-YOUTUBE CANLI", HT SPOR
-http://13.60.64.58/stream/yt/htspor.m3u8
-
-#EXTINF:-1 tvg-id="krt" tvg-logo="http://13.60.64.58/stream/logo/krt.png" group-title="02.KIL-YOUTUBE CANLI", KRT TV
-http://13.60.64.58/stream/yt/krt.m3u8
-
-#EXTINF:-1 tvg-id="liderhabertv" tvg-logo="http://13.60.64.58/stream/logo/liderhabertv.png" group-title="02.KIL-YOUTUBE CANLI", LIDER HABER TV
-http://13.60.64.58/stream/yt/liderhabertv.m3u8
-
-#EXTINF:-1 tvg-id="ntv" tvg-logo="http://13.60.64.58/stream/logo/ntv.png" group-title="02.KIL-YOUTUBE CANLI", NTV
-http://13.60.64.58/stream/yt/ntv.m3u8
-
-#EXTINF:-1 tvg-id="sozcu" tvg-logo="http://13.60.64.58/stream/logo/sozcu.png" group-title="02.KIL-YOUTUBE CANLI", SÖZCÜ TV
-http://13.60.64.58/stream/yt/sozcu.m3u8
-
-#EXTINF:-1 tvg-id="tele1" tvg-logo="http://13.60.64.58/stream/logo/tele1.png" group-title="02.KIL-YOUTUBE CANLI", TELE 1
-http://13.60.64.58/stream/yt/tele1.m3u8
-
-#EXTINF:-1 tvg-id="turkiyegazetesi" tvg-logo="http://13.60.64.58/stream/logo/turkiyegazetesi.png" group-title="02.KIL-YOUTUBE CANLI", TURKİYE GAZETESİ TV
-http://13.60.64.58/stream/yt/turkiyegazetesi.m3u8
-
-#EXTINF:-1 tvg-id="tv100" tvg-logo="http://13.60.64.58/stream/logo/tv100.png" group-title="02.KIL-YOUTUBE CANLI", TV100
-http://13.60.64.58/stream/yt/tv100.m3u8
-
-#EXTINF:-1 tvg-id="tvnet" tvg-logo="http://13.60.64.58/stream/logo/tvnet.png" group-title="02.KIL-YOUTUBE CANLI", TVNET
-http://13.60.64.58/stream/yt/tvnet.m3u8
-
-#EXTINF:-1 tvg-id="ulketv" tvg-logo="http://13.60.64.58/stream/logo/ulketv.png" group-title="02.KIL-YOUTUBE CANLI", ULKE TV
-http://13.60.64.58/stream/yt/ulketv.m3u8
-
-#EXTINF:-1 tvg-id="ulusalkanaltv" tvg-logo="http://13.60.64.58/stream/logo/ulusalkanaltv.png" group-title="02.KIL-YOUTUBE CANLI", ULUSAL KANAL
-http://13.60.64.58/stream/yt/ulusalkanaltv.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/b/bf/Alem_fm.jpg/440px-Alem_fm.jpg" group-title="03.KIL-RADYO", Fm alem
 https://alemfm.radyotvonline.net/alemfmaac
 
@@ -6527,9 +6659,6 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.MEDiNE TV 2
 https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.Belçika Grand Place Meydanı Canlı
-https://livecam.brucity.be/LiveBrusselsWebcams/streams/IIbCJLnggPzOAFSL1701416341591.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.italya golden
 https://webcam.alfa.it/webcams/memfs/918f99b7-683e-49ad-8131-d7e7c03d1dbd.m3u8
 
@@ -6544,9 +6673,6 @@ https://lifecam.sigma-ktv.ru/CTV_Rec/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.Rusya Radyo cam
 http://lova.me/hls/hithd.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.UK - Turks & Caicos
-https://edge01.london.nginx.hdontap.com/hosb1/turks-caicos_seven_stars_resort.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA - Cedar Point Park
 https://cs4.pixelcaster.com/live/cedar1.stream/chunks.m3u8
@@ -6569,14 +6695,8 @@ https://wowza.ser321.usu.edu/live/smil:mntvalley.smil/chunklist_b2500000_sleng.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA - Myrtle Beach Cam
 https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA - Schooners Beach Cam
-http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbeachHDCam/schbeach/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA Corolla Resort Plajı
 https://58bdb48e25cf1.streamlock.net:19350/live/vcnc004.stream/cplaylist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA Miami Plaj
-https://cams.cdn-surfline.com/cdn-ec/ec-southbeach/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.USA Myrtle Beach Resorts
 https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/playlist.m3u8
@@ -6812,150 +6932,6 @@ http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-MOBESE", Girne - Denizkızı Hotel
 https://uzunmuhalefet.serv00.net/angelcam2.php?id=51eyooz3y8&.m3u8
 
-#EXTINF:-1 tvg-id="https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Anadolu Hisarı
-https://livestream.ibb.gov.tr/cam_turistik/b_anadoluhisari.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Beyazıt Kule
-https://livestream.ibb.gov.tr/cam_turistik/b_beyazitkule.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Beyazıt Kule 2
-https://livestream.ibb.gov.tr/cam_turistik/b_beyazitkule2.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Beyazıt meydan
-https://livestream.ibb.gov.tr/cam_turistik/b_beyazitmeydani.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Büyük Çamlıca
-https://livestream.ibb.gov.tr/cam_turistik/b_buyukcaml%C4%B1ca.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Dragos
-https://livestream.ibb.gov.tr/cam_turistik/b_dragos.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Eminönü
-https://livestream.ibb.gov.tr/cam_turistik/b_eminonu.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Eyüp Sultan
-https://livestream.ibb.gov.tr/cam_turistik/b_eyupsultan.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Hidiv Kasrı
-https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://istanbuluseyret.ibb.gov.tr/" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Kapalıçarşı
-https://livestream.ibb.gov.tr/cam_turistik/b_kapalicarsi.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Küçükçekmece
-https://livestream.ibb.gov.tr/cam_turistik/b_kucukcekmece.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Kız Kulesi
-https://livestream.ibb.gov.tr/cam_turistik/new_K%C4%B1zkulesi.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Metrohan
-https://livestream.ibb.gov.tr/cam_turistik/b_metrohan.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul Ortaköy
-https://livestream.ibb.gov.tr/cam_turistik/b_ortakoy.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul PİERRE LOTTİ
-https://livestream.ibb.gov.tr/cam_turistik/b_pierreloti.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul SALACAK
-https://livestream.ibb.gov.tr/cam_turistik/b_salacak.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul SARAÇHANE
-https://livestream.ibb.gov.tr/cam_turistik/b_sarachane.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul SEPETÇİLER KASRI
-https://livestream.ibb.gov.tr/cam_turistik/b_sepetcilerkasri.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul SULTANAHMET 1
-https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet1.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul SULTANAHMET 2
-https://livestream.ibb.gov.tr/cam_turistik/b_sultanahmet2.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul TAKSİM MEYDANI
-https://livestream.ibb.gov.tr/cam_turistik/b_taksim_meydan.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", İstanbul ÜSKÜDAR
-https://livestream.ibb.gov.tr/cam_turistik/b_uskudar.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Başiskele Sahil
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=1030&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Büyükşehir Belediyesi
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2073&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Cumhuriyet Bulvarı 1
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2033&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Cumhuriyet Bulvarı 2
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2035&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Darıca Dudayev Parkı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2084&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Derince Kent Meydanı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=22&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Gebze Balkan Türkleri Parkı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=10&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Gebze Eskihisar Millet Bahçesi
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=20&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Gölcük Anıt Parkı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=12&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Gölcük Değirmendere Sahil
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=1034&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Gölcük Yazlık Kadırga Parkı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2082&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Cumhuriyet Parkı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2077&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Fevziye Cami
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=5&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Halkevi ve Sahil
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=3&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Kent Meydanı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=21&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Saat Kulesi
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2045&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Sekapark 1. Etap
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=7&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Sekapark Uçak Bölgesi
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=8&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Sekapark Uçurtma Tepesi
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=6&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli İzmit Umuttepe
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=1029&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Kandıra Tepe Sahil
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=1023&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Karamürsel Sahil
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=13&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Kartepe Ormankaya
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2085&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Kartepe Zirve
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=9&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Körfez Kent Meydanı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=14&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NMBXlaS.png" group-title="04.KIL-MOBESE", Kocaeli Çayırova Kent Meydanı
-https://uzunmuhalefet.serv00.net/kocaeli.php?id=2030&.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nWeEm2p.png" group-title="04.KIL-MOBESE", Konya Alaeddi̇n Keykubad Cami̇i̇
 https://content.tvkur.com/l/cei99ifmm25sdv36p5ag/master.m3u8
 
@@ -7008,7 +6984,7 @@ https://content.tvkur.com/l/cei9a1fmm25sdv36p5d0/master.m3u8
 https://content.tvkur.com/l/c77i7dr84cnrb6mlji80/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Atatürk Bulvarı
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8
+https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Belediye Meydan
 http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8
@@ -7106,23 +7082,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Smart Cocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png" group-title="05.KIL-ÇOCUK", Smart Cocuk
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", alpha Anime
-https://hls.goodgame.ru/manifest/205115_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="06.E SPOR GAMES", Alpha Games
 http://hls.goodgame.ru:8080/hls/205115.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/5VMNKQY/714701DC3D1C/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png" group-title="06.E SPOR GAMES", Box Gamers
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20231219_193130_43.png" group-title="06.E SPOR GAMES", Dot Esports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/dungeon-tv/logo_20231219_200859_58.png" group-title="06.E SPOR GAMES", Dungeon TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?ads.dpname=distrotv&network_id=2251&live=1&avod=1&site_page=&site_name=Dungeon%20TV&hls_marker=1&cb=njzl&ip=31.206.165.53&ua=Mozilla%2F5.0%20(Linux%3B%20Android%2014%3B%20Infinix%20X6850)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.6998.135%20Mobile%20Safari%2F537.36&player_height=203&player_width=360&is_lat=0&ads.deviceidtype=localStorage&ads.gdpr=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22914/fwtv/logo_20231219_202112_61.png" group-title="06.E SPOR GAMES", fw.tv by Firework
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fwtv/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", GAME HD
 http://iptv.prosto.tv:7000/ch322/tracks-v1a1/index.m3u8
@@ -7145,56 +7109,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="06.E SPOR GAMES", Mahar esports b
 https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="https://hls.goodgame.ru/manifest/22416_master.m3u8" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro
-https://hls.goodgame.ru/hls/122416.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 2
-https://hls.goodgame.ru/manifest/121416_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 3
-https://hls.goodgame.ru/manifest/210808_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 4
-https://hls.goodgame.ru/manifest/160823_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 5
-https://hls.goodgame.ru/manifest/79558_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 6
-https://hls.goodgame.ru/manifest/163274_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_retro_poster.png" group-title="06.E SPOR GAMES", retro 7
-https://hls.goodgame.ru/manifest/15317_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_90760_mwYk_poster.jpg" group-title="06.E SPOR GAMES", ru.Counter-Strike 2
-https://hls.goodgame.ru/hls/175368.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_90760_mwYk_poster.jpg" group-title="06.E SPOR GAMES", ru.Counter-Strike 2 a
-https://hls.goodgame.ru/manifest/115903_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_90760_mwYk_poster.jpg" group-title="06.E SPOR GAMES", ru.Counter-Strike 2 a
-https://hls.goodgame.ru/manifest/208350_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_90760_mwYk_poster.jpg" group-title="06.E SPOR GAMES", ru.Counter-Strike 2 b
-https://hls.goodgame.ru/manifest/29969_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.goodgame.ru/images/posters/games/gm_90760_mwYk_poster.jpg" group-title="06.E SPOR GAMES", ru.Counter-Strike 2 c
-https://hls.goodgame.ru/manifest/211318_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", Ru.Games
-https://hls.goodgame.ru/manifest/7807_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="06.E SPOR GAMES", Ru.Games 2
-https://hls.goodgame.ru/manifest/108536_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
 #EXTINF:-1 tvg-id=",https://stream.ads.ottera.tv/cl/250411cvseml0i7vgpujfu1km0/1280x720_2300000_0_f.m3u8" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=261346&partner=distro&ads.rnd=3zs7&ads.env_i=f639eefb-213d-4121-9c34-358b13b63315&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=31.206.165.53&ads.geo=TR&ads.lat=41.02470&ads.long=28.92520&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=20250411
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://goodgame.ru/files/avatars/av_1001106_I3m9.jpg" group-title="06.E SPOR GAMES", Utan
-https://hls.goodgame.ru/hls/136091.m3u8
 
 #EXTINF:-1 tvg-id="https://30a-tv.com/feeds/720p/52.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/30A-TV-Classic-Movies-live-vipotv.png" group-title="07.KIL ORTAYA KARISIK", 30A Classic Movie
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
@@ -7618,6 +7537,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Acapulco Shore español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Acapulco Shore español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", X.Acapulco Shore Latin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
@@ -8681,6 +8603,9 @@ https://vidmody.com/vs/tt21824548
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/until-dawn.webp" group-title="08.FiLM YENi 2025", Safağa Kadar korsan sürüm
 https://s230.rapidrame.com/hls2/01/00023/x2w2soaamr84_,l,n,.urlset/master.m3u8?t=qXicqp1e2WmsXujNTa9Fl4y1rCoqwIQtLKcdtKspwDU&s=1745697015&e=1199998800&f=115732&srv=s390&i=0.0&sp=0
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-05/back-on-the-strip.webp" group-title="08.FiLM YENi 2025", Sahneye Dönüş
+https://vidmody.com/vs/tt6048442
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/sahtekar-anne_1.webp" group-title="08.FiLM YENi 2025", Sahtekâr Anne
 https://vidmody.com/vs/tt35955855
 
@@ -8710,6 +8635,9 @@ https://vidmody.com/vs/tt22208452
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/seven-veils.webp" group-title="08.FiLM YENi 2025", Seven Veils
 https://vidmody.com/vs/tt26671415
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.tv/uploads/filmler/2025-05/secilim.webp" group-title="08.FiLM YENi 2025", Seçilim
+https://vidmody.com/vs/tt32768323
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/she-s-obsessed-with-my-husband.webp" group-title="08.FiLM YENi 2025", She s Obsessed with My Husband
 https://vidmody.com/vs/tt28774937
