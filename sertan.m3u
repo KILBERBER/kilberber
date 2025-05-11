@@ -1610,17 +1610,17 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
-#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Adanaspor Göztepe 1-2
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_34_ads_goz_34h_4mayis_ip&secure=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş Hatayspor 5-1
+#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe Hatayspor 
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe Beşiktaş 0-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_34_fb_bjk_34h_4mayis_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş Adanaspor
 
-#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray Sivasspor 4-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_34_gs_siv_34h_3mayis_ip&secure=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Başakşehir Fenerbahçe 1-4
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_35_bas_fb_35h_9mayis_ip&secure=1
+
+#EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Trabzonspor Galatasaray 0-2
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20242025_35_ts_gs_35h_10mayis_ip&secure=1
 
 #EXTINF:-1 tvg-id="api" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa Trabzonspor 1-1
 
@@ -1638,7 +1638,7 @@ https://t6co.32ufajdjfnsa32.workers.dev/list/yayinstar.m3u8|referer=https://inat
 https://t6co.32ufajdjfnsa32.workers.dev/list/yayinpeakstream.m3u8|referer=https://inatvhdizle.baby/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk
-https://alpha.cf-worker-2656aa7aaa575e.workers.dev/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1646.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://alpha.cf-worker-d3b9ad9b2e73c7.workers.dev/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1646.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://cinque.668a396e58bcbc27.click/ar/player.html" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1   Selçuk Maç Zamanı
 https://due.298b6201ab80af7373.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8?live=true?|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.7) Android
@@ -1658,23 +1658,17 @@ https://fgfdc.cfd/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a c
 https://sdrvh.cfd/cdn/bein_sports_1_hd/main.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a d
-https://fscvd.top/assia2/cdn/one-sport/main.m3u8
-
-#EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 a e
-https://cdn.gfdff.cfd/bein_sports_1_hd_main.m3u8
-
-#EXTINF:-1 tvg-id="https://supertotobettv151.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporbett.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d
-https://29mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
-
 #EXTINF:-1 tvg-id="bein_sport" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporbett.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d a
 https://29mumdur.shop/e1/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
 
-#EXTINF:-1 tvg-id="https://betpublictv20.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.betpub.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d b
-https://34mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
+#EXTINF:-1 tvg-id="https://supertotobettv151.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporbett.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d b
+https://29mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
 
 #EXTINF:-1 tvg-id="https://betpublictv20.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.betpub.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d c
 https://34mumdur.shop/e1/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
+
+#EXTINF:-1 tvg-id="https://betpublictv20.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.betpub.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 d d
+https://34mumdur.shop/701/tracks-v1a1/mono.m3u8?|Referer=https://supertotobettv151.com/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.bos.gif" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 e
 http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
@@ -1682,8 +1676,8 @@ http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macvar.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f
 http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="https://grtv40.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f Gurbet
-https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8|referer=https://grtv37.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="https://grtv40.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 f Gurbet
+https://aq.casintrotv13.com/yayinzirve.m3u8|referer=https://grtv37.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.macbox.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 g
 https://zekonew.newkso.ru/zeko/premium62/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
@@ -1704,7 +1698,7 @@ https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/
 https://b.fulltvizle.com/bein/index.m3u8?|user-agent=okhttp/4.12.0 Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
 
 #EXTINF:-1 tvg-id="https://heylink.me/markajjtv/ https://goattv.xyz/?utm_medium=social&utm_source=heylink.me https://goatbahis.tv/   . https://tvbetjanti85.com/701.m3u8   https://goatbahis.tv/view/theme/safir/img/GoatTV.png" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.GoatTV.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 j
-https://streambabasi.wxpackage7.workers.dev/701.m3u8
+https://streambabasi.wooxfackage7-2.workers.dev/701.m3u8
 
 #EXTINF:-1 tvg-id="https://yakatv4.live/ https://tvbetjanti85.com/701.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0yaka.png" group-title="0.KIL-SP0R  MAÇ", Web....B.SP0R 1 k
 https://yakupefekarahanli007.cfd/701.m3u8
