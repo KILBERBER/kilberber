@@ -1697,9 +1697,6 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.STREAMRADAR%20.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1
 https://goldvod.org/tv/strm?id=5062
 
-#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://drqmcpbp7gtz2.cloudfront.net/hls/bein-sports-1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
-https://stdaddy.onrender.com/proxy?url=https://floral-shape-665b.yagizsabunlar.workers.dev/hls/bein-sports-1.m3u8
-
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://stdaddy.onrender.com/proxy?url=https://corestream.corestream.lat//hls/bein-sports-1.m3u8
 
@@ -1709,7 +1706,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://zekonew.newkso.ru/zeko/premium6
 #EXTINF:-1 tvg-id="https://grtv54.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets a
 https://three.zirvestream4.cfd/yayinzirve.m3u8|referer=https://grtv55.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
+#EXTINF:-1 tvg-id="https://vasff.cfd/cdn/bein_sports_1_hd/main.m3u8 https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
 https://yhnbv.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
@@ -1741,6 +1738,9 @@ https://trgoals.tecostream.xyz//proxy?id=yayin1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve
 https://trgoals.tecostream.xyz//proxy?id=yayinzirve
+
+#EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0pelikan.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 y  Spikersiz Seyirci Ses
+https://103.253.37.154/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.STREAMRADAR%20.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2
 https://goldvod.org/tv/strm?id=5063
