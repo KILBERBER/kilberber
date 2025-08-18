@@ -1676,6 +1676,18 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş  Eyüpspor 2-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_bjk_eyup_2h_17agu_ip&secure=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray  Fatih Karagümrük  3-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_gs_kara_2h_15agu_ip&secure=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe  Fenerbahçe 0-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_goz_fb_2h_16agu_ip&secure=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa  Trabzonspor 
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -1689,13 +1701,13 @@ https://eight.zirvestream8.cfd/yayinzirve.m3u8|referer=https://grtv55.live/&|use
 https://103.253.37.154/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://vasff.cfd/cdn/bein_sports_1_hd/main.m3u8 https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
-https://hsdvs.cfd/cdn/bein1/main.m3u8
+https://xxcvs.cfd/cdn/bein1/main.m3u8
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
-https://fdsxc.cfd/cdn/bein_sports_1_hd/main.m3u8
+https://xxcvs.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin b
-https://hjxsa.cfd/daddyhd/cdn/62/main.m3u8
+https://caxzx.cfd/daddyhd/cdn/62/main.m3u8
 
 #EXTINF:-1 tvg-id="https://pulitv18.live/. https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.pulitv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Pulibet
 https://nxn10.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/
@@ -1715,6 +1727,12 @@ https://stdaddy.onrender.com/proxy?url=https://one.72a430e1cd763c60.click/live/s
 #EXTINF:-1 tvg-id="https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.seyirspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Seyirspor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
 
+#EXTINF:-1 tvg-id="https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.seyirspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Seyirspor b
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1taraftarium.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Taraftarium
+https://api.codetabs.com/v1/proxy?quest=https://x.6c94f0d2b38a715.click/bein1/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat
 https://trgoals.tecostream.xyz//proxy?id=yayininat
 
@@ -1725,7 +1743,7 @@ https://trgoals.tecostream.xyz//proxy?id=yayin1
 https://trgoals.tecostream.xyz//proxy?id=yayinzirve
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1xyz.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 XYZ Sport
-https://stdaddy.onrender.com/proxy?url=https://one.3ffcd2ea10adef4f.click/live/bein-sports-1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stdaddy.onrender.com/proxy?url=https://one.72a430e1cd763c60.click/live/bein-sports-1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0pelikan.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Y
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWYxZDNjZTQ3MGVjLWU5YmItZmU5NC1hOWExLTkwZWJlZWZi/master.m3u8?md5=LbEDyNOL-rkXrLqInZzm4Q&expires=1755418328&t=1755375128
