@@ -1685,14 +1685,17 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe  Fenerbahçe 0-0
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_v2_goz_fb_2h_16agu_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa  Trabzonspor 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa  Trabzonspor 0-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_2_kas_ts_2h_18agu_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://stdaddy.onrender.com/proxy?url=https://corestream.corestream.lat//hls/bein-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Goley90.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Goley90
+http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
 #EXTINF:-1 tvg-id="https://grtv54.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets a
 https://eight.zirvestream8.cfd/yayinzirve.m3u8|referer=https://grtv55.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1712,17 +1715,11 @@ https://caxzx.cfd/daddyhd/cdn/62/main.m3u8
 #EXTINF:-1 tvg-id="https://pulitv18.live/. https://nxn5.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.pulitv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Pulibet
 https://nxn10.xyz/cdn/bein-sports-1.m3u8?|referer=https://pulitv18.live/
 
-#EXTINF:-1 tvg-id="https://8.arectv30.sbs/static/bs1.m3u8?|user-agent=Dart&Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 rec
-https://bs.arectv33.sbs/static/bs1.m3u8?|user-agent=Dart&Mozilla/5.0
-
-#EXTINF:-1 tvg-id="https://8.arectv30.sbs/static/bs11.m3u8?|user-agent=Dart&Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 rec 2
-https://bs.arectv33.sbs/static/bs11.m3u8?|user-agent=Dart&Mozilla/5.0
-
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
-https://stdaddy.onrender.com/proxy?url=https://one.72a430e1cd763c60.click/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stdaddy.onrender.com/proxy?url=https://one.ecaf0a63ab9b6020.click/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
-https://stdaddy.onrender.com/proxy?url=https://one.72a430e1cd763c60.click/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://stdaddy.onrender.com/proxy?url=https://one.ecaf0a63ab9b6020.click/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.seyirspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Seyirspor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
@@ -1769,10 +1766,10 @@ https://trgoals.tecostream.xyz//proxy?id=yayinbm1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinbm2
 
-#EXTINF:-1 tvg-id="CBCSPORT" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT
+#EXTINF:-1 tvg-id="CBCSPORT" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT
 https://goldvod.org/tv/uyanik?id=52
 
-#EXTINF:-1 tvg-id="cbcsport" tvg-logo="http://epg.it999.ru/img/2636.png" group-title="0.KIL-SP0R  MAÇ", v.CBC Sport
+#EXTINF:-1 tvg-id="cbcsport" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png" group-title="0.KIL-SP0R  MAÇ", v.CBC Sport
 http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="112" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
@@ -1799,11 +1796,14 @@ https://goldvod.org/tv/uyanik?id=53
 #EXTINF:-1 tvg-id="idman-az-hd" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", v.iDMAN TV
 http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv
-http://212.102.60.231/NBA_TV/index.m3u8
-
 #EXTINF:-1 tvg-id="115" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1af109dc-4dc7-4185-981b-ccc6f8d45e83.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv
 https://kablosistem.vercel.app/index.m3u8?id=115
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv a
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv b
+https://7pal.short.gy/nbatvus
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.NBA tv tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinnbatv
@@ -1811,38 +1811,17 @@ https://trgoals.tecostream.xyz//proxy?id=yayinnbatv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1
 https://kablosistem.vercel.app/index.m3u8?id=113
 
-#EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/ss1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 rec
-https://bs.arectv33.sbs/static/ss11.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinss
 
 #EXTINF:-1 tvg-id="114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2
 https://kablosistem.vercel.app/index.m3u8?id=114
 
-#EXTINF:-1 tvg-id="https://v.arectv13.sbs/static/ss2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 rec
-https://bs.arectv33.sbs/static/ss2.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinss2
 
-#EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl1.m3u8 https://v.arectv13.sbs/static/pl2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 rec
-https://bs.arectv33.sbs/static/pl1.m3u8
-
-#EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl2.m3u8. https://v.arectv13.sbs/static/pl3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 rec
-https://bs.arectv33.sbs/static/pl2.m3u8
-
-#EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl3.m3u8 https://v.arectv13.sbs/static/pl1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 3 rec
-https://bs.arectv33.sbs/static/pl3.m3u8
-
-#EXTINF:-1 tvg-id="RecTV_sporsmart1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 rec
-https://tv.arectv19.sbs/live/smart1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinsmarts
-
-#EXTINF:-1 tvg-id="RecTV_sporsmart2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 rec
-https://tv.arectv19.sbs/live/smart2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinsms2
@@ -1856,17 +1835,11 @@ https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1
 https://trgoals.tecostream.xyz//proxy?id=yayinex1
 
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 rec
-https://tv.arectv34.sbs/live/tabi1.m3u8
-
 #EXTINF:-1 tvg-id="https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2
 https://trgoals.tecostream.xyz//proxy?id=yayinex2
-
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 rec
-https://tv.arectv34.sbs/live/tabi2.m3u8
 
 #EXTINF:-1 tvg-id="https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3
 https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
@@ -1874,17 +1847,11 @@ https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3
 https://trgoals.tecostream.xyz//proxy?id=yayinex3
 
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 rec
-https://tv.arectv34.sbs/live/tabi3.m3u8
-
 #EXTINF:-1 tvg-id="https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4
 https://trgoals.tecostream.xyz//proxy?id=yayinex4
-
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi4.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4 rec
-https://tv.arectv34.sbs/live/tabi4.m3u8
 
 #EXTINF:-1 tvg-id="https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
@@ -1892,17 +1859,11 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5
 https://trgoals.tecostream.xyz//proxy?id=yayinex5
 
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi5.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 rec
-https://tv.arectv34.sbs/live/tabi5.m3u8
-
 #EXTINF:-1 tvg-id="https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6
 https://trgoals.tecostream.xyz//proxy?id=yayinex6
-
-#EXTINF:-1 tvg-id="https://v.arectv7.sbs/static/tabi6.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 rec
-https://tv.arectv34.sbs/live/tabi6.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 7
 https://trgoals.tecostream.xyz//proxy?id=yayinex7
@@ -1910,29 +1871,14 @@ https://trgoals.tecostream.xyz//proxy?id=yayinex7
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 8
 https://trgoals.tecostream.xyz//proxy?id=yayinex8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ rec
-https://tv.arectv34.sbs/live/tabi.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 rec
-https://tv.arectv34.sbs/live/t1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayint1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 rec
-https://tv.arectv34.sbs/live/t2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayint2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 rec
-https://tv.arectv34.sbs/live/t3.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayint3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 rec
-https://tv.arectv34.sbs/live/t4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayint4
@@ -1994,53 +1940,32 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936198.png" group-title="0.KIL-SP0R  MAÇ", w.trt spor yıldız
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cGxOMrk.png" group-title="0.KIL-SP0R  MAÇ", Z.BEIN sports extra
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="0.KIL-SP0R  MAÇ", Z.BEIN sports extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cGxOMrk.png" group-title="0.KIL-SP0R  MAÇ", Z.beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="0.KIL-SP0R  MAÇ", Z.beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA 1
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA 2
-https://jmp2.uk/sam-DEBA3300019EB.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA +
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="0.KIL-SP0R  MAÇ", z.MLB Network
-https://7pal.short.gy/mlbnw
-
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://i.imgur.com/qAT0jSA.png" group-title="0.KIL-SP0R  MAÇ", z.NBA TV
-https://7pal.short.gy/nbatvus
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300019EB_20240925T141736SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.FIFA ++
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://i.imgur.com/tx3IEJV.png" group-title="0.KIL-SP0R  MAÇ", z.NH Network
 https://7pal.short.gy/nhlnw
 
-#EXTINF:-1 tvg-id="DEBD260000692" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD260000692_20231213T033336SQUARE.png_20231213033337.png" group-title="0.KIL-SP0R  MAÇ", Z.Scooore
-https://jmp2.uk/sam-DEBD260000692.m3u8
-
-#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1500468425/1514.png" group-title="0.KIL-SP0R  MAÇ", z.SKY F1
-https://kirca.com/sportsmac.php?ID=bein/379&=.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport Premier League FHD
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport1 NZ FHD
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png?20200926195853" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport1 NZ FHD
 https://7pal.short.gy/skyspt1nz
 
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport2 NZ FHD
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/1024px-Sky_Sport_2_DE_Logo_2020.svg.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sport2 NZ FHD
 https://7pal.short.gy/skyspt2nz
 
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="0.KIL-SP0R  MAÇ", z.Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
-
-#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1507600205/1554.png" group-title="0.KIL-SP0R  MAÇ", z.sky-sport-premier-league-de
-https://kirca.com/sportsmac.php?ID=bein/354&=.m3u8
-
-#EXTINF:-1 tvg-id="▬ Turkey [TR]  ▬" tvg-logo="https://media.info/i/lf/900/1507600158/1086.png" group-title="0.KIL-SP0R  MAÇ", z.sky-sport-top-event-de
-https://kirca.com/sportsmac.php?ID=bein/243&=.m3u8
 
 #EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports+FHD
 https://7pal.short.gy/ssportplus
@@ -2060,173 +1985,23 @@ https://7pal.short.gy/ssportspl
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="0.KIL-SP0R  MAÇ", z.SkySports_Tennis-FHD
 https://7pal.short.gy/ssportstn
 
-#EXTINF:-1 tvg-id="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240611T061010SQUARE.png" group-title="0.KIL-SP0R  MAÇ", Z.Sportdigital Free
-https://jmp2.uk/sam-DEAJ0500429A.m3u8
-
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="0.KIL-SP0R  MAÇ", z.WWE Network
-https://7pal.short.gy/wwenw
-
-#EXTINF:-1 tvg-id="Accn" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Accn
+#EXTINF:-1 tvg-id="Accn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ACC_Network_Raycom_Logo.png/500px-ACC_Network_Raycom_Logo.png" group-title="0.KIL-SP0R  MAÇ", zz.Accn
 http://212.102.60.231/ACC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="0.KIL-SP0R  MAÇ", zz.BeIN SPORTS USA
-https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="0.KIL-SP0R  MAÇ", zz.DAZN 1 Bar DE
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="DAZN2(src01).de" tvg-logo="https://www.freeshot.live/upload/source/DAZN-logo.png" group-title="0.KIL-SP0R  MAÇ", zz.DAZN 2 Bar De
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Espn 2" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn 2
+#EXTINF:-1 tvg-id="Espn 2" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn 2
 http://212.102.60.231/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn news" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn news
+#EXTINF:-1 tvg-id="Espn news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_International_logo.svg/440px-ESPN_International_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn news
 http://212.102.60.231/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn U" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn U
+#EXTINF:-1 tvg-id="Espn U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/500px-ESPN_U_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", zz.Espn U
 http://212.102.60.231/ESPN_U/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-deportes.png" group-title="0.KIL-SP0R  MAÇ", zz.FOX Deportes USA
-https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-soccer-plus.png" group-title="0.KIL-SP0R  MAÇ", zz.FOX Soccer Plus
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.Fox Sports 1 USA
-https://zekonew.newkso.ru/zeko/premium39/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.Fox Sports 2 USA
-https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png" group-title="0.KIL-SP0R  MAÇ", zz.GOLF Channel USA
-https://zekonew.newkso.ru/zeko/premium318/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laligatv-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.LaLigaTV UK
-https://windnew.newkso.ru/wind/premium276/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Mlb network" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Mlb network
-http://212.102.60.231/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mlb-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.MLB Network USA
-https://windnew.newkso.ru/wind/premium399/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Motor trend" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Motor trend
+#EXTINF:-1 tvg-id="Motor trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1024px-Motor_Trend_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", zz.Motor trend
 http://212.102.60.231/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nba-tv-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NBA TV USA
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Nfl network" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", zz.Nfl network
+#EXTINF:-1 tvg-id="Nfl network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/540px-NFL_Network_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", zz.Nfl network
 http://212.102.60.231/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nfl-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NFL Network
-https://zekonew.newkso.ru/zeko/premium405/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nhl-network-usa.png" group-title="0.KIL-SP0R  MAÇ", zz.NHL Network USA
-https://dokko1new.newkso.ru/dokko1/premium663/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premier-sports-ireland-2.png" group-title="0.KIL-SP0R  MAÇ", zz.Premier Sports Ireland 2
-https://zekonew.newkso.ru/zeko/premium799/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-1-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 1 NZ
-https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-2-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 2 NZ
-https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-3-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 3 NZ
-https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-4-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 4 NZ
-https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-5-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 5 NZ
-https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-6-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 6 NZ
-https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-7-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 7 NZ
-https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-8-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 8 NZ
-https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-9-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport 9 NZ
-https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-select-nz.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sport Select NZ
-https://dokko1new.newkso.ru/dokko1/premium587/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Action UK
-https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Arena UK
-https://zekonew.newkso.ru/zeko/premium36/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Cricket
-https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports F1 UK
-https://windnew.newkso.ru/wind/premium60/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-football-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Football UK
-https://zekonew.newkso.ru/zeko/premium35/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Golf UK
-https://windnew.newkso.ru/wind/premium70/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Main Event
-https://zekonew.newkso.ru/zeko/premium38/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports MIX UK
-https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports News UK
-https://windnew.newkso.ru/wind/premium366/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Premier League
-https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Racing UK
-https://windnew.newkso.ru/wind/premium554/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Sky Sports Tennis UK
-https://windnew.newkso.ru/wind/premium46/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SPORT1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-de.png" group-title="0.KIL-SP0R  MAÇ", zz.Sport1 Germany
-https://ddy6new.newkso.ru/ddy6/premium641/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="SPORT1+.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport1-plus-de.png" group-title="0.KIL-SP0R  MAÇ", zz.Sport1+ Germany
-https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/stream-771.png" group-title="0.KIL-SP0R  MAÇ", zz.Stream 771
-https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 1 UK
-https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 2 UK
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 3 UK
-https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.TNT Sports 4 UK
-https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Sports 1 UK
-https://windnew.newkso.ru/wind/premium451/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Sports 2 UK
-https://windnew.newkso.ru/wind/premium550/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="0.KIL-SP0R  MAÇ", zz.Viaplay Xtra UK
-https://zekonew.newkso.ru/zeko/premium597/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
-
-#EXTINF:-1 tvg-id="vodasport(src01).is" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vodafone-sport.png" group-title="0.KIL-SP0R  MAÇ", zz.Vodafone Sport
-https://windnew.newkso.ru/wind/premium260/mono.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1&referrer=https://webxzplay.cfd/
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
