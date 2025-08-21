@@ -1667,7 +1667,7 @@ http://116.202.238.88/ASPOR_TR/index.m3u8
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=105" tvg-logo="http://assets.tvcdn.net/9177b1f3-4eee-4215-b304-7c76ee2d0c7a.png" group-title="0.KIL-SP0R  MAÇ", beIN Sports Haber
 https://denden06-tem.hf.space/canli.php?kanal=beIN_Sports_Haber
 
-#EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=112" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" group-title="0.KIL-SP0R  MAÇ", Ekol Sports
+#EXTINF:-1 tvg-id="https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/c4ca1fe1-e4ef-496a-9e97-b41a55910e43.png" group-title="0.KIL-SP0R  MAÇ", Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 
 #EXTINF:-1 tvg-id="https://canlitvulusal.tr/wp-content/uploads/2024/01/fener-tv-logo.png https://canlitvulusal.xyz/live/fbtv/index.m3u8" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SP0R  MAÇ", FB TV
@@ -1742,6 +1742,12 @@ https://trgoals.tecostream.xyz//proxy?id=yayin1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve
 https://trgoals.tecostream.xyz//proxy?id=yayinzirve
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/vavoo.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Vavoo
+http://104.238.23.215/iptv_panel/get.php?channel=Channel195&token=token123
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/vavoo.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Vavoo b
+http://104.238.23.215/iptv_panel/get.php?channel=Channel196&token=token123
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1xyz.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 XYZ Sport
 https://stdaddy.onrender.com/proxy?url=https://one.ecaf0a63ab9b6020.click/live/bein-sports-1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -1778,11 +1784,17 @@ http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=111" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
 https://denden06-tem.hf.space/canli.php?kanal=Cosmo_Sports
 
+#EXTINF:-1 tvg-id="107" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/54cad412-5f3a-4184-b5fc-d567a5de7160.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1
+https://kablosistem.vercel.app/index.m3u8?id=107
+
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/250px-Eurosport_Logo_%282011-2015%29.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1
 https://denden06-tem.hf.space/canli.php?kanal=Eurosport_1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 trgoals
 https://trgoals.tecostream.xyz//proxy?id=yayineu1
+
+#EXTINF:-1 tvg-id="108" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a4cbdd15-1509-408f-a108-65b8f88f2066.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2
+https://kablosistem.vercel.app/index.m3u8?id=108
 
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2
 https://denden06-tem.hf.space/canli.php?kanal=Eurosport_2
@@ -1811,6 +1823,9 @@ https://7pal.short.gy/nbatvus
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.NBA tv tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinnbatv
 
+#EXTINF:-1 tvg-id="113" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1
+https://kablosistem.vercel.app/index.m3u8?id=113
+
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=113" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1
 https://denden06-tem.hf.space/canli.php?kanal=S_sport
 
@@ -1819,6 +1834,9 @@ https://217.30.11.74/e/3030.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidc
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 tr goals
 https://trgoals.tecostream.xyz//proxy?id=yayinss
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2
+https://kablosistem.vercel.app/index.m3u8?id=114
 
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=114" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2
 https://denden06-tem.hf.space/canli.php?kanal=S_sport_2
@@ -2882,23 +2900,20 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="0.KIL-ULUSAL", Kanal 7
 https://kablosistem.vercel.app/index.m3u8?id=13
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", KANAL 7 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal 7 uydu
 http://176.65.146.123:6002/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="0.KIL-ULUSAL", Kanal D
 https://kablosistem.vercel.app/index.m3u8?id=11
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", KANAL D HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal D uydu
 http://176.65.146.123:6002/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="0.KIL-ULUSAL", Now
 https://kablosistem.vercel.app/index.m3u8?id=14
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", NOW HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Now uydu
 http://176.65.146.123:6002/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", SHOW HD
-http://176.65.146.123:6002/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", SHOW MAX HD
 http://78.128.125.60:9981/play/a01e/index.m3u8
@@ -2906,16 +2921,19 @@ http://78.128.125.60:9981/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="0.KIL-ULUSAL", Show TV
 https://kablosistem.vercel.app/index.m3u8?id=10
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Show TV uydu
+http://176.65.146.123:6002/play/a01f/index.m3u8
+
 #EXTINF:-1 tvg-id="12" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="0.KIL-ULUSAL", Star
 https://kablosistem.vercel.app/index.m3u8?id=12
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", STAR TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star uydu
 http://176.65.146.123:6001/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="0.KIL-ULUSAL", Teve 2
 https://kablosistem.vercel.app/index.m3u8?id=18
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TEVE2 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Teve 2 uydu
 http://176.65.146.123:6002/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="0.KIL-ULUSAL", tivi 6
@@ -2930,23 +2948,20 @@ https://kablosistem.vercel.app/index.m3u8?id=68
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="0.KIL-ULUSAL", Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TRT 4K
-http://176.65.146.123:6001/play/a027/index.m3u8
-
 #EXTINF:-1 tvg-id="34" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/66c8ed0b-96b6-4476-806e-5e8e877c7fd4.png" group-title="0.KIL-ULUSAL", Tv 4
 https://kablosistem.vercel.app/index.m3u8?id=33
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="0.KIL-ULUSAL", Tv 8
 https://kablosistem.vercel.app/index.m3u8?id=15
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Tv 8 uydu
+http://176.65.146.123:6003/play/a00w/index.m3u8
+
 #EXTINF:-1 tvg-id="27" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="0.KIL-ULUSAL", TV 8.5
 https://kablosistem.vercel.app/index.m3u8?id=27
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV8 5 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV 8.5 uydu
 http://176.65.146.123:6003/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV8 HD
-http://176.65.146.123:6003/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN 1 FEED (720P) |D
 https://goldvod.org/tv/vavoo?id=1363827223785a15d8757e
@@ -4574,8 +4589,8 @@ https://denden06-tem.hf.space/canli.php?kanal=Film_Screen
 #EXTINF:-1 tvg-id="FİLM SCREEN HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (0.Film Screen b
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=120" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="00.KIL-DiZi-FİLM", (0.FX
-https://denden06-tem.hf.space/canli.php?kanal=FX
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/01053a55-0936-405c-8017-d33ef351706f.png" group-title="00.KIL-DiZi-FİLM", (0.FX
+https://kablosistem.vercel.app/index.m3u8?id=120
 
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=6" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8d9fbebd-cade-492d-9cb4-6522cb558794.png" group-title="00.KIL-DiZi-FİLM", (0.Sinema 1001
 https://denden06-tem.hf.space/canli.php?kanal=Sinema_1001
@@ -5920,6 +5935,9 @@ https://denden06-tem.hf.space/canli.php?kanal=Viasat_Explore
 
 #EXTINF:-1 tvg-id="https://kablosistem.vercel.app/index.m3u8?id=87" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", (Viasat History
 https://denden06-tem.hf.space/canli.php?kanal=Viasat_History
+
+#EXTINF:-1 tvg-id="86" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="01.KIL-BELGESEL", (ID
+https://kablosistem.vercel.app/index.m3u8?id=86
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="01.KIL-BELGESEL", 0.BEİN GURME
 https://goldvod.org/tv/vavoo?id=9503946561e741aaf1f5f
@@ -16189,7 +16207,7 @@ https://vidmody.com/vs/tt1300854
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/97/Joker_%28film%29.jpg/500px-Joker_%28film%29.jpg" group-title="10.FiLM DC/MARVEL", Joker 2019
 https://vidmody.com/vs/tt7286456
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/65/Joker_%C4%B0kili_Delilik_film_afi%C5%9Fi.jpg/500px-Joker_%C4%B0kili_Delilik_film_afi%C5%9Fi.jpg" group-title="10.FiLM DC/MARVEL", Joker: İkili Delilik
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/65/Joker_%C4%B0kili_Delilik_film_afi%C5%9Fi.jpg/500px-Joker_%C4%B0kili_Delilik_film_afi%C5%9Fi.jpg" group-title="10.FiLM DC/MARVEL", Joker İkili Delilik
 https://vidmody.com/vs/tt11315808
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Jonah-hex-poster.jpg" group-title="10.FiLM DC/MARVEL", Jonah Hex
