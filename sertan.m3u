@@ -209,20 +209,20 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="0.KIL-MÜZİK", 19.Arirang K-Pop
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
 
-#EXTINF:-1 tvg-id="US39000038W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM
-https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
-
 #EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE3900002R1.m3u8" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM
 https://d2p9bo32dvfrvh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4avpk0b4jtkht/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DE3900002R1" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM a
-https://jmp2.uk/sam-DE3900002R1.m3u8
+#EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE3900002R1.m3u8" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM b
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play a
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+https://stdaddy.onrender.com/proxy?url=https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kpop TV Play 720p" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play b
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+https://stdaddy.onrender.com/proxy?url=https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png" group-title="0.KIL-MÜZİK", 19.Music Japan TV
+http://118.69.84.147:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="0.KIL-MÜZİK", 19.New K-Pop
 https://tinyurl.com/5af9rweu?.m3u8
@@ -239,14 +239,17 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop (KOR)
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" group-title="0.KIL-MÜZİK", 19.NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop MX (KOR)
 https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
 
+#EXTINF:-1 tvg-id="https://www3.nhk.or.jp/nhkworld/en/live/" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NHK_1953.svg/250px-NHK_1953.svg.png" group-title="0.KIL-MÜZİK", 19.NHK WORLD-JAPAN
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
 #EXTINF:-1 tvg-id="https://hls.goodgame.ru/hls/196745.m3u8" tvg-logo="https://i.imgur.com/XY8TxRR.png" group-title="0.KIL-MÜZİK", 19.TOKYO iDOL
 https://hls.goodgame.ru/manifest/196745_master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 14; Infinix X6850 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36
-
-#EXTINF:-1 tvg-id="http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png" group-title="0.KIL-MÜZİK", 20.Music Japan TV
-http://118.69.84.147:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="0.KIL-MÜZİK", 20.Trace Brasil b
 https://d3b13j525hja2q.cloudfront.net/23073/Brazuka/encrypted.m3u8
@@ -1701,13 +1704,16 @@ https://stdaddy.onrender.com/proxy?url=https://corestream.corestream.lat//hls/be
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
 #EXTINF:-1 tvg-id="https://grtv56.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets a
-https://ten.zirvestream10.cfd/yayinzirve.m3u8|referer=https://grtv56.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.zirvestream11.cfd/yayinzirve.m3u8|referer=https://grtv56.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Hayal Bahis
 https://103.253.37.154/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
 https://hsdvs.cfd/cdn/bein_sports_1_hd/main.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin a
+https://yhnbv.cfd/cdn/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin b
 https://xdssa.cfd/daddyhd/cdn/62/main.m3u8
