@@ -38,9 +38,6 @@ https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 #EXTINF:-1 tvg-id="ONS TV 1080p" tvg-logo="https://i.ibb.co/PZW37ch0/onstv.jpg" group-title="0.KIL-MÜZİK", 04.ONS TV 1080p
 https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
-https://cdntv.online/high/ynemik5cl9/1757.m3u8
-
 #EXTINF:-1 tvg-id="https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
@@ -113,9 +110,6 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png" group-title="0.KIL-MÜZİK", 10.POWER e
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" group-title="0.KIL-MÜZİK", 11.POWER DANCE
-https://listen.powerapp.com.tr/dance/dance.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" group-title="0.KIL-MÜZİK", 11.POWER DANCE b
 http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
@@ -183,7 +177,7 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/hip-hop-tv/logo_20241211_000952_70.png" group-title="0.KIL-MÜZİK", 17.HIP HOP TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.portalfoxmix.cl/radioenvivo//images/portalfoxmix-radio-logo-gran-tras.png" group-title="0.KIL-MÜZİK", 17.Portal Foxmix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
@@ -215,6 +209,9 @@ https://d2p9bo32dvfrvh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="https://jmp2.uk/sam-DE3900002R1.m3u8" tvg-logo="https://i.imgur.com/lRy231d.png" group-title="0.KIL-MÜZİK", 19.K-POP by CJ ENM b
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" group-title="0.KIL-MÜZİK", 19.KpopTV
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+
 #EXTINF:-1 tvg-id="https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play a
 https://stdaddy.onrender.com/proxy?url=https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
@@ -236,11 +233,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" group-title="0.KIL-MÜZİK", 19.NEW KPOP
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop (KOR)
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20241014T232231SQUARE.png" group-title="0.KIL-MÜZİK", 19.NEW KPOP
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop (KOR)
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" group-title="0.KIL-MÜZİK", 19.New Kpop MX (KOR)
 https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
