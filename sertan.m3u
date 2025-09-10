@@ -32,11 +32,26 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/460px-4Music_logo_2018.svg.png" group-title="0.KIL-MÜZİK", 04.4 Türkçe Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.Flux tv
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ari music
+http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/playlist.m3u8" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_291.png" group-title="0.KIL-MÜZİK", 04.ONS TV
-https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ctv Azerbaycan 
+http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ktv music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hits
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Russian
+https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Play music
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
@@ -4922,6 +4937,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.NOW  Play
 https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Now tv
+http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" group-title="00.KIL-DiZi-FİLM", 1.ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 
@@ -4948,6 +4966,9 @@ http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.TV25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.tv36
+http://cdn4.yayin.com.tr/tv36/video.m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeaXqZVW8J7GyvOXld6.png" group-title="00.KIL-DiZi-FİLM", 1.TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -9008,6 +9029,24 @@ https://vidmody.com/vs/tt20048582
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.com/uploads/filmler/2025-09/teksas-cadisi-izle.webp" group-title="08.FiLM YENi 2025", Teksas Cadısı
 https://vidmody.com/vs/tt14700102
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-09/ayakci.webp" group-title="08.FiLM YENi 2025", Ayakçı
+https://vidmody.com/vs/tt35979130
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-09/dusmanlar.webp" group-title="08.FiLM YENi 2025", Düşmanlar
+https://vidmody.com/vs/tt34190272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-09/kryptic.webp" group-title="08.FiLM YENi 2025", Kryptic
+https://vidmody.com/vs/tt22697898
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-04/opus.webp" group-title="08.FiLM YENi 2025", Opus
+https://vidmody.com/vs/tt29929565
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-09/swap-2024.webp" group-title="08.FiLM YENi 2025", Swap
+https://vidmody.com/vs/tt13358302
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-09/the-friend.webp" group-title="08.FiLM YENi 2025", The Friend
+https://vidmody.com/vs/tt18108824
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/28-yil-sonra.webp" group-title="08.FiLM YENi 2025", 28 Yıl Sonra 28 Years Later korsan sürüm 
 https://vidmody.com/vs/tt10548174
 
@@ -10279,9 +10318,6 @@ https://vidmody.com/vs/tt13075730
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/onu-geri-getir.webp" group-title="08.FiLM YENi 2025", Onu Geri Getir
 https://vidmody.com/vs/tt32246771
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/opus.webp" group-title="08.FiLM YENi 2025", Opus
-https://vidmody.com/vs/tt29929565
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-03/organ-yolu.webp" group-title="08.FiLM YENi 2025", Organ Yolu
 https://vidmody.com/vs/tt18071972
