@@ -44,10 +44,10 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8" tvg-logo="https://mahnitv.az/images/logo.png" group-title="0.KIL-MÜZİK", 04.Mahni tv
 http://xantv.site:41480/MahniTV/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan
 https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hits
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/33090/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hits
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Russian
@@ -3050,9 +3050,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="0.KIL-ULUSAL", 16.TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", ATV Uydu
-http://176.65.146.123:6001/play/a01t/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png" group-title="0.KIL-ULUSAL", Bi kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 
@@ -3071,27 +3068,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="0.KIL-ULUSAL", CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal 7 uydu
-http://176.65.146.123:6002/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal D uydu
-http://176.65.146.123:6002/play/a00y/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Now uydu
-http://176.65.146.123:6002/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", SHOW MAX HD
-http://78.128.125.60:9981/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Show TV uydu
-http://176.65.146.123:6002/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star uydu
-http://176.65.146.123:6001/play/a020/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Teve 2 uydu
-http://176.65.146.123:6002/play/a010/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="0.KIL-ULUSAL", tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -3100,12 +3076,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="0.KIL-ULUSAL", Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Tv 8 uydu
-http://176.65.146.123:6003/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV 8.5 uydu
-http://176.65.146.123:6003/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN 1 FEED (720P) |D
 https://goldvod.org/tv/vavoo?id=1363827223785a15d8757e
