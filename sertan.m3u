@@ -1745,8 +1745,8 @@ https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.dady.gif" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Dady
-http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv
+#EXTINF:-1 tvg-id="http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.dady.gif" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Dady
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Goley90.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Goley90
 https://stdaddy.onrender.com/proxy?url=http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
@@ -6200,11 +6200,17 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/bitrate1.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="01.KIL-BELGESEL", 7.insight TV
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/outdoor-channel/logo_20250911_181607_70.png" group-title="01.KIL-BELGESEL", 7.Outdoor Channel
+https://d1sirew68g1yhb.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannel/455.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png" group-title="01.KIL-BELGESEL", 7.Outside
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/skull-bound-tv/logo_20250102_202956_70.png" group-title="01.KIL-BELGESEL", 7.Skull Bound TV
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/wfn-world-fishing-network/logo_20250911_182344_70.png" group-title="01.KIL-BELGESEL", 7.WFN: World Fishing Network
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/logo_20250401_214215_70.png" group-title="01.KIL-BELGESEL", 7.Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
