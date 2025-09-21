@@ -35,6 +35,9 @@ http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ctv Azerbaycan 
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.kntv
+https://cdn4.yayin.com.tr/kntv/video.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ktv music
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
@@ -5153,6 +5156,9 @@ http://104.238.23.215/yt.php?ID=UCmw7e_6j2TSWCKeaZALjyuA&ext=.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.ÖNDE TV ᵏᵃᵑᵏᵃ
 https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" group-title="00.KIL-DiZi-FİLM", 1.Şaban Tv
+https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DiZi-FİLM", 2.Kanal D Siyah Beyaz Aşk
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
 
@@ -5173,6 +5179,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ddizi.im/diziresimleri/askevlilikbosanmakapak-min.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Aşk Evlilik Boşanma
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/5f1510/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2025/09/02/1756802266641.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Aşk Ve Gözyaşı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Ve.Gozyasi.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/bahar.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Bahar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
