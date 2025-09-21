@@ -26,9 +26,6 @@ http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="0.KIL-MÜZİK", 03.KRAL Türknet
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/460px-4Music_logo_2018.svg.png" group-title="0.KIL-MÜZİK", 04.4 müzik tv
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/460px-4Music_logo_2018.svg.png" group-title="0.KIL-MÜZİK", 04.4 Türkçe Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
@@ -44,11 +41,14 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8" tvg-logo="https://mahnitv.az/images/logo.png" group-title="0.KIL-MÜZİK", 04.Mahni tv
 http://xantv.site:41480/MahniTV/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan
-https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hd
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/33090/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hits
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Plus
+https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Russian
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
