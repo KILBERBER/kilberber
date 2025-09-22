@@ -5000,8 +5000,17 @@ http://78.128.125.60:9980/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.CİNE 1
+http://195.142.3.105/artidijital_cine1/cine1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TR:Sinema TV 6 HD" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.CİNE 6 
+https://cine6tv.cine6tv.com.tr:3614/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.CİNE 6 Max
+https://cinemax6.cinemax6.com:3118/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/cnbcelogo_0AAADFA7-1B4C-4530-9C6C-941D80FD2A60.png" group-title="00.KIL-DiZi-FİLM", 1.CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -5068,6 +5077,9 @@ http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="00.KIL-DiZi-FİLM", 1.Kıbrıs Torba TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.LEBİH TV
+https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="00.KIL-DiZi-FİLM", 1.LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -5167,6 +5179,9 @@ https://goldvod.org/tv/uyanik?id=10&ext=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.VİZİTÜRK KOMEDİ
 https://goldvod.org/tv/uyanik?id=10
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.YANSIMA SİNEMA
+https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.YEŞİLÇAM 1
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
