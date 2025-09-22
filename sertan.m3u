@@ -8099,18 +8099,6 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://canlitvulusal.xyz/live/mekke/index.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.KABE TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.KABE TV 1
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-
-#EXTINF:-1 tvg-id="https://canlitvulusal.xyz/live/medine/index.m3u8" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.MEDiNE TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 0.MEDiNE TV 2
-https://sbc-prod-dub-ak.akamaized.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.italya golden
 https://webcam.alfa.it/webcams/memfs/918f99b7-683e-49ad-8131-d7e7c03d1dbd.m3u8
 
@@ -8155,9 +8143,6 @@ https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/playlis
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.Астана - ТРЦ Хан Шатыр 2
 http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", Ankara Çankaya - Kıvırcık Ali Parkı
-http://cdn10-ipkamerademo.yayin.com.tr/ipkamerademo/ipkamerademo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", Balıkesir Akçay Kordon
 https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8
@@ -8227,120 +8212,6 @@ https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MWSUYJM.png" group-title="04.KIL-MOBESE", Burdur Salda Gölü
 https://5a1178b42cc03.streamlock.net/salda-golu-2/salda_golu_2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Afrika Savana
-https://uzunmuhalefet.serv00.net/bursa.php?id=23329&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Gergedanlar
-https://uzunmuhalefet.serv00.net/bursa.php?id=23324&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Habeş Maymunu
-https://uzunmuhalefet.serv00.net/bursa.php?id=23327&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Kaplanlar
-https://uzunmuhalefet.serv00.net/bursa.php?id=23321&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Lemurlar
-https://uzunmuhalefet.serv00.net/bursa.php?id=23322&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat Bahçesi Penguenler 2
-https://uzunmuhalefet.serv00.net/bursa.php?id=23325&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa - Hayvanat BahçesiFoklar
-https://uzunmuhalefet.serv00.net/bursa.php?id=23323&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa 1. Murat Külliyesi
-https://uzunmuhalefet.serv00.net/bursa.php?id=21580&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Cumhuriyet Cadde - Tuz Pazarı
-https://uzunmuhalefet.serv00.net/bursa.php?id=23530&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Emirsultan
-https://uzunmuhalefet.serv00.net/bursa.php?id=13239&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Heykel Tarihi Belediye Binası
-https://uzunmuhalefet.serv00.net/bursa.php?id=9158&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Hüdavendigar Kent Parkı
-https://uzunmuhalefet.serv00.net/bursa.php?id=14903&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Kapalı Çarşı
-https://uzunmuhalefet.serv00.net/bursa.php?id=17234&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Kaplıkaya Cazibe Merkezi
-https://uzunmuhalefet.serv00.net/bursa.php?id=15682&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Kültürpark
-https://uzunmuhalefet.serv00.net/bursa.php?id=16923&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Merinos AKKM Gölpark
-https://uzunmuhalefet.serv00.net/bursa.php?id=14803&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Millet Bahçesi
-https://uzunmuhalefet.serv00.net/bursa.php?id=23390&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Orhangazi Meydanı
-https://uzunmuhalefet.serv00.net/bursa.php?id=13788&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Osmangazi Metro İstasyonu
-https://uzunmuhalefet.serv00.net/bursa.php?id=13136&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Setbaşı Köprüsü
-https://uzunmuhalefet.serv00.net/bursa.php?id=9153&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Setbaşı Meydanı
-https://uzunmuhalefet.serv00.net/bursa.php?id=21562&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Stadyum Önü
-https://uzunmuhalefet.serv00.net/bursa.php?id=23533&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Surlar ve Saltanat Kapı- 2. Osmangazi Caddesi
-https://uzunmuhalefet.serv00.net/bursa.php?id=15750&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Teferrüç
-https://uzunmuhalefet.serv00.net/bursa.php?id=14805&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Tophane Parkı
-https://uzunmuhalefet.serv00.net/bursa.php?id=14799&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Tophaneden Bursa
-https://uzunmuhalefet.serv00.net/bursa.php?id=14862&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Ulucamii
-https://uzunmuhalefet.serv00.net/bursa.php?id=16785&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Uludağ - Sarıalan
-https://uzunmuhalefet.serv00.net/bursa.php?id=23504&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Uludağ Zirve
-https://uzunmuhalefet.serv00.net/bursa.php?id=18201&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Uzunçarşı
-https://uzunmuhalefet.serv00.net/bursa.php?id=13791&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Vakıf Kent Parkı
-https://uzunmuhalefet.serv00.net/bursa.php?id=23529&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Yeşil Türbe
-https://uzunmuhalefet.serv00.net/bursa.php?id=14807&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Yıldırım Beyazıt Meydanı
-https://uzunmuhalefet.serv00.net/bursa.php?id=16619&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Zafer Plaza (Cumhuriyet Caddesi Girişi)
-https://uzunmuhalefet.serv00.net/bursa.php?id=16787&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Çekirge Meydanı
-https://uzunmuhalefet.serv00.net/bursa.php?id=13926&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa Irgandı Köprüsü
-https://uzunmuhalefet.serv00.net/bursa.php?id=23514&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa II. Murat Külliyesi
-https://uzunmuhalefet.serv00.net/bursa.php?id=21577&.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8gwVGCD.png" group-title="04.KIL-MOBESE", Bursa ŞEHREKÜSTÜ 15 TEMMUZ DEMOKRASİ MEYDANI
-https://uzunmuhalefet.serv00.net/bursa.php?id=17131&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RKJsah9.png" group-title="04.KIL-MOBESE", Denizli 15 Temmuz Delikliçınar Şehitler Meydanı
 http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/playlist.m3u8
@@ -8435,41 +8306,14 @@ https://content.tvkur.com/l/cei9a1fmm25sdv36p5d0/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nWeEm2p.png" group-title="04.KIL-MOBESE", Konya Şerafetti̇n Cami̇i̇
 https://content.tvkur.com/l/c77i7dr84cnrb6mlji80/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Atatürk Bulvarı
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Belediye Meydan
-http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Bozburun
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - İçmeler
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Kordon Caddesi 1
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Kordon Caddesi 2
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Uzunyalı
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MCLg8va.png" group-title="04.KIL-MOBESE", Marmaris - Yat Limanı
-https://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ba5kP5k.png" group-title="04.KIL-MOBESE", Muğla - Fethiye Ölüdeniz - Belcekiz Beach Bar
 https://uzunmuhalefet.serv00.net/ipcamlive.php?id=belcekizbeachclub&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-MOBESE", Muğla - Fethiye Ölüdeniz - Emre Beach Hotel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.marmarishotels.org/data/Imgs/OriginalPhoto/11795/1179526/1179526081/emre-beach-emre-hotel-marmaris-img-1.JPEG" group-title="04.KIL-MOBESE", Muğla - Fethiye Ölüdeniz - Emre Beach Hotel
 https://uzunmuhalefet.serv00.net/ipcamlive.php?id=emrehotels&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yCrCPKe.png" group-title="04.KIL-MOBESE", Ordu Ünye - Cumhuriyet Meydanı [RTSP.me]
-https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/3hHQts5a.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WyQXOER.png" group-title="04.KIL-MOBESE", Sivas Zara - Meydan
-https://server.arvas.com.tr/meydan.m3u8
+https://stdaddy.onrender.com/proxy?url=https://server.arvas.com.tr/meydan.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OGAZgZI.png" group-title="04.KIL-MOBESE", Tokat Atatürk Köprüsü
 http://212.156.98.150:1936/Kamera/AtaturkKoprusu.stream/playlist.m3u8
@@ -8483,101 +8327,35 @@ http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OGAZgZI.png" group-title="04.KIL-MOBESE", Tokat Kalesi
 http://212.156.98.150:1936/Kamera/Kale.stream/stream.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum Abide Kavşağı
-http://95.0.0.94:1935/live/abide-kavsagi.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum Akşemseddin Camii
-http://95.0.0.94:1935/live/aksemseddincami.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum Ayakkabıcılar Arastası
-http://95.0.0.94:1935/live/arasta.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum Gazi Caddesi
-http://95.0.0.94:1935/live/gazicaddesi.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum İnönü Caddesi
-http://95.0.0.94:1935/live/inonucaddesi.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/O7mWPsS.png" group-title="04.KIL-MOBESE", Çorum Kadeş Meydanı
-http://95.0.0.94:1935/live/kentmeydani.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="05.KIL-ÇOCUK", 0.Minika Go
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="05.KIL-ÇOCUK", 0.Minika çocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-
-#EXTINF:-1 tvg-id="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="05.KIL-ÇOCUK", 0.TRT Diyanet çocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" group-title="05.KIL-ÇOCUK", 0.trt eba
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", 0.TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="130" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1cc6ebf5-4e01-407d-8a88-94dcdf2d5ddd.png" group-title="05.KIL-ÇOCUK", Azoomee
-https://kablosistem.vercel.app/index.m3u8?id=130
-
-#EXTINF:-1 tvg-id="131" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2442b7b7-04da-41c1-a7ca-03466853040e.png" group-title="05.KIL-ÇOCUK", Baby Tv
-https://kablosistem.vercel.app/index.m3u8?id=131
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/8d135126-4250-490b-914e-1a255d1e4d70.png" group-title="05.KIL-ÇOCUK", Baby TV (saran)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="05.KIL-ÇOCUK", Baby TV (saran)
 https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:-1 tvg-id="133" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4c47b639-2916-4563-9e40-0f2a7925b2ea.png" group-title="05.KIL-ÇOCUK", Cartoon Network
-https://kablosistem.vercel.app/index.m3u8?id=133
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="05.KIL-ÇOCUK", Cartoonito
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="05.KIL-ÇOCUK", Cartoonito
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6850/index.m3u8
-
-#EXTINF:-1 tvg-id="137" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f2ed966d-693e-40b4-a737-740817d4eb2f.png" group-title="05.KIL-ÇOCUK", Da Vinci
-https://kablosistem.vercel.app/index.m3u8?id=137
 
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="05.KIL-ÇOCUK", Disney Jr (saran)
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-id="132" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/51d3a383-2842-4a4c-b622-20f09b309973.png" group-title="05.KIL-ÇOCUK", Disney Junior
-https://kablosistem.vercel.app/index.m3u8?id=132
-
-#EXTINF:-1 tvg-id="135" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/d8107e33-52b1-4ba0-a7d4-bb877d5658c4.png" group-title="05.KIL-ÇOCUK", Duck Tv
-https://kablosistem.vercel.app/index.m3u8?id=135
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="05.KIL-ÇOCUK", Duck TV
-https://jmp2.uk/sam-ESBC4700001GR.m3u8
-
-#EXTINF:-1 tvg-id="136" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/31a93dde-3b2e-4be7-b684-43ee9c2a5442.png" group-title="05.KIL-ÇOCUK", English Club
-https://kablosistem.vercel.app/index.m3u8?id=136
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv/logo_20231219_214656_61.png" group-title="05.KIL-ÇOCUK", Kids TV - Nursery Rhymes and Baby Songs
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
 
-#EXTINF:-1 tvg-id="138" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/97f5f9c6-70e1-4326-a046-43d6fdd0d81c.png" group-title="05.KIL-ÇOCUK", LangLab
-https://kablosistem.vercel.app/index.m3u8?id=138
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="05.KIL-ÇOCUK", Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-id="139" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/a29ccf28-73b8-48ef-a055-ddb1820c9d57.png" group-title="05.KIL-ÇOCUK", LingoToons
-https://kablosistem.vercel.app/index.m3u8?id=139
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="05.KIL-ÇOCUK", Minika çocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7dfb3c14-3837-4c82-9c30-88edefebe4bd.png" group-title="05.KIL-ÇOCUK", Minika Go
-https://kablosistem.vercel.app/index.m3u8?id=127
-
-#EXTINF:-1 tvg-id="126" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/12a9b581-f79c-41ba-b1e4-2f13f0087776.png" group-title="05.KIL-ÇOCUK", Minika Çocuk
-https://kablosistem.vercel.app/index.m3u8?id=126
-
-#EXTINF:-1 tvg-id="134" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3b9d40e7-327e-4d51-977b-e46286eda12f.png" group-title="05.KIL-ÇOCUK", Moonbug
-https://kablosistem.vercel.app/index.m3u8?id=134
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="05.KIL-ÇOCUK", Moonbug
-https://tinyurl.com/5ccu9cut
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="05.KIL-ÇOCUK", Nicktoons
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/500px-Nicktoons_2023_Outlined_Logo.png" group-title="05.KIL-ÇOCUK", Nicktoons
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6848/index.m3u8
 
-#EXTINF:-1 tvg-id="129" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1e92ccd2-d2f4-48e5-a886-164389511271.png" group-title="05.KIL-ÇOCUK", Spacetoon
-https://kablosistem.vercel.app/index.m3u8?id=129
+#EXTINF:-1 tvg-id="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="05.KIL-ÇOCUK", TRT Diyanet çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="140" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1b0a8967-61ef-4066-a422-2e4eccd18ec5.png" group-title="05.KIL-ÇOCUK", TinyTeen
-https://kablosistem.vercel.app/index.m3u8?id=140
+#EXTINF:-1 tvg-id="https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" group-title="05.KIL-ÇOCUK", TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="06.E SPOR GAMES", Alpha Games
 http://hls.goodgame.ru:8080/hls/205115.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
