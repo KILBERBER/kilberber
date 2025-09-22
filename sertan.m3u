@@ -57,6 +57,9 @@ https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Play music
+https://a8.radyotelekom.com.tr:3877/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Play music
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
@@ -1758,7 +1761,7 @@ https://stdaddy.onrender.com/proxy?url=http://95.174.71.114:80/TR-BEINSPORT1/ind
 https://stdaddy.onrender.com/proxy?url=http://95.174.71.114:80/TR-BEINSPORT1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://grtv58.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets a
-https://seven.zirvedesin7.sbs/yayinzirve.m3u8|referer=https://grtv58.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://nine.zirvedesin9.sbs/yayinzirve.m3u8|referer=https://grtv58.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 HayalBahis Spikersiz
 https://217.30.11.74/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -4944,7 +4947,7 @@ https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/mvturk.m3u8
 https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinema1002.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" group-title="00.KIL-DiZi-FİLM", 00.FİL TV
-https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+https://stdaddy.onrender.com/proxy?url=https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8" tvg-logo="https://sdmtv.com.tr/images/sdm-tv-300x109.png" group-title="00.KIL-DiZi-FİLM", 00.SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
@@ -4991,6 +4994,9 @@ http://palatv34.ozelip.com:22372/almanyatv/almanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.canlitv.my/kanal/logo/67/13331.jpg" group-title="00.KIL-DiZi-FİLM", 1.Anadolu dost
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.bein türk
+http://78.128.125.60:9980/play/a01g/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
@@ -5012,17 +5018,29 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="00.KIL-DiZi-FİLM", 1.CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.CINE4 EHLİBEYT
+http://208.79.153.42/akamaissh101/ssh101/CINE4_EHL%C4%B0BEYT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.CINE5_TURK_TV
+http://208.79.153.42/akamaissh101/ssh101/CINE5_T%C3%9CRK_TV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" group-title="00.KIL-DiZi-FİLM", 1.Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.engelsiztv.com.tr/wp-content/uploads/2025/01/engelsiz-logoyeni.jpg" group-title="00.KIL-DiZi-FİLM", 1.Engelsiz TV
 https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Fusion TV
+http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b4/HBB_logosu.png" group-title="00.KIL-DiZi-FİLM", 1.HBB
 http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.HOÇWAN TV ᵏᵃᵑᵏᵃ
 https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Htv Sinema
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="00.KIL-DiZi-FİLM", 1.isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
@@ -5044,6 +5062,9 @@ http://104.238.23.215/yt.php?ID=UCoIUysIrvGxoDw-GkdOGjRw&ext=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.KEMAL SUNAL FİLMLERİ 3
 http://104.238.23.215/yt.php?ID=UCulg-mlXf314L1pemPqCVng&ext=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.KRAL6 TV
+http://208.79.153.42/akamaissh101/ssh101/kral6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png" group-title="00.KIL-DiZi-FİLM", 1.Kıbrıs Torba TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
@@ -5075,6 +5096,9 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="TeleOn.tr" tvg-logo="https://ufkumtv.net/uploads/logo/footer/UTV.png" group-title="00.KIL-DiZi-FİLM", 1.PLAY UFKUM tv ᴴᴰ
 https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Retro tv
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="00.KIL-DiZi-FİLM", 1.RIZE TÜRK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
@@ -5096,11 +5120,23 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Sirius_TV_%28Televisyen_Malaysia%29.png" group-title="00.KIL-DiZi-FİLM", 1.SiriusHd TV
 https://132544.edgevideo.ru/streams/132544_959456/1325441080/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.TEBER ON
+http://208.79.153.42/akamaissh101/ssh101/TEBER_10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.TEBER STAR 2
+http://208.79.153.42/akamaissh101/ssh101/teber_star2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.TEBER STAR1
+http://208.79.153.42/akamaissh101/ssh101/teber_star1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="00.KIL-DiZi-FİLM", 1.TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.TV 36 Cinema
 http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.TV B
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.TV25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist_w498982157.m3u8
@@ -5158,6 +5194,9 @@ https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" group-title="00.KIL-DiZi-FİLM", 1.Şaban Tv
 https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Şirvan Tv
+https://a8.radyotelekom.com.tr:3326/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x148/650d553eebc8301fbca42d23.jpg" group-title="00.KIL-DiZi-FİLM", 2.Kanal D Siyah Beyaz Aşk
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3
