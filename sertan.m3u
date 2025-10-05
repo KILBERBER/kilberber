@@ -5529,6 +5529,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/226x313/66d712c7fe304127fa99b4d7.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Arka sokaklar
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/83b590/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2025/09/23/1758612597389.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Aynadaki Yabancı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aynadaki.Yabanci.SON.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ddizi.im/diziresimleri/askevlilikbosanmakapak-min.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Aşk Evlilik Boşanma
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
 
@@ -5540,6 +5543,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/dd8d01/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2025/01/24/500x268/1737750299104.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Başka bir gün
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://w2epsrhsbnit.merlincdn.net/storage/banners/18063f6b-7b85-4bab-811e-286e17dc4681.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Ben Leman
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/1257d9/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/09/05/500x268/1725545469456.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Bir gece masalı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
@@ -8426,6 +8432,9 @@ http://104.238.23.215/yt.php?ID=UCkFeoNSqYTa7trn75WM9tsg&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@timjanis" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Relaxing Music, Peaceful Instrumental Music
 http://104.238.23.215/yt.php?ID=UCdi8yQBdBfn1ECu3ayH_TnA&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@RitmoLatino-s1s" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Ritmo Latino
+http://104.238.23.215/yt.php?ID=UCgkzMQ0eekWm_s5wCOCWCWw&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@romanticamusicaoficial" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Romantica Musica
 http://104.238.23.215/yt.php?ID=UC8HEkuYR6IJGMhZ8YqNFB3g&ext=.m3u8
 
@@ -8762,14 +8771,29 @@ http://104.238.23.215/yt.php?ID=UCPq2ETz4aAGo2Z-8JisDPIA&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@esn.esportsnetwork" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.eSports Network
 http://104.238.23.215/yt.php?ID=UCVn6cPoOLELqLwrmKXkNM6w&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@garenarovthai" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Garena RoV Thailand
+http://104.238.23.215/yt.php?ID=UCy19QXxbCHh8qVVCbuGk-ig&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@Gaules" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Gaules
 http://104.238.23.215/yt.php?ID=UC5ZTRH1zclthyc6b_D3m2Pw&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@kuyanicwxc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.KuyaNic
+http://104.238.23.215/yt.php?ID=UC9SOYUeP6kxIRkHNCq22LkA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@midcs2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.mid cs2
 http://104.238.23.215/yt.php?ID=UCxgRGAy01Cx9RYH3cq8QkxA&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@MobileLegends5v5MOBA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Mobile Legends: Bang Bang
+http://104.238.23.215/yt.php?ID=UCqmld-BIYME2i_ooRTo1EOg&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@MPLIndonesia" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.MPL Indonesia
+http://104.238.23.215/yt.php?ID=UC1dGHGJTXU_dkiR8tW3qQgg&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@PUBGEsports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.PUBG Esports
 http://104.238.23.215/yt.php?ID=UCLgYa1O5NodobOaDK6xj5aQ&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@PMJL_official" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.PUBG MOBILE JAPAN LEAGUE OFFICIAL
+http://104.238.23.215/yt.php?ID=UCF3_KdAet7Ijy-QLxu8-waA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/c/PUBGMOBILET%C3%BCrkiye" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.PUBG MOBILE Türkiye
 http://104.238.23.215/yt.php?ID=UCbirTc2eA8spyfd2Y8Ak6lg&ext=.m3u8
@@ -10123,8 +10147,14 @@ https://stdaddy.onrender.com/proxy?url=https://fl1001.bozztv.com/ushba44/index.m
 #EXTINF:-1 tvg-id="ghd.tv.vodafone.pt" tvg-logo="http://gametoon.com/images/logo.png" group-title="06.E SPOR GAMES", GameToon
 http://iptv.prosto.tv:7000/ch256/video.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@garenarovthai" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Garena RoV Thailand
+http://104.238.23.215/yt.php?ID=UCy19QXxbCHh8qVVCbuGk-ig&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@Gaules" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Gaules
 http://104.238.23.215/yt.php?ID=UC5ZTRH1zclthyc6b_D3m2Pw&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@kuyanicwxc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", KuyaNic
+http://104.238.23.215/yt.php?ID=UC9SOYUeP6kxIRkHNCq22LkA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="06.E SPOR GAMES", Mahar esports b
 https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
@@ -10132,8 +10162,17 @@ https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@midcs2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", mid cs2
 http://104.238.23.215/yt.php?ID=UCxgRGAy01Cx9RYH3cq8QkxA&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@MobileLegends5v5MOBA" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Mobile Legends: Bang Bang
+http://104.238.23.215/yt.php?ID=UCqmld-BIYME2i_ooRTo1EOg&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@MPLIndonesia" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", MPL Indonesia
+http://104.238.23.215/yt.php?ID=UC1dGHGJTXU_dkiR8tW3qQgg&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@PUBGEsports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", PUBG Esports
 http://104.238.23.215/yt.php?ID=UCLgYa1O5NodobOaDK6xj5aQ&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@PMJL_official" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", PUBG MOBILE JAPAN LEAGUE OFFICIAL
+http://104.238.23.215/yt.php?ID=UCF3_KdAet7Ijy-QLxu8-waA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/c/PUBGMOBILET%C3%BCrkiye" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", PUBG MOBILE Türkiye
 http://104.238.23.215/yt.php?ID=UCbirTc2eA8spyfd2Y8Ak6lg&ext=.m3u8
