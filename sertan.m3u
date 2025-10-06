@@ -1825,7 +1825,7 @@ http://162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-1288
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
 
 #EXTINF:-1 tvg-id="https://canlitvulusal.tr/wp-content/uploads/2024/01/fener-tv-logo.png https://canlitvulusal.xyz/live/fbtv/index.m3u8" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SP0R  MAÇ", FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
@@ -1886,6 +1886,9 @@ https://217.30.11.74/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcd
 
 #EXTINF:-1 tvg-id="http://tvjustin.com/ https://birazcikspor25.xyz/bs-logo.png https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamliveexn1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justin b
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justsporthd
 https://streamnet9.xyz/?url=https://streamcdn.xyz/hls/bein1.m3u8?|referer=https://justsporthd43.xyz/
@@ -1974,62 +1977,62 @@ https://corestream.corestream1.help//hls/bein-sports-2.m3u8
 #EXTINF:-1 tvg-id="https://freeshot.top/" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Freeshot
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS2TR
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs2.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayinb2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/602/index.m3u8
-
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/bein-sports-3.m3u8
+https://corestream.corestream1.help//hls/bein-sports-3.m3u8
 
 #EXTINF:-1 tvg-id="160" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Freeshot
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS3TR
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs3.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 trgoals
 https://tecogoals.tecostream.xyz/yayinb3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Var sport 
-https://cdn-8878.varplaycdn.cfd/603/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/bein-sports-4.m3u8
+https://corestream.corestream1.help//hls/bein-sports-4.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=BEINSPORT4TR
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs4.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 tr goals
 https://tecogoals.tecostream.xyz/yayinb4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Var sport 
-https://cdn-8878.varplaycdn.cfd/604/index.m3u8
-
 #EXTINF:-1 tvg-id="162" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS5TR
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 trgoals
 https://tecogoals.tecostream.xyz/yayinb5
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 Var sport 
-https://cdn-8878.varplaycdn.cfd/605/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 trgoals
 https://tecogoals.tecostream.xyz/yayinbm1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/801/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/802/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 trgoals
 https://tecogoals.tecostream.xyz/yayinbm2
@@ -2043,14 +2046,14 @@ http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivecbcs.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/dazn2.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN 2 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sdazn2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn2.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN 2 Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sdazn2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN NFL Network Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/nflnetwork/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN NFL Network Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/nflnetwork/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="790" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=Euro1TR
@@ -2058,17 +2061,11 @@ http://freshot.karamehmet.workers.dev/?ID=Euro1TR
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_eurosport1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Rec
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/euro1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/seurosport1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/seurosport1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 trgoals
 https://tecogoals.tecostream.xyz/yayineu1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-id="791" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=Euro2TR
@@ -2076,17 +2073,11 @@ http://freshot.karamehmet.workers.dev/?ID=Euro2TR
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_eurosport2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Rec
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/euro2.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayineu2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 1 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn1.m3u8
@@ -2094,20 +2085,35 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn2.m3u8
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 3 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn3.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 4 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn4.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 5 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn5.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 6 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn6.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 7 Justin 
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn7.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.F1
 https://tecogoals.tecostream.xyz/yayinf1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [DE]  Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1de/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [DE]  Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sskysportsf1de/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [UK] Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1uk/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [UK] Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sskysportsf1uk/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [ITA] Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1ita/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [ITA] Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sskysportsf1ita/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="IDMANTV" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", v.iDMAN TV
 https://goldvod.org/tv/uyanik?id=53
@@ -2118,11 +2124,11 @@ http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.iDMAN TV Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveidm.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/motorsport.png" group-title="0.KIL-SP0R  MAÇ", v.Motorsport TV Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/smotorsporttv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/motorsport.png" group-title="0.KIL-SP0R  MAÇ", v.Motorsport TV Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/smotorsporttv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/motorvision.png" group-title="0.KIL-SP0R  MAÇ", v.Motorvision TV Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/smotorvisiontv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/motorvision.png" group-title="0.KIL-SP0R  MAÇ", v.Motorvision TV Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/smotorvisiontv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv a
 http://212.102.60.231/NBA_TV/index.m3u8
@@ -2136,11 +2142,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.NBA tv tr goals
 https://tecogoals.tecostream.xyz/yayinnbatv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.NFL CHANNEL Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/nflchannel/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.NFL CHANNEL Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/nflchannel/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Atomsport
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/s-sport.m3u8
+https://corestream.corestream1.help//hls/s-sport.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Hayalbahis
 https://217.30.11.74/e/3030.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -2148,20 +2154,20 @@ https://217.30.11.74/e/3030.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidc
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivess1.m3u8
 
+#EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Rec
+https://bs.arectv33.sbs/static/ss11.m3u8
+
 #EXTINF:-1 tvg-id="RecTV_ssport1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Rec
-https://stdaddy.onrender.com/proxy?url=https://bs.arectv19.sbs/static/ss11.m3u8
+https://bs.arectv19.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sssport/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/sssport/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 trgoals
 https://tecogoals.tecostream.xyz/yayinss
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/607/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/s-sport-2.m3u8
+https://corestream.corestream1.help//hls/s-sport-2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Hayalbahis
 https://217.30.11.74/e/3031.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -2169,47 +2175,35 @@ https://217.30.11.74/e/3031.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidc
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivess2.m3u8
 
+#EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Rec
+https://bs.arectv33.sbs/static/ss2.m3u8
+
 #EXTINF:-1 tvg-id="RecTV_ssport2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Rec
-https://stdaddy.onrender.com/proxy?url=https://bs.arectv19.sbs/static/ss2.m3u8
+https://bs.arectv19.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sssport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://one.c37c5ccda41b4ac6.click/live/sssport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayinss2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/608/index.m3u8
-
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl1.m3u8 https://v.arectv13.sbs/static/pl2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 rec
-https://stdaddy.onrender.com/proxy?url=https://bs.arectv33.sbs/static/pl1.m3u8
+https://bs.arectv33.sbs/static/pl1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sssplus1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/901/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sssplus1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl2.m3u8. https://v.arectv13.sbs/static/pl3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 rec
-https://stdaddy.onrender.com/proxy?url=https://bs.arectv33.sbs/static/pl2.m3u8
+https://bs.arectv33.sbs/static/pl2.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/902/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl3.m3u8 https://v.arectv13.sbs/static/pl1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 3 rec
-https://stdaddy.onrender.com/proxy?url=https://bs.arectv33.sbs/static/pl3.m3u8
+https://bs.arectv33.sbs/static/pl3.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 3 Var sport 
-https://cdn-8878.varplaycdn.cfd/903/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 4 Var sport 
-https://cdn-8878.varplaycdn.cfd/904/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 5 Var sport 
-https://cdn-8878.varplaycdn.cfd/905/index.m3u8
+#EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 4 rec
+https://bs.arectv33.sbs/static/pl4.m3u8
 
 #EXTINF:-1 tvg-id="https://solhtvhls.wns.live/hls/stream.m3u8" tvg-logo="https://darya.stream/wp-content/uploads/2025/01/Solhsport-tv-live.jpg" group-title="0.KIL-SP0R  MAÇ", v.Solh Sport
 https://solhtvhls.wns.live/hls/stream.m3u8
@@ -2218,16 +2212,13 @@ https://solhtvhls.wns.live/hls/stream.m3u8
 https://217.30.11.74/e/155.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 Justin
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivesm1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist//androstreamlivesm1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sporsmart1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 Rec
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/smart1.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 trgoals
 https://tecogoals.tecostream.xyz/yayinsmarts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/609/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Hayalbahis
 https://217.30.11.74/e/156.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -2235,20 +2226,17 @@ https://217.30.11.74/e/156.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sporsmart2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Rec
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/smart2.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 trgoals
 https://tecogoals.tecostream.xyz/yayinsms2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/610/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb.m3u8
 
 #EXTINF:-1 tvg-id="https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ    Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb1.m3u8
 
 #EXTINF:-1 tvg-id="https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
@@ -2256,8 +2244,8 @@ https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 trgoals
 https://tecogoals.tecostream.xyz/yayinex1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii1/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb2.m3u8
 
 #EXTINF:-1 tvg-id="https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
@@ -2265,8 +2253,8 @@ https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 trgoals
 https://tecogoals.tecostream.xyz/yayinex2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii2/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb3.m3u8
 
 #EXTINF:-1 tvg-id="https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3
 https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
@@ -2274,8 +2262,8 @@ https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 trgoals
 https://tecogoals.tecostream.xyz/yayinex3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii3/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb4.m3u8
 
 #EXTINF:-1 tvg-id="https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
@@ -2283,8 +2271,8 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4 trgoals
 https://tecogoals.tecostream.xyz/yayinex4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii4/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb5.m3u8
 
 #EXTINF:-1 tvg-id="https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
@@ -2292,8 +2280,8 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 trgoals
 https://tecogoals.tecostream.xyz/yayinex5
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii5/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb6.m3u8
 
 #EXTINF:-1 tvg-id="https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
@@ -2301,23 +2289,23 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 trgoals
 https://tecogoals.tecostream.xyz/yayinex6
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 Var sport 
-https://cdn-8878.varplaycdn.cfd/tabii6/index.m3u8
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 7
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb7.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 7 trgoals
 https://tecogoals.tecostream.xyz/yayinex7
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb8.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 8 trgoals
 https://tecogoals.tecostream.xyz/yayinex8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor     Var sport 
-https://cdn-8878.varplaycdn.cfd/700/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor    Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/tivibu-spor-1.m3u8
+https://corestream.corestream1.help//hls/tivibu-spor-1.m3u8
 
 #EXTINF:-1 tvg-id="710" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR
@@ -2325,17 +2313,11 @@ http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Rec 
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/t1.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 trgoals
 https://tecogoals.tecostream.xyz/yayint1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Var sport 
-https://cdn-8878.varplaycdn.cfd/701/index.m3u8
-
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/tivibu-spor-2.m3u8
+https://corestream.corestream1.help//hls/tivibu-spor-2.m3u8
 
 #EXTINF:-1 tvg-id="711" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR2
@@ -2343,17 +2325,11 @@ http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR2
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Rec 
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/t2.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 trgoals
 https://tecogoals.tecostream.xyz/yayint2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Var sport 
-https://cdn-8878.varplaycdn.cfd/702/index.m3u8
-
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Atomsport 
-https://stdaddy.onrender.com/proxy?url=https://corestream.corestream1.help//hls/tivibu-spor-3.m3u8
+https://corestream.corestream1.help//hls/tivibu-spor-3.m3u8
 
 #EXTINF:-1 tvg-id="712" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR3
@@ -2361,26 +2337,14 @@ http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR3
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor3" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Rec 
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/t3.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 trgoals
 https://tecogoals.tecostream.xyz/yayint3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Var sport 
-https://cdn-8878.varplaycdn.cfd/703/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets4.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tvbuspor4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 Rec 
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv19.sbs/live/t4.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 trgoals
 https://tecogoals.tecostream.xyz/yayint4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 Var sport 
-https://cdn-8878.varplaycdn.cfd/704/index.m3u8
 
 #EXTINF:-1 tvg-id="http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="0.KIL-SP0R  MAÇ", v.Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -2394,8 +2358,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b4/TurkmenistanSport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stdaddy.onrender.com/proxy?url=https://www.sporcafe27.xyz/assets/images/channels/ufcpasslogo.png" group-title="0.KIL-SP0R  MAÇ", v.UFC Fight Pass Sporcafe
-https://stdaddy.onrender.com/proxy?url=https://one.c37c5ccda41b4ac6.click/live/sufcfightpass/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ufcpasslogo.png" group-title="0.KIL-SP0R  MAÇ", v.UFC Fight Pass Sporcafe
+https://one.c37c5ccda41b4ac6.click/live/sufcfightpass/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="0.KIL-SP0R  MAÇ", w..A SPOR
 http://116.202.238.88/ASPOR_TR/index.m3u8
@@ -3320,6 +3284,12 @@ https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
 
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/8t5aAVx.png" group-title="0.KIL-ULUSAL", 04.ATV Euro
 http://162.212.179.34/dvrfl05/gin-atvavrupa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.NOW A
+https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.NOW B
+https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox | Now" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.NOW b
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -6673,22 +6643,22 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bbc.m3u8 https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/bbc.m3u8
+https://tv.arectv34.sbs/live/bbc.m3u8
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/docubox.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.docubox
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/docubox.m3u8
+https://tv.arectv34.sbs/live/docubox.m3u8
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/discovery.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DISCOVERY CHANNEL
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/discovery.m3u8
+https://tv.arectv34.sbs/live/discovery.m3u8‎?|user-agent=Dart&Mozilla/5.0
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/history.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.HISTORY CHANNEL
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/history.m3u8
+https://tv.arectv34.sbs/live/history.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.iD
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/discs.m3u8
+https://tv.arectv34.sbs/live/discs.m3u8
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/tarihtv.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.TARİH TV
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/tarihtv.m3u8
+https://tv.arectv34.sbs/live/tarihtv.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -10172,10 +10142,10 @@ http://iptv.prosto.tv:7000/ch322/tracks-v1a1/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4HfPCrn.png" group-title="06.E SPOR GAMES", Gameplay
-https://stdaddy.onrender.com/proxy?url=https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6YSHxBi.png" group-title="06.E SPOR GAMES", Gameplay трейлеры
-https://stdaddy.onrender.com/proxy?url=https://fl1001.bozztv.com/ushba44/index.m3u8
+https://fl1001.bozztv.com/ushba44/index.m3u8
 
 #EXTINF:-1 tvg-id="ghd.tv.vodafone.pt" tvg-logo="http://gametoon.com/images/logo.png" group-title="06.E SPOR GAMES", GameToon
 http://iptv.prosto.tv:7000/ch256/video.m3u8
@@ -11247,6 +11217,10 @@ https://vidmody.com/vs/tt12573480
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-07/senin-suretin.webp" group-title="08.FiLM YENi 2025", Senin Suretin
 The Image of You 
 https://vidmody.com/vs/tt28332336
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://filmizledur.net/uploads/filmler/2025-10/sucustu.webp" group-title="08.FiLM YENi 2025", Suçüstü
+Caught Stealing 
+https://vidmody.com/vs/tt1493274
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/28-yil-sonra.webp" group-title="08.FiLM YENi 2025", 28 Yıl Sonra 28 Years Later korsan sürüm 
 https://vidmody.com/vs/tt10548174
