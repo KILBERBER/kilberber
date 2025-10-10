@@ -369,6 +369,9 @@ http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 20.Trace Urban HD
 https://cdntv.online/high/ynemik5cl9/1807.m3u8
 
+#EXTINF:-1 tvg-id="2708" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png" group-title="0.KIL-MÜZİK", 20.Trace Urban kablo
+http://sultanweb.info/CableNET.php?ID=2708
+
 #EXTINF:-1 tvg-id="148" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png" group-title="0.KIL-MÜZİK", 20.Trace Urban kablo net 
 https://kablosistem.vercel.app/index.m3u8?id=148
 
@@ -2052,6 +2055,9 @@ http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivecbcs.m3u8
 
+#EXTINF:-1 tvg-id="3504" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
+http://sultanweb.info/CableNET.php?ID=3504
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
 https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -3444,14 +3450,26 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="0.KIL-ULUSAL", 16.TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
+#EXTINF:-1 tvg-id="3209" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="0.KIL-ULUSAL", a2
+http://sultanweb.info/CableNET.php?ID=3209
+
+#EXTINF:-1 tvg-id="2401" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="0.KIL-ULUSAL", Atv
+http://sultanweb.info/CableNET.php?ID=2401
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Atv
 http://162.212.179.33:80/gin-trn09/gin-atv-tv/tracks-v1a1/rewind-128880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Atv_2
 http://162.212.179.33:80/gin-36bay4/gt-atv-tv3/tracks-v1a1/rewind-48880.m3u8
 
+#EXTINF:-1 tvg-id="2903" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png" group-title="0.KIL-ULUSAL", Beyaz Tv
+http://sultanweb.info/CableNET.php?ID=2903
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png" group-title="0.KIL-ULUSAL", Bi kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2003" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="0.KIL-ULUSAL", Cnbc-e
+http://sultanweb.info/CableNET.php?ID=2003
 
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/cnbcelogo_0AAADFA7-1B4C-4530-9C6C-941D80FD2A60.png" group-title="0.KIL-ULUSAL", CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -3471,6 +3489,12 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Fox
 http://162.212.179.33:80/gin-36bay4/gt-turkfoxtv-3/tracks-v1a1/rewind-128880.m3u8
 
+#EXTINF:-1 tvg-id="2901" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="0.KIL-ULUSAL", Kanal 7
+http://sultanweb.info/CableNET.php?ID=2901
+
+#EXTINF:-1 tvg-id="3207" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="0.KIL-ULUSAL", Kanal D
+http://sultanweb.info/CableNET.php?ID=3207
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal7
 http://162.212.179.33:80/gin-dvrfl05/gin-kanal7/tracks-v1a1/rewind-128800.m3u8
 
@@ -3480,17 +3504,29 @@ http://162.212.179.33:80/gin-36bay4/gt-kanal7-back/tracks-v1a1/rewind-128880.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanald
 http://162.212.179.33:80/gin-36bay4/gt-kanald-2/tracks-v1a1/rewind-128800.m3u8
 
+#EXTINF:-1 tvg-id="2213" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="0.KIL-ULUSAL", Now
+http://sultanweb.info/CableNET.php?ID=2213
+
+#EXTINF:-1 tvg-id="3206" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="0.KIL-ULUSAL", Show TV
+http://sultanweb.info/CableNET.php?ID=3206
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Showtv
 http://162.212.179.33:80/gin-trn09/gin-showtv/tracks-v1a1/rewind-168800.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Showtv_2
 http://162.212.179.33:80/gin-36bay4/gt-show-tv3/tracks-v1a1/rewind-168880.m3u8
 
+#EXTINF:-1 tvg-id="3404" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="0.KIL-ULUSAL", Star
+http://sultanweb.info/CableNET.php?ID=3404
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star
 http://162.212.179.33:80/gin-trn09/gin-startv/tracks-v1a1/rewind-128800.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star_2
 http://162.212.179.33:80/gin-36bay4/gt-startvback2/tracks-v1a1/rewind-128880.m3u8
+
+#EXTINF:-1 tvg-id="2510" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="0.KIL-ULUSAL", Teve 2
+http://sultanweb.info/CableNET.php?ID=2510
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="0.KIL-ULUSAL", tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -3500,6 +3536,15 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="0.KIL-ULUSAL", Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 tvg-id="2508" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="0.KIL-ULUSAL", Trt 1
+http://sultanweb.info/CableNET.php?ID=2508
+
+#EXTINF:-1 tvg-id="2614" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="0.KIL-ULUSAL", Tv 8
+http://sultanweb.info/CableNET.php?ID=2614
+
+#EXTINF:-1 tvg-id="1901" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="0.KIL-ULUSAL", TV 8.5
+http://sultanweb.info/CableNET.php?ID=1901
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Tv8
 http://162.212.179.33:80/gin-36bay4/gt-tv8tv-3/tracks-v1a1/rewind-128800.m3u8
@@ -5734,34 +5779,34 @@ https://vidlax.xyz/upload/6e6e998b39c4fa7ec3d39af1430b9fdb45ad/master.m3u8
 https://vidlax.xyz/upload/0b3cd83a307db29b14c2c1fdfb5e650d22b1/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245292627/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.01 Korkutmanın Dozu
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/1.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/1.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.02 Köpek
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/2.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/2.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.03 Akraba
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/3.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/3.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.04 Audition
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/4.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/4.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.05 Saksıya Dikkat Edin
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/5.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/5.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.06 Kaçış Sürücüsü
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/6.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/6.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.07 Apartman Toplantısı
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/7.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/7.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/8.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/8.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.09 Kan Kaybı
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/9.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/9.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245581247/s166/ayak-isleri.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.10 Hesaplaşma
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/10.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/10.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/2/1.mp4/index.m3u8" tvg-logo="https://www.justwatch.com/images/poster/263749048/s332/sezon-2.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 2.01 Doğanın Güçleri
 https://mezeler5.shop/cdn/down/a5813e95116126079eca803b2f76489a/Original/Original.txt
@@ -6013,7 +6058,7 @@ https://roka3.shop/cdn/down/808563106f8d8a765eb4ef295f5fb9e0/Original/Original.t
 https://newyork5.store/cdn/down/94daa5c23268234380208171e8b75f2c/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w768/q85/52565.jpeg" group-title="00.KIL-DiZi-TRENT", Gassal 2.10 Çirkin Değiliz... Hiçbirimiz
-https://play.streamcasthub.store/hls/Arp8-49tsPqAG2Vwm_9rJA/xy/nc31jo1s/cvl1pp/tt/index-f2-v1-a1.m3u8
+https://roka4.shop/cdn/down/a1d8b04b615efdd8924c97680f03dc1b/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9b/Gibi_afi%C5%9F.jpg" group-title="00.KIL-DiZi-TRENT", Gibi 1.01
 https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Gibi/S1/1.mp4/index.m3u8
@@ -6220,202 +6265,202 @@ https://cdn.prectv2.lat/hls/8/cdn1611/X76Ei0IjW1s4By8mKBlzPu5MrjPj4z0FAxR1UFUi.m
 https://cdn.prectv2.lat/hls/8/cdn1611/DsJulwi8y7zg9nL3Xztuj0HSjJKLNJnR5UjE7E2J.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.1
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/822b6294-c7de-4b24-b91a-15910e2c2e79/822b6294-c7de-4b24-b91a-15910e2c2e79-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/822b6294-c7de-4b24-b91a-15910e2c2e79/822b6294-c7de-4b24-b91a-15910e2c2e79-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.2
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/69799476-1770-4243-b54a-8b3bb5eea0bb/69799476-1770-4243-b54a-8b3bb5eea0bb-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/69799476-1770-4243-b54a-8b3bb5eea0bb/69799476-1770-4243-b54a-8b3bb5eea0bb-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.3
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/640a5d94-30d2-42df-ad5a-da0f055341c3/640a5d94-30d2-42df-ad5a-da0f055341c3-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/640a5d94-30d2-42df-ad5a-da0f055341c3/640a5d94-30d2-42df-ad5a-da0f055341c3-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.4
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/65c54f01252e1-1707429633.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/65c54f01252e1-1707429633.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.5
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/05049f97991d97fd9ef20c914fb725b417080864258.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/05049f97991d97fd9ef20c914fb725b417080864258.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.6
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/8738cd0d1e486e76418f6bc6794330ee170864037310.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/8738cd0d1e486e76418f6bc6794330ee170864037310.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.7
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/86918bd4104dc6facec9d513f0ef637517092727215.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/86918bd4104dc6facec9d513f0ef637517092727215.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.8
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/8d8a5b7951bcd283f5462dff5aef2ee0170985293811.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/8d8a5b7951bcd283f5462dff5aef2ee0170985293811.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.1
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/xTcICepOz577DVRQZ3sTwFO2Ad8z822v9OIkmGJj.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/xTcICepOz577DVRQZ3sTwFO2Ad8z822v9OIkmGJj.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.2
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/gIU8B8vApoaDPWiHVkqhpiwTh6STtJqUAAX0nTfw.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/gIU8B8vApoaDPWiHVkqhpiwTh6STtJqUAAX0nTfw.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.3
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/QvfSrM8hQx1EldIXpC8Fd5nyPEtPBBVcSZiY9oeh.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/QvfSrM8hQx1EldIXpC8Fd5nyPEtPBBVcSZiY9oeh.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.4
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/mBFv3ZOH5rOOTlAXkduA8oGlWJqwyEcAaibCBWje.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/mBFv3ZOH5rOOTlAXkduA8oGlWJqwyEcAaibCBWje.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.5
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/4Bnjacpg7lZwISoXVdkOB2MWdbNvP3hxUuhORAcu.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/4Bnjacpg7lZwISoXVdkOB2MWdbNvP3hxUuhORAcu.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.6
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/kfxduBZxvliZxN23EvbKUnnxVYupSmktmyBW8dFi.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/kfxduBZxvliZxN23EvbKUnnxVYupSmktmyBW8dFi.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.7
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/3CE5uR6RJXE59PIbNolgvPOtsRAZOwAL6iLtmwaa.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/3CE5uR6RJXE59PIbNolgvPOtsRAZOwAL6iLtmwaa.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/kwQQnrnMkPPtJbrjxXTERVM5R69NRbHUqoK4Ozb3.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/kwQQnrnMkPPtJbrjxXTERVM5R69NRbHUqoK4Ozb3.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/W1R7slIEXxxjnzyfBB83w5zIMUxBBoyrcbF1h0x0.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/W1R7slIEXxxjnzyfBB83w5zIMUxBBoyrcbF1h0x0.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/VLTfsYP87NMgir3LKEC159uYQ9VYrsOLlEVe8fCZ.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/VLTfsYP87NMgir3LKEC159uYQ9VYrsOLlEVe8fCZ.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/BtZzYJzDshhU72OrUvid6YtuJr8jTrXwLYKhcb0C.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/BtZzYJzDshhU72OrUvid6YtuJr8jTrXwLYKhcb0C.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/NdCcwOGcloOtisYUq7DMjTLNOKDNokBvCMMaOkdV.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/NdCcwOGcloOtisYUq7DMjTLNOKDNokBvCMMaOkdV.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/ReCaJdKIGHThDIzI1uVDeV0TU0XbS1MyHxF2mcMu.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/ReCaJdKIGHThDIzI1uVDeV0TU0XbS1MyHxF2mcMu.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/yxPqAhJGy7SwHzByyANgqjEnyWrTQLz5Cd4RpluY.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/yxPqAhJGy7SwHzByyANgqjEnyWrTQLz5Cd4RpluY.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/7/cdn21/arAFfcOVbLZBNpRfLr3oSMIheRX7xF5XNXjPu9cg.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/7/cdn21/arAFfcOVbLZBNpRfLr3oSMIheRX7xF5XNXjPu9cg.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.09
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/7/cdn21/o1EpH8yUTPfbr5Vkk0qKr4XllmHkO0vAj7eJqqTs.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/7/cdn21/o1EpH8yUTPfbr5Vkk0qKr4XllmHkO0vAj7eJqqTs.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/46/f6/46f6f792edd596c56c7bef012a5bb794.jpg" group-title="00.KIL-DiZi-TRENT", Modern Kadın 1.10
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/7/cdn21/VBCmI6t6nQIlcp6i8nzvWzKqPdM2ziGjm0dCg5Bo.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/7/cdn21/VBCmI6t6nQIlcp6i8nzvWzKqPdM2ziGjm0dCg5Bo.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/9f38ac9a4818d4912456ddbfad82961817288201027.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/9f38ac9a4818d4912456ddbfad82961817288201027.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/5729dd358763eb03c16b472503d39a3917288200806.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/5729dd358763eb03c16b472503d39a3917288200806.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/7fc2184ea2e0e0f51d45b809e0bd56a1172882230912.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/7fc2184ea2e0e0f51d45b809e0bd56a1172882230912.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/644b8ca8782233b942bf7464ebf227ea17288222896.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/644b8ca8782233b942bf7464ebf227ea17288222896.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/043c4dceb5844a9e5404eb80d5bcd64117288222566.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/043c4dceb5844a9e5404eb80d5bcd64117288222566.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/a96dedb333f06475d6ea5eed397a08ed17288222306.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/a96dedb333f06475d6ea5eed397a08ed17288222306.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/0d3106ef46f0547d327d7b5353229d76172882244111.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/0d3106ef46f0547d327d7b5353229d76172882244111.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/7c67778ffeb2d9e24c684658f675cce117288238117.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/7c67778ffeb2d9e24c684658f675cce117288238117.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.09
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/0de0b28e0a42509ca2dc9fb82e7db66b172882382310.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/0de0b28e0a42509ca2dc9fb82e7db66b172882382310.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/307665767/s332/.webp" group-title="00.KIL-DiZi-TRENT", Organizasyon Bizim İşimiz1.10
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn62/bf708ed8bc44df6d5e99b4a660ba74d0172882383910.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn62/bf708ed8bc44df6d5e99b4a660ba74d0172882383910.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.1
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/1.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/1.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.2
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/2.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/2.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.3
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/3.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/3.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.4
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/4.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/4.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.5
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/5.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/5.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.6
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/6.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/6.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.7
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/7.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/7.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/308604792/s332/sezon-1" group-title="00.KIL-DiZi-TRENT", Prens 1.8
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/8.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/1/cdn783/files/blu/Prens/8.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/04/mAi6uQ2Tu8D1tqAhvcqA_09_394b762978cc0f50ef7cbed33f449dd4_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/082fd27320718d08072b2c4f9d060937171269051310.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/082fd27320718d08072b2c4f9d060937171269051310.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/04/czMLsiitsAeBIS5Gtzzc_09_38d26b3ba620d8480b5ab5f7b59d0ee0_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/7d31f060ededf213acea887ec65ebf23171269052310.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/7d31f060ededf213acea887ec65ebf23171269052310.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/04/Mf1A6KgoT1WJTAgpRXM8_16_a46fb313fd2b1c0cced2b3009e662d70_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/2f9eea1d65fcc11c8e289da90fea0516171329214114.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/2f9eea1d65fcc11c8e289da90fea0516171329214114.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/04/kjQjm9jA1dwL2mCNXdxH_23_a8a8b9281e9d5b93eaf3ffd8da9e6c01_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/bcf355d41a9d0711bbb6f171d1416cb817139079855.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/bcf355d41a9d0711bbb6f171d1416cb817139079855.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream2.mom/upload/videos/2024/05/dVhEvITqx39xqMsfusSZ_03_ff780de8730d506eb4857f9625ff9d1e_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/4c8a8f7b6790d09c47b300095132ef7117145109159.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/4c8a8f7b6790d09c47b300095132ef7117145109159.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/05/vbKVduWKQLmRQt93kABj_08_87ff22986261faddd4b1e3bdd0239c6b_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/52856b1caf514e6a5891e590e33c137e171515787213.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/52856b1caf514e6a5891e590e33c137e171515787213.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="https://momstream1.mom/upload/videos/2024/05/NWoiNRWAI17rtW2Kr3gH_15_93f9c21f98f2f35c5c067e21776af26c_video/master.txt" tvg-logo="https://tr.web.img4.acsta.net/r_512_288/pictures/24/03/18/12/47/0312499.jpg" group-title="00.KIL-DiZi-TRENT", Prens 2.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/0fcdad516451d29aa92b5f5b9c42929f171577318610.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/0fcdad516451d29aa92b5f5b9c42929f171577318610.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/aT8KpjAYWiIhP8elIewZLtl9OEfzlMQG8b4k7Ea1.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/aT8KpjAYWiIhP8elIewZLtl9OEfzlMQG8b4k7Ea1.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/W1S7ssvXMSfOD6iukKFAeCZj2GD3YYXgxAY8E0FN.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/W1S7ssvXMSfOD6iukKFAeCZj2GD3YYXgxAY8E0FN.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/qUkR9njVRv7KZRIEVJbJDbnd4U2ZgdGTeh9vS5Rs.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/qUkR9njVRv7KZRIEVJbJDbnd4U2ZgdGTeh9vS5Rs.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/lEeXEg2hpp6hooRGo7DbzolFMpbgjyOL9z2IrkI8.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/lEeXEg2hpp6hooRGo7DbzolFMpbgjyOL9z2IrkI8.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/hdkdBRgug7eOn6zYS7J1nZB5B5JfJk2GolUoOuOC.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/hdkdBRgug7eOn6zYS7J1nZB5B5JfJk2GolUoOuOC.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/Ez6e1rOhJdp4L3NZAWMhmEGYU9aioX8SDqxAYsGx.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/Ez6e1rOhJdp4L3NZAWMhmEGYU9aioX8SDqxAYsGx.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/phKuVgVJZhxcoTmFnGpsAt5y6VfuHNxV9mLIVUCC.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/phKuVgVJZhxcoTmFnGpsAt5y6VfuHNxV9mLIVUCC.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/img/66/4a/664a57c6e1c0b6656405dcacacec46de.jpg" group-title="00.KIL-DiZi-TRENT", Prens 3.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/v97XWcDg1G8weCi0tuRXwns8rAtup2yd1Gcy8Y6U.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/v97XWcDg1G8weCi0tuRXwns8rAtup2yd1Gcy8Y6U.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/aca75c75cc40f37a6fe490ca3d0145eb17165282537.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/aca75c75cc40f37a6fe490ca3d0145eb17165282537.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/6dcda5c4a35301a592ecb1e66d45fdbc171652824414.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/6dcda5c4a35301a592ecb1e66d45fdbc171652824414.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/137f57180ac30fbbb8641d6381d2847317171393599.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/137f57180ac30fbbb8641d6381d2847317171393599.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn60/6b37e281402a3aef06bb246fe178be32171776367915.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn60/6b37e281402a3aef06bb246fe178be32171776367915.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn60/9daeab5881b1f66c020fd2602151552917183677317.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn60/9daeab5881b1f66c020fd2602151552917183677317.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn60/edae6f03bf0ad971902b6e6cc319d86117189682525.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn60/edae6f03bf0ad971902b6e6cc319d86117189682525.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn60/d1006388fae3f8aa7f07dca8d2858385171957052114.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn60/d1006388fae3f8aa7f07dca8d2858385171957052114.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/img/d0/83/d08376acd13d81c4262d3e280cb12b7e.jpg" group-title="00.KIL-DiZi-TRENT", Ru 1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn60/bfe02c48a06ccee5516253c9cc5bfb03172038950514.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn60/bfe02c48a06ccee5516253c9cc5bfb03172038950514.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/15/Squid_Game_2_sezon.png" group-title="00.KIL-DiZi-TRENT", Squid Game 2.01Bread and Lottery
 https://abant3.shop/cdn/down/930af7e4869db10ccb068934dfb2d029/Original/Original.txt
@@ -6457,115 +6502,115 @@ https://karagol3.shop/cdn/down/95565612f96441045bdb5be8d906c9d9/Original/Origina
 https://karagol3.shop/cdn/down/a204efcd81c75b76c6dc2b85e51cd5d7/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.1
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/11/cdn65/USfieRWCY1f6x4zxrbZLPspugovR7BMdnVPX33Kx.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.2
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/sPNyDpYqZ92hmBqMv4n7U0kw2OUxLSbWFe4BxUsm.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/sPNyDpYqZ92hmBqMv4n7U0kw2OUxLSbWFe4BxUsm.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.3
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/AdzjHwkHd1w6RwtuDUwefqqSWSwcm2O69BRImgVt.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/AdzjHwkHd1w6RwtuDUwefqqSWSwcm2O69BRImgVt.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.4
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/pa2XTXrmvRG7ne9z8HRvAwEaGFX9Q4I3foLhz72i.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/pa2XTXrmvRG7ne9z8HRvAwEaGFX9Q4I3foLhz72i.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.5 altyazılı
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/xWHVTrfzF5N6RTWKUXYmALklkVgf5sNWmqpDOZPj.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/xWHVTrfzF5N6RTWKUXYmALklkVgf5sNWmqpDOZPj.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.6
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/4irZ2OPWUozEpVdlV7NsuHGeHlmTxayhSdVxhtqM.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/4irZ2OPWUozEpVdlV7NsuHGeHlmTxayhSdVxhtqM.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/The_Last_of_Us_season_2_Blu-ray.png" group-title="00.KIL-DiZi-TRENT", The Last Of Us 2.7
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/5WD0o7gulN6bHEycPmNLTGqEcTDlVykuzppnKvFj.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/5WD0o7gulN6bHEycPmNLTGqEcTDlVykuzppnKvFj.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122-master.m3u8
+https://cdn.prectv2.lat/9/cdn333/6acc6da5-2426-435c-a4c9-9f6fbe34e122/6acc6da5-2426-435c-a4c9-9f6fbe34e122-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/9/cdn333/5be6ecba-f194-4d6b-8a35-caae051dc4f5/5be6ecba-f194-4d6b-8a35-caae051dc4f5-master.m3u8
+https://cdn.prectv2.lat/9/cdn333/5be6ecba-f194-4d6b-8a35-caae051dc4f5/5be6ecba-f194-4d6b-8a35-caae051dc4f5-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/5fe4be22-94a2-45a6-821e-95369e226e18/5fe4be22-94a2-45a6-821e-95369e226e18-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/5fe4be22-94a2-45a6-821e-95369e226e18/5fe4be22-94a2-45a6-821e-95369e226e18-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/ecbc190c-171d-4433-b5ee-fb44e49e8a26/ecbc190c-171d-4433-b5ee-fb44e49e8a26-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/ecbc190c-171d-4433-b5ee-fb44e49e8a26/ecbc190c-171d-4433-b5ee-fb44e49e8a26-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/7/cdn333/cc209bf8-26b5-4df3-ae43-3d82b0958710/cc209bf8-26b5-4df3-ae43-3d82b0958710-master.m3u8
+https://cdn.prectv2.lat/7/cdn333/cc209bf8-26b5-4df3-ae43-3d82b0958710/cc209bf8-26b5-4df3-ae43-3d82b0958710-master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/65c5c2b6901d6-1707459254.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/65c5c2b6901d6-1707459254.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/d773f4768e4f42ecaf0e8af25d6b9d2a170808644512.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/d773f4768e4f42ecaf0e8af25d6b9d2a170808644512.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/9/cdn31/716e5041eb79c0c8f02680d480d53199170868410810.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/9/cdn31/716e5041eb79c0c8f02680d480d53199170868410810.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.09
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/5fb8139fc5d0b84311f072ea5fefbb06170928022714.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/5fb8139fc5d0b84311f072ea5fefbb06170928022714.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.10
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/10/cdn32/2922a97674595d8e2af25a2a85378ef9170985407412.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/10/cdn32/2922a97674595d8e2af25a2a85378ef9170985407412.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.11
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/8db76cdd306dd47601bd04203be840e0173480039215.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/8db76cdd306dd47601bd04203be840e0173480039215.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.12
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/803f581679ae596d2cc2b8d8398d00b7173480041313.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/803f581679ae596d2cc2b8d8398d00b7173480041313.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.13
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/ea136e160cdfd0237f9d1e650405a83717348004258.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/ea136e160cdfd0237f9d1e650405a83717348004258.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.14
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/22fe823fea96db509003d06d0766e4f2173480043911.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/22fe823fea96db509003d06d0766e4f2173480043911.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.15
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/24788155b9ef562c17511850304c8954173480040212.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/24788155b9ef562c17511850304c8954173480040212.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.16
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/ce0e2bb807583aaef9e195f1a9fa8e3417371219075.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/ce0e2bb807583aaef9e195f1a9fa8e3417371219075.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.17
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/05d427406e1a14048d1a259233edaecb17371219318.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/05d427406e1a14048d1a259233edaecb17371219318.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.18
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/ee780df61393d52d6301d34bb167797617371219465.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/ee780df61393d52d6301d34bb167797617371219465.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.19
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn801/d16d46b155142a6cd84dc67ea3e25a0b173712195714.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn801/d16d46b155142a6cd84dc67ea3e25a0b173712195714.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311203176/s332/.webp" group-title="00.KIL-DiZi-TRENT", Tolgshow Çılgın1.20
 https://cdn.dzen.ru/vod/converted-video/vod-content/22/84/65/03/05/34/37/61/17/5/b5ba53b7-add6-4bba-8d79-441edb98696e/kaltura/desc_44838d7f3deaec532ea837b39cbe3d55/v95E4PD-fSEk/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.01
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/3ABCdFFLAsllXWxKk3DyFnjw07T6T6L1aq7dk5sl.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/3ABCdFFLAsllXWxKk3DyFnjw07T6T6L1aq7dk5sl.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.02
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/nHLB2wF1kzDNJUbmsyieNSiOLX20ZsT8JctcBeEx.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/nHLB2wF1kzDNJUbmsyieNSiOLX20ZsT8JctcBeEx.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.03
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/VYcP83smX3QQq8MzY6OTGoC36NJQsP1KucmWj6Zn.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/VYcP83smX3QQq8MzY6OTGoC36NJQsP1KucmWj6Zn.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.04
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/Fxw1qlIXNwAzbgEZ7bHof6az9EhkjmuoChtnGxDD.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/Fxw1qlIXNwAzbgEZ7bHof6az9EhkjmuoChtnGxDD.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.05
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/8PCun8CgcplQGVO7vwrYe0tA7CTvtIthEGvhF1dZ.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/8PCun8CgcplQGVO7vwrYe0tA7CTvtIthEGvhF1dZ.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.06
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/8QQz0qpusrerplLJMVjKZKqrbdM4XkqrRYM2eAu6.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/8QQz0qpusrerplLJMVjKZKqrbdM4XkqrRYM2eAu6.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.07
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/737tLKT6A802LcyeoSRs8IORfwa5SvQS22w5D6PU.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/737tLKT6A802LcyeoSRs8IORfwa5SvQS22w5D6PU.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.08
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/BHi794n0hTy7wehxXMbgfzn4dFjQESC0cobPaE9W.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/BHi794n0hTy7wehxXMbgfzn4dFjQESC0cobPaE9W.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.09
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
-https://stdaddy.onrender.com/proxy?url=https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
+https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="01.KIL-BELGESEL", (BBC EARTH
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
@@ -9912,6 +9957,12 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1207" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/655c2fee-0b87-48df-b41e-cb5c742807ad.png" group-title="04.KIL-MOBESE", 0.Al Quran Al Kareem
+http://sultanweb.info/CableNET.php?ID=1207
+
+#EXTINF:-1 tvg-id="2616" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/00701177-8898-4f68-a08e-5f45e0e12df3.png" group-title="04.KIL-MOBESE", 0.Al Sunnah Al Nabawiyah
+http://sultanweb.info/CableNET.php?ID=2616
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/x5IZVx7.png" group-title="04.KIL-MOBESE", 2.italya golden
 https://webcam.alfa.it/webcams/memfs/918f99b7-683e-49ad-8131-d7e7c03d1dbd.m3u8
