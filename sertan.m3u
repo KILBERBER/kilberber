@@ -2503,10 +2503,10 @@ http://212.102.60.231/MOTOR_TREND/index.m3u8
 http://212.102.60.231/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8" tvg-logo="https://galatasaray.com/images/gscom_02.png" group-title="0.KIL-SPOR KARIŞIK", 01.Gs Tv
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id=" https://m.youtube.com/@GSTV1905 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/500px-Galatasaray_Sports_Club_Logo.svg.png" group-title="0.KIL-SPOR KARIŞIK", 01.Gs Tv YouTube
+http://104.238.23.215/yt.php?ID=UCxF6LAkMq2qRMkZontNrwfA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="0.KIL-SPOR KARIŞIK", 02.A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -8768,6 +8768,9 @@ http://104.238.23.215/yt.php?ID=UC9iNphB47yGrxMgFd2uVHXQ&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@Neo_Spor" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 5.NEO Spor
 http://104.238.23.215/yt.php?ID=UC4zFh-UMghh8zzTiZMOYVRQ&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@NesineTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 5.Nesine TV
+http://104.238.23.215/yt.php?ID=‎UCmkAjKjcV2OSGi6eF9c-2fA&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@nowsportr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 5.NOW Spor
 http://104.238.23.215/yt.php?ID=UCHowoDxzhyCPQBzhOpeP4-w&ext=.m3u8
 
@@ -8843,6 +8846,9 @@ http://104.238.23.215/yt.php?ID=UCYsOOzJ6OfvcdVqJlJKf-Aw&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@ZukiSpor" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 5.ZUKİ Spor
 http://104.238.23.215/yt.php?ID=UCw0DxZtoNNyw9xCjoB2-q3A&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@anonimdt" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Anonim
+http://104.238.23.215/yt.php?ID=UCaMKaSneK--9QLtkDlj2dag&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@CroissantStrike" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Croissant Strike
 http://104.238.23.215/yt.php?ID=‎UCeemLnIhC04qzKvcMGYp41Q&ext=.m3u8
 
@@ -8876,6 +8882,9 @@ http://104.238.23.215/yt.php?ID=UCQtrRb7Ke5bcxi5IdlvGtwg&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@MPLIndonesia" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.MPL Indonesia
 http://104.238.23.215/yt.php?ID=UC1dGHGJTXU_dkiR8tW3qQgg&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@OniviaHighlights" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Onivia LCK LPL LEC LCS Highlights
+http://104.238.23.215/yt.php?ID=UCPhab209KEicqPJFAk9IZEA&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@ow_esports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Overwatch Esports
 http://104.238.23.215/yt.php?ID=UCiAInBL9kUzz1XRxk66v-gw&ext=.m3u8
 
@@ -8887,6 +8896,9 @@ http://104.238.23.215/yt.php?ID=UCF3_KdAet7Ijy-QLxu8-waA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/c/PUBGMOBILET%C3%BCrkiye" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.PUBG MOBILE Türkiye
 http://104.238.23.215/yt.php?ID=UCbirTc2eA8spyfd2Y8Ak6lg&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@RainbowSixEsports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.Rainbow Six Esports
+http://104.238.23.215/yt.php?ID=UCWKHac5bjhsUtSnMDFCT-7A&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@sL4Mtv" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 6.SL4M & Counter-Strike
 http://104.238.23.215/yt.php?ID=UCd3C0cHsp7xSj44UYetK1Nw&ext=.m3u8
@@ -9012,6 +9024,9 @@ http://104.238.23.215/yt.php?ID=UC6jH5GNi0iOR17opA1Vowhw&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@lyngennorth" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Lyngen North
 http://104.238.23.215/yt.php?ID=UCou65n58xvgd6BBkrbluObQ&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@MiamiSwimWeekStream" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Miami Swim Week Stream
+http://104.238.23.215/yt.php?ID=UCSeqlY0U253Lc3vKBhT0uWw&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@nature-live" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Nature Live Camera
 http://104.238.23.215/yt.php?ID=UCRPhYF9rd5ov7DNKj99MNIg&ext=.m3u8
 
@@ -9039,6 +9054,9 @@ http://104.238.23.215/yt.php?ID=UCKmWS7NlkhO_1-SfxIZcmOw&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@SeaEagleCAM4" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Sea-EagleCAM4
 http://104.238.23.215/yt.php?ID=UCZss13TJZLtZ0ones3HpYMQ&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@shiftswim" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", SHIFT
+http://104.238.23.215/yt.php?ID=UCtdLtIKzgme3iaYy2n7x7eA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@SoftOceanSounds-zz" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Soft Ocean Sounds
 http://104.238.23.215/yt.php?ID=UCJRpQYa1uNQH3K9ec0c3L8w&ext=.m3u8
@@ -10225,6 +10243,9 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@anonimdt" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Anonim
+http://104.238.23.215/yt.php?ID=UCaMKaSneK--9QLtkDlj2dag&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/5VMNKQY/714701DC3D1C/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png" group-title="06.E SPOR GAMES", Box Gamers
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
 
@@ -10279,6 +10300,9 @@ http://104.238.23.215/yt.php?ID=UCQtrRb7Ke5bcxi5IdlvGtwg&ext=.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@MPLIndonesia" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", MPL Indonesia
 http://104.238.23.215/yt.php?ID=UC1dGHGJTXU_dkiR8tW3qQgg&ext=.m3u8
 
+#EXTINF:-1 tvg-id="https://m.youtube.com/@OniviaHighlights" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Onivia LCK LPL LEC LCS Highlights
+http://104.238.23.215/yt.php?ID=UCPhab209KEicqPJFAk9IZEA&ext=.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@ow_esports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Overwatch Esports
 http://104.238.23.215/yt.php?ID=UCiAInBL9kUzz1XRxk66v-gw&ext=.m3u8
 
@@ -10290,6 +10314,9 @@ http://104.238.23.215/yt.php?ID=UCF3_KdAet7Ijy-QLxu8-waA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/c/PUBGMOBILET%C3%BCrkiye" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", PUBG MOBILE Türkiye
 http://104.238.23.215/yt.php?ID=UCbirTc2eA8spyfd2Y8Ak6lg&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@RainbowSixEsports" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", Rainbow Six Esports
+http://104.238.23.215/yt.php?ID=UCWKHac5bjhsUtSnMDFCT-7A&ext=.m3u8
 
 #EXTINF:-1 tvg-id=",https://stream.ads.ottera.tv/cl/250411cvseml0i7vgpujfu1km0/1280x720_2300000_0_f.m3u8" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="06.E SPOR GAMES", SKWAD
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=261346&partner=distro&ads.rnd=3zs7&ads.env_i=f639eefb-213d-4121-9c34-358b13b63315&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=31.206.165.53&ads.geo=TR&ads.lat=41.02470&ads.long=28.92520&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=40431&ads.show_id=1207&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Sports%2CEntertainment%2CReality%20TV%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=SKWAD&ads.episodetitle=SKWAD&ads.keywords=SQAD%2CSKWAD&ads.contenturl=&ads.gdprConsent=&ads.islive=1&ads.streamtype=live&ads.vf=20250411
