@@ -8,12 +8,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.Dream a
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dream-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/IR/13524/Thumbnail.png" group-title="0.KIL-MÜZİK", 02.Dream TV kablo TV 
-http://sultanweb.info/DESmart.php?ID=13524
-
-#EXTINF:-1 tvg-id="dream-turk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/4w/13361/Thumbnail.png" group-title="0.KIL-MÜZİK", 02.Dream Türk kablo TV 
-http://sultanweb.info/DESmart.php?ID=13361
-
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="0.KIL-MÜZİK", 03.KRAL
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 
@@ -374,12 +368,6 @@ http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 20.Trace Urban HD
 https://cdntv.online/high/ynemik5cl9/1807.m3u8
-
-#EXTINF:-1 tvg-id="2708" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png" group-title="0.KIL-MÜZİK", 20.Trace Urban kablo
-http://sultanweb.info/CableNET.php?ID=2708
-
-#EXTINF:-1 tvg-id="148" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/39b773d6-719e-440b-b97c-3b8eaed0153e.png" group-title="0.KIL-MÜZİK", 20.Trace Urban kablo net 
-https://kablosistem.vercel.app/index.m3u8?id=148
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv/logo_20241125_195233_70.png" group-title="0.KIL-MÜZİK", 21.4ACETV
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8
@@ -2067,9 +2055,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="3504" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
 http://sultanweb.info/CableNET.php?ID=3504
 
-#EXTINF:-1 tvg-id="cosmosports" tvg-logo="https://dsmart-static-v2.ercdn.net/content/6/7E/11911/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.CosmoSports kablo TV 
-http://sultanweb.info/DESmart.php?ID=11911
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
 https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -2102,12 +2087,6 @@ https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https:
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayineu2
-
-#EXTINF:-1 tvg-id="eurosport-1" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/Ra/11892/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Eurosport 1 kablo TV 
-http://sultanweb.info/DESmart.php?ID=11892
-
-#EXTINF:-1 tvg-id="eurosport-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/Ws/11900/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Eurosport 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=11900
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 1 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn1.m3u8
@@ -2168,9 +2147,6 @@ https://7pal.short.gy/nbatvus
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivenba.m3u8
-
-#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/DZ/11903/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.NBA TV kablo TV 
-http://sultanweb.info/DESmart.php?ID=11903
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.NBA tv tr goals
 https://tecogoals.tecostream.xyz/yayinnbatv
@@ -2259,14 +2235,8 @@ https://217.30.11.74/e/156.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivesm2.m3u8
 
-#EXTINF:-1 tvg-id="spor-smart-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/Bl/14585/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=14585
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 trgoals
 https://tecogoals.tecostream.xyz/yayinsms2
-
-#EXTINF:-1 tvg-id="spor-smart" tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/el/11909/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart kablo TV 
-http://sultanweb.info/DESmart.php?ID=11909
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb.m3u8
@@ -3477,35 +3447,17 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="0.KIL-ULUSAL", 16.TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-1 tvg-id="3209" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="0.KIL-ULUSAL", a2
-http://sultanweb.info/CableNET.php?ID=3209
-
-#EXTINF:-1 tvg-id="2401" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/33b10329-faa9-4247-aa46-92a305ed5a92.png" group-title="0.KIL-ULUSAL", Atv
-http://sultanweb.info/CableNET.php?ID=2401
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Atv
 http://162.212.179.33:80/gin-trn09/gin-atv-tv/tracks-v1a1/rewind-128880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Atv_2
 http://162.212.179.33:80/gin-36bay4/gt-atv-tv3/tracks-v1a1/rewind-48880.m3u8
 
-#EXTINF:-1 tvg-id="2903" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/a92329d7-3d4c-4631-ab3e-c7d36a3f1a6f.png" group-title="0.KIL-ULUSAL", Beyaz Tv
-http://sultanweb.info/CableNET.php?ID=2903
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_293.png" group-title="0.KIL-ULUSAL", Bi kanal
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2003" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/16752eb5-4001-4b31-860c-ab947ed2c86d.png" group-title="0.KIL-ULUSAL", Cnbc-e
-http://sultanweb.info/CableNET.php?ID=2003
-
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/cnbcelogo_0AAADFA7-1B4C-4530-9C6C-941D80FD2A60.png" group-title="0.KIL-ULUSAL", CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", Cnbc-e
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
-
-#EXTINF:-1 tvg-id="CNBC.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="0.KIL-ULUSAL", CNBC-e 1
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&e=.m3u8
 
 #EXTINF:-1 tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="0.KIL-ULUSAL", CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
@@ -3516,12 +3468,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Fox
 http://162.212.179.33:80/gin-36bay4/gt-turkfoxtv-3/tracks-v1a1/rewind-128880.m3u8
 
-#EXTINF:-1 tvg-id="2901" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/f218c717-723e-49e3-a3f0-428979d2fa3e.png" group-title="0.KIL-ULUSAL", Kanal 7
-http://sultanweb.info/CableNET.php?ID=2901
-
-#EXTINF:-1 tvg-id="3207" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="0.KIL-ULUSAL", Kanal D
-http://sultanweb.info/CableNET.php?ID=3207
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal7
 http://162.212.179.33:80/gin-dvrfl05/gin-kanal7/tracks-v1a1/rewind-128800.m3u8
 
@@ -3531,29 +3477,17 @@ http://162.212.179.33:80/gin-36bay4/gt-kanal7-back/tracks-v1a1/rewind-128880.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanald
 http://162.212.179.33:80/gin-36bay4/gt-kanald-2/tracks-v1a1/rewind-128800.m3u8
 
-#EXTINF:-1 tvg-id="2213" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/25c7c620-dfe4-4c78-9d9b-185d8a91885f.png" group-title="0.KIL-ULUSAL", Now
-http://sultanweb.info/CableNET.php?ID=2213
-
-#EXTINF:-1 tvg-id="3206" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/04fb743d-4a72-4907-8c54-f53b72c3600a.png" group-title="0.KIL-ULUSAL", Show TV
-http://sultanweb.info/CableNET.php?ID=3206
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Showtv
 http://162.212.179.33:80/gin-trn09/gin-showtv/tracks-v1a1/rewind-168800.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Showtv_2
 http://162.212.179.33:80/gin-36bay4/gt-show-tv3/tracks-v1a1/rewind-168880.m3u8
 
-#EXTINF:-1 tvg-id="3404" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/4a7901e4-dbc5-491d-b014-6da6fa236e99.png" group-title="0.KIL-ULUSAL", Star
-http://sultanweb.info/CableNET.php?ID=3404
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star
 http://162.212.179.33:80/gin-trn09/gin-startv/tracks-v1a1/rewind-128800.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star_2
 http://162.212.179.33:80/gin-36bay4/gt-startvback2/tracks-v1a1/rewind-128880.m3u8
-
-#EXTINF:-1 tvg-id="2510" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/8373a6d8-d5c5-4990-8fe6-14bcde706ecd.png" group-title="0.KIL-ULUSAL", Teve 2
-http://sultanweb.info/CableNET.php?ID=2510
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="0.KIL-ULUSAL", tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -3563,15 +3497,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/TVT_%28TV_T%C3%BCrk%29_Logosu.jpg" group-title="0.KIL-ULUSAL", Tivi Türk
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:-1 tvg-id="2508" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="0.KIL-ULUSAL", Trt 1
-http://sultanweb.info/CableNET.php?ID=2508
-
-#EXTINF:-1 tvg-id="2614" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ab41b407-70c4-4634-8ed4-bf9be8cf81e2.png" group-title="0.KIL-ULUSAL", Tv 8
-http://sultanweb.info/CableNET.php?ID=2614
-
-#EXTINF:-1 tvg-id="1901" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/812f4ba5-846e-4ae9-90fc-8f9f481156b5.png" group-title="0.KIL-ULUSAL", TV 8.5
-http://sultanweb.info/CableNET.php?ID=1901
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Tv8
 http://162.212.179.33:80/gin-36bay4/gt-tv8tv-3/tracks-v1a1/rewind-128800.m3u8
@@ -5199,59 +5124,11 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="dizismart-max" tvg-logo="https://dsmart-static-v2.ercdn.net/content/k/F2/11913/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0DiziSmart Max kablo TV 
-http://sultanweb.info/DESmart.php?ID=11913
-
-#EXTINF:-1 tvg-id="dizismart-premium" tvg-logo="https://dsmart-static-v2.ercdn.net/content/d/9U/12174/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0DiziSmart Premium kablo TV 
-http://sultanweb.info/DESmart.php?ID=12174
-
 #EXTINF:-1 tvg-id="FİLM SCREEN HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (0Film Screen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/-N/11902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0FilmScreen kablo TV 
-http://sultanweb.info/DESmart.php?ID=11902
-
-#EXTINF:-1 tvg-id="fx" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/Uq/16203/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0FX kablo TV 
-http://sultanweb.info/DESmart.php?ID=16203
-
 #EXTINF:-1 tvg-id="FX.tr     https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (0Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8
-
-#EXTINF:-1 tvg-id="moviesmart-classic" tvg-logo="https://dsmart-static-v2.ercdn.net/content/y/L4/13864/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0MovieSmart Classic kablo TV 
-http://sultanweb.info/DESmart.php?ID=13864
-
-#EXTINF:-1 tvg-id="moviesmart-turk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/ZI/13863/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0MovieSmart Türk kablo TV 
-http://sultanweb.info/DESmart.php?ID=13863
-
-#EXTINF:-1 tvg-id="sinema-tv-1001" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/6y/22901/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 1001 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22901
-
-#EXTINF:-1 tvg-id="sinema-tv-1002" tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/XZ/22902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 1002 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22902
-
-#EXTINF:-1 tvg-id="sinema-tv-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/3N/22904/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22904
-
-#EXTINF:-1 tvg-id="sinema-tv-aile-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Mq/22898/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aile 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22898
-
-#EXTINF:-1 tvg-id="sinema-tv-aile" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/22897/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aile kablo TV 
-http://sultanweb.info/DESmart.php?ID=22897
-
-#EXTINF:-1 tvg-id="sinema-tv-aksiyon-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/M/RG/22895/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aksiyon 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22895
-
-#EXTINF:-1 tvg-id="sinema-tv-aksiyon" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/tD/22896/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aksiyon kablo TV 
-http://sultanweb.info/DESmart.php?ID=22896
-
-#EXTINF:-1 tvg-id="sinema-tv-comedy-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/oG/22900/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Comedy 2 kablo TV 
-http://sultanweb.info/DESmart.php?ID=22900
-
-#EXTINF:-1 tvg-id="sinema-tv-comedy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/9a/22899/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Comedy kablo TV 
-http://sultanweb.info/DESmart.php?ID=22899
-
-#EXTINF:-1 tvg-id="sinema-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV kablo TV 
-http://sultanweb.info/DESmart.php?ID=22894
 
 #EXTINF:-1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Box Office 1)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6744/index.m3u8
@@ -5263,7 +5140,7 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6745/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6743/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Action 2)
-https://tinyurl.com/47nj4vvs
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6876/index.m3u8
 
 #EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Action)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6877/index.m3u8
@@ -5271,7 +5148,7 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6877/index.m3u8
 #EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Family)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6878/index.m3u8
 
-#EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Premiere 2)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Family2)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6879/index.m3u8
 
 #EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Premiere)
@@ -5280,20 +5157,11 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6880/index.m3u8
 #EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Stars)
 https://tinyurl.com/5ect5tkj
 
-#EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Movies Türk)
-https://tinyurl.com/mr7wfnzm
-
-#EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series 1)
-https://tinyurl.com/ycy3wnu3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series 1)
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6813/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series 2)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6814/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series 3)
-https://tinyurl.com/3utjxv67
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series 4)
-https://tinyurl.com/2vny9243
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series Comedy)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6881/index.m3u8
@@ -5301,14 +5169,8 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6881/index.m3u8
 #EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Series Drama)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6882/index.m3u8
 
-#EXTINF:-1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (DiziSmart Max)
-https://tinyurl.com/5n7txspm
-
 #EXTINF:-1 tvg-id="DiziSmart Premium" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (DiziSmart Premium)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6802/index.m3u8
-
-#EXTINF:-1 tvg-id="Movie Smart Classic" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (Movie Smart Classic)
-https://tinyurl.com/44eetvrj
 
 #EXTINF:-1 tvg-id="Movie Smart Turk" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (Movie Smart Turk)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6807/index.m3u8
@@ -6686,36 +6548,6 @@ https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.m
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
 https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", (BBC Earth kablo TV 
-http://sultanweb.info/DESmart.php?ID=11896
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (Discovery Channel kablo TV 
-http://sultanweb.info/DESmart.php?ID=11894
-
-#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", (Discovery ID kablo TV 
-http://sultanweb.info/DESmart.php?ID=11891
-
-#EXTINF:-1 tvg-id="docuscreen" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/wh/11899/Thumbnail.png" group-title="01.KIL-BELGESEL", (DocuScreen kablo TV 
-http://sultanweb.info/DESmart.php?ID=11899
-
-#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/y/Ey/37198/Thumbnail.png" group-title="01.KIL-BELGESEL", (History Channel kablo TV 
-http://sultanweb.info/DESmart.php?ID=37198
-
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png" group-title="01.KIL-BELGESEL", (Love Nature kablo TV 
-http://sultanweb.info/DESmart.php?ID=18359
-
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/zw/16198/Thumbnail.png" group-title="01.KIL-BELGESEL", (National Geographic kablo TV 
-http://sultanweb.info/DESmart.php?ID=16198
-
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/GH/16199/Thumbnail.png" group-title="01.KIL-BELGESEL", (National Geographic WILD kablo TV 
-http://sultanweb.info/DESmart.php?ID=16199
-
-#EXTINF:-1 tvg-id="tarih-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/1/Fd/58626/Thumbnail.png" group-title="01.KIL-BELGESEL", (Tarih Tv kablo TV 
-http://sultanweb.info/DESmart.php?ID=58626
-
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png" group-title="01.KIL-BELGESEL", (Viasat History kablo TV 
-http://sultanweb.info/DESmart.php?ID=13387
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.BBC Earth
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6854/index.m3u8
