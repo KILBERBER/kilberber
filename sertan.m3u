@@ -5,8 +5,14 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.DREAM
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.Dreem b
+#EXTINF:-1 tvg-id="https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.Dream a
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dream-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/IR/13524/Thumbnail.png" group-title="0.KIL-MÜZİK", 02.Dream TV kablo TV 
+http://sultanweb.info/DESmart.php?ID=13524
+
+#EXTINF:-1 tvg-id="dream-turk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/4w/13361/Thumbnail.png" group-title="0.KIL-MÜZİK", 02.Dream Türk kablo TV 
+http://sultanweb.info/DESmart.php?ID=13361
 
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="0.KIL-MÜZİK", 03.KRAL
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
@@ -1848,6 +1854,9 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
+#EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", Spor Çoklu Ekran
+http://sultanweb.info/DESmart.php?ID=96693
+
 #EXTINF:-1 tvg-id="http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -2058,6 +2067,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="3504" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
 http://sultanweb.info/CableNET.php?ID=3504
 
+#EXTINF:-1 tvg-id="cosmosports" tvg-logo="https://dsmart-static-v2.ercdn.net/content/6/7E/11911/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.CosmoSports kablo TV 
+http://sultanweb.info/DESmart.php?ID=11911
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
 https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -2090,6 +2102,12 @@ https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https:
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayineu2
+
+#EXTINF:-1 tvg-id="eurosport-1" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/Ra/11892/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Eurosport 1 kablo TV 
+http://sultanweb.info/DESmart.php?ID=11892
+
+#EXTINF:-1 tvg-id="eurosport-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/Ws/11900/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Eurosport 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=11900
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 1 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn1.m3u8
@@ -2150,6 +2168,9 @@ https://7pal.short.gy/nbatvus
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivenba.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/DZ/11903/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.NBA TV kablo TV 
+http://sultanweb.info/DESmart.php?ID=11903
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.NBA tv tr goals
 https://tecogoals.tecostream.xyz/yayinnbatv
@@ -2238,8 +2259,14 @@ https://217.30.11.74/e/156.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcd
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivesm2.m3u8
 
+#EXTINF:-1 tvg-id="spor-smart-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/Bl/14585/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=14585
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 trgoals
 https://tecogoals.tecostream.xyz/yayinsms2
+
+#EXTINF:-1 tvg-id="spor-smart" tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/el/11909/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart kablo TV 
+http://sultanweb.info/DESmart.php?ID=11909
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb.m3u8
@@ -5172,11 +5199,59 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="dizismart-max" tvg-logo="https://dsmart-static-v2.ercdn.net/content/k/F2/11913/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0DiziSmart Max kablo TV 
+http://sultanweb.info/DESmart.php?ID=11913
+
+#EXTINF:-1 tvg-id="dizismart-premium" tvg-logo="https://dsmart-static-v2.ercdn.net/content/d/9U/12174/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0DiziSmart Premium kablo TV 
+http://sultanweb.info/DESmart.php?ID=12174
+
 #EXTINF:-1 tvg-id="FİLM SCREEN HD" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="00.KIL-DiZi-FİLM", (0Film Screen
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 
+#EXTINF:-1 tvg-id="filmscreen" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/-N/11902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0FilmScreen kablo TV 
+http://sultanweb.info/DESmart.php?ID=11902
+
+#EXTINF:-1 tvg-id="fx" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/Uq/16203/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0FX kablo TV 
+http://sultanweb.info/DESmart.php?ID=16203
+
 #EXTINF:-1 tvg-id="FX.tr     https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (0Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-id="moviesmart-classic" tvg-logo="https://dsmart-static-v2.ercdn.net/content/y/L4/13864/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0MovieSmart Classic kablo TV 
+http://sultanweb.info/DESmart.php?ID=13864
+
+#EXTINF:-1 tvg-id="moviesmart-turk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/ZI/13863/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0MovieSmart Türk kablo TV 
+http://sultanweb.info/DESmart.php?ID=13863
+
+#EXTINF:-1 tvg-id="sinema-tv-1001" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/6y/22901/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 1001 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22901
+
+#EXTINF:-1 tvg-id="sinema-tv-1002" tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/XZ/22902/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 1002 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22902
+
+#EXTINF:-1 tvg-id="sinema-tv-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/Y/3N/22904/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22904
+
+#EXTINF:-1 tvg-id="sinema-tv-aile-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Mq/22898/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aile 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22898
+
+#EXTINF:-1 tvg-id="sinema-tv-aile" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/22897/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aile kablo TV 
+http://sultanweb.info/DESmart.php?ID=22897
+
+#EXTINF:-1 tvg-id="sinema-tv-aksiyon-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/M/RG/22895/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aksiyon 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22895
+
+#EXTINF:-1 tvg-id="sinema-tv-aksiyon" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/tD/22896/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Aksiyon kablo TV 
+http://sultanweb.info/DESmart.php?ID=22896
+
+#EXTINF:-1 tvg-id="sinema-tv-comedy-2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/oG/22900/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Comedy 2 kablo TV 
+http://sultanweb.info/DESmart.php?ID=22900
+
+#EXTINF:-1 tvg-id="sinema-tv-comedy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/w/9a/22899/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV Comedy kablo TV 
+http://sultanweb.info/DESmart.php?ID=22899
+
+#EXTINF:-1 tvg-id="sinema-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png" group-title="00.KIL-DiZi-FİLM", (0Sinema TV kablo TV 
+http://sultanweb.info/DESmart.php?ID=22894
 
 #EXTINF:-1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Box Office 1)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6744/index.m3u8
@@ -6612,65 +6687,35 @@ https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
 https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="01.KIL-BELGESEL", (BBC EARTH
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", (BBC Earth kablo TV 
+http://sultanweb.info/DESmart.php?ID=11896
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", (Discovery Channel
-https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=766755455ef5986d42685
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (Discovery Channel kablo TV 
+http://sultanweb.info/DESmart.php?ID=11894
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", (Discovery Channel
-https://goldvod.org/tv/vavoo?id=695705778677531522de3
+#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", (Discovery ID kablo TV 
+http://sultanweb.info/DESmart.php?ID=11891
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", (Discovery Channel a
-https://goldvod.org/tv/vavoo?id=36240023073d7c66c2eda6
+#EXTINF:-1 tvg-id="docuscreen" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/wh/11899/Thumbnail.png" group-title="01.KIL-BELGESEL", (DocuScreen kablo TV 
+http://sultanweb.info/DESmart.php?ID=11899
 
-#EXTINF:-1 tvg-id="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", (Discovery Channel c
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=ts
+#EXTINF:-1 tvg-id="history-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/y/Ey/37198/Thumbnail.png" group-title="01.KIL-BELGESEL", (History Channel kablo TV 
+http://sultanweb.info/DESmart.php?ID=37198
 
-#EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", (Discovery Channel d
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png" group-title="01.KIL-BELGESEL", (Love Nature kablo TV 
+http://sultanweb.info/DESmart.php?ID=18359
 
-#EXTINF:-1 tvg-id="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="01.KIL-BELGESEL", (Discovery ID
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/zw/16198/Thumbnail.png" group-title="01.KIL-BELGESEL", (National Geographic kablo TV 
+http://sultanweb.info/DESmart.php?ID=16198
 
-#EXTINF:-1 tvg-id="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png" group-title="01.KIL-BELGESEL", (DOCUBOX
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/GH/16199/Thumbnail.png" group-title="01.KIL-BELGESEL", (National Geographic WILD kablo TV 
+http://sultanweb.info/DESmart.php?ID=16199
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", (Habitat tv
-https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=351815374361a158e9a8f6
+#EXTINF:-1 tvg-id="tarih-tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/1/Fd/58626/Thumbnail.png" group-title="01.KIL-BELGESEL", (Tarih Tv kablo TV 
+http://sultanweb.info/DESmart.php?ID=58626
 
-#EXTINF:-1 tvg-id="|TR| STINGRAY NATURESCAPE ᴴᴰ" tvg-logo="https://habitattv.com.tr/hbtt/assets/img/HABITAT_TV_LOGO_small.png" group-title="01.KIL-BELGESEL", (Habitat tv
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314475&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", (HISTORY
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  24 KITCHEN ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="01.KIL-BELGESEL", (KITCHEN
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  LOVE NATURE ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", (LOVE NATURE
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| LIVING BELGESEL" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", (LIVING BELGESEL
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314482&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  NAT GEO ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="01.KIL-BELGESEL", (National Geographic
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196851&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  NAT GEO WILD ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" group-title="01.KIL-BELGESEL", (National Geographic Wild
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196852&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| HISTORY VIASAT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", (VIASAT HISTORY
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  VIASAT HISTORY ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", (VIASAT HISTORY
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| VIASAT HISTORY ᵁᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", (VIASAT HISTORY
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170684&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| VIASAT NATURE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", (VIASAT NATURE
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png" group-title="01.KIL-BELGESEL", (Viasat History kablo TV 
+http://sultanweb.info/DESmart.php?ID=13387
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.BBC Earth
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6854/index.m3u8
@@ -6713,6 +6758,60 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6864/index.m3u8
 
 #EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 0.Love Nature Multidil
 http://95.67.12.82:9098
+
+#EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="01.KIL-BELGESEL", 00.BBC EARTH
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel
+https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=766755455ef5986d42685
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel
+https://goldvod.org/tv/vavoo?id=695705778677531522de3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel a
+https://goldvod.org/tv/vavoo?id=36240023073d7c66c2eda6
+
+#EXTINF:-1 tvg-id="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel c
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel d
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="01.KIL-BELGESEL", 00.Discovery ID
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
+
+#EXTINF:-1 tvg-id="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png" group-title="01.KIL-BELGESEL", 00.DOCUBOX
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.Habitat tv
+https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=351815374361a158e9a8f6
+
+#EXTINF:-1 tvg-id="|TR| STINGRAY NATURESCAPE ᴴᴰ" tvg-logo="https://habitattv.com.tr/hbtt/assets/img/HABITAT_TV_LOGO_small.png" group-title="01.KIL-BELGESEL", 00.Habitat tv
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314475&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", 00.HISTORY
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
+
+#EXTINF:-1 tvg-id="|TR|  24 KITCHEN ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="01.KIL-BELGESEL", 00.KITCHEN
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
+
+#EXTINF:-1 tvg-id="|TR|  LOVE NATURE ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", 00.LOVE NATURE
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| LIVING BELGESEL" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.LIVING BELGESEL
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314482&extension=ts
+
+#EXTINF:-1 tvg-id="|TR|  VIASAT HISTORY ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| VIASAT HISTORY ᵁᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170684&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| HISTORY VIASAT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| VIASAT NATURE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", 00.VIASAT NATURE
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
 
 #EXTINF:-1 tvg-id="https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
@@ -8503,6 +8602,9 @@ http://104.238.23.215/yt.php?ID=UCkFeoNSqYTa7trn75WM9tsg&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@timjanis" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Relaxing Music, Peaceful Instrumental Music
 http://104.238.23.215/yt.php?ID=UCdi8yQBdBfn1ECu3ayH_TnA&ext=.m3u8
+
+#EXTINF:-1 tvg-id="https://m.youtube.com/@RhythmPlanet2025" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Rhythm Planet
+http://104.238.23.215/yt.php?ID=UC7bOPxIKQAKVQA9YZU2ok7g&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@RitmoLatino-s1s" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Ritmo Latino
 http://104.238.23.215/yt.php?ID=UCgkzMQ0eekWm_s5wCOCWCWw&ext=.m3u8
