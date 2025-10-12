@@ -1842,9 +1842,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
 
-#EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png" group-title="0.KIL-SP0R  MAÇ", Spor Çoklu Ekran
-http://sultanweb.info/DESmart.php?ID=96693
-
 #EXTINF:-1 tvg-id="http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
@@ -1875,14 +1872,20 @@ http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/583
 #EXTINF:-1 tvg-id="https://freeshot.top/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.FreeShot.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Freeshot
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS1TR
 
-#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.FreeShot.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Freeshot b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.FreeShot.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Freeshot b
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS1TR&e=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.GoatTV.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Goat Tv
 https://live.tecostream.xyz/BeinSports1HD.php
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.GoatTV.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Goat Tv b
+https://live.tecostream.xyz/Beinsports1.php
+
 #EXTINF:-1 tvg-id="https://grtv58.live/channel?id=yayin1 https://lll.mevzuhls35.cfd/yayinzirve.m3u8 https://w0.b18d8be896598f0a.workers.dev/yayinzirve.m3u8     https://bbb.mevzuhls30.cfd/yayinzirve.m3u8 https://xn--ndaaa.mevzuhls38.cfd/yayinzirve.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.grb.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets
 https://audi.zirvedesin19.sbs/yayinzirve.m3u8|referer=https://grtv58.live/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Gurbets b
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 HayalBahis
 https://217.30.11.74/e/270.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -1930,13 +1933,13 @@ https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://g
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://dow16a1wo44i5e.dd97fce6dad8af45.live/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
-https://dow16a1wo44i5e.a7972f263dbb5263.live/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://dow16a1wo44i5e.a7972f263dbb5263.live/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://main.uxsyplayer0be895140b83.click/index.php?id=selcukbeinsports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk b
-https://dow16a1wo44i5e.a7972f263dbb5263.live/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://dow16a1wo44i5e.a7972f263dbb5263.live/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk c
-https://one.b2a7fa109ef84a6f.click/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.b2a7fa109ef84a6f.click/live/selcukobs1/playlist.m3u8|referer=https://www.selcuksportshd1836.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.smartbahis.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Smartbahis
 https://jklcn.cfd/cdn/bein_sports_1_hd/main.m3u8
@@ -1987,10 +1990,13 @@ http://freshot.karamehmet.workers.dev/?ID=beINSPORTS2TR
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayinb2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 2 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/602/index.m3u8
 
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/bein-sports-3.m3u8
@@ -2002,10 +2008,13 @@ http://freshot.karamehmet.workers.dev/?ID=beINSPORTS3TR
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 trgoals
 https://tecogoals.tecostream.xyz/yayinb3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 3 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/603/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/bein-sports-4.m3u8
@@ -2017,10 +2026,13 @@ http://freshot.karamehmet.workers.dev/?ID=BEINSPORT4TR
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 tr goals
 https://tecogoals.tecostream.xyz/yayinb4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 4 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/604/index.m3u8
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=beINSPORTS5TR
@@ -2031,17 +2043,26 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 trgoals
 https://tecogoals.tecostream.xyz/yayinb5
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 5 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/605/index.m3u8
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 trgoals
 https://tecogoals.tecostream.xyz/yayinbm1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 1 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/801/index.m3u8
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 trgoals
 https://tecogoals.tecostream.xyz/yayinbm2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.BEIN SPORT Max 2 Var sport
+http://cdn-2002.betconnecthdlivecdn.site/802/index.m3u8
 
 #EXTINF:-1 tvg-id="CBCSPORT" tvg-logo="https://cbcsport.info/wp-content/uploads/2025/06/cbc_logo2-removebg-preview-300x275.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT
 https://goldvod.org/tv/uyanik?id=52
@@ -2052,17 +2073,14 @@ http://162.212.179.33:80/gin-dvrfl05/gin-cbcs/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.CBC SPORT Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivecbcs.m3u8
 
-#EXTINF:-1 tvg-id="3504" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png" group-title="0.KIL-SP0R  MAÇ", v.Cosmo Sports
-http://sultanweb.info/CableNET.php?ID=3504
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn1.jpg" group-title="0.KIL-SP0R  MAÇ", v.DAZN 1 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/dazn2.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN 2 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sdazn2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sdazn2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.DAZN NFL Network Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/nflnetwork/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/nflnetwork/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="790" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=Euro1TR
@@ -2071,10 +2089,13 @@ http://freshot.karamehmet.workers.dev/?ID=Euro1TR
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/seurosport1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/seurosport1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 trgoals
 https://tecogoals.tecostream.xyz/yayineu1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-id="791" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Freeshot 
 http://freshot.karamehmet.workers.dev/?ID=Euro2TR
@@ -2083,10 +2104,13 @@ http://freshot.karamehmet.workers.dev/?ID=Euro2TR
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivees2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayineu2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Euro Sport 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Exxen 1 Justin 
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveexn1.m3u8
@@ -2116,13 +2140,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://tecogoals.tecostream.xyz/yayinf1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [DE]  Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sskysportsf1de/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1de/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [UK] Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sskysportsf1uk/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1uk/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/skysportsf1.png" group-title="0.KIL-SP0R  MAÇ", v.F1 [ITA] Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sskysportsf1ita/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1ita/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="IDMANTV" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="0.KIL-SP0R  MAÇ", v.iDMAN TV
 https://goldvod.org/tv/uyanik?id=53
@@ -2134,10 +2158,10 @@ http://162.212.179.33:80/gin-dvrfl05/gin-idmantv/playlist.m3u8
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamliveidm.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/motorsport.png" group-title="0.KIL-SP0R  MAÇ", v.Motorsport TV Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/smotorsporttv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/smotorsporttv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/motorvision.png" group-title="0.KIL-SP0R  MAÇ", v.Motorvision TV Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/smotorvisiontv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/smotorvisiontv/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="0.KIL-SP0R  MAÇ", v.Nba Tv a
 http://212.102.60.231/NBA_TV/index.m3u8
@@ -2152,7 +2176,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://tecogoals.tecostream.xyz/yayinnbatv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/nfltvlogo.png" group-title="0.KIL-SP0R  MAÇ", v.NFL CHANNEL Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/nflchannel/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/nflchannel/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Atomsport
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/s-sport.m3u8
@@ -2164,16 +2188,19 @@ https://217.30.11.74/e/3030.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidc
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Rec
-https://bs.arectv33.sbs/static/ss11.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_ssport1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Rec
-https://bs.arectv19.sbs/static/ss11.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv19.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sssport/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sssport/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 trgoals
 https://tecogoals.tecostream.xyz/yayinss
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/607/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/s-sport-2.m3u8
@@ -2185,34 +2212,52 @@ https://217.30.11.74/e/3031.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidc
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Rec
-https://bs.arectv33.sbs/static/ss2.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_ssport2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Rec
-https://bs.arectv19.sbs/static/ss2.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv19.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sssport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sssport2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 trgoals
 https://tecogoals.tecostream.xyz/yayinss2
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/608/index.m3u8
+
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl1.m3u8 https://v.arectv13.sbs/static/pl2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 rec
-https://bs.arectv33.sbs/static/pl1.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/pl1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sssplus1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sssplus1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/901/index.m3u8
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl2.m3u8. https://v.arectv13.sbs/static/pl3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 rec
-https://bs.arectv33.sbs/static/pl2.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/pl2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ssportplus.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/902/index.m3u8
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/pl3.m3u8 https://v.arectv13.sbs/static/pl1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 3 rec
-https://bs.arectv33.sbs/static/pl3.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/pl3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 3 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/903/index.m3u8
 
 #EXTINF:-1 tvg-id="S SPORTS" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 4 rec
-https://bs.arectv33.sbs/static/pl4.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://bs.arectv33.sbs/static/pl4.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 4 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/904/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.S Sport plus 5 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/905/index.m3u8
 
 #EXTINF:-1 tvg-id="https://solhtvhls.wns.live/hls/stream.m3u8" tvg-logo="https://darya.stream/wp-content/uploads/2025/01/Solhsport-tv-live.jpg" group-title="0.KIL-SP0R  MAÇ", v.Solh Sport
 https://solhtvhls.wns.live/hls/stream.m3u8
@@ -2229,6 +2274,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 trgoals
 https://tecogoals.tecostream.xyz/yayinsmarts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/609/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Hayalbahis
 https://217.30.11.74/e/156.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -2238,11 +2286,20 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 trgoals
 https://tecogoals.tecostream.xyz/yayinsms2
 
-#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Spor Smart 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/610/index.m3u8
 
 #EXTINF:-1 tvg-id="https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1280px-Tabii_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ    Justin
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ    Rec
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ    Var sport
+http://cdn-2002.betconnecthdlivecdn.site/tabii/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb1.m3u8
@@ -2251,10 +2308,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 Rec 
-https://v.arectv30.sbs/static/tabi1.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 trgoals
 https://tecogoals.tecostream.xyz/yayinex1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii1/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb2.m3u8
@@ -2263,10 +2323,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 Rec 
-https://v.arectv30.sbs/static/tabi2.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 trgoals
 https://tecogoals.tecostream.xyz/yayinex2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii2/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb3.m3u8
@@ -2275,10 +2338,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://uJnF69oP16X2fiIyWxCNx41Q8.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 Rec 
-https://v.arectv30.sbs/static/tabi3.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 trgoals
 https://tecogoals.tecostream.xyz/yayinex3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 3 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii3/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4
 https://v.arectv30.sbs/static/tabi4.m3u8
@@ -2292,6 +2358,9 @@ https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4 trgoals
 https://tecogoals.tecostream.xyz/yayinex4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 4 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii4/index.m3u8
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb5.m3u8
 
@@ -2299,10 +2368,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 Rec 
-https://v.arectv30.sbs/static/tabi5.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi5.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 trgoals
 https://tecogoals.tecostream.xyz/yayinex5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 5 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii5/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb6.m3u8
@@ -2311,10 +2383,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 Rec 
-https://v.arectv30.sbs/static/tabi6.m3u8
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://v.arectv30.sbs/static/tabi6.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 trgoals
 https://tecogoals.tecostream.xyz/yayinex6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 6 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/tabii6/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 7
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivetb7.m3u8
@@ -2328,11 +2403,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ 8 trgoals
 https://tecogoals.tecostream.xyz/yayinex8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.TABİİ Rec
-https://v.arectv30.sbs/static/tabi.m3u8
-
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor    Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/checklist/androstreamlivets.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor   Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/700/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/tivibu-spor-1.m3u8
@@ -2346,6 +2421,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 trgoals
 https://tecogoals.tecostream.xyz/yayint1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 1 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/701/index.m3u8
+
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/tivibu-spor-2.m3u8
 
@@ -2357,6 +2435,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 trgoals
 https://tecogoals.tecostream.xyz/yayint2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 2 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/702/index.m3u8
 
 #EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 3 Atomsport 
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.corestream1.help//hls/tivibu-spor-3.m3u8
@@ -2376,6 +2457,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 trgoals
 https://tecogoals.tecostream.xyz/yayint4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Tivibu Spor 4 Var sport 
+http://cdn-2002.betconnecthdlivecdn.site/704/index.m3u8
+
 #EXTINF:-1 tvg-id="http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="0.KIL-SP0R  MAÇ", v.Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
@@ -2389,7 +2473,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sporcafe-2fd65c4bc314.xyz/assets/images/channels/ufcpasslogo.png" group-title="0.KIL-SP0R  MAÇ", v.UFC Fight Pass Sporcafe
-https://one.c37c5ccda41b4ac6.click/live/sufcfightpass/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sufcfightpass/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png" group-title="0.KIL-SP0R  MAÇ", w..A SPOR
 http://116.202.238.88/ASPOR_TR/index.m3u8
@@ -3315,6 +3399,9 @@ https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/8t5aAVx.png" group-title="0.KIL-ULUSAL", 04.ATV Euro
 http://162.212.179.34/dvrfl05/gin-atvavrupa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.now
+http://nowtv.karamehmet.workers.dev/NowTV
+
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="0.KIL-ULUSAL", 05.NOW A
 https://withered-art-ad81.support-a2f.workers.dev/live/index.m3u8
 
@@ -3506,1002 +3593,6 @@ http://162.212.179.33:80/gin-trn09/gin-tv8-tv/tracks-v1a1/rewind-128880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Tv8int
 http://162.212.179.33:80/gin-dvrfl05/gin-tv8int/tracks-v1a1/rewind-128880.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN 1 FEED (720P) |D
-https://goldvod.org/tv/vavoo?id=1363827223785a15d8757e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 (720P) |D
-https://goldvod.org/tv/vavoo?id=3840475653430b3726024b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 (720PFEED) |D
-https://goldvod.org/tv/vavoo?id=2233066433a8f6eae09642
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 + |D
-https://goldvod.org/tv/vavoo?id=257621689779b8fed9899e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 4K FEED(KUTU) |D
-https://goldvod.org/tv/vavoo?id=267105889df7eebc2e471
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 4K FEED(UYDU) |D
-https://goldvod.org/tv/vavoo?id=1536730627473741d29b73
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 50 FPS |D
-https://goldvod.org/tv/vavoo?id=135242105312913bfa342d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 720P FEED |D
-https://goldvod.org/tv/vavoo?id=499485497f2a87372fca3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 8K FEED |D
-https://goldvod.org/tv/vavoo?id=21134623980ed579742af1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] |H
-https://goldvod.org/tv/vavoo?id=3428984703931537ad5cb4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 FEED (OZEL FEED YAYIN) |D
-https://goldvod.org/tv/vavoo?id=14536923141c3ea015b82f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 H265 |D
-https://goldvod.org/tv/vavoo?id=24034250311fdb297b466e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 HD (TURKEY) |D
-https://goldvod.org/tv/vavoo?id=593493860189d11f7fa05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 HD |D
-https://goldvod.org/tv/vavoo?id=6621796209b1d59f3eb10
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 1 |E
-https://goldvod.org/tv/vavoo?id=30011339466381ddac1fe
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 2 HD |D
-https://goldvod.org/tv/vavoo?id=2851539143a8ccc3d357a3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 2 SD |D
-https://goldvod.org/tv/vavoo?id=32363629118af6d1bc5de8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 2 |E
-https://goldvod.org/tv/vavoo?id=144724150649fb3ed7eec1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 2 |H
-https://goldvod.org/tv/vavoo?id=25094661918ca2565bad99
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 3 HD |D
-https://goldvod.org/tv/vavoo?id=170059580149fb700b1df3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 3 SD |D
-https://goldvod.org/tv/vavoo?id=2063713299b05d8f73388
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 3 UHD |D
-https://goldvod.org/tv/vavoo?id=34101675603c7aea8fa6b1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 3 |E
-https://goldvod.org/tv/vavoo?id=17974596029fac8029a46a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 3 |H
-https://goldvod.org/tv/vavoo?id=283451494386b77a7c47f0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 4 HD |D
-https://goldvod.org/tv/vavoo?id=18722327683304e835920e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 4 UHD |D
-https://goldvod.org/tv/vavoo?id=293826835381972adead05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 4 |E
-https://goldvod.org/tv/vavoo?id=3640906370cbcde264f207
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 5 FHD |D
-https://goldvod.org/tv/vavoo?id=400031560107e5581e3624
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS 5 |E
-https://goldvod.org/tv/vavoo?id=383175761899a7add480e9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 1 FHD |D
-https://goldvod.org/tv/vavoo?id=4071474743f02bc2c5b4b9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 1 HD |D
-https://goldvod.org/tv/vavoo?id=2252814237cb3c5658a25
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 1 |E
-https://goldvod.org/tv/vavoo?id=12215870672201e11b391e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 1 |H
-https://goldvod.org/tv/vavoo?id=2832430535849b88f81e2d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 2 FHD |D
-https://goldvod.org/tv/vavoo?id=34079362426e8ca1ffedf7
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 2 HD |D
-https://goldvod.org/tv/vavoo?id=22126598207be09810152c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 2 |E
-https://goldvod.org/tv/vavoo?id=258968235d93582b6e753
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.BEIN SPORTS MAX 2 |H
-https://goldvod.org/tv/vavoo?id=401729512721e1f1ec3280
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 1 HD |D
-https://goldvod.org/tv/vavoo?id=2078862937dc11f33ed82b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 1 |E
-https://goldvod.org/tv/vavoo?id=34586314614ddf800b9c94
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 1 |H
-https://goldvod.org/tv/vavoo?id=32713288437b5760784ddd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 2 [LIVE DURING EVENTS ONLY] |H
-https://goldvod.org/tv/vavoo?id=1309778674f631656bddb0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 2 HD |D
-https://goldvod.org/tv/vavoo?id=411722796226260c919a04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT 2 |E
-https://goldvod.org/tv/vavoo?id=2307325429e912059d1333
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT1 HD |D
-https://goldvod.org/tv/vavoo?id=37932006440e817e8a7239
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EUROSPORT2 HD |D
-https://goldvod.org/tv/vavoo?id=18219422478dfe01de5acb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 1 |H
-https://goldvod.org/tv/vavoo?id=1842018252da2d95a0f475
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 2 [LIVE DURING EVENTS ONLY] |H
-https://goldvod.org/tv/vavoo?id=3961480108fffc56f74eb2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 2 |E
-https://goldvod.org/tv/vavoo?id=24320962395339d7c648
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 3 [LIVE DURING EVENTS ONLY] |H
-https://goldvod.org/tv/vavoo?id=380793945399d48c90049a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 4 |H
-https://goldvod.org/tv/vavoo?id=2771024060c729ca34f9b7
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 5 |H
-https://goldvod.org/tv/vavoo?id=2555007244e696d2310074
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 6 [LIVE DURING EVENTS ONLY] |H
-https://goldvod.org/tv/vavoo?id=36155394325894e1b143e8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 7 |H
-https://goldvod.org/tv/vavoo?id=38006954040031666420f9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN SPORTS 8 |H
-https://goldvod.org/tv/vavoo?id=162493791753beb4890e48
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 1 720P |D
-https://goldvod.org/tv/vavoo?id=33339028670873b7a29a3a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 1 FEED |D
-https://goldvod.org/tv/vavoo?id=109140391286299a00a178
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 1 HD |D
-https://goldvod.org/tv/vavoo?id=1204200801a5104d5fd3ea
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 1 UHD |D
-https://goldvod.org/tv/vavoo?id=3814925371184c14d36891
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 1 |D
-https://goldvod.org/tv/vavoo?id=12083699956e772f599141
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 2 HD |D
-https://goldvod.org/tv/vavoo?id=33770461468efc53313930
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 2 UHD |D
-https://goldvod.org/tv/vavoo?id=3673037054411c2f597d26
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 3 |D
-https://goldvod.org/tv/vavoo?id=8518410671a522ff96de7
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 4 |D
-https://goldvod.org/tv/vavoo?id=21626092115fd8b860d3d3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 5 |D
-https://goldvod.org/tv/vavoo?id=3179734411e2516e701706
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 6 |D
-https://goldvod.org/tv/vavoo?id=4196835163134f8de0e0a2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 7 |D
-https://goldvod.org/tv/vavoo?id=3343300331690f5fcd57ae
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV SPOR 8 |D
-https://goldvod.org/tv/vavoo?id=1159078202baf7172fe022
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.EXXEN TV |E
-https://goldvod.org/tv/vavoo?id=24260976594a516505ed9f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.FILBOX SPOR 1 MACZAMANI |D
-https://goldvod.org/tv/vavoo?id=4076122676405bcdabff5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.FILBOX SPOR 2 MACZAMANI |D
-https://goldvod.org/tv/vavoo?id=1545833147d717f30e56c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.FILBOX SPOR 3 MACZAMANI |D
-https://goldvod.org/tv/vavoo?id=2966231802046ef896ab9f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT 2 |D
-https://goldvod.org/tv/vavoo?id=93690827446cf78e93279
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT 2 |E
-https://goldvod.org/tv/vavoo?id=1313768516f4e2fb1853d4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT 2 |H
-https://goldvod.org/tv/vavoo?id=1234604880c7638b38f698
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT |D
-https://goldvod.org/tv/vavoo?id=21232735982e32865f30ff
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT |E
-https://goldvod.org/tv/vavoo?id=334654972230cb8b87fc4c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT |H
-https://goldvod.org/tv/vavoo?id=3718336295df22a5d5825d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT+3 MAC SAATI |D
-https://goldvod.org/tv/vavoo?id=32693723268b5c871a5e91
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT+4 MAC SAATI |D
-https://goldvod.org/tv/vavoo?id=1507829436971531d2460b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S SPORT+5 MAC SAATI |D
-https://goldvod.org/tv/vavoo?id=3760487764c074d54cba2f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT 1 UHD |D
-https://goldvod.org/tv/vavoo?id=35317621955a43bd93b947
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT 2 HD |D
-https://goldvod.org/tv/vavoo?id=1183409452f74cc8d9c294
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT 2 UHD |D
-https://goldvod.org/tv/vavoo?id=3943651030ed30b5af10f6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT HD |D
-https://goldvod.org/tv/vavoo?id=91999316826a6bc9d1107
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT PLUS FHD |D
-https://goldvod.org/tv/vavoo?id=40360462190582d8e63fd1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT+1 MAC SAATI |D
-https://goldvod.org/tv/vavoo?id=2559756791cdeaac29f12e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORT+2 MAC SAATI |D
-https://goldvod.org/tv/vavoo?id=231418356625d245c7276a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORTS 1 SD |D
-https://goldvod.org/tv/vavoo?id=320290523a3aa65f45505
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.S-SPORTS 2 SD |D
-https://goldvod.org/tv/vavoo?id=26439990321d0bfd8e6bd9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SARAN SPORT 1 |H
-https://goldvod.org/tv/vavoo?id=3962972352229e220c0726
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SARAN SPORT 2 |H
-https://goldvod.org/tv/vavoo?id=2878755344f4a624cc1d38
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SMART SPOR 1 |H
-https://goldvod.org/tv/vavoo?id=413796206217640fde932f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART 2 HD |D
-https://goldvod.org/tv/vavoo?id=272649667189ca618b88f8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART 2 |E
-https://goldvod.org/tv/vavoo?id=90716509567641f934d7a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART FHD |D
-https://goldvod.org/tv/vavoo?id=37639315209e74dff646b8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART HD |D
-https://goldvod.org/tv/vavoo?id=13135633501f1e0a8d6240
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART HEVC |D
-https://goldvod.org/tv/vavoo?id=3445708926970909ce4a27
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART SD |D
-https://goldvod.org/tv/vavoo?id=660246670674c0348fce7
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART |D
-https://goldvod.org/tv/vavoo?id=31596047b5c3cd870145
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPOR SMART |E
-https://goldvod.org/tv/vavoo?id=17715113975f060784afc6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPORTS TV HD |D
-https://goldvod.org/tv/vavoo?id=24292987981a22e1c17330
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPORTS TV |E
-https://goldvod.org/tv/vavoo?id=3422827985452c00890fd5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.SPORTSTV HD |D
-https://goldvod.org/tv/vavoo?id=2611296981e9c116a4d8c6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 1 720P |D
-https://goldvod.org/tv/vavoo?id=3665914763f995f89a01b9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 1 UHD |D
-https://goldvod.org/tv/vavoo?id=3107708522fef862b48431
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 2 HD |D
-https://goldvod.org/tv/vavoo?id=2490165372d6b0da7d5bec
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 2 UHD |D
-https://goldvod.org/tv/vavoo?id=2159469231edab65ccdfad
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 3 HD |D
-https://goldvod.org/tv/vavoo?id=1489430754b69b88da4f65
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 3 UHD |D
-https://goldvod.org/tv/vavoo?id=2546857708f061484420d9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 4 HD |D
-https://goldvod.org/tv/vavoo?id=1375986171ebc9f0327f95
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 4 UHD |D
-https://goldvod.org/tv/vavoo?id=408817539759a3aa8e5f48
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 5 UHD |D
-https://goldvod.org/tv/vavoo?id=383933219869a035e6f4bc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 6 HD |D
-https://goldvod.org/tv/vavoo?id=2709848384d3ba5c3ac74
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR 6 UHD |D
-https://goldvod.org/tv/vavoo?id=3713708963f83edc3e8561
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR HD |D
-https://goldvod.org/tv/vavoo?id=22594800870585b00a3e9e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TABII SPOR SD |D
-https://goldvod.org/tv/vavoo?id=40221481753301321746ce
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 1 |E
-https://goldvod.org/tv/vavoo?id=25659723381aec03f8669e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 1 |H
-https://goldvod.org/tv/vavoo?id=1528949791bc1a740c6027
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 2 |E
-https://goldvod.org/tv/vavoo?id=3746683810108e0d3fdd02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 2 |H
-https://goldvod.org/tv/vavoo?id=478254799a8bcdb038adb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 3 |E
-https://goldvod.org/tv/vavoo?id=3794924050cc7306217d0b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 3 |H
-https://goldvod.org/tv/vavoo?id=568442751e1d17aff5093
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 4 HD |D
-https://goldvod.org/tv/vavoo?id=330706270428c56591e8b1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR 4 |E
-https://goldvod.org/tv/vavoo?id=1343303170b65b439eb124
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBU SPOR |E
-https://goldvod.org/tv/vavoo?id=115989992059add1058347
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 1 FHD |D
-https://goldvod.org/tv/vavoo?id=2896658744981ea6955dee
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 1 HD |D
-https://goldvod.org/tv/vavoo?id=3654518007bf7572732756
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 2 FHD |D
-https://goldvod.org/tv/vavoo?id=2502606333f4d2aaf7c591
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 2 HD |D
-https://goldvod.org/tv/vavoo?id=146568066018ab7b66e0b1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 3 FHD |D
-https://goldvod.org/tv/vavoo?id=21863899502c80e001941e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR 3 HD |D
-https://goldvod.org/tv/vavoo?id=2616624010dfb6767ad7d8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", 0.TIVIBUSPOR SPOR HD |D
-https://goldvod.org/tv/vavoo?id=365351585881372903c14e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ANIMAL PLANET |H
-https://goldvod.org/tv/vavoo?id=2110161355adff89271356
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ANIMATION 1 HD |D
-https://goldvod.org/tv/vavoo?id=72742743738453dfd617f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", AUTOMOTO (FR) |H
-https://goldvod.org/tv/vavoo?id=303351296370f4c2f054e5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BBC EARTH HD |D
-https://goldvod.org/tv/vavoo?id=222849685684ff542877de
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BBC EARTH |E
-https://goldvod.org/tv/vavoo?id=2618455562b77b2a0d88a2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BBC EARTH |H
-https://goldvod.org/tv/vavoo?id=2613731614c0e0b2e31440
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 1 |E
-https://goldvod.org/tv/vavoo?id=2930746102f2e4a5b256f5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 1 |H
-https://goldvod.org/tv/vavoo?id=132036385097914b13e539
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 2 |E
-https://goldvod.org/tv/vavoo?id=3910129702a06380e6b72f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 2 |H
-https://goldvod.org/tv/vavoo?id=1522640908b912c57f8d1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 3 |E
-https://goldvod.org/tv/vavoo?id=35641061345556a121aa64
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE 3 |H
-https://goldvod.org/tv/vavoo?id=879981610dffa2abfad82
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN BOX OFFICE TURK |E
-https://goldvod.org/tv/vavoo?id=2567486605f66f951c79b0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN GURME HD |D
-https://goldvod.org/tv/vavoo?id=9503946568377e1ba14c8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN GURME |E
-https://goldvod.org/tv/vavoo?id=3617035414a177b660a02d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN GURME |H
-https://goldvod.org/tv/vavoo?id=358323085863cb2e070a61
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES ACTION 2 |E
-https://goldvod.org/tv/vavoo?id=2617318386a2d2e56b52be
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES ACTION 2 |H
-https://goldvod.org/tv/vavoo?id=650851542a4bc4db69c93
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES ACTION |E
-https://goldvod.org/tv/vavoo?id=18734781318dbae7eb6421
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES ACTION |H
-https://goldvod.org/tv/vavoo?id=3041245607d0287332800f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES FAMILY |E
-https://goldvod.org/tv/vavoo?id=24851991523ab5180680ed
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES FAMILY |H
-https://goldvod.org/tv/vavoo?id=132222806828a8b510dbc3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES PREMIERE 2 |E
-https://goldvod.org/tv/vavoo?id=2244069093c6fbea6af4e9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES PREMIERE 2 |H
-https://goldvod.org/tv/vavoo?id=21202183563f547f163f28
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES PREMIERE |E
-https://goldvod.org/tv/vavoo?id=942987224639af4d0df89
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES PREMIERE |H
-https://goldvod.org/tv/vavoo?id=21977479645d54362c5209
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES STARS |E
-https://goldvod.org/tv/vavoo?id=2500913164c25db092574e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES STARS |H
-https://goldvod.org/tv/vavoo?id=1963748784d1371e82f1f5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES TURK |E
-https://goldvod.org/tv/vavoo?id=33905759482053e27c9b0f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN MOVIES TURK |H
-https://goldvod.org/tv/vavoo?id=1835579025421e0b46c42e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES 1 |E
-https://goldvod.org/tv/vavoo?id=21909222989587d08289a0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES 3 |E
-https://goldvod.org/tv/vavoo?id=41664187788b1f13619a77
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES 4 |E
-https://goldvod.org/tv/vavoo?id=12492711145e9f6607b9ba
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES COMEDY |E
-https://goldvod.org/tv/vavoo?id=31123966357c6cf9bebe55
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES COMEDY |H
-https://goldvod.org/tv/vavoo?id=1668144911c47a13aa17a9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES DRAMA |E
-https://goldvod.org/tv/vavoo?id=34136721037c258084eaf0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES DRAMA |H
-https://goldvod.org/tv/vavoo?id=727975195eec6107eb17b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES SCI-FI |H
-https://goldvod.org/tv/vavoo?id=3016529666dac6c6cef893
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SERIES VICE |H
-https://goldvod.org/tv/vavoo?id=11255232626f1b348d06b4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN SPORTS 2 UHD |D
-https://goldvod.org/tv/vavoo?id=3694662475b76c08f52108
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN IZ TV |H
-https://goldvod.org/tv/vavoo?id=31561783594fe60b8be183
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", BEIN IZ |E
-https://goldvod.org/tv/vavoo?id=16912230782de6c2ba1978
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", CHASSE & PECHE |E
-https://goldvod.org/tv/vavoo?id=30333831379fe8ff75edcc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", CHASSE ET PECHE |H
-https://goldvod.org/tv/vavoo?id=147576390f38f389dce7c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY CHANNEL HD+ |D
-https://goldvod.org/tv/vavoo?id=695705778677531522de3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY CHANNEL |H
-https://goldvod.org/tv/vavoo?id=307999590110e9e6b78254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY SCIENCE HD+ |D
-https://goldvod.org/tv/vavoo?id=2818684271e510696cea5e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY SCIENCE |E
-https://goldvod.org/tv/vavoo?id=10132204473a98b62fc581
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY SCIENCE |H
-https://goldvod.org/tv/vavoo?id=3698852323bff328e6fb47
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY WORLD |E
-https://goldvod.org/tv/vavoo?id=36240023073d7c66c2eda6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY ID |D
-https://goldvod.org/tv/vavoo?id=209540406020f62c57175e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY ID |H
-https://goldvod.org/tv/vavoo?id=972730032f26c7e7b9552
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DISCOVERY IDX HD |D
-https://goldvod.org/tv/vavoo?id=97009866213fd3e65b32c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DIZI SMART MAX |H
-https://goldvod.org/tv/vavoo?id=4079530614434808c2d545
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DIZI SMART PREMIUM |H
-https://goldvod.org/tv/vavoo?id=791616758e9ad4e5d14ac
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DIZISMART MAX |E
-https://goldvod.org/tv/vavoo?id=11652018072c8d76645760
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", DIZISMART PREMIUM |E
-https://goldvod.org/tv/vavoo?id=11954292800ebbc39f571b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ENO AKSIYON 1 |H
-https://goldvod.org/tv/vavoo?id=633768195f9070ceb86aa
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FX |E
-https://goldvod.org/tv/vavoo?id=382143364953058aba24f3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FX |H
-https://goldvod.org/tv/vavoo?id=2851147991f912fb010fe5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FILMBOX COMEDY |H
-https://goldvod.org/tv/vavoo?id=2089556265dc11d307f1d2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FILMBOX FANTASTIC |H
-https://goldvod.org/tv/vavoo?id=2267707661b1b04087783f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FILMBOX KADIR INANIR |H
-https://goldvod.org/tv/vavoo?id=3268085547d19087021d4e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FILMBOX+ |H
-https://goldvod.org/tv/vavoo?id=2600387615aacd3bbef313
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA ACTION |D
-https://goldvod.org/tv/vavoo?id=140294889ef11a15f32eb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA BILM KURGU |D
-https://goldvod.org/tv/vavoo?id=24802319264c5d11fe49e6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA COMEDY |D
-https://goldvod.org/tv/vavoo?id=414072086965e52948e1d1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA DRAM |D
-https://goldvod.org/tv/vavoo?id=2830763591413889afebff
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA FANTASTIC |D
-https://goldvod.org/tv/vavoo?id=2459747332b63d18548815
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA KORKU |D
-https://goldvod.org/tv/vavoo?id=2778910791069ede623715
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA MACERA |D
-https://goldvod.org/tv/vavoo?id=29580754431181a955c2cc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA NETFLIX |D
-https://goldvod.org/tv/vavoo?id=32169858000ebc070cf943
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA YERLI |D
-https://goldvod.org/tv/vavoo?id=239201347d26be003c3b2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", FIX CINEMA YESILCAM |D
-https://goldvod.org/tv/vavoo?id=41108616625c53981084d8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX ACTION |D
-https://goldvod.org/tv/vavoo?id=2456232539216a6b68550e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX COMEDY |D
-https://goldvod.org/tv/vavoo?id=18280597359e58885657fd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX DRAM |D
-https://goldvod.org/tv/vavoo?id=1040144724a90a4708a1f2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX FANTASTIC |D
-https://goldvod.org/tv/vavoo?id=1557465046c84ddd703794
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX KEMAL SUNAL |D
-https://goldvod.org/tv/vavoo?id=427544619762ec2584a402
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX KORKU |D
-https://goldvod.org/tv/vavoo?id=5626810304db51b83f9fd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX VIZYON |D
-https://goldvod.org/tv/vavoo?id=2960112808f61fc6c4180c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX YE IL AM |D
-https://goldvod.org/tv/vavoo?id=20469434346c1d47830ba2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", GLOBAL BOX YERLI |D
-https://goldvod.org/tv/vavoo?id=232226221016e49a5d3707
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HABITAT |E
-https://goldvod.org/tv/vavoo?id=12812705688879e2f215a2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HORROR 1 HD |D
-https://goldvod.org/tv/vavoo?id=36119753123ae6db8d6aa3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HORROR 2 HD |D
-https://goldvod.org/tv/vavoo?id=15061057159a5b5905775c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HORROR 3 HD |D
-https://goldvod.org/tv/vavoo?id=2507102701cbf472a2900f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HORROR 4 HD |D
-https://goldvod.org/tv/vavoo?id=26787391883a74b37ce970
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HORROR 5 HD |D
-https://goldvod.org/tv/vavoo?id=1392529514ac189e2e7f57
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HISTORY CHANNEL |H
-https://goldvod.org/tv/vavoo?id=24153315680f516bd1907c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HISTORY HD |D
-https://goldvod.org/tv/vavoo?id=42074875629bf0c44079e4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", HISTORY |E
-https://goldvod.org/tv/vavoo?id=4618930281310924ee5b0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", JURASSIC WORLD |D
-https://goldvod.org/tv/vavoo?id=21429692360995ef7b463d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", KONSERLER 1 |E
-https://goldvod.org/tv/vavoo?id=3739888003db4d643a64c9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", KINGBOX ACTION |D
-https://goldvod.org/tv/vavoo?id=3186688793130805bde7d6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MARVEL STUDIOS 4 |E
-https://goldvod.org/tv/vavoo?id=918934667ed3a91157cf9
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MARVEL STUDIOS 5 |E
-https://goldvod.org/tv/vavoo?id=1954276437f7f1c056c9b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MARVEL STUDIOS 7 |E
-https://goldvod.org/tv/vavoo?id=1902489179a76a6a5a9598
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX GOLD |E
-https://goldvod.org/tv/vavoo?id=326817499514eef5b1708b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX PREMIER |E
-https://goldvod.org/tv/vavoo?id=858266837a101445a0810
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX TURK |E
-https://goldvod.org/tv/vavoo?id=1222272481dbf0bf42474b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX VIZYON 1 |E
-https://goldvod.org/tv/vavoo?id=3792548191c2937952950f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX VIZYON 2 |E
-https://goldvod.org/tv/vavoo?id=27796304791b878d8292aa
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX VIZYON 3 |E
-https://goldvod.org/tv/vavoo?id=2563629631e1ee7080462b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MAX VIZYON 4 |E
-https://goldvod.org/tv/vavoo?id=72019102355b2ce4277e4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART ACTION |H
-https://goldvod.org/tv/vavoo?id=12374609486f1b3394a39c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART CLASSIC |H
-https://goldvod.org/tv/vavoo?id=3597292408cebfcc466be2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART PLATIN 2 |H
-https://goldvod.org/tv/vavoo?id=1800204159cdab71fc03fc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART PREMIUM 2 |H
-https://goldvod.org/tv/vavoo?id=11940097825636a8e31338
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART PREMIUM |H
-https://goldvod.org/tv/vavoo?id=383035340529b631ec590b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIE SMART TURK |H
-https://goldvod.org/tv/vavoo?id=353384054f9effde9a972
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIEMAX TURK |H
-https://goldvod.org/tv/vavoo?id=2178364300e5ef562dfb4d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIESMART CLASSIC |E
-https://goldvod.org/tv/vavoo?id=1337239933fee2e2ad02ff
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIESMART PREMIUM |E
-https://goldvod.org/tv/vavoo?id=21066198962f00dbc020a8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MOVIESMART TURK |E
-https://goldvod.org/tv/vavoo?id=371939752224cf9f48680a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", MUSLUM GURSES |E
-https://goldvod.org/tv/vavoo?id=1166494645099c04579ec1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO WILD HD |D
-https://goldvod.org/tv/vavoo?id=151923711672a921906b9e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO WILD HD+ |D
-https://goldvod.org/tv/vavoo?id=124345657d34950b92a2d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO WILD |E
-https://goldvod.org/tv/vavoo?id=3320654968332201176e85
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO WILD |H
-https://goldvod.org/tv/vavoo?id=199982318697aef4fad04e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO |E
-https://goldvod.org/tv/vavoo?id=1845660630ed3d50857f5b
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NAT GEO |H
-https://goldvod.org/tv/vavoo?id=19605460911f3ec99e7c80
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NATIONAL GEOGRAPHIC HD |D
-https://goldvod.org/tv/vavoo?id=107835532503bcbd64d2a1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NATIONAL GEOGRAPHIC HD+ |D
-https://goldvod.org/tv/vavoo?id=1514492628e405abe4a48e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NATIONAL GEOGRAPHIC WILD HD |D
-https://goldvod.org/tv/vavoo?id=132416616ac620ec2effb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NBA TV FHD |D
-https://goldvod.org/tv/vavoo?id=2462143546003909baea4f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NBA TV HD |D
-https://goldvod.org/tv/vavoo?id=3513867536b840edf513f1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", NBA TV |H
-https://goldvod.org/tv/vavoo?id=2430655089ee1d045558cf
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", OSCAR COLLERDE |D
-https://goldvod.org/tv/vavoo?id=2879086761d43775d0e51d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", OUTDOOR |D
-https://goldvod.org/tv/vavoo?id=173629287d81d65f69012
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", REDBOX ARABESK TV |D
-https://goldvod.org/tv/vavoo?id=1149613711f0a59ef77e09
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", REDBOX KEMAL SUNAL |H
-https://goldvod.org/tv/vavoo?id=2795499512b7342aba6a15
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", REDBOX TURKCE POP |D
-https://goldvod.org/tv/vavoo?id=2387657693398cba5728fa
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", RETRO T RK T RK E KLASIK |D
-https://goldvod.org/tv/vavoo?id=3415299258dd33da3254b2
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SALON 1 |H
-https://goldvod.org/tv/vavoo?id=22173330057a629a89f7a3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SALON 2 |H
-https://goldvod.org/tv/vavoo?id=3280579549326d30fe3c8f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SALON 3 SINEMAX |H
-https://goldvod.org/tv/vavoo?id=915717266167e496d4a2f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SMART COCUK HD |D
-https://goldvod.org/tv/vavoo?id=81357489590fc9131b001
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SMART COCUK |H
-https://goldvod.org/tv/vavoo?id=42777502751a23f548905f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SPIDERMAN TV |D
-https://goldvod.org/tv/vavoo?id=2478813774eda1e64e7cfb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SURELER VE T RKCE MEALI |D
-https://goldvod.org/tv/vavoo?id=3430890461fd23ded0781d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA 1001 |H
-https://goldvod.org/tv/vavoo?id=3117683628e16bcedecc46
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA 1002 |H
-https://goldvod.org/tv/vavoo?id=42690420442a797225e077
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA AKSIYON 2 |H
-https://goldvod.org/tv/vavoo?id=179563017036a6fcbdfe8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA AILE 2 |H
-https://goldvod.org/tv/vavoo?id=3131911051858cf4598572
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA KOMEDI |H
-https://goldvod.org/tv/vavoo?id=2574496683382a8479909
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMA TV |H
-https://goldvod.org/tv/vavoo?id=16177199411aa02604f2a1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMAX DRAMA |H
-https://goldvod.org/tv/vavoo?id=27892494619815fbde3f36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMAX FAMILY |H
-https://goldvod.org/tv/vavoo?id=1469484475afded2ce721c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMAX KOMEDI |H
-https://goldvod.org/tv/vavoo?id=5658137620548290afba3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEMAX TURK |H
-https://goldvod.org/tv/vavoo?id=4201568953f743e59fe073
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON 1 |H
-https://goldvod.org/tv/vavoo?id=3562169936e6ce93974bc0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON 15 |H
-https://goldvod.org/tv/vavoo?id=143449292419d6be1f6bce
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON 5 |H
-https://goldvod.org/tv/vavoo?id=567459984440953e87cf3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON 8 |H
-https://goldvod.org/tv/vavoo?id=36449823056a9254b0a8e8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 1 |H
-https://goldvod.org/tv/vavoo?id=2373275257ec31fa324c0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 10 |H
-https://goldvod.org/tv/vavoo?id=1349345581b48807426049
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 2 |H
-https://goldvod.org/tv/vavoo?id=1233464949ab1a4a37a574
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 5 |H
-https://goldvod.org/tv/vavoo?id=4221956709d332e5f28068
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 6 |H
-https://goldvod.org/tv/vavoo?id=31544792850ecd5ddbeab1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 7 |H
-https://goldvod.org/tv/vavoo?id=217092122190e2b76a0bce
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 8 |H
-https://goldvod.org/tv/vavoo?id=53819092676b56241f20
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SINEVIZYON TURK 9 |H
-https://goldvod.org/tv/vavoo?id=10457659880614beb47200
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SIRINLER TV (BACKUP) |D
-https://goldvod.org/tv/vavoo?id=15560193963c71abca330f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SIRINLER TV |D
-https://goldvod.org/tv/vavoo?id=383348303ae57cd8450b5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", SIRINLER TV |H
-https://goldvod.org/tv/vavoo?id=17662417450658589f9c6e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", T RK E POP |D
-https://goldvod.org/tv/vavoo?id=27868531048b1a36aba06a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", TARIH TV |E
-https://goldvod.org/tv/vavoo?id=385695705243789b6f2c45
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", TARIM TV |E
-https://goldvod.org/tv/vavoo?id=2902749208c8592ef6d1a5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", TOM & JERRY |D
-https://goldvod.org/tv/vavoo?id=410018565968cbf0aab06e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", TON TV |E
-https://goldvod.org/tv/vavoo?id=385559741639c5c28c7b3a
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", TRANSFORMERS |D
-https://goldvod.org/tv/vavoo?id=3939293866bf2abeffee93
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA AKSIYON |D
-https://goldvod.org/tv/vavoo?id=1910890160d94faaee5cf5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA ANIMASYON |D
-https://goldvod.org/tv/vavoo?id=88860008bf9471cea83c
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA BILIMKURGU |D
-https://goldvod.org/tv/vavoo?id=38306480396cc58aa91bcd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA KEMAL SUNAL |D
-https://goldvod.org/tv/vavoo?id=3174342016e92c6e77a585
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA KOMEDI |D
-https://goldvod.org/tv/vavoo?id=3537946048adc25026e648
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA KORKU |D
-https://goldvod.org/tv/vavoo?id=35635625476853015988e8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA TURK |D
-https://goldvod.org/tv/vavoo?id=1868001587b65d4136107f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULTRA IMBD |D
-https://goldvod.org/tv/vavoo?id=1566446122fe3159c63cc6
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ULUSAL KANAL |H
-https://goldvod.org/tv/vavoo?id=885453469dbf170658728
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT EXPLORE |D
-https://goldvod.org/tv/vavoo?id=1183258440b26d29bc5dab
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT EXPLORE |E
-https://goldvod.org/tv/vavoo?id=1098241076a0c941190aeb
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT EXPLORE |H
-https://goldvod.org/tv/vavoo?id=17854799143a91dbd33c73
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT HISTORY HD+ |D
-https://goldvod.org/tv/vavoo?id=34804689620470b58c1c2f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT HISTORY HEVC |D
-https://goldvod.org/tv/vavoo?id=1165670263400771f897d0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT HISTORY |E
-https://goldvod.org/tv/vavoo?id=190094521387accf0b7e30
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT HISTORY |H
-https://goldvod.org/tv/vavoo?id=15156863710bf5d49f691d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIASAT NATURE |E
-https://goldvod.org/tv/vavoo?id=3328295658062fb1d8f458
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", VIKINGLER TV |D
-https://goldvod.org/tv/vavoo?id=1253937530b60aaf81d42d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", X NOSTALJI T RK E KLASIK |D
-https://goldvod.org/tv/vavoo?id=1767757052837c429bffde
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YABAN TV HD |D
-https://goldvod.org/tv/vavoo?id=17885039351c239343b6b1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YABAN TV |H
-https://goldvod.org/tv/vavoo?id=4204615990c24994f4a6ec
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YABAN |E
-https://goldvod.org/tv/vavoo?id=33381595819f5564d9db18
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YESILCAM 1 |H
-https://goldvod.org/tv/vavoo?id=1952835738c7fd5fd2d297
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YESILCAM 2 |H
-https://goldvod.org/tv/vavoo?id=868586058322681e81fbd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YESILCAM 3 |H
-https://goldvod.org/tv/vavoo?id=24574258662c574397466
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", YESILCAM |E
-https://goldvod.org/tv/vavoo?id=15843353836ad485e317d1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", ÇOCUK SMART |E
-https://goldvod.org/tv/vavoo?id=1884291733e32c3cd7e9a5
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="0.KIL-VAVOO spor film vs", IDMAN TV HD |D
-https://goldvod.org/tv/vavoo?id=2368422760edb7d5fc79c6
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Afyon türk
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
@@ -5130,6 +4221,30 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 #EXTINF:-1 tvg-id="FX.tr     https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/7fff1cc1-c4a5-434f-9d52-68a0baf2243d.png" group-title="00.KIL-DiZi-FİLM", (0Fx) saran
 https://saran-live.ercdn.net/fx/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinBoxOffice1
+https://live.tecostream.xyz/BeinBoxOffice1.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinBoxOffice2
+https://live.tecostream.xyz/BeinBoxOffice2.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinBoxOffice3
+https://live.tecostream.xyz/BeinBoxOffice3.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinMoviesAction
+https://live.tecostream.xyz/BeinMoviesAction.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinMoviesFamily
+https://live.tecostream.xyz/BeinMoviesFamily.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinMoviesPremier
+https://live.tecostream.xyz/BeinMoviesPremier.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinMoviesStars
+https://live.tecostream.xyz/BeinMoviesStars.php
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", (1BeinMoviesTurk
+https://live.tecostream.xyz/BeinMoviesTurk.php
+
 #EXTINF:-1 tvg-id="beIN Box Office 1" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (beIN Box Office 1)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6744/index.m3u8
 
@@ -5180,54 +4295,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6812/index.m3u8
 
 #EXTINF:-1 tvg-id="Sinema TV" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="00.KIL-DiZi-FİLM", (Sinema TV)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6806/index.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 1
-https://tv.arectv34.sbs/live/box1.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box2.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 2
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/box2.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/box3.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein box Office 3
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/box3.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Bein movies Aksiyon
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsfamily.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies family
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/bsfamily.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bspremier1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies premier 1
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/bspremier1.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsstars.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies stars
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/bsstars.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bsturk.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.bein movies türk
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/bsturk.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Byzbox Aksiyon
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemaaksiyon2.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Byzbox Komedi
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Cinebox animasyon
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Cinebox Korku
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Eno türk
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemayerli.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.Eno türk2
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinemayerli2.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.movie smart türk
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="00.KIL-DiZi-FİLM", 0.TürkSinema
-https://stdaddy.onrender.com/proxy?url=https://tv.arectv34.sbs/live/sinema1002.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" group-title="00.KIL-DiZi-FİLM", 00.FİL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
@@ -5570,6 +4637,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://im.showtv.com.tr/2024/09/28/ver1727547950/3723876_1920x1080.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güldür Güldür Show
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güller Ve Günahlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.Ve.Gunahlar.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmExYjVkYWItZWQ2My00MjIzLWJhOWUtMmYzMGRkZGE4OWE0XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güzel Aşklar Diyarı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
@@ -6549,11 +5619,17 @@ https://cdn.prectv2.lat/hls/8/cdn1611/tzsR6FakJ8bQT4D11ZH9TevJOpWL09Oz6hh46x07.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w1200/h630/q70/51782_0-0-3839-2160.png" group-title="00.KIL-DiZi-TRENT", Yüzde İki 1.10
 https://cdn.prectv2.lat/hls/8/cdn1611/h7npzeGaswatLuxDrQUvgjhh4RuiDhn1tAd77erV.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", (CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", (Love Nature
+http://95.67.12.82:9098
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.BBC Earth
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6854/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", 0.BEİN GURME
-https://goldvod.org/tv/vavoo?id=9503946561e741aaf1f5f
+#EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="01.KIL-BELGESEL", 0.BBC EARTH
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
 
 #EXTINF:-1 tvg-id="|TR| BEIN GURME ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", 0.BEIN GURME
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314486&extension=ts
@@ -6564,14 +5640,8 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6804/index.m3u8
 #EXTINF:-1 tvg-id="|TR| BEIN IZ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", 0.BEIN IZ
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314487&extension=ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", 0.BEIN IZ
-https://goldvod.org/tv/vavoo?id=16912230784a73b11d66ed
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", 0.beIN IZ
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19078/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.CGTN Belgesel
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Da Vinci
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6857/index.m3u8
@@ -6579,70 +5649,55 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6857/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Discovery Channel
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6861/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="01.KIL-BELGESEL", 0.Discovery Channel b
+https://live.tecostream.xyz/DiscoveryChannel.php
+
+#EXTINF:-1 tvg-id="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel c
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=ts
+
+#EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel d
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Discovery ID
 https://tinyurl.com/4p759wmb
+
+#EXTINF:-1 tvg-id="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="01.KIL-BELGESEL", 0.Discovery ID b
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
+
+#EXTINF:-1 tvg-id="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png" group-title="01.KIL-BELGESEL", 0.DOCUBOX b
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://habitattv.com.tr/hbtt/assets/img/HABITAT_TV_LOGO_small.png" group-title="01.KIL-BELGESEL", 0.Habitat tv b
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314475&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.History
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6856/index.m3u8
 
+#EXTINF:-1 tvg-id="|TR| HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", 0.HISTORY b
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="01.KIL-BELGESEL", 0.KITCHEN b
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Love Nature
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6864/index.m3u8
 
-#EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 0.Love Nature Multidil
-http://95.67.12.82:9098
-
-#EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="01.KIL-BELGESEL", 00.BBC EARTH
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel
-https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=766755455ef5986d42685
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel
-https://goldvod.org/tv/vavoo?id=695705778677531522de3
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel a
-https://goldvod.org/tv/vavoo?id=36240023073d7c66c2eda6
-
-#EXTINF:-1 tvg-id="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel c
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 00.Discovery Channel d
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/539be808-86e7-4ed2-aa0b-130dbc1ac450.png" group-title="01.KIL-BELGESEL", 00.Discovery ID
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7194b74e-4b67-4ec6-83ef-09af3669a515.png" group-title="01.KIL-BELGESEL", 00.DOCUBOX
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.Habitat tv
-https://cors-anywhere.yidianzhishi.cn/https://goldvod.org/tv/vavoo?id=351815374361a158e9a8f6
-
-#EXTINF:-1 tvg-id="|TR| STINGRAY NATURESCAPE ᴴᴰ" tvg-logo="https://habitattv.com.tr/hbtt/assets/img/HABITAT_TV_LOGO_small.png" group-title="01.KIL-BELGESEL", 00.Habitat tv
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314475&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", 00.HISTORY
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  24 KITCHEN ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="01.KIL-BELGESEL", 00.KITCHEN
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  LOVE NATURE ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", 00.LOVE NATURE
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", 0.LOVE NATURE b
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
 
-#EXTINF:-1 tvg-id="|TR| LIVING BELGESEL" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 00.LIVING BELGESEL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 0.LIVING BELGESEL
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314482&extension=ts
 
-#EXTINF:-1 tvg-id="|TR|  VIASAT HISTORY ᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY b
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=ts
 
-#EXTINF:-1 tvg-id="|TR| VIASAT HISTORY ᵁᴴᴰ" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY c
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170684&extension=ts
 
-#EXTINF:-1 tvg-id="|TR| HISTORY VIASAT" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 00.VIASAT HISTORY
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY d
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=ts
 
-#EXTINF:-1 tvg-id="|TR| VIASAT NATURE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", 00.VIASAT NATURE
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", 0.VIASAT NATURE b
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
 
 #EXTINF:-1 tvg-id="https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX
@@ -6671,24 +5726,6 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery life" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="01.KIL-BELGESEL", 222.Discovery life
 http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/bbc.m3u8 https://tv.prectv5.sbs/live/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.BBC EARTH
-https://tv.arectv34.sbs/live/bbc.m3u8
-
-#EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/docubox.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.docubox
-https://tv.arectv34.sbs/live/docubox.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/discovery.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.DISCOVERY CHANNEL
-https://tv.arectv34.sbs/live/discovery.m3u8‎?|user-agent=Dart&Mozilla/5.0
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/history.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.HISTORY CHANNEL
-https://tv.arectv34.sbs/live/history.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.iD
-https://tv.arectv34.sbs/live/discs.m3u8
-
-#EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/tarihtv.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", 3.TARİH TV
-https://tv.arectv34.sbs/live/tarihtv.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -6854,9 +5891,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Cats247.us" tvg-logo="https://i.imgur.com/od1taaY.png" group-title="01.KIL-BELGESEL", Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="01.KIL-BELGESEL", CGTN BELGESEL
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23094/cgtn-documentary/logo_20231219_185321_53.png" group-title="01.KIL-BELGESEL", CGTN Documentary
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
