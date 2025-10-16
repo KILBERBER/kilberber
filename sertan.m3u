@@ -3372,6 +3372,9 @@ http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.Tv 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.TV 8
+http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.TV 8        
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
@@ -3423,16 +3426,16 @@ http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png" group-title="0.KIL-ULUSAL", 03.TV8 Int b
 http://162.212.179.34/dvrfl05/gin-tv8int/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="Atv" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV
 http://116.202.238.88/ATV_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.Atv
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.Atv
 http://162.212.179.33:80/gin-trn09/gin-atv-tv/tracks-v1a1/rewind-128880.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.Atv
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.Atv
 http://162.212.179.33:80/gin-36bay4/gt-atv-tv3/tracks-v1a1/rewind-48880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.Atv b Türknet
@@ -5693,6 +5696,9 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=
 
 #EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel d
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel Rec tv
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Discovery ID
 https://tinyurl.com/4p759wmb
