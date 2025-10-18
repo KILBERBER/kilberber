@@ -1953,20 +1953,17 @@ https://rtvav.cfd/cdn/bein_sports_1_hd/main.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Sporcafe
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat b
-https://five.04bf112a615942b5.sbs/yayininat.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="https://five.04bf112a615942b5.sbs/yayininat.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv
+https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_channels/beIN_Sports_1__.m3u8
+
+#EXTINF:-1 tvg-id="https://five.04bf112a615942b5.sbs/yayin1.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals
+https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_channels/beIN_Sports_1___.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals 24
 https://live.tecostream.xyz/Beinsports1.php|referer=https://trgoals1364.xyz&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals b
-https://five.04bf112a615942b5.sbs/yayin1.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve
 https://live.tecostream.xyz/mono/php_channels/yayinzirve.php|referer=https://monotv524.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve b
-https://five.04bf112a615942b5.sbs/yayinzirve.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.VARSports.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Var sport
 http://cdn-2002.betconnecthdlivecdn.site/601/index.m3u8
