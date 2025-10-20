@@ -5688,6 +5688,12 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (Discovery Channel Rec tv
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/discovery/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery life" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="01.KIL-BELGESEL", (Discovery life
+http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", (DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUZ3R1h4cG5kZ0hoQnRpN3UyVDJuaC8wOFZ5ZVFRb0lCMDZQSDQ0NjBTQT0=
+
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/docubox.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (Docubox
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/docubox/index.m3u8
 
@@ -5700,8 +5706,17 @@ https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://d
 #EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f297ad42-3a86-42b7-90fd-ba2339a7a6d5.png" group-title="01.KIL-BELGESEL", (Love Nature
 http://95.67.12.82:9098
 
+#EXTINF:-1 tvg-id="NationalGeographic.tr       https://tls.tc/M0Vkz https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/351331f8-aff3-4d10-9d66-fb1321541ce5.png" group-title="01.KIL-BELGESEL", (National Geographic saranlive
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr      https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f91b408-05f5-4085-bc0b-6fc13b5b5187.png" group-title="01.KIL-BELGESEL", (National Geographic Wild saranlive
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/tarihtv.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (TARİH TV
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", (TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=NFd3M05KaS81VEZDUHVhczFlbkVUODAwQTJ4eUtTYUx2ZGxjY0xPQ1lrRT0=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.BBC Earth
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6854/index.m3u8
@@ -5777,33 +5792,6 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=t
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", 0.VIASAT NATURE b
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
-
-#EXTINF:-1 tvg-id="https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX a
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUZ3R1h4cG5kZ0hoQnRpN3UyVDJuaC8wOFZ5ZVFRb0lCMDZQSDQ0NjBTQT0=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", 1.DMAX Türknet
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 1.TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 1.TLC
-https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", 1.TLC Türknet
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographic.tr       https://tls.tc/M0Vkz https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/351331f8-aff3-4d10-9d66-fb1321541ce5.png" group-title="01.KIL-BELGESEL", 2.National Geographic saranlive
-https://saran-live.ercdn.net/natgeohd/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr      https://saran-live.ercdn.net/natgeowild/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f91b408-05f5-4085-bc0b-6fc13b5b5187.png" group-title="01.KIL-BELGESEL", 2.National Geographic Wild saranlive
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery life" tvg-logo="https://i.imgur.com/ObPFgT8.png" group-title="01.KIL-BELGESEL", 222.Discovery life
-http://212.102.60.231/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
