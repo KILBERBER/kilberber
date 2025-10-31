@@ -3321,6 +3321,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1
 http://95.174.71.114:80/TR-TRT1/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 A
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 
@@ -4958,6 +4961,9 @@ https://vidlax.xyz/upload/571014420e16605e96420769c331a5471094/master.m3u8
 
 #EXTINF:-1 tvg-id="https://diziyiizle.com/" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.12
 https://vidlax.xyz/upload/108b80c7cf848171deb9eb32354dce2cc6e5/master.m3u8
+
+#EXTINF:-1 tvg-id="https://diziyiizle.com/" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 2.13
+https://vidlax1.xyz/upload/8b9f1fa9f88442624534f7e4f049f3b0d0e6/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/245292627/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Ayak İşleri 1.01 Korkutmanın Dozu
 https://cdn.prectv2.lat/hls/1/cdn783/s/ayakisleri/1/1.mp4/index.m3u8
