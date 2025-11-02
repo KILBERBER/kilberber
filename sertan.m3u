@@ -1827,17 +1827,14 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe - Karagümrük 2-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_9_fb_kara_9h_19ekim_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Fenerbahçe 3-2
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_haber_25_11_bjk_fb_11h_2kas_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Göztepe 3-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_10_gs_goz_10h_26ekim_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Trabzonspor 0-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_11_gs_ts_11h_1kas_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kasımpaşa - Beşiktaş 1-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_10_kas_bjk_10h_26ekim_ip&secure=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Trabzonspor - Eyüpspor 2-0
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_10_ts_eyup_10h_25ekim_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Gençlerbirliği 1-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_11_goz_genc_11h_1kas_ip&secure=1
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL
 http://104.238.23.215/yt.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg&ext=.m3u8
@@ -3342,6 +3339,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 C
 http://vizi.vizi.workers.dev/?ID=1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2
 http://95.174.71.114:80/TR-TRT2/index.m3u8
 
@@ -4779,6 +4779,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://w2epsrhsbnit.merlincdn.net/storage/banners/18063f6b-7b85-4bab-811e-286e17dc4681.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Ben Leman
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ben.Leman.SON.mkv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/bereketli-topraklar.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Bereketli Topraklar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bereketli.Topraklar.SON.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/1257d9/500/268/0/0/500/268?u=https://iatv.tmgrup.com.tr/2024/09/05/500x268/1725545469456.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Bir gece masalı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
 
@@ -5957,6 +5960,9 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 4.Trt belgesel 
+https://tv-trtvbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 4.TRT BELGESEL A
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -10324,6 +10330,22 @@ https://vidmody.com/vs/tt32246771
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.net/uploads/filmler/2025-10/the-mill.webp" group-title="08.FiLM YENi 2025", The Mill
 https://vidmody.com/vs/tt26569323
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.net/uploads/filmler/2025-11/evde-bes-basina.webp" group-title="08.FiLM YENi 2025", Evde Beş Başına
+Dont Tell Mom the Babysitters Dead
+https://vidmody.com/vs/tt12444168
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.net/uploads/filmler/2025-11/gecis.webp" group-title="08.FiLM YENi 2025", Geçiş
+Crossing 
+https://vidmody.com/vs/tt27417166
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.net/uploads/filmler/2025-11/mukemmel-gunler.webp" group-title="08.FiLM YENi 2025", Mükemmel Günler
+Perfect Days
+https://vidmody.com/vs/tt27503384
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.net/uploads/filmler/2025-11/son-catisma.webp" group-title="08.FiLM YENi 2025", Son Çatışma
+The Last Gunfight
+https://vidmody.com/vs/tt36589671
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/28-yil-sonra.webp" group-title="08.FiLM YENi 2025", 28 Yıl Sonra 28 Years Later korsan sürüm 
 https://vidmody.com/vs/tt10548174
