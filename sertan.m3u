@@ -1851,6 +1851,12 @@ http://104.238.23.215/yt.php?ID=UCDX7Vf8VLBHdC-HZtKG9gOQ&ext=.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="0.KIL-SP0R  MAÇ", Tivibu Spor
 https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8
 
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport
+https://api.codetabs.com/v1/proxy/?quest=https://andro.1285837.xyz/checklist/androstreamlivebs11.m3u8
+
+#EXTINF:-1 tvg-id="sport.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport b
+https://api.codetabs.com/v1/proxy/?quest=https://biraz.1387503.xyz/checklist/androstreamlivebs11.m3u8
+
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
@@ -1901,6 +1907,12 @@ https://streamnet10.xyz/?url=https://streamcdn.xyz/hls/bein1.m3u8?|referer=https
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.kralbetsss.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 KralBets
 http://45.11.58.245:25461/live/spor/spor/5.m3u8
+
+#EXTINF:-1 tvg-id="Spor_BeINSports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.mono.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Monospor
+https://live.tecostream.xyz/BeinSports1HD.php?|referer=https://monotv525.com/
+
+#EXTINF:-1 tvg-id="Spor_BeINSports1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.mono.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Monospor b
+https://live.tecostream.xyz/Beinsports1.php?|referer=https://monotv525.com/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.padisah.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Padişah bet
 https://api.codetabs.com/v1/proxy/?quest=https://sadettinsaran.global.ssl.fastly.net/hls/bein-sports-1.m3u8
