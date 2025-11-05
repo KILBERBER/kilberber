@@ -35,6 +35,9 @@ http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 #EXTINF:-1 tvg-id="https://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/chunklist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ctv Azerbaycan 
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.iTV Turkish Music
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.kntv
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 
@@ -43,6 +46,9 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 
 #EXTINF:-1 tvg-id="https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8" tvg-logo="https://mahnitv.az/images/logo.png" group-title="0.KIL-MÜZİK", 04.Mahni tv
 http://xantv.site:41480/MahniTV/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.MMN Channel
+http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hd
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
@@ -67,6 +73,9 @@ https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8" tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" group-title="0.KIL-MÜZİK", 04.Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.YANSIMA MÜZiK HD 
+http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/yildiz-en-tv.png" group-title="0.KIL-MÜZİK", 04.Yıldız EN TV
 https://canlitvme.ismailturret.workers.dev/yildizentv.m3u8
@@ -1857,7 +1866,10 @@ http://new.cache-stream.workers.dev/stream/UCYZXUIM5dPrCCZVZ8-OEmfg/live.m3u8
 #EXTINF:-1 tvg-id="http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" group-title="0.KIL-SP0R  MAÇ", SIFIR SPOR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" group-title="0.KIL-SP0R  MAÇ", Sıfır Spor
+https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" group-title="0.KIL-SP0R  MAÇ", SIFIR SPOR b
 https://origin1.noisypeak.com/srt_listener_test11/track_0_5500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@sifirtv/streams " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-SP0R  MAÇ", Sıfır TV
@@ -4572,6 +4584,9 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
 #EXTINF:-1 tvg-id="https://m.youtube.com/@arzufilm1964" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 1.Arzu Film @arzufilm1964
 http://104.238.23.215/yt.php?ID=UCUALYmnkEmx8vlxIbpr2gmw&ext=.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.BEST TV 
+https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
@@ -4593,14 +4608,26 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://euro90tv.com/wp-content/uploads/2025/03/eurp90tvlogo-e1742857590803.jpg" group-title="00.KIL-DiZi-FİLM", 1.Euro 90
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/euro90tv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.EURO90TV
+https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
+
 #EXTINF:-1 tvg-id="https://m.youtube.com/@FanatikFilmYerli" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 1.Fanatik Film@FanatikFilmYerli
 http://104.238.23.215/yt.php?ID=UCAJcU9SesgVqsJ8M0l7zYrA&ext=.m3u8
 
 #EXTINF:-1 tvg-id="https://youtube.com/channel/UCulg-mlXf314L1pemPqCVng/FilmAt%C3%B6lyesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 1.Film Atölyesi
 http://104.238.23.215/yt.php?ID=UCulg-mlXf314L1pemPqCVng&ext=.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.FilmBox extra
+http://195.189.60.31:8003/play/a0fe/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.FilmBox premium
+http://195.189.60.31:8003/play/a0f6/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Fusion TV
 http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.FILM CLUB aksiyon 
+https://box.cinemax6.com:3732/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@GulsahFilmOfficial" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 1.GülsahFilm @GulsahFilmOfficial
 http://104.238.23.215/yt.php?ID=UCHumSHRFQ8skiHTY75sxytQ&ext=.m3u8
@@ -4776,8 +4803,26 @@ http://vizi.vizi.workers.dev/?ID=11
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Komedi
 http://vizi.vizi.workers.dev/?ID=10
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.vizon TURK
+https://novamax.cinemax6.com:3760/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.VIZI TV belgesel
+http://vizi.karamehmet.workers.dev/?ID=96
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.VIZI TV klasik
+http://vizi.karamehmet.workers.dev/?ID=11
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.VIZI TV komedi
+http://vizi.karamehmet.workers.dev/?ID=10
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.VIZI TV sinema
+http://vizi.karamehmet.workers.dev/?ID=94
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.YANSIMA SİNEMA
 https://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.YANSIMA SİNEMA HD
+http://cdn4.yayin.com.tr:80/yansimasinematv/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.YEŞİLÇAM 1
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv1/playlist.m3u8
