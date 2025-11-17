@@ -29,11 +29,17 @@ https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/460px-4Music_logo_2018.svg.png" group-title="0.KIL-MÜZİK", 04.4 Türkçe Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-MÜZİK", 04.4Turkpop
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ari music
 http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/chunklist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ctv Azerbaycan 
 http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-MÜZİK", 04.EZGI  Müzik
+https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.iTV Turkish Music
 https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
@@ -2745,6 +2751,9 @@ https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/am
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png" group-title="0.KIL-SPOR KARIŞIK", 09.Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-SPOR KARIŞIK", 09.Horse Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7734
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" group-title="0.KIL-SPOR KARIŞIK", 09.MonsterJam
 https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
 
@@ -2756,6 +2765,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="0.KIL-SPOR KARIŞIK", 09.Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-SPOR KARIŞIK", 09.RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/821515cdee6dbc48d6de1256e6fadbdd.webp" group-title="0.KIL-SPOR KARIŞIK", 09.Snowboarder
 https://amg13231-actve-amg13231c3-plex-us-1820.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-plexus/playlist.m3u8
@@ -3351,6 +3363,9 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shm
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.ibb.co/WvhGGP0/showturk1.png" group-title="0.KIL-ULUSAL", 02.SHOW TURK c
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="0.KIL-ULUSAL", 03.TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7uwoyq6usvp2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
+
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="0.KIL-ULUSAL", 03.TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
@@ -3398,6 +3413,9 @@ http://162.212.179.33:80/gin-dvrfl05/gin-tv8int/tracks-v1a1/rewind-128880.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png" group-title="0.KIL-ULUSAL", 03.TV8 INT c
 https://trn03.tulix.tv/gt-tv8int/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="0.KIL-ULUSAL", 03.Tv8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
 #EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="0.KIL-ULUSAL", 03.Tv8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
@@ -5085,6 +5103,24 @@ https://newyork5.store/cdn/down/94daa5c23268234380208171e8b75f2c/Original/Origin
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w768/q85/52565.jpeg" group-title="00.KIL-DiZi-TRENT", Gassal 2.10 Çirkin Değiliz... Hiçbirimiz
 https://roka4.shop/cdn/down/a1d8b04b615efdd8924c97680f03dc1b/Original/Original.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.01
+https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/sqW6F5LYPB0dvYTYhtRxzD6XWODK1HOFFxZcSsa1.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.02
+https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/NBWSfJrV2iWe0MpSm6ZbF6onhDR853g3gmr7s4EJ.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.03
+https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/xNFv04aL5F39fpD7b7NKJoy5qKNh2x3nTOcYZ3jB.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.04
+https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/b7xYI9lNGmpo2Dd5ttc2N6uJxhRmrTeOma3z80iK.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.05
+https://1.nejyoner19.workers.dev/?url=https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/vbx6PCSoxwrWpuYl8CtGP0GsOCHJ80bGN0DWaYq2.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Last_Samurai_Standing_TV_series_poster.jpg" group-title="00.KIL-DiZi-TRENT", Last Samurai Standing 1.06
+https://1.nejyoner19.workers.dev/?url=https://load.kisatxt.xyz/hls/10/cdn73/u61XNN1E51EfcEeq64Gzrl4PLeWYDPHS5i3CZZ7I.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.justwatch.com/images/poster/311480491/s332/sezon-1.webp" group-title="00.KIL-DiZi-TRENT", Mahsun J 1.1
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.caec6083d6b01cf5.click/D6dinQZmeH0MElgnqh4PjmO5/master.m3u8|referer=https://dizi21.life/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
@@ -5184,6 +5220,9 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (discovery
 http://65.108.239.207/discovery/index.m3u8
 
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (discovery b
+http://euroroyals.com:8080/mehmetcaliskan/9aE5bb6ac0/110611
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (Discovery Channel Rec tv
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/discovery/index.m3u8
 
@@ -5195,6 +5234,9 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", (DMAX
 http://tv.dsmart-go.workers.dev/?ID=https://www.dmax.com.tr/canli-izle
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", (DMAX b
+https://trn03.tulix.tv/gt-dmax-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="01.KIL-BELGESEL", (DMAX web
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dUZ3R1h4cG5kZ0hoQnRpN3UyVDJuaC8wOFZ5ZVFRb0lCMDZQSDQ0NjBTQT0=
@@ -5220,6 +5262,9 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f91b408-05f5-4085-bc0b-6fc13b5b5187.png" group-title="01.KIL-BELGESEL", (National Geographic Wild saranlive
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="01.KIL-BELGESEL", (Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/tarihtv.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (TARİH TV rec
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
 
@@ -5232,26 +5277,20 @@ http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", (TLC 
 http://tv.dsmart-go.workers.dev/?ID=https://www.tlctv.com.tr/canli-izle
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", (TLC b
+https://trn03.tulix.tv/gt-tlc-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="01.KIL-BELGESEL", (TLC web
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=NFd3M05KaS81VEZDUHVhczFlbkVUODAwQTJ4eUtTYUx2ZGxjY0xPQ1lrRT0=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.BBC Earth playtv
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6854/index.m3u8
 
-#EXTINF:-1 tvg-id="|TR| BBC EARTH ᴴᴰ" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.BBC EARTH tvhouse
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", 0.beIN Gurme Play tv 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6804/index.m3u8
 
-#EXTINF:-1 tvg-id="|TR| BEIN GURME ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", 0.BEIN GURME tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314486&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", 0.beIN IZ Play tv 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19078/index.m3u8
-
-#EXTINF:-1 tvg-id="|TR| BEIN IZ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", 0.BEIN IZ tvhouse
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314487&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="01.KIL-BELGESEL", 0.Da Vinci playtv
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6857/index.m3u8
@@ -5262,53 +5301,11 @@ https://live.tecostream.xyz/DiscoveryChannel.php
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel Play tv
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6861/index.m3u8
 
-#EXTINF:-1 tvg-id="|TR|  DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196839&extension=ts
-
-#EXTINF:-1 tvg-id="|TR| DISCOVERY" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Discovery Channel Tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Discovery ID Play tv 
-https://tinyurl.com/4p759wmb
-
-#EXTINF:-1 tvg-id="|TR| DISCOVERY IDX ᴴᴰ" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Discovery ID tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
-
-#EXTINF:-1 tvg-id="|TR|  DOCUBOX ᴴᴰ" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/wh/11899/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.DOCUBOX tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://habitattv.com.tr/hbtt/assets/img/HABITAT_TV_LOGO_small.png" group-title="01.KIL-BELGESEL", 0.Habitat tv b
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314475&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", 0.History Play tv 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6856/index.m3u8
 
-#EXTINF:-1 tvg-id="|TR| HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="01.KIL-BELGESEL", 0.HISTORY tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/2408078f-52c8-45bd-8bd7-30d8c2dcbb96.png" group-title="01.KIL-BELGESEL", 0.KITCHEN tvhouse
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.Love Nature Play tv 
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6864/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png" group-title="01.KIL-BELGESEL", 0.LOVE NATURE tvhouse 
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 0.LIVING BELGESEL
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314482&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY b
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196835&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY c
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170684&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/c9bbb2de-204b-48f6-a62f-94fa4252a6b0.png" group-title="01.KIL-BELGESEL", 0.VIASAT HISTORY d
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Viasat_Nature-logo.svg/250px-Viasat_Nature-logo.svg.png" group-title="01.KIL-BELGESEL", 0.VIASAT NATURE b
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -18486,8 +18483,14 @@ https://hls11.playmix.uno/hls/purgatory-1999-webrip-trdualmp4-EJXHJRM5ls5.mp4/ma
 #EXTINF:-1 tvg-id="https://p2.photostack.net/v/l6vvtydebbdc/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/87/Three_amigos_ver2.jpg/500px-Three_amigos_ver2.jpg" group-title="10.FiLM WESTERN ", 3 kabadayı
 https://hls13.playmix.uno/hls/threeamigos-1986-bluray-trdualmp4-b3kgFleCjG9.mp4/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_.jpg" group-title="10.FiLM WESTERN ", 3.10 To Yuma
+https://vidmody.com/mm/tt0050086/main/index.m3u8
+
 #EXTINF:-1 tvg-id="https://p2.gamephotos.biz/v/8eg5djut6hwd/master.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/de/3-10_to_Yuma_%282007_film%29_poster.jpg" group-title="10.FiLM WESTERN ", 3:10 Yuma Treni
 https://vidmody.com/vs/tt0381849
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/A_Genius%2C_Two_Partners_and_a_Dupe.jpg" group-title="10.FiLM WESTERN ", A Genius Two Friends and an Idiot
+https://vidmody.com/mm/tt0073036/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I1NmQ5ZDEtZTBjNC00ZGQ1LWEzZDItZGI5NTc0YTEwMGY3XkEyXkFqcGc@._V1_FMjpg_UX1061_.jpg" group-title="10.FiLM WESTERN ", A Tale of Two Guns 
 https://turbo.imgz.me/turbo/get/e5bb1772388bf96cc72b50b233871f84.m3u8
@@ -18532,6 +18535,9 @@ https://vidmody.com/vs/tt1158939
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Badland.jpg" group-title="10.FiLM WESTERN ", Badland
 https://i7.imgpics.us/f9/NRDP0CU0bNQf0ZQ10PwZmR9FZaHlZc0ph2z3RtHYYmpmrblbfl1W_PlVePGWMqYeLgYZu8YAk8lvr1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/0416496.jpg" group-title="10.FiLM WESTERN ", Bandidas :Haydutlar-Aksiyon-Komedi-Vahşi Batı-Suç(2006)
+https://vidmody.com/mm/tt0416496/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/6/60/Bandidas_%28movie_poster%29.jpg" group-title="10.FiLM WESTERN ", Bandidas :Haydutlar(2006)
 https://vidmody.com/vs/tt0416496
 
@@ -18554,6 +18560,9 @@ https://hls13.playmix.uno/hls/chisum-1970-bluray-trdualmp4-hzg3LOq0jXa.mp4/maste
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/My-name-is-nobody-poster.jpg" group-title="10.FiLM WESTERN ", Benim Adım Hiç Kimse
 My Name Is Nobody (1973)
 https://hls13.playmix.uno/hls/mynameisnobody-1973-bluray-trdualmp4-F4ZR5Jq8lQd.mp4/master.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNGZkZDItMDE5My00MDgwLWE1ZWItNjZiNmYyYzY5MzdkXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Big Jake
+https://vidmody.com/mm/tt0066831/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/pictures/20/07/10/11/45/1998494.jpg" group-title="10.FiLM WESTERN ", Big Kill Kasabası
 https://vidmody.com/vs/tt7730102
@@ -18580,6 +18589,9 @@ https://balancehls8.playmix.uno/hls/forafewdollarsmore-1965-bluray-trdualmp4-FrY
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/For_a_Few_Dollars_More-ita-poster.jpg" group-title="10.FiLM WESTERN ", Birkaç Dolar İçin (1965)
 https://p1.photomag.biz/v/23kzkj5t7jfc/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MDA1MDczMV5BMl5BanBnXkFtZTcwMzE0MjU0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Blackthorn
+https://vidmody.com/mm/tt1629705/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/6/6c/Blackthorn_%28film%29.jpg" group-title="10.FiLM WESTERN ", Blackthorn
 https://vidmody.com/vs/tt1629705
 
@@ -18589,8 +18601,17 @@ https://hls13.playmix.uno/hls/blazingsaddles-1974-bluray-trdualmp4-JvQ35u0V7du.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b9/Bone_Tomahawk_-_Poster.jpg" group-title="10.FiLM WESTERN ", Bone Tomahawk:Kemik Balta(2015)
 https://vidmody.com/vs/tt2494362
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/2494362.jpg" group-title="10.FiLM WESTERN ", Bone Tomahawk:Kemik Balta-Vahşi Batı-Korku-Dram(2015)
+https://vidmody.com/mm/tt2494362/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Brimstone_film.jpg" group-title="10.FiLM WESTERN ", Brimstone (2016)Cehennem
 https://vidmody.com/vs/tt1895315
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE1M2E3ZjEtYjkxMS00ZjEyLWE5YzMtMDVhMTkyYjFjOWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Broke
+https://vidmody.com/vs/tt35048826/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Broken_Arrow_Film_Poster.jpg" group-title="10.FiLM WESTERN ", Broken Arrow
+https://vidmody.com/mm/tt0042286/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Butch_sundance_poster.jpg" group-title="10.FiLM WESTERN ", Butch Cassidy and the Sundance Kid (1969)Sonsuz Ölüm
 https://vidmody.com/vs/tt0064115
@@ -18618,6 +18639,9 @@ https://d4.imgpics.pro/fb/NNUDwZjVwZ0RGXeR9pbfb01ytpWfN0dxjpWZU10NwZmVgXh0lpGipl
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.fullhdfilmizlesene.tv/cover/izle-lg/cehennemin-batisi-fh1-11737.webp" group-title="10.FiLM WESTERN ", Cehennemin Batısı
 https://i7.hgphoto.vip/f8/NRDP0CU1fdHQcb8pDwPZjFmZDGYZlZG0W3ZFmC9GmUgYg80Ph2z3NNNjllepqlitZlit0lvr1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Chatos_land_Poster.jpg" group-title="10.FiLM WESTERN ", Chatos Land
+https://vidmody.com/mm/tt0066907/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Chatos_land_Poster.jpg" group-title="10.FiLM WESTERN ", Chatos Land  Çato - Devler Ülkesi(1972)
 https://vidmody.com/vs/tt0066907
 
@@ -18637,6 +18661,12 @@ https://vs2.photour.org/v/8z3k5jlsv1ky/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Damsel_%282018_film%29.png" group-title="10.FiLM WESTERN ", Damsel
 https://vidmody.com/vs/tt5881528
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Day of Reckoning
+https://vidmody.com/vs/tt35317668/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/14895206.jpg" group-title="10.FiLM WESTERN ", Dead for a Dollar -Vahşi Batı-Gerilim
+https://vidmody.com/mm/tt14895206/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Dead_for_a_Dollar.jpg" group-title="10.FiLM WESTERN ", Dead for a Dollar Bir Dolar İçin Ölüm (2022)
 https://vidmody.com/vs/tt14895206
@@ -18688,6 +18718,12 @@ https://vidmody.com/vs/tt0906665
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/76/The_Dead_Don%27t_Hurt_afi%C5%9Fi.jpg/500px-The_Dead_Don%27t_Hurt_afi%C5%9Fi.jpg" group-title="10.FiLM WESTERN ", Dünyanın Sonuna Doğru
 https://vidmody.com/vs/tt22773644
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/31176520.jpg" group-title="10.FiLM WESTERN ", Eddington (🇹🇷͜͜͡͡✯ FİLM İZLE 2025)Komedi-Dram-🇹🇷͜͜͡͡✯ 𝖶𝖤𝖲𝖳𝖤𝖱𝖭
+https://vidmody.com/vs/tt31176520/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img01.imgsinemalar.com/images/afis_buyuk/e/el-dorado-1660915711.jpg" group-title="10.FiLM WESTERN ", El Dorado
+https://vidmody.com/mm/tt0061619/main/index.m3u8
+
 #EXTINF:-1 tvg-id="https://s427.rapidrame.com/hls2/01/00017/98gjf6egsbpo_,l,n,.urlset/master.m3u8?t=TOLUD8gXsm6J9aQ36WfBUhnLCUIGPX8O9-IhACspnMY&s=1748634317&e=1199998800&f=88791&i=0.0&sp=0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/El_Dorado_%28John_Wayne_movie_poster%29.jpg" group-title="10.FiLM WESTERN ", Eldorado 
 El Dorado (1966)
 
@@ -18701,6 +18737,9 @@ https://turbo.imgz.me/turbo/get/7c278dfa7d1153c2123d5da0bc0e86eb.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Gallowwalkers_movie_poster.png" group-title="10.FiLM WESTERN ", Gallowwalkers ipten dönenler 
 https://vidmody.com/vs/tt0829176
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlmZTU2ZmEtMDI3Mi00MTJjLWE4ZmYtM2ZiMGYxMmFlMGQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Gunfight at Dry River -Vahşi Batı (2021)
+https://vidmody.com/mm/tt9168164/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://resizing.flixster.com/Hboy9t6zdpemGEt8vNJyVDfDkfY=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20415766_p_v13_ac.jpg" group-title="10.FiLM WESTERN ", Gunfight at Dry River Dry Riverda Çatışmaa(2021)
 https://vidmody.com/vs/tt9168164
@@ -18731,6 +18770,9 @@ https://vidmody.com/vs/tt6866062
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Hell_or_High_Water_film_poster.png" group-title="10.FiLM WESTERN ", Hell or High Water:İki Eli Kanda
 https://vidmody.com/vs/tt2582782
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/2582782.jpg" group-title="10.FiLM WESTERN ", Hell or High Water:İki Eli Kanda-Vahşi Batı-Suç-Dram (2016)
+https://vidmody.com/mm/tt2582782/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Hickok_%282017_movie_poster%29.png" group-title="10.FiLM WESTERN ", Hickok
 https://vidmody.com/vs/tt6334884
@@ -18830,14 +18872,17 @@ https://vidmody.com/vs/tt2271563
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmM2UxZWEtOGY0NS00MGI3LTk0NTEtOTBlMDZiYzY2NDc5XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Köpeğin pençesi
 https://vidmody.com/vs/tt10293406
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc3YzNjMmQtMmU3ZC00ZWY4LWJhNGItYTA5ZDY2ODdjYTkyXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", letat sauvage
-https://vidmody.com/vs/tt8770976
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Nzg0NzU0Ml5BMl5BanBnXkFtZTgwOTkwMjY5MzI@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Lefty Brownun Türküsü
 https://vidmody.com/vs/tt4400994
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc3YzNjMmQtMmU3ZC00ZWY4LWJhNGItYTA5ZDY2ODdjYTkyXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", letat sauvage
+https://vidmody.com/vs/tt8770976
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkODE3NWUtMzBmMS00NDY4LTk3OTEtYWQ1YWI2ZWQ1N2Y5XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Maskeli Süvari
 https://vidmody.com/vs/tt1210819
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk5MzdhYWMtOWU3Yi00MTE5LWEyYTEtOGU5NWM0NWNmZDE1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Maverick
+https://vidmody.com/mm/tt0110478/main/index.m3u8
 
 #EXTINF:-1 tvg-id="https://p3.photofunny.org/v/9591pk4uz8ft/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NjgzNDI0NV5BMl5BanBnXkFtZTcwMTQyMTk3Mg@@._V1_QL75_UX312_.jpg" group-title="10.FiLM WESTERN ", Maverick
 https://hls11.playmix.uno/hls/maverick-1994-bluray-trdualmp4-k8fHXljvOk5.mp4/master.txt
@@ -18872,8 +18917,17 @@ https://vidmody.com/vs/tt2488778
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI5NTJiZTYtNDE0MS00ZTc3LWFiZTItOTY2Y2NlYTc2Mzc0XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Old Henry:Yaşlı Henry(2021)
 https://vidmody.com/vs/tt12731980
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/12731980.jpg" group-title="10.FiLM WESTERN ", Old Henry:Yaşlı Henry-Vahşi Batı (2021)
+https://vidmody.com/mm/tt12731980/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3YzIzODAtNDM2NS00NDllLTg5N2EtOTNiYWE1MjcwYmE3XkEyXkFqcGc@._V1_QL75_UX168_.jpg" group-title="10.FiLM WESTERN ", Oldür Ya da Öl
 https://vidmody.com/vs/tt2364774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Once Upon a Time in the West
+https://vidmody.com/vs/tt0064116/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4NTZhZmMtNGRiNS00ZTE2LWI4OGQtOTE5ODI2MzExZjI4XkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Organ Trail
+https://vidmody.com/mm/tt18071972/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4NTZhZmMtNGRiNS00ZTE2LWI4OGQtOTE5ODI2MzExZjI4XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Organ Yolu 
 https://vidmody.com/vs/tt18071972
@@ -18911,11 +18965,17 @@ https://hls13.playmix.uno/hls/luckyluke-1991-bluray-trdualmp4-B5n0BoMveRS.mp4/ma
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwNjExNTgwOV5BMl5BanBnXkFtZTgwMDMxNzQ1MTE@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", Red Kit Lucky Luke 2
 https://hls11.playmix.uno/hls/luckyluke-2009-bluray-trdualmp4-MNyKSnKhIdx.mp4/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/92/Rio_Bravo_afiş.jpg" group-title="10.FiLM WESTERN ", Rio Bravo
+https://vidmody.com/mm/tt0053221/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU3N2E1Y2UtYzA4YS00MzVkLTgyMzMtNTFhZjU5NmQ2YWJhXkEyXkFqcGc@._V1_QL75_UX306_.jpg" group-title="10.FiLM WESTERN ", Rio Lobo (1970)Son Darbe
 https://vidmody.com/vs/tt0066301
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViOWQxZTUtZjZkOC00MmE0LWE2Y2UtMDYwMzNlNTM0Njc1XkEyXkFqcGc@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Rodeo Hırsızı
 https://vidmody.com/vs/tt12364630
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M3Yjg3MjYtNDM3My00ZjUzLWFkMjktYThhOWFmYmUxZDJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Rooster Cogburn
+https://vidmody.com/mm/tt0073636/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkyN2EzZDEtNDIzOS00ZjdhLWE3YTYtMzJlZDU0MTdlZWVkXkEyXkFqcGc@._V1_QL75_UX182_.jpg" group-title="10.FiLM WESTERN ", Run for the High Country 
 https://i3.imgpics.us/fh/NDNWD_pDwPZjFmZDGYZlZQ1dzlXA_vmmO9mZu88IwHlYV9YYC30AelPh2z3NLDYeLgYZu8YAk8lvr1
@@ -18947,6 +19007,9 @@ https://turbo.imgz.me/turbo/get/6a54e04df6c838f03f0e24c83130cb0c.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/The_Treasure_of_the_Sierra_Madre_%281947_poster%29.jpg/500px-The_Treasure_of_the_Sierra_Madre_%281947_poster%29.jpg" group-title="10.FiLM WESTERN ", Sierra Madre Hazineleri 
 The Treasure of the Sierra Madre (1948)
 https://s427.rapidrame.com/hls2/01/00017/nydbhkig2nkk_,l,n,.urlset/master.m3u8?t=7lpq8Mjzy0r-syCuTXTgKk3_sEkbwdJmvMzbH61YSi0&s=1749290178&e=1199998800&f=87009&i=0.0&sp=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5NTgyNDI3MjNeQTJeQWpwZ15BbWU3MDE1NzY3NzI@._V1_.jpg" group-title="10.FiLM WESTERN ", Silverado
+https://vidmody.com/mm/tt0090022/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5ODVhNWYtN2U5MS00MGFiLTkxNGItYWE0Nzg2ZmNlYTU0XkEyXkFqcGc@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Silverado
 https://vidmody.com/vs/tt0090022
@@ -18984,6 +19047,9 @@ https://s429.rapidrame.com/hls2/01/00019/lwdzs7j9xoue_,l,n,.urlset/master.m3u8?t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNjYmEyZjQtYjRlMS00MmY5LTk1NWEtNjA4ZTgyMjdiZDhmXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Terror on the Prairie 
 https://vidmody.com/vs/tt14043966
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.movieguide.org/wp-content/uploads/2018/11/p15899689_v_v8_aa-768x1152.jpg" group-title="10.FiLM WESTERN ", The Ballad of Buster Scruggs-Vahşi Batı-Komedi-Dram(2018)
+https://vidmody.com/mm/tt6412452/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/The_Comancheros_poster.jpg" group-title="10.FiLM WESTERN ", The Comancheros
 https://hls13.playmix.uno/hls/thecomancheros-1961-bluray-trdualmp4-rW8zRIFNdcl.mp4/master.txt
 
@@ -18993,14 +19059,32 @@ https://vidmody.com/vs/tt2650978
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhNGJlZjItOWY0Zi00ZDQ2LTgxOGYtZGFiM2ExNzE2ZjNlXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Harder They Fall
 https://vidmody.com/vs/tt10696784
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBjOTQyZTEtZTdhYS00ZTNlLWE3NTgtZGY3YmZlZTdhYjUxXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", The Harder They Fall-Vahşi Batı (2021)
+https://vidmody.com/mm/tt10696784/main/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ5OTA0ZDYtNjlmMy00ZWUyLTk4MDgtMWVmZTU2ODRlN2ViXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", The Hateful Eight
+https://vidmody.com/mm/tt3460252/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUwOTU0ZGYtMGE4Ny00OWNkLWJmODMtMjViYTlkZDQ5YTEzXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", The Homesman (2014) Yolcu
 https://vidmody.com/vs/tt2398231
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/0052902.jpg" group-title="10.FiLM WESTERN ", The Horse Soldiers
+https://vidmody.com/mm/tt0052902/main/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/pictures/19/02/22/12/04/0005346.jpg" group-title="10.FiLM WESTERN ", The Kid-Vahşi Batı-Dram-Aksiyon (2019)
+https://vidmody.com/mm/tt4975920/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0NzQxOTMwOF5BMl5BanBnXkFtZTgwMjAxMzg0NzM@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Kid-Çocuk(2019)
 https://vidmody.com/vs/tt4975920
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMyYjYxZmYtNjgzZi00NzU0LThlZmMtZWZiZTUxMWNlMWRhXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Last Manhunt -Son İnsan Avı (2022)
 https://vidmody.com/vs/tt11399896
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMyYjYxZmYtNjgzZi00NzU0LThlZmMtZWZiZTUxMWNlMWRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", The Last Manhunt -Vahşi Batı (2022)
+https://vidmody.com/mm/tt11399896/main/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/21/11/17/10/17/5006211.jpg" group-title="10.FiLM WESTERN ", The Last Son
+https://vidmody.com/mm/tt1800393/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgzZDc2MGQtZmE4MS00ZmVjLTliOTQtMDRkYzAxODFmMmFjXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Last Son Son Evlat
 https://vidmody.com/vs/tt1800393
@@ -19011,11 +19095,26 @@ https://hls13.playmix.uno/hls/thelastwagon-1956-bluray-trdualmp4-KYCysKEXXaN.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Long_riders_ver1.jpg" group-title="10.FiLM WESTERN ", The Long Riders
 https://hls11.playmix.uno/hls/thelongriders-1980-bluray-trdualmp4-CNZizeLNqhT.mp4/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ec/Magnificent_Seven_2016.jpg" group-title="10.FiLM WESTERN ", The Magnificent Seven
+https://vidmody.com/mm/tt2404435/main/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU1Mzk1Y2QtNmQxNi00ZDA4LTljMjUtZTFlMDlhNjdjYWIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", The Man from Laramie
+https://vidmody.com/mm/tt0048342/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk3ZjQzYjctODlhMS00M2E3LTk3N2QtZmQ0ZjNiMTdkZTFkXkEyXkFqcGc@._V1_QL75_UX312_.jpg" group-title="10.FiLM WESTERN ", The Night They Came Home
 https://turbo.imgz.me/turbo/get/9683da77c00c7e030d0cdadf3034d96d.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVjNTg2NjgtOTBmYy00MWUyLWJjYTMtMjE5Yzg3MzEwNjA3XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", The Old Way
 https://vidmody.com/vs/tt8593824
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzMzI5MjQyNF5BMl5BanBnXkFtZTgwMzM0NTgwODM@._V1_.jpg" group-title="10.FiLM WESTERN ", The Outsider-Vahşi Batı (2019)
+https://vidmody.com/vs/tt10303892/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", The Power of the Dog-🇹🇷͜͜͡͡✯ 𝖶𝖤𝖲𝖳𝖤𝖱𝖭-Dram (2021)
+https://vidmody.com/mm/tt10293406/main/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/The_Proposition_5.jpg/220px-The_Proposition_5.jpg" group-title="10.FiLM WESTERN ", The Proposition
+https://vidmody.com/vs/tt0421238/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NzMxMjUwOF5BMl5BanBnXkFtZTgwMDk1ODMxNzE@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Ridiculous 6(2015)
 https://vidmody.com/vs/tt2479478
@@ -19035,20 +19134,32 @@ https://turbo.imgz.me/turbo/get/00e909c0ef65b19d4cb8fbd52fc6c314.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3MDdlYzItODdjOS00MDE0LTk1NGYtYmZlNGZmZjNkOTMyXkEyXkFqcGc@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", The Stolen Çalınan(2017)
 https://vidmody.com/vs/tt1680140
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUxZDA1NjctNjNjNi00NjM2LTgxZjQtMzVkZGExMGQyYWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", The Stolen-Vahşi Batı-Dram-Aksiyon (2017)
+https://vidmody.com/mm/tt1680140/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Tallmenposter.jpg" group-title="10.FiLM WESTERN ", The Tall Men
 https://hls13.playmix.uno/hls/thetallmen-1955-bluray-trdualmp4-hqTg48ITr7W.mp4/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5ZjViYTktNjI2My00NmQyLWJmOWQtNzBmZmI2MTRkZTgxXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", The Three Burials of Melquiades Estrada (2005) üç defin
 https://vidmody.com/vs/tt0419294
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/0070825.jpg" group-title="10.FiLM WESTERN ", The Train Robbers :Tren Soyguncuları-Vahşi Batı-Aksiyon(1973)
+https://vidmody.com/mm/tt0070825/main/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Poster_-_Train_Robbers%2C_The_%281973%29_01.jpg" group-title="10.FiLM WESTERN ", The Train Robbers :Tren Soyguncuları(1973)
 https://vidmody.com/vs/tt0070825
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/6300910.jpg" group-title="10.FiLM WESTERN ", The Unholy Trinity (2024)
+https://vidmody.com/vs/tt6300910/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYzNjg5MzctODQzNy00NGZhLWJiNjgtYTM2ZWYyNDI5MTQ5XkEyXkFqcGc@._V1_QL75_UX168_.jpg" group-title="10.FiLM WESTERN ", The Warrant 
 https://turbo.imgz.me/turbo/get/e056ef9b9ec4b36a39bcc160a250c685.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBhMWI4MTctMGY1Ni00ZTFkLWEyOGYtYWFjNTRhNWY5ODdiXkEyXkFqcGc@._V1_QL75_UX198_.jpg" group-title="10.FiLM WESTERN ", The Warrant: Breakers Law
 https://turbo.imgz.me/turbo/get/f8fc1a6b45addb104a794a38f620c039.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Tombstone
+https://vidmody.com/mm/tt0108358/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM0ZTU2YjQtNjc5NS00Njg5LTg0ZWMtNDYwOTkxZGNjNzQwXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", Trinita (1970)
 https://hls11.playmix.uno/hls/mynameistrinity-1970-bluray-trdualmp4-kCn9309Oucj.mp4/master.txt
@@ -19058,6 +19169,9 @@ https://hls13.playmix.uno/hls/trinityisstillmyname-1971-bluray-trdualmp4-nWdniPm
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk2ODQ0M2QtZGExYS00NTBiLWJmNzMtNmYxMTFlMDIwNjExXkEyXkFqcGc@._V1_QL75_UX434_.jpg" group-title="10.FiLM WESTERN ", Trinita Kardeşler (1971)
 https://p2.photostack.net/v/8rgn7kn8bm08/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdiMGQ0NDgtOWJkNy00ZDQ5LWI4YzgtOWFjNmViMmU2NjkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Trinity Is still My Name
+https://vidmody.com/mm/tt0068154/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc4ZmU5NDktNzI2ZS00NjljLWIzODYtNWZhNWYxZjUyOWNmXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Two Sinners and a Mule
 https://turbo.imgz.me/turbo/get/16000915e6edc17222da174ea79fa183.m3u8
