@@ -26,22 +26,16 @@ http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="0.KIL-MÜZİK", 03.KRAL Türknet
 https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/kralpoptv/kralpoptv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/460px-4Music_logo_2018.svg.png" group-title="0.KIL-MÜZİK", 04.4 Türkçe Pop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png" group-title="0.KIL-MÜZİK", 04.4 Türkçe Pop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-MÜZİK", 04.4Turkpop
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png" group-title="0.KIL-MÜZİK", 04.4Turkpop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ari music
-http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/chunklist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Ctv Azerbaycan 
-http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="0.KIL-MÜZİK", 04.EZGI  Müzik
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.EZGI  Müzik
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.iTV Turkish Music
+#EXTINF:-1 tvg-id="https://www.aparatchi.com/turkish-live-tv/turkish-entertainment-tv/itv-turkish-music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.iTV Turkish Music
 https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.kntv
@@ -53,7 +47,7 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-id="https://a8.radyotelekom.com.tr:3502/hybrid/play.m3u8" tvg-logo="https://mahnitv.az/images/logo.png" group-title="0.KIL-MÜZİK", 04.Mahni tv
 http://xantv.site:41480/MahniTV/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.MMN Channel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.technettv.com/channel/32194/logo_256.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hd
@@ -68,12 +62,6 @@ https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Music Russian
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Play music
-https://a8.radyotelekom.com.tr:3877/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.Play music
-https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
@@ -82,9 +70,6 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 04.YANSIMA MÜZiK HD 
 http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/yildiz-en-tv.png" group-title="0.KIL-MÜZİK", 04.Yıldız EN TV
-https://canlitvme.ismailturret.workers.dev/yildizentv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/nr1.png" group-title="0.KIL-MÜZİK", 05.Number 1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
@@ -1863,6 +1848,9 @@ https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="https://www.artidijitalmedya.com/image/188x188/cdn/channels/v1/logo_288.png" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/HT_SPOR_LOGO.png" group-title="0.KIL-SP0R  MAÇ", HT SPOR
 https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
 
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" group-title="0.KIL-SP0R  MAÇ", MAÇ KOLİK
+https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Samsun 1-1
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_13_bjk_sam_13h_23kas_ip&secure=1
 
@@ -1878,11 +1866,20 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL
 http://new.cache-stream.workers.dev/stream/UCYZXUIM5dPrCCZVZ8-OEmfg/live.m3u8
 
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL ʜᴅ
+http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
+
+#EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL ʜᴅ
+https://uzayakaczekiye81.mywire.org/index.php?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
+
 #EXTINF:-1 tvg-id="http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="0.KIL-SP0R  MAÇ", SZC SPOR
 http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" group-title="0.KIL-SP0R  MAÇ", Sıfır Spor
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="0 SPOR" tvg-logo="https://m.canlitv.direct/uploads/kanal/sifir-tv.png" group-title="0.KIL-SP0R  MAÇ", SIFIR SPOR  HD
+http://104.238.23.182/yt1/s/0tv.m3u8
 
 #EXTINF:-1 tvg-id="https://m.youtube.com/@sifirtv/streams " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-SP0R  MAÇ", Sıfır TV
 http://new.cache-stream.workers.dev/stream/UCDX7Vf8VLBHdC-HZtKG9gOQ/live.m3u8
@@ -1893,19 +1890,19 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan12gote14sokan.cfd/che
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebs11.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport b
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport a
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs11.m3u8
 
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport A
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport a
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/ " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Birazcıkspor
 https://api.codetabs.com/v1/proxy/?quest=https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivebiraz1.m3u8
 
-#EXTINF:-1 tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Birazcıkspor b
+#EXTINF:-1 tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Birazcıkspor a
 https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/androstreamlivebiraz1.m3u8
 
 #EXTINF:-1 tvg-id="https://bosssports162.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.boss.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 BossSports
@@ -1944,11 +1941,11 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justsporthd
 https://streamnet10.xyz/?url=https://streamcdn.xyz/hls/bein1.m3u8?|referer=https://justsporthd45.xyz/
 
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.mono.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Monospor b
-https://live.tecostream.xyz/BeinSports1HD.php?|referer=https://monotv525.com/
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.mono.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Monospor
+https://live.tecostream.xyz/Beinsports1.php?|referer=https://monotv525.com/
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.mono.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Monospor b
-https://live.tecostream.xyz/Beinsports1.php?|referer=https://monotv525.com/
+https://live.tecostream.xyz/BeinSports1HD.php?|referer=https://monotv525.com/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://netspor-amp.xyz/logo.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 NetSpor
 https://netspor.tecostream.xyz/bs1.m3u8
@@ -1974,11 +1971,11 @@ https://zinabet.tv/701.m3u8?|Referer=https://1salamistv.online/
 #EXTINF:-1 tvg-id="https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://dow16a1wo44i5e.a7972f263dbb5263.live/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
 https://1.nejyoner19.workers.dev/?url=https://dow16a1wo44i5e.dd97fce6dad8af45.live/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
-https://1.nejyoner19.workers.dev/?url=https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk  b
 https://1.nejyoner19.workers.dev/?url=https://dow16a1wo44i5e.dd97fce6dad8af45.live/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
+https://1.nejyoner19.workers.dev/?url=https://dow16a1wo44i5e.a874cf574ac8ac84.live/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="https://www.theuncgsapphires.com/      https://www.myhomeokinawa.com/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.smartbahis.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Smartbahis
 https://698545.pages.dev/bein_sports_1_hd/main.m3u8
@@ -1995,13 +1992,40 @@ https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sb
 #EXTINF:-1 tvg-id="https://five.04bf112a615942b5.sbs/yayininat.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv
 https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_channels/beIN_Sports_1__.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv a
+http://tv.inat.workers.dev/?ID=yayininat.m3u8?|referer=https://inatspor.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv b
+http://live.taraftarium.workers.dev/?ID=yayininat.m3u8?|referer=https://playerpatronstream.pages.dev/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv c
+http://web.goals-399.workers.dev/?ID=yayininat.m3u8?|referer=https://trgoalsgiris.xyz/
+
 #EXTINF:-1 tvg-id="https://five.04bf112a615942b5.sbs/yayin1.m3u8|referer=https://trgoals1423.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals
 https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_channels/beIN_Sports_1___.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals a
+http://tv.inat.workers.dev/?ID=yayin1.m3u8?|referer=https://inatspor.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals b
+http://live.taraftarium.workers.dev/?ID=yayin1.m3u8?|referer=https://playerpatronstream.pages.dev/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals c
+http://web.goals-399.workers.dev/?ID=yayin1.m3u8?|referer=https://trgoalsgiris.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve a
+http://tv.inat.workers.dev/?ID=yayinzirve.m3u8?|referer=https://inatspor.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve b
+http://live.taraftarium.workers.dev/?ID=yayinzirve.m3u8?|referer=https://playerpatronstream.pages.dev/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve d
+http://web.goals-399.workers.dev/?ID=yayinzirve.m3u8?|referer=https://trgoalsgiris.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zz
 https://live.tecostream.xyz/Beinsports1.php|referer=https://trgoals1364.xyz&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zzz
 https://live.tecostream.xyz/mono/php_channels/yayinzirve.php|referer=https://monotv524.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://dte19m0igxz9e.e58caa2ee913837d.live/live/bein-sports-1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1xyz.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 XYZ Sport b
@@ -4905,8 +4929,8 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gozleri.KaraDeniz.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://im.showtv.com.tr/2024/09/28/ver1727547950/3723876_1920x1080.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güldür Güldür Show
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güller Ve Günahlar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.Ve.Gunahlar.SON.mkv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68c85dfff35cf5ba33dfcd69.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güller Ve Günahlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guller.ve.Gunahlar.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmExYjVkYWItZWQ2My00MjIzLWJhOWUtMmYzMGRkZGE4OWE0XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Güzel Aşklar Diyarı
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guzel.Asklar.Diyari.SON.mkv
@@ -5007,7 +5031,7 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Tasacak.Bu.Deniz.SON.mkv
 #EXTINF:-1 tvg-id="Teşkilat" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/77/Teskilat.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Teşkilat
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
 
-#EXTINF:-1 tvg-id="Uzak.sehir" tvg-logo="https://image.kanald.com.tr/i/kanald/70/226x313/671bb623a079b2e2838b71b3.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Uzak Şehir
+#EXTINF:-1 tvg-id="Uzak.sehir" tvg-logo="https://image.kanald.com.tr/i/kanald/100/264x365/68b94064846cac640f87db45.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Uzak Şehir
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/veliaht.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Veliaht
@@ -5024,6 +5048,24 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iatv.tmgrup.com.tr/2024/12/26/500x268/1735234833458.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.01
+https://vidmody.com/vs/tt10795658/s3/e01
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.02
+https://vidmody.com/vs/tt10795658/s3/e02
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.03
+https://vidmody.com/vs/tt10795658/s3/e03
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.04
+https://vidmody.com/vs/tt10795658/s3/e04
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.05
+https://vidmody.com/vs/tt10795658/s3/e05
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.06
+https://vidmody.com/vs/tt10795658/s3/e06
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZmYyMDUtY2NiOC00ZDgwLWE2NGUtYTAyZWE4ZmNjMTU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Dexter Diriliş 1.01 Atan Bir Kalp
 https://vidmody.com/vs/tt33043892/s1/e01
@@ -5316,6 +5358,18 @@ https://vidmody.com/vs/tt22202452/s1/e03
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/hVtenohszSJHHOYrwVmXIsCZtR8VkmMFX5HV8Msc.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.04 Lütfen Carol
 https://vidmody.com/vs/tt22202452/s1/e04
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.01
+https://vidmody.com/vs/tt38781098/s1/e01
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.02
+https://vidmody.com/vs/tt38781098/s1/e02
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.03
+https://vidmody.com/vs/tt38781098/s1/e03
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.04
+https://vidmody.com/vs/tt38781098/s1/e04
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNkMGUwNmQtMDMxYi00ZGFiLTkwMzAtYmMyNTc3NTdhOGQ3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The Last of Us 1.01 Karanlıkta Kaybolduğun Zaman
 https://vidmody.com/vs/tt3581920/s1/e01
 
@@ -5363,6 +5417,31 @@ https://vidmody.com/vs/tt3581920/s2/e06
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ0M2E3NmUtYjExYy00ZTg5LWFlMDktZWQ5YTRhNWY0N2M2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The Last of Us 2.07 Yakınsama
 https://vidmody.com/vs/tt3581920/s2/e07
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry
+O: Derrye Hoş Geldiniz 1.01
+https://vidmody.com/vs/tt19244304/s1/e01
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.02
+https://vidmody.com/vs/tt19244304/s1/e02
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.03
+https://vidmody.com/vs/tt19244304/s1/e03
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.04
+https://vidmody.com/vs/tt19244304/s1/e04
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.05
+https://vidmody.com/vs/tt19244304/s1/e05
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.06
+https://vidmody.com/vs/tt19244304/s1/e06
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.07
+https://vidmody.com/vs/tt19244304/s1/e07
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.08
+https://vidmody.com/vs/tt19244304/s1/e08
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", (BBC EARTH
 http://65.108.239.207/bbc/index.m3u8
@@ -10129,7 +10208,7 @@ https://vidmody.com/vs/tt31425731
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU0ZjBmNjctMTY4NS00ZmUyLWFiYjYtYjZhYTI4MWIyNmYxXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Meiyazhagan
 https://vidmody.com/vs/tt26758372
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5YTk0NWItN2RjYi00NDUzLTk2YWItOTRkNWEwYTkyMTZkXkEyXkFqcGc@._V1_QL75_UX374_.jpg" group-title="08.FiLM YENi 2025", Kötülük İçin Doğanlar
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMyMjNmMTAtOTgwMC00MGExLTkwYjctOWU0YWUxZjVmOGYyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Kötülük İçin Doğanlar
 Tee Yai Rerk Dao Jone
 https://vidmody.com/vs/tt35669044
 
@@ -10266,6 +10345,10 @@ The Best Mother in the World
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBiNWQ2OTQtZTMxYy00NTc2LWE4NzUtYjYzNTVhOGEyNDdmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sisu 2
 Sisu: Road to Revenge
 https://vidmody.com/vs/tt31844586
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjZGVkN2MtNWI2Zi00NzE3LThmNjUtOGZjNzVkNjc0NWY3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Old Woman With The Knife
+Pagwa
+https://vidmody.com/vs/tt34509472
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/3391-kilometre.webp" group-title="08.FiLM YENi 2025", 3391 Kilometre
 https://vidmody.com/vs/tt28363568
@@ -10716,7 +10799,7 @@ https://vidmody.com/vs/tt33311244
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/cikis-yolu.webp" group-title="08.FiLM YENi 2025", Cıkış Yolu
 https://vidmody.com/vs/tt11687002
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.com/uploads/filmler/2025-08/ciplak-silah-the-naked-gun.webp" group-title="08.FiLM YENi 2025", Cıplak Silah The Naked Gun
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQwOWQzMzktNDI2My00MGIxLWE5YTItOTEyYmFhZGYyYjQ5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Cıplak Silah The Naked Gun
 https://vidmody.com/vs/tt3402138
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-05/daha-yi-bir-yarin.webp" group-title="08.FiLM YENi 2025", Daha İyi Bir Yarın
@@ -12048,7 +12131,7 @@ https://vidmody.com/vs/tt16970906
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-04/sikandar.webp" group-title="08.FiLM YENi 2025", Sikandar
 https://vidmody.com/vs/tt31712434
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsite.com/uploads/filmler/2025-07/silahlar.webp" group-title="08.FiLM YENi 2025", Silahlar - Weapons
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI0Njc4ODMtOWFlMC00MjIyLWEzMTctOWNlYmRjOTZhYTYwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Silahlar - Weapons
 https://vidmody.com/vs/tt26581740
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.vip/uploads/filmler/2025-03/silent-zone.webp" group-title="08.FiLM YENi 2025", Silent Zone
