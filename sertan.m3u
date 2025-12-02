@@ -1884,6 +1884,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://biraz.6781237.xyz/checklist/and
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport a
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivebs11.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.androsport.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Androsport b
+https://api.codetabs.com/v1/proxy/?quest=https://andro.5493033.xyz/checklist/androstreamlivebs11.m3u8
+
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
@@ -4381,21 +4384,6 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Z.Finest TV
 http://media.finest.tv/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://streaming.tecnomovie.it/millipiyango/live/assets/images/hizli_v2.jpg" group-title="0.KIL-🤔😱😵‍💫🙈🙉🙊🎮", MİLLİ PİYANGO ÇEKİLİŞ
-https://live.duhnet.tv/S2/HLS_LIVE/sisalsansenp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://www.millipiyangoonline.com/content/dam/sisalsans/vg_thumbnails_2024/SVP_TR_325x325_030524.jpg" tvg-logo="https://img.nesine.com/504c2e68-0317-412c-8371-66bb0e97bbeb.jpg" group-title="0.KIL-🤔😱😵‍💫🙈🙉🙊🎮", SERBEST VURUŞ PRO
-https://live.duhnet.tv/S2/HLS_LIVE/sisalsansbnp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.nesine.com/b8117b1f-1684-47be-b2c2-2d1cb8ba30e9.jpg" group-title="0.KIL-🤔😱😵‍💫🙈🙉🙊🎮", SERBEST VURUŞ PRO LA LIGA
-https://live.duhnet.tv/S2/HLS_LIVE/sisalsansanp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.nesine.com/cb0f4eb9-7e6a-4312-9d41-5d60f03c45ca.jpg" group-title="0.KIL-🤔😱😵‍💫🙈🙉🙊🎮", SERBEST VURUŞ PRO LİG
-https://live.duhnet.tv/S2/HLS_LIVE/sisalsanscnp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.millipiyangoonline.com/content/dam/sisalsans/vg_thumbnails_2024/Turkiye_Ligi_325x325_v2.jpg" group-title="0.KIL-🤔😱😵‍💫🙈🙉🙊🎮", TERS KÖŞE
-https://live.duhnet.tv/S2/HLS_LIVE/sisalsansdnp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="00.KIL-DiZi-FİLM", (0.beinmovies action1
 http://65.108.239.207/bsaction1/index.m3u8
 
@@ -4740,6 +4728,9 @@ https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onstv.com.tr/images/gallery/uploaded/2/onstv-logo.png" group-title="00.KIL-DiZi-FİLM", 1.ONS TV
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="00.KIL-DiZi-FİLM", 1.Planet Aksiyon
+http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.PLAY SİNEMA
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
@@ -9218,6 +9209,9 @@ http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OGAZgZI.png" group-title="04.KIL-MOBESE", Tokat Kalesi
 http://212.156.98.150:1936/Kamera/Kale.stream/stream.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="05.KIL-ÇOCUK", Baby Shark
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7604
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="05.KIL-ÇOCUK", Baby TV (saran)
 https://saran-live.ercdn.net/babytv/index.m3u8
 
@@ -9236,6 +9230,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="05.KIL-ÇOCUK", Minika çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="05.KIL-ÇOCUK", Myway cizgi
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11013
+
 #EXTINF:-1 tvg-id="35" tvg-logo="https://m.prectv55.lol/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" group-title="05.KIL-ÇOCUK", Nickelodeon Hd
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
@@ -9244,6 +9241,9 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6848/index.m3u8
 
 #EXTINF:-1 tvg-id="516992" tvg-logo="https://cms-tabii-public-image.tabii.com/int/51550_0-0-1500-1500.png" group-title="05.KIL-ÇOCUK", tabii Çocuk
 https://rfw2clwss2go9glm.medya.trt.com.tr/out/v1/trt-tabiispor/tabiicocuk/trt-tabiicocuk-hls-drm/trt-tabiicocuk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="05.KIL-ÇOCUK", Toom Jeryy
+http://208.79.153.42/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="05.KIL-ÇOCUK", TRT Diyanet çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
@@ -10039,10 +10039,6 @@ https://vidmody.com/vs/tt37334010
 Abadi Nan Jaya
 https://vidmody.com/vs/tt32643830
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI3NjAyYWYtN2RkYS00ZDFiLWExMWYtMmIzMTgxNzRjZWI1XkEyXkFqcGc@._V1_QL75_UX350_.jpg" group-title="08.FiLM YENi 2025", Ziyaretçiler Bölüm 2
-The Strangers: Chapter 2
-https://vidmody.com/vs/tt28671344
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNlYTgwYzMtYzdlNC00MjJhLTlmMzItNWFiYmZhOWNhNmYzXkEyXkFqcGc@._V1_QL75_UX200_.jpg" group-title="08.FiLM YENi 2025", A House of Dynamite
 https://vidmody.com/vs/tt32376165
 
@@ -10525,6 +10521,13 @@ https://vidmody.com/vs/tt27737203
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Nuremberg
 https://vidmody.com/vs/tt29567915
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNhYjA3MjktMDUzNi00NWM1LWJlZTAtYjIzNjE0YjhjZDc3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Efendiler
+https://vidmody.com/vs/tt36683600
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY4ZTJmZmQtNWNmMS00MjEwLWI1ZTYtNzEzNGFjZTBhMzE4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Ziyaretçiler: Bölüm 2
+The Strangers: Chapter 2 
+https://vidmody.com/vs/tt28671344
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/3391-kilometre.webp" group-title="08.FiLM YENi 2025", 3391 Kilometre
 https://vidmody.com/vs/tt28363568
@@ -17170,37 +17173,37 @@ https://vidmody.com/vs/tt1182921
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MjI3NTE5NzleQTJeQWpwZ15BbWU4MDc2Mjg5ODAx._V1.jpg " group-title="10.FiLM BOXSET SERi FiLMLER", Ninja2 Gözyasinin Gölgesi
 https://vidmody.com/vs/tt2458106
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2024/03/hQQCdZrsHtZyR6NbKH2YyCqd2fR-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ocean’s 11 (2001)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Oceans 11 (2001)
 https://vidmody.com/vs/tt0240772
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2024/03/Ad55M8newGWemFWCsMAkxO3fDwl-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ocean’s 12 (2004)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxNjY3ODEtMTZhOC00NjgyLTg4YTAtZjA4ZDI2MDQ4OGJmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Oceans 12 (2004)
 https://vidmody.com/vs/tt0349903
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2024/03/pBsZs4zYUiUTemqbikTZ76iQRaU-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ocean’s 13 (2007)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyNTc1NzY5MV5BMl5BanBnXkFtZTcwNDM4NTQzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Oceans 13 (2007)
 https://vidmody.com/vs/tt0496806
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-ocean-s-8-ocean-s-eight.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Ocean’s 8 (2018)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Oceans 8 (2018)
 https://vidmody.com/vs/tt5164214
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-09/olum-yariscilari-death-racers-99013.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışçıları
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3NjA1MTQxN15BMl5BanBnXkFtZTcwNDg3MTEwMg@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışçıları
 https://vidmody.com/vs/tt1261046
 
-#EXTINF:-1 tvg-id="https://vs3.photofunny.org/v/ucxv557z95em/master.m3u8" tvg-logo="https://www.hdfilmizle.to/v/11302/poster/thumb-lg/olum-yarisi-2000.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı  2000 (1975)
-https://hls13.playmix.uno/hls/deathrace2000-1975-bluray-trdualmp4-55pDXx1aMwn.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/deathrace2000-1975-bluray-trdualmp4-55pDXx1aMwn.mp4/master.txt https://vs3.photofunny.org/v/ucxv557z95em/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMzYjg0NTUtZDc5Yy00ZmEyLWIzNjctZmRkOWE1OTViZjRhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı  2000 (1975)
+https://vidmody.com/vs/tt0072856
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-olum-yarisi-2050-death-race-2050.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı  2050 (2017)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNjA4MjgyMl5BMl5BanBnXkFtZTgwMTE1ODIyMDI@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı  2050 (2017)
 https://vidmody.com/vs/tt5493706
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-olum-yarisi-1-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 1 (2008)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjdlNmJjM2ItYjkwOS00NDMxLWFjM2QtNzcyZjJkYzEzYzQ5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 1 (2008)
 https://vidmody.com/vs/tt0452608
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-olum-yarisi-2-death-race-2-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 2 (2010)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliOWJiY2YtYmIyMC00MWQzLTgyMzMtYjMwZGY5MGIxMGI1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 2 (2010)
 https://vidmody.com/vs/tt1500491
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-olum-yarisi-3-death-race-3-inferno_2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 3: Cehennem
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI2ZjQ5NTAtYmE4OC00NGE0LTkwMzctNDQwNWJjNTc0NzY3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 3: Cehennem
 https://vidmody.com/vs/tt1988591
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-olum-yarisi-4-anarsinin-otesinde-death-race-4-beyond-anarchy_2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 4: Anarşinin Ötesinde (2018)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE3NWY3N2YtMWFlMS00YzZhLTgzNjctMGQ0NWFmMWU4ZDU1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olüm Yarışı 4: Anarşinin Ötesinde (2018)
 https://vidmody.com/vs/tt3807900
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEzYWMyNDAtN2UwMS00MzZhLWEyZDktMjk0MWQ4NTQ2M2RlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Olümcül Labirent 1
