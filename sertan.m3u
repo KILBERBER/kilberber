@@ -5056,6 +5056,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.kanald.com.tr/i/kanald/70/226x313/67b6efa8f82d125d3be1fcb3.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Piyasa
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/ruya-gibi.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Rüya Gibi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ruya.Gibi.SON.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.startv.com.tr/star-tv/images/sahipsizlerdikey.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Sahipsizler
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
 
@@ -5064,6 +5067,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahtekarlar.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1786" group-title="00.KIL-DiZi-SONBÖLÜMLER", Sakir paşa ailesi
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakirpasa.Ailesi.SON.mkv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1823" group-title="00.KIL-DiZi-SONBÖLÜMLER", Sakıncalı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sakincali.SON.mkv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mo.ciner.com.tr/showtv/iu/1258x630/sandik-kokusu.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Sandık Kokusu
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
@@ -11620,9 +11626,6 @@ https://vidmody.com/vs/tt7978672
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/karantina-2025.webp" group-title="08.FiLM YENi 2025", Karantina
 https://vidmody.com/vs/tt32810861
 
-#EXTINF:-1 tvg-id="https://srv13.cdnimages1253.sbs/hls/karatekid-2025-hdts-traltmp4-7alxnZ5wsMD.mp4/txt/master.txt" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-07/karate-kid-efsane-dovusculer.webp" group-title="08.FiLM YENi 2025", Karate Kid Efsane Dövüşçüler korsan sürüm 
-https://vidmody.com/vs/tt1674782/alt
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-07/kardes-takimi-2.webp" group-title="08.FiLM YENi 2025", Kardeş Takımı 2
 https://vidmody.com/vs/tt32777683
 
@@ -15696,6 +15699,12 @@ https://vidmody.com/vs/tt1375670
 #EXTINF:-1 tvg-id="https://p2.gamephotos.biz/v/vz7xciaca31k/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMzg5MDI0OV5BMl5BanBnXkFtZTcwMzU3MjQyOQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Büyükler 2 (2013)
 https://vidmody.com/vs/tt2191701
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkwY2QxOTEtNGQxMS00NzU4LWJlMTMtOGI1MDE2MmQwYTM2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", C Takımı 
+https://vidmody.com/vs/tt30414597
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM4NTVmNjAtYjE4ZS00MmFhLTg3MjEtNjYxZThjNTRmZTk1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", C Takımı 2
+https://vidmody.com/vs/tt32992562
+
 #EXTINF:-1 tvg-id="https://p2.photostack.net/v/3lrel1qkd1p6/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3MDgwMjMxNF5BMl5BanBnXkFtZTgwMzI4ODc0MDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Cakallarla Dans 1
 https://vidmody.com/vs/tt1783423
 
@@ -17528,50 +17537,68 @@ https://vidmody.com/vs/tt3283664
 #EXTINF:-1 tvg-id="https://tatlilar5.shop/cdn/down/6e3ba504a5ee8772069b908f681a1c5c/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3MDY5MDYtYzVkYi00NDk1LWEyZjUtNDIzNWJkNDA4NjM3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sevkat Yerimdar 2: Bizde Sakat Çok (2016)
 https://vidmody.com/vs/tt5265308
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek 1 2001
+https://vidmody.com/vs/tt0126029
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek 2 2004
+https://vidmody.com/vs/tt0298148
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek 3 2007
+https://vidmody.com/vs/tt0413267
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek 4 Sonsuza Dek Mutlu
+https://vidmody.com/vs/tt0892791
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg0NDUwYjItMmRjYi00MzNjLTkyY2EtM2FiMjE1NWY4ZTY0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek Korkak Canavar 
+https://vidmody.com/vs/tt1725156
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkzZDQ2YTQtNWM4MC00ZGJlLTgwNjktY2IxOTExZWI3YzMwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrek Lord Farquaadın Hayaleti
+https://vidmody.com/vs/tt0360985
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM4NzA2YzctNzBiNi00YjU0LWJkNjAtMzNjOWZkOGVmMDJiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Shrekle Mutlu Yıllar
+https://vidmody.com/vs/tt0897387
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sihirbazlar Çetesi (2013)
 https://vidmody.com/vs/tt1670345
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVjNTA0ZWEtNzU2Ny00Njg1LWE1MmEtZTUyZGQzYTVlY2Q5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sihirbazlar Çetesi 2 (2016)
 https://vidmody.com/vs/tt3110958
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-silici-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Silici (1996)
-https://hls11.playmix.uno/hls/eraser-1996-bluray-trdualmp4-rfhZUDpZi78.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/eraser-1996-bluray-trdualmp4-rfhZUDpZi78.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmNkMjg3NWMtY2RhMC00MDRlLWI4MzktNjEzNGFjYTMwYjQ3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Silici (1996)
+https://vidmody.com/vs/tt0116213
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/silici-yeniden-dogmus-eraser-reborn-10522.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Silici: Yeniden Doğmuş (2022)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjYTNkYjAtZjJlNS00ZGM4LWIxMjUtYTYwNGViNjU3YTA1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Silici: Yeniden Doğmuş (2022)
 https://vidmody.com/vs/tt15422240
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-sirinler-the-smurf-2011-turkce-altyazili-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQxNDYyNTQtYjg1OC00OGJiLTk2YjMtZjZjZDgwOWFlOTJjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler
 https://vidmody.com/vs/tt0472181
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/sirinler-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiZDYyNjctOGNiZi00Y2ZjLWJkZmUtMjM1Mjc3ZmQzN2QwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler 2
 https://vidmody.com/vs/tt2017020
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-sirinler-3-kayip-koy-smurfs-the-lost-village.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler 3: Kayıp Köy
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVlYjY0ZTQtMDVkNS00NzNlLWE5NmMtODY1MjJmNTI5MTAxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler 3: Kayıp Köy
 https://vidmody.com/vs/tt2398241
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-sirinler-hayalet-sirin-efsanesi.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler Hayalet Şirin Efsanesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NjA2MzgzM15BMl5BanBnXkFtZTgwMjcyMDQ1MDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler Hayalet Şirin Efsanesi
 https://vidmody.com/vs/tt2958484
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/sirinler-yeni-yil-sarkisi-36656.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler: Yeni Yıl Şarkısı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczMjk5NzkxOV5BMl5BanBnXkFtZTcwNDQyNzU5Ng@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sirinler: Yeni Yıl Şarkısı
 https://vidmody.com/vs/tt2062677
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-hdfc.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 1 (1993)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE1Y2M0OTAtMDkzMy00Zjk0LTgwYjYtZjExNjVmZjQ3NmE5XkEyXkFqcGc@._V1.jpg " group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 1 (1993)
 https://hls13.playmix.uno/hls/sniper-1993-webdl-trdualmp4-xzRAbGhSXUl.mp4/master.txt
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/keskin-nisanci-2-izle-hd.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 2 (2002)
-https://hls13.playmix.uno/hls/sniper-2-2002-webdl-trdualmp4-iDUHZu4tKDD.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-3-hdfc.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 3 (2004)
-https://hls13.playmix.uno/hls/sniper-3-2004-webdl-trdualmp4-hyi3aU7AjkM.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/sniper-2-2002-webdl-trdualmp4-iDUHZu4tKDD.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGNkZjZkYTUtZjRhMS00OGQ4LWEzZTQtMDBjZTc5ZDgyN2UzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 2 (2002)
+https://vidmody.com/vs/tt0338450
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3Y2U5YWEtMzA3NS00NTAyLTllOWItYTYwYzk0MzViMmZjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 3 (2004)
 https://vidmody.com/vs/tt0408196
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-reloaded.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 4(2004)
-https://hls13.playmix.uno/hls/sniper-4-reloaded-2011-webdl-trdualmp4-Jo2OGhAPsau.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/sniper-4-reloaded-2011-webdl-trdualmp4-Jo2OGhAPsau.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVmZDM4YjctZGQzZS00NDAzLWI3ZTMtNGRmNGE4ODBlYzA1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 4(2004)
+https://vidmody.com/vs/tt1571243
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper.webp" group-title="10.FiLM BOXSET SERi FiLMLER", sniper 5
-https://s429.rapidrame.com/hls2/01/00011/2o1wl5wgtry0_,l,n,.urlset/master.m3u8?t=K4FhZV6XG1L07T57v6JKY4EPkZuyLE-cc6QrwNNqgMM&s=1749164125&e=1199998800&f=59677&i=0.0&sp=0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyODJiYWUtMTFmYi00YTJhLWJhNDktZTU2NjkwZTdlMzZkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper 5 Sun cheung sau (2009)
+https://vidmody.com/vs/tt1194624
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/snipers.webp" group-title="10.FiLM BOXSET SERi FiLMLER", sniper 6
 https://s231.rapidrame.com/hls2/01/00017/os5q1mpv2oqq_,l,n,.urlset/master.m3u8?t=6zZ_DcMPpoFGs6w-XIx0cvbOrHm-c2LxsN0IH2Gv8c0&s=1749164257&e=1199998800&f=87953&srv=s429&i=0.0&sp=0
@@ -17582,136 +17609,106 @@ https://vidmody.com/vs/tt2179136
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJiYjBiMzctYzQ2NC00MjdjLTlhNDItNmExNDY1NTkyNWE4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Assassins End (2020)
 https://vidmody.com/vs/tt12305696
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-sniper-duvar-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Duvar The Wall (2017)
-https://hls10.playmix.uno/hls/thewall2017bluray1080pdualmp4-l1pCO0jcFZb.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/thewall2017bluray1080pdualmp4-l1pCO0jcFZb.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5ODMyNzE4OF5BMl5BanBnXkFtZTgwNTM0Mzc4MTI@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Duvar The Wall (2017)
+https://vidmody.com/vs/tt4218696
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-g-r-i-t-global-response-intelligence-team.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper G.R.I.T. - Global Response & Intelligence Team (2023)
-https://hls10.playmix.uno/hls/globalresponseintelligenceteam-2023-webdl-trdualmp4-Mb8g44T2drs.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-ghost-shooter-izle-1080p.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Ghost Shooter (2016)
-https://hls13.playmix.uno/hls/sniperghostshooter-2016-webdl-trdualmp4-OIsWzZpemrg.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBmNDBiMmUtOGFlNi00YmU4LWI4OWYtNTUyMjJiMzM3MmIzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper K.M.İ.T.
+#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/globalresponseintelligenceteam-2023-webdl-trdualmp4-Mb8g44T2drs.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBmNDBiMmUtOGFlNi00YmU4LWI4OWYtNTUyMjJiMzM3MmIzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper G.R.I.T. - Global Response & Intelligence Team (2023)
 https://vidmody.com/vs/tt28487871
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-legacy-izle-hd.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Legacy (2014)
-https://hls13.playmix.uno/hls/sniperlegacy-2014-webdl-trdualmp4-qa9FrgTqidA.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/sniperghostshooter-2016-webdl-trdualmp4-OIsWzZpemrg.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFlY2VhNGUtYzY0Yy00OGE3LWExYzMtYzNhMDAwMzI4N2NmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Ghost Shooter (2016)
+https://vidmody.com/vs/tt5090828
 
-#EXTINF:-1 tvg-id="https://d3.abphoto.live/f9/NNPxjPEGQZlZG1mDgmBkplgx0Ph2z3NNNDqxFH3vYA7uXwlXJ7PGV_FGZap1YkFlYsqlitZldj0Fvr1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM5ODMzMzc3Ml5BMl5BanBnXkFtZTgwMTc1MDMzMjE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Legacy (2014)
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/sniperlegacy-2014-webdl-trdualmp4-qa9FrgTqidA.mp4/master.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-legacy-izle-hd.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Legacy (2014)
 https://vidmody.com/vs/tt3776288
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-rogue-mission.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Rogue Mission (2022)
-https://hls11.playmix.uno/hls/sniperroguemission-2022-bluray-trdualmp4-O23BMxa0qgR.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMyODJiYWUtMTFmYi00YTJhLWJhNDktZTU2NjkwZTdlMzZkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Sun cheung sau (2009)
-https://vidmody.com/vs/tt1194624
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/sniperroguemission-2022-bluray-trdualmp4-O23BMxa0qgR.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMzOGU1NDUtMTliMi00NjI1LTg2MDUtYjRhZDE4MzBlODkyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Rogue Mission (2022)
+https://vidmody.com/vs/tt21222434
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjk3ZjBjZjYtMDQ0ZC00MjBiLWE0YTktZjAzYmYyNzdiMTk1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper The Last Stand (2025)
 https://vidmody.com/vs/tt34910018
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sniper-the-white-raven.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper The White Raven (2022)
-https://s231.rapidrame.com/hls2/01/00013/nkrcvu79yba0_,l,n,.urlset/master.m3u8?t=Xbm38FHTj4WIBHqF0Ft4VIYZuwpFtOb7G20LfE-WbZA&s=1749163957&e=1199998800&f=69823&srv=s427&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://s231.rapidrame.com/hls2/01/00013/nkrcvu79yba0_,l,n,.urlset/master.m3u8?t=Xbm38FHTj4WIBHqF0Ft4VIYZuwpFtOb7G20LfE-WbZA&s=1749163957&e=1199998800&f=69823&srv=s427&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA1NjdmZmItZTUxZS00YWI4LWFlODUtMmIyMWRhNWRiN2MyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper The White Raven (2022)
+https://vidmody.com/vs/tt19465630
 
 #EXTINF:-1 tvg-id="https://d2.abphoto.live/f3/NtNW8NAjVmZEaZmBCs1WkFGZapXAit0gtRYY78Ph2z3NNFNLpOnWEWqglbfP0idZGW5PGVaF1YkFlYsqlitZldj0Fvr1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVlZGRhMDktM2E0ZS00NmExLTljODEtMmEwMTczN2E5MGRhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sniper Ultimate Kill (2017)
 https://vidmody.com/vs/tt6349302
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 1
-https://srv9.cdnimages1642.sbs/hls/finaldestination-2000-bluray-trdualmp4-HHNT3z77Zlp.mp4/txt/master.txt
+#EXTINF:-1 tvg-id="https://srv9.cdnimages1642.sbs/hls/finaldestination-2000-bluray-trdualmp4-HHNT3z77Zlp.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MjlmOWYtYzdjMS00OTgwLThjMDctZWU4N2FkZjgyNTJiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 1
+https://vidmody.com/vs/tt0195714
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-2-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMTMyODAzN15BMl5BanBnXkFtZTYwNjc5NDQ3._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 2
 https://vidmody.com/vs/tt0309593
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-3-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI3NzE0MmEtYmFjZC00NTJhLWI4OWUtNGRmNDEwNGU3NzM0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 3
 https://vidmody.com/vs/tt0414982
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-4-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY2YWViNDItNWM1NC00MGFhLTg1NzctMGIyYTMwYTk1MTdiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 4
 https://vidmody.com/vs/tt1144884
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/son-durak-5-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 5
-https://srv13.cdnimages112.sbs/hls/finaldestination-5-2011-bluray-trdualmp4-dNaOH6isMiL.mp4/txt/master.txt
+#EXTINF:-1 tvg-id="https://srv13.cdnimages112.sbs/hls/finaldestination-5-2011-bluray-trdualmp4-dNaOH6isMiL.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 5
+https://vidmody.com/vs/tt1622979
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/son-durak-kan-bagi.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 6 Kan Bağı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc3OWFhZWItMTE2Yy00N2NmLTg1YTktNGVlNDY0ODQ5YjNlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Son Durak 6 Kan Bağı
 https://vidmody.com/vs/tt9619824
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/kirpi-sonic.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic
 https://vidmody.com/vs/tt3794354
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/kirpi-sonic-2-74239.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic 2
 https://vidmody.com/vs/tt12412888
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/kirpi-sonic-3.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZjNjE5NDEtOWJjYS00Mjk2LWI1ZDYtOWI1ZWI3MzRjM2UzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sonic 3
 https://vidmody.com/vs/tt18259086
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/beverly-hills-cop.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi
-https://hls9.playmix.uno/hls/beverlyhillscop-1-1984-bluray-trdualmp4-3swgUvcBdro.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls9.playmix.uno/hls/beverlyhillscop-1-1984-bluray-trdualmp4-3swgUvcBdro.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi
+https://vidmody.com/vs/tt0086960
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/beverly-hills-cop-ii.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi 2
-https://hls9.playmix.uno/hls/beverlyhillscop-2-1987-bluray-trdualmp4-rowVe9HHy5i.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls9.playmix.uno/hls/beverlyhillscop-2-1987-bluray-trdualmp4-rowVe9HHy5i.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU2ZGU3YzAtYjc1MS00ZTFmLWFhM2ItZWQxMjY1ZmM3ZDk2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi 2
+https://vidmody.com/vs/tt0092644
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-sosyete-polisi-3-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi 3
-https://hls9.playmix.uno/hls/beverlyhillscop-3-1994-bluray-trdualmp4-cnKRxIWXp1g.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls9.playmix.uno/hls/beverlyhillscop-3-1994-bluray-trdualmp4-cnKRxIWXp1g.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY2ZWQ2MDUtMzcyYS00ZDJmLThiNTUtOGM5MzM0NWMyNDY0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi 3
+https://vidmody.com/vs/tt0109254
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/sosyete-polisi-axel-f-beverly-hills-cop-axel-f-42228.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi: Axel F
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sosyete Polisi: Axel F
 https://vidmody.com/vs/tt3083016
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-1.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek 1 2001
-https://vidmody.com/vs/tt0126029
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek 2 2004
-https://vidmody.com/vs/tt0298148
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-3.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek 3 2007
-https://vidmody.com/vs/tt0413267
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-4-sonsuza-dek-mutlu.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek 4 Sonsuza Dek Mutlu
-https://vidmody.com/vs/tt0892791
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/korkak-canavar-rek.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek Korkak Canavar 
-https://vidmody.com/vs/tt1725156
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-lord-farquaad-in-hayaleti.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srek Lord Farquaadın Hayaleti
-https://vidmody.com/vs/tt0360985
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/srek-le-mutlu-yillar.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Srekle Mutlu Yıllar
-https://vidmody.com/vs/tt0897387
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/lfrZjciT91ewU8j00UVD00tFEWs-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 01 (1979)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 01 (1979)
 https://vidmody.com/vs/tt0079945
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/gUn0tBvkU8aaJoVNqYD2hzbA63v-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 02: Han’ın Gazabı (1982)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 02: Han’ın Gazabı (1982)
 https://vidmody.com/vs/tt0084726
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/r1OgCk0DFu9NLxj9BeYsSGRATd0-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 03: Spock’ın Peşinde (1984)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 03: Spock’ın Peşinde (1984)
 https://vidmody.com/vs/tt0088170
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/i8bJhfTcwKNJBnfyATpoDN5tAf3-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 04: Eve Yolculuk (1986)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 04: Eve Yolculuk (1986)
 https://vidmody.com/vs/tt0092007
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/aVJdFPEoqMvvglkzoFKFE2f4J7r-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 05: Son Sınır (1989)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 05: Son Sınır (1989)
 https://vidmody.com/vs/tt0098382
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/zqfmNJTQU38Ygg0iOC92E428meo-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 06: Keşfedilmemiş Ülke (1991)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 06: Keşfedilmemiş Ülke (1991)
 https://vidmody.com/vs/tt0102975
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/aFWFXnLJ1ZQzqEnCv8mZWuFvR7v-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 07: Yeni Nesil (1994)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 07: Yeni Nesil (1994)
 https://cankaya5.shop/cdn/down/35fa930e6e8ce44117912c10f46e03d4/720p/720p.txt
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/9t2YVFea0cleMGSzryqkOPCcgTS-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 08: İlk Temas (1996)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 08: İlk Temas (1996)
 https://vidmody.com/vs/tt0117731
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/zruuYkk2Huq4oTmeXXgesdjQHkz-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 09: İsyan (1998)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 09: İsyan (1998)
 https://vidmody.com/vs/tt0120844
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2025/01/lCekPcrGod33rPIIPgHDffduRbI-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 10: Nemesis (2002)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 10: Nemesis (2002)
 https://vidmody.com/vs/tt0253754
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2024/10/9vaRPXj44Q2meHgt3VVfQufiHOJ-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 11 (2009)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 11 (2009)
 https://vidmody.com/vs/tt0796366
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2024/10/mkq9Kh1mbWcvo3bOH5ryYwYRvUS-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 12: Bilinmeze Doğru (2013)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 12: Bilinmeze Doğru (2013)
 https://vidmody.com/vs/tt1408101
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/12261/poster/thumb-lg/star-trek-sonsuzluk.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 13: Sonsuzluk (2016)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Trek 13: Sonsuzluk (2016)
 https://vidmody.com/vs/tt2660888
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/12078/poster/thumb-lg/yildiz-savaslari-bolum-i-gizli-tehlike.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Wars 1: Gizli Tehlike (1999)
@@ -17750,260 +17747,267 @@ https://vidmody.com/vs/tt1185834
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/14763/poster/thumb-lg/rogue-one-bir-star-wars-hikayesi.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Star Wars: Rogue One: Bir Star Wars Hikayesi (2016)
 https://vidmody.com/vs/tt3748528
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/31591/poster/thumb-lg/street-fighter-chun-li-efsanesi.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Sokak dövüşçüsü - Chun-Li efsanesi (2009)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2Mzc1MDc5MV5BMl5BanBnXkFtZTcwMDk1NTIzMg@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Sokak dövüşçüsü - Chun-Li efsanesi (2009)
 https://vs6.photour.org/v/rp26m9d3av31/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/46647/poster/thumb-lg/sokak-dovuscusu.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Son savaş (1994)
-https://p1.photostack.net/v/4s3ok0xbxt3j/master.m3u8
+#EXTINF:-1 tvg-id="https://p1.photostack.net/v/4s3ok0xbxt3j/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTliMDFmNDQtZjRlYS00MDE3LWJmOTktNjA0ZDUwZjcyNTdiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Son savaş (1994)
+https://vidmody.com/vs/tt0111301
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-street-fighter-suikastci-teknigi.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Suikastçı Tekniği
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Street Fighter Suikastçı Tekniği
 https://d5.hgphoto.vip/f6/NtNWxNAjVmZH_ZGY7pmWgN1BaxYf4RmA7lPF3FFb8ZGYCK0g0xFc4lPh2z3NjOXwlXD_dlZyxYZufYOQplDmllepqlitZlit0lvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/suc-takimi.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Suç Takımı 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Suç Takımı 1
 https://vidmody.com/vs/tt1259528
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-01/suc-takimi-2-pantera.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Suç Takımı 2 Pantera
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIyYTI5N2QtZmQ5ZC00NDE4LThhYWMtNGE5NjI1OGU2M2NjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Suç Takımı 2 Pantera
 https://vidmody.com/vs/tt8008948
 
-#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/aa30b231b012686a3811c4060d6a83fc/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/thumb/poster/police-story@2x.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 1 (1985)
-https://hls11.playmix.uno/hls/policestory-1-1985-bluray-trdualmp4-8sBWpT4Q5O1.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/policestory-1-1985-bluray-trdualmp4-8sBWpT4Q5O1.mp4/master.txt https://kebaplar5.shop/cdn/down/aa30b231b012686a3811c4060d6a83fc/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMWUxNjctOGNiOC00MzRkLWI1NjktZWUzOGJiZTM2ZDg1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 1 (1985)
+https://vidmody.com/vs/tt0089374
 
-#EXTINF:-1 tvg-id="https://kebaplar5.shop/cdn/down/34c588915e4fb2e61920de0a80f236c5/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/police-story-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 2 (1988)
-https://hls11.playmix.uno/hls/policestory-2-1988-bluray-trdualmp4-Hdgnq9v0R4l.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/policestory-2-1988-bluray-trdualmp4-Hdgnq9v0R4l.mp4/master.txt https://kebaplar5.shop/cdn/down/34c588915e4fb2e61920de0a80f236c5/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVmNjQ0ZGItMDQ2Ni00MjllLTkyODctZGMyMzJiODE2ZDNlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 2 (1988)
+https://vidmody.com/vs/tt0095403
 
-#EXTINF:-1 tvg-id="https://cankaya5.shop/cdn/down/7750f7608c59a75eaf59892c1b24786b/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/police-story-3-super-cop.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 3 (1992)
-https://hls11.playmix.uno/hls/policestory-3-1992-bluray-trdualmp4-ntDYzzoBElp.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/policestory-3-1992-bluray-trdualmp4-ntDYzzoBElp.mp4/master.txt https://cankaya5.shop/cdn/down/7750f7608c59a75eaf59892c1b24786b/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVjYTFjMjItOGZiZS00ZjRlLThiMzUtOWVkMmE3YzE4ZGRkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 3 (1992)
+https://vidmody.com/vs/tt0104558
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/new-police-story.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 5: Geçmişin İntikamı
-https://hls11.playmix.uno/hls/policestory-4-newpolicestory-2004-bluray-trdualmp4-w9qA9JO9oCO.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/policestory-4-newpolicestory-2004-bluray-trdualmp4-w9qA9JO9oCO.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA3MTU3ZmUtZDI0ZS00NTRkLTkyNjUtNWY3NjNjN2ZhNTVhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polis 4: Geçmişin İntikamı
+https://vidmody.com/vs/tt0386005
 
-#EXTINF:-1 tvg-id="https://mezeler5.shop/cdn/down/99f8e5f1d70f89c6caddd7afe9ee9626/720p/720p.txt" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-super-polisler-1-super-troopers-1.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polisler (2001)
+#EXTINF:-1 tvg-id="https://mezeler5.shop/cdn/down/99f8e5f1d70f89c6caddd7afe9ee9626/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMTkwNzItMzRiYy00MmFmLThkNzQtZTMwYWNiYzk0MzIwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polisler (2001)
 https://vidmody.com/vs/tt0247745
 
-#EXTINF:-1 tvg-id="https://tedmosby5.shop/cdn/down/17c19d429f05136d4677f54201f1a001/720p/720p.txt" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-super-polisler-2-super-troopers-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polisler 2 (2018)
+#EXTINF:-1 tvg-id="https://tedmosby5.shop/cdn/down/17c19d429f05136d4677f54201f1a001/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MzNzRhZWYtMjYyNC00YjY4LTgzYmItNDc3MWIyMWRmYTI2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Süper Polisler 2 (2018)
 https://vidmody.com/vs/tt0859635
 
-#EXTINF:-1 tvg-id="https://vs5.stockpics.pro/v/et44lkfv6784/master.m3u8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-hot-shots-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sıkı Atışlar (1991)
-https://hls11.playmix.uno/hls/hotshots-1-1991-bluray-trdualmp4-PgKjXC8ct8Y.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/hotshots-1-1991-bluray-trdualmp4-PgKjXC8ct8Y.mp4/master.txt https://vs5.stockpics.pro/v/et44lkfv6784/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY1OGNkZTMtNjRjYy00MWRkLTkxM2ItMTU1OWZlZTBkZTYwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sıkı Atışlar (1991)
+https://vidmody.com/vs/tt0102059
 
-#EXTINF:-1 tvg-id="https://p2.photostack.net/v/0hhxb2f1puqn/master.m3u8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/hd-hot-shots-2-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Sıkı Atışlar 2 (1993)
-https://hls11.playmix.uno/hls/hotshots-2-partdeux-1993-bluray-trdualmp4-lOFzVUlEIvN.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/hotshots-2-partdeux-1993-bluray-trdualmp4-lOFzVUlEIvN.mp4/master.txt https://p2.photostack.net/v/0hhxb2f1puqn/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU5ZTUzMmQtZDI3Yy00Y2ZlLTg1MmMtYWZiNDYyYmI4YmE2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Sıkı Atışlar 2 (1993)
+https://vidmody.com/vs/tt0107144
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/taken-takip-izle-hd.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 1: 96 Saat (2008)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 1: 96 Saat (2008)
 https://vidmody.com/vs/tt0936501
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-takip-istanbul-taken-2-2012.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 2: İstanbul (2012)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 2: İstanbul (2012)
 https://vidmody.com/vs/tt1397280
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-takip-3-son-karsilasma-taken-3-f.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 3: Son Karşılaşma (2014)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Takip 3: Son Karşılaşma (2014)
 https://vidmody.com/vs/tt2446042
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/32771/poster/thumb-lg/taksi.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi (1998)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlkM2EzOTAtMTgzZi00NDEyLWJjOGItYWJiYTE2NmRlODMwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi (1998)
 https://vidmody.com/vs/tt0152930/
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/33204/poster/thumb-lg/taksi-2.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 2 (2000)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBjNDE0YmUtZTIxZS00YzJkLTlhMzAtNjQ4OTExNDQ4YzhlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 2 (2000)
 https://vidmody.com/vs/tt0183869
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/33200/poster/thumb-lg/taksi-3.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 3 (2003)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdjODU5ODQtZjkzOC00MTNiLWFhZjQtNDcyZmI1MmM2Yzg2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 3 (2003)
 https://vidmody.com/vs/tt0295721/
 
-#EXTINF:-1 tvg-id="https://vs4.avphotos.pro/v/6gqqsxnos3cj/master.m3u8" tvg-logo="https://www.hdfilmizle.to/v/33196/poster/thumb-lg/taksi-4.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 4 (2007)
-https://s15.imglink.pro/mu/ITS4nF40YwVjZQphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1aoTyhnl5jpz8s0xi15vr1
+#EXTINF:-1 tvg-id="https://s15.imglink.pro/mu/ITS4nF40YwVjZQphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1aoTyhnl5jpz8s0xi15vr1 https://vs4.avphotos.pro/v/6gqqsxnos3cj/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJhY2RmNzUtMDk3ZS00ZDI4LWI3M2YtOTVmOGE5MDg5YjIxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 4 (2007)
+https://vidmody.com/vs/tt0804540
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/19141/poster/thumb-lg/taksi-5.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 5 (2018)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVmYzBiMWMtZWM1NC00NWI0LWEyNDQtOGQ0NmQxNDE1NGYzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taksi 5 (2018)
 https://vidmody.com/vs/tt7238392
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tasiyici-1-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı 1(2002)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı 1(2002)
 https://vidmody.com/vs/tt0293662
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tasiyici-2-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı 2(2005)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MDM0MTI2N15BMl5BanBnXkFtZTcwNTM5NDczMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı 2(2005)
 https://vidmody.com/vs/tt0388482
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tasiyici-son-hiz-the-transporter-refueled.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı: Son Hız (2015)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzg1OTU4M15BMl5BanBnXkFtZTcwMjcyMjI5MQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı 3(2008)
+https://vidmody.com/vs/tt1129442
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyMDE2ODU3Ml5BMl5BanBnXkFtZTgwODU0MTA0NjE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Taşıyıcı: Son Hız (2015)
 https://vidmody.com/vs/tt2938956
 
-#EXTINF:-1 tvg-id="https://pideci5.shop/cdn/down/ce4f468663ddd4b60f1ebec2f49ca81d/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/species.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür (1995)
-https://hls11.playmix.uno/hls/species-1995-bluray-trdualmp4-Cic2Vagr4an.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/species-1995-bluray-trdualmp4-Cic2Vagr4an.mp4/master.txt https://pideci5.shop/cdn/down/ce4f468663ddd4b60f1ebec2f49ca81d/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür (1995)
+https://vidmody.com/vs/tt0114508
 
-#EXTINF:-1 tvg-id="https://pideci5.shop/cdn/down/9ade7e6e8bba3fe622eaaff8809fdb7c/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/species-ii.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür 2 (1998)
-https://hls11.playmix.uno/hls/species-2-1998-bluray-trdualmp4-pztWdhbS4Ln.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/species-2-1998-bluray-trdualmp4-pztWdhbS4Ln.mp4/master.txt https://pideci5.shop/cdn/down/9ade7e6e8bba3fe622eaaff8809fdb7c/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM0OTQyMzEtZGRjMS00NWVjLWFkOWMtNjg2ZDY4ZGQ0YWY4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür 2 (1998)
+https://vidmody.com/vs/tt0120841
 
-#EXTINF:-1 tvg-id="https://ucyol5.shop/cdn/down/c83612c389f563bb31c5f4da6360266e/720p/720p.txt" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/species-iii.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür 3 (2004)
-https://hls11.playmix.uno/hls/species-3-2004-bluray-trdualmp4-eB6iRLXzAtB.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/species-3-2004-bluray-trdualmp4-eB6iRLXzAtB.mp4/master.txt https://ucyol5.shop/cdn/down/c83612c389f563bb31c5f4da6360266e/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMzExODAzNl5BMl5BanBnXkFtZTcwMDI4MDM3NA@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür 3 (2004)
+https://vidmody.com/vs/tt0410650
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/species-the-awakening.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür Uyanış
-https://hls11.playmix.uno/hls/speciestheawakening-2007-bluray-trdualmp4-pv1HhCWJc5n.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/speciestheawakening-2007-bluray-trdualmp4-pv1HhCWJc5n.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjA1OTAzOF5BMl5BanBnXkFtZTcwNjgxMTM4NA@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tehlikeli Tür Uyanış
+https://vidmody.com/vs/tt0844894
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-tekken-filmi-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tekken (2010)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE2NmNmYjYtZjc5ZC00NzI3LWI3OTUtNDhhMjdkMzBhOGQ4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tekken (2010)
 https://vidmody.com/vs/tt0411951
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmizle.to/v/23570/poster/thumb-lg/tekken-x-isimli-adam.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tekken: A Man Called X (2014)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzZTA2NGItNzljMy00NjIyLWJkYzUtNTVjYjA2NGRkNWM2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tekken: A Man Called X (2014)
 https://vs1.photour.org/v/r43qpqs8rmn9/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tepenin-gzleri-1-720p_2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tepenin Gözleri (2006)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tepenin Gözleri (2006)
 https://vidmody.com/vs/tt0454841
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tepenin-gozleri-2-720p_1.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tepenin Gözleri 2 (2007)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE1ODZmNTQtZTk0YS00MDdlLTk5MTAtZGIzMGZjNGI5NTI3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tepenin Gözleri 2 (2007)
 https://vidmody.com/vs/tt0800069
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-terminator-1-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör
 https://vidmody.com/vs/tt0088247
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-terminator-2-mahser-gunu-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 2: Mahşer Günü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 2: Mahşer Günü
 https://vidmody.com/vs/tt0103064
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-terminator-3-makinelerin-yukselisi-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 3: Makinelerin Yükselişi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 3: Makinelerin Yükselişi
 https://vidmody.com/vs/tt0181852
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/terminator-4-full-hd-izle-turkce-dublaj950.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 4: Kurtuluş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1OWQ4ZWQtYzZkOS00ZTU0LWE3MDItOTg3YzdmODRkMDVjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 4: Kurtuluş
 https://vidmody.com/vs/tt0438488
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-trmnto-5-gnsys-filmi-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 5: Genisys
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 5: Genisys
 https://vidmody.com/vs/tt1340138
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-terminator-6-Kara-Kader-2019-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 6: Kara Kader
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terminatör 6: Kara Kader
 https://vidmody.com/vs/tt6450804
 
-#EXTINF:-1 tvg-id="https://p2.photostack.net/v/hxgtkknpa8ey/master.m3u8" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/terrifier-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier (2018)
-https://srv13.cdnimages983.sbs/hls/terrifier-2017-bluraymp4-z5sudAGFRLm.mp4/txt/master.txt
+#EXTINF:-1 tvg-id="https://srv13.cdnimages983.sbs/hls/terrifier-2017-bluraymp4-z5sudAGFRLm.mp4/txt/master.txt https://p2.photostack.net/v/hxgtkknpa8ey/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5MzJlYzctNmZhOC00MTFmLWIxZmUtN2I4NzY5MTlmNDdmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier (2018)
+https://vidmody.com/vs/tt4281724
 
-#EXTINF:-1 tvg-id="https://vs5.photour.org/mj/AKE0pzMjpJZ3rULjd0zxpTuiqT91pv5ipzps0xi5vr1bhd" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/terrifier-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier 2 (2022)
-https://srv13.cdnimages1865.sbs/hls/terrifier-2-2022-webdlmp4-JbtdDfkKN6W.mp4/txt/master.txt
+#EXTINF:-1 tvg-id="https://srv13.cdnimages1865.sbs/hls/terrifier-2-2022-webdlmp4-JbtdDfkKN6W.mp4/txt/master.txt https://vs5.photour.org/mj/AKE0pzMjpJZ3rULjd0zxpTuiqT91pv5ipzps0xi5vr1bhd" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTUyZWM1MDgtMGZiZi00OWZlLTgwNzItZGU3NTkwN2I4OWNiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier 2 (2022)
+https://vidmody.com/vs/tt10403420
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/terrifier-3-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier 3 (2024)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Terrifier 3 (2024)
 https://vidmody.com/vs/tt27911000
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/ters-yuz.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Ters Yüz (2015)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ters Yüz (2015)
 https://vidmody.com/vs/tt2096673
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-12/ters-yuz-2.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Ters Yüz 2 (2024)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ters Yüz 2 (2024)
 https://vidmody.com/vs/tt22022452
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-1-saw-1-full-hd-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 1 (2004)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 1 (2004)
 https://vidmody.com/vs/tt0387564
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-2-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 2 (2005)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVlNjk3MmItZmUzNy00MzcyLWIzOTktZjllYWU5MDAyMjM1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 2 (2005)
 https://vidmody.com/vs/tt0432348
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2019/10/zHMw9xGrNlrDsuK6Lnx5NlL72Eu-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 3 (2006)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4YTAwZTItZGFjZi00YjNiLTllYzUtYWY3OWM2OTQzODVkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 3 (2006)
 https://vidmody.com/vs/tt0489270
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-4-filmini-full-hd-izle-turkce.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 4 (2007)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc0NjUyNzg3MF5BMl5BanBnXkFtZTYwODMxOTM3._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 4 (2007)
 https://vidmody.com/vs/tt0890870
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-5-filmini-full-hd-turkce-dublaj-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 5 (2008)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzg3YzItYzQxNS00MTE1LWJkNTMtMTM3OGI4ODAxOTMwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 5 (2008)
 https://vidmody.com/vs/tt1132626
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-6-full-hd-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 6 (2009)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 6 (2009)
 https://vidmody.com/vs/tt1233227
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/dc3bd61a041262ebf7f6712c5a094469.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 7 (2010)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NTEwNTgwNF5BMl5BanBnXkFtZTcwMDM5MTU5Mw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 7 (2010)
 https://vidmody.com/vs/tt1477076
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-testere-jigsaw-efsanesi-jigsaw-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 8 (2017)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk1ZTk1ZGYtNmViOS00NDExLTg0NTktMGZjYzg2ZDJlNmViXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere 8 (2017)
 https://vidmody.com/vs/tt3348730
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/testere-x-saw-x-30639.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Testere X (2023)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODRmMzAwMWItZjI5MS00NDYyLWFjMmMtZGUwYjQ1ZTBkNmYzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Testere X (2023)
 https://vidmody.com/vs/tt21807222
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-tetikci-turkce-dublaj-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tetikçi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tetikçi
 https://vidmody.com/vs/tt0479884
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-tetiki-2-yksek-gerilim-2009-720p.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tetikçi 2: Yüksek Gerilim (2009)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzNTU1ODkxNl5BMl5BanBnXkFtZTcwMDgyODEzMg@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tetikçi 2: Yüksek Gerilim (2009)
 https://vidmody.com/vs/tt1121931
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-01/olumsuz-1.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Crow (2024)
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/thecrow-1994-bluray-trdualmp4-ONBrAbnl4Qt.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Crow (1994)
+https://vidmody.com/vs/tt0109506
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyOWJjMWQtZTY4Yi00ZjYyLWJhNDktZmRkNzEwMjlhZjQ3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Crow (2024)
 https://vidmody.com/vs/tt1340094
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-crow.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Crow 1 (1994)
-https://hls13.playmix.uno/hls/thecrow-1994-bluray-trdualmp4-ONBrAbnl4Qt.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-sinek-the-fly-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Fly (1986)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Fly  Sinek (1986)
 https://vidmody.com/vs/tt0091064
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/sinek-2-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Fly II (1989)
-https://hls11.playmix.uno/hls/thefly-2-1989-bluray-trdualmp4-84YcQ7pn4Ra.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/thefly-2-1989-bluray-trdualmp4-84YcQ7pn4Ra.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg1NGJlNWMtYmFiOS00MWY1LWFkMjQtMmQxNGEwODFmMzBhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Fly Sinek II (1989)
+https://vidmody.com/vs/tt0097368
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-karate-kid-hdfc.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid (1984)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2I3ZmZhNzctMzBlNC00YTc2LWE1MmEtY2ZkMzg3Y2I1ZDJhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid (1984)
 https://vidmody.com/vs/tt0087538
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-karate-kid.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid (2010)
-https://vidmody.com/vs/tt1155076
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-karate-kid-part-ii.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 2 (1986)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEyYjlhNWMtNTdmOC00N2M4LWI0OWEtZGE3NTJkOWJhYTYyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 2 (1986)
 https://vidmody.com/vs/tt0091326
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-next-karate-kid.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 4 (1994)
-https://vidmody.com/vs/tt0110657
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/the-karate-kid-part-iii.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid Part 3 (1989)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc2NzYyYTktYTJhMi00OGY2LWE0YzYtNjgwNWU4ZGZiYjg0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 3(1989)
 https://vidmody.com/vs/tt0097647
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-the-platform-el-hoyo-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Platform
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FhMzYzZjMtOGFhZS00OWQxLWI2Y2ItMWYyZjJiNjE4YWRlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 4 (1994)
+https://vidmody.com/vs/tt0110657
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 5(2010)
+https://vidmody.com/vs/tt1155076
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNmYTE3MDYtMGRiOS00NzI0LWIyYzItNzllNDIxZTE4YWFlXkEyXkFqcGc@._V1_QL75_UX350_.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Karate Kid 6 Efsane Dövüşçüler
+Karate Kid: Legends 
+https://vidmody.com/vs/tt1674782
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUyZjNmYmMtNjA1My00ZWMyLTliZGQtODgzZjIxM2Y4NGI1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Platform
 https://vidmody.com/vs/tt8228288
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-10/the-platform-2-el-hoyo-2-50369.webp" group-title="10.FiLM BOXSET SERi FiLMLER", The Platform 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI4YjkyODctMGJmNC00YjBjLTllNjAtNDkxNTJmZjg4MGZkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", The Platform 2
 https://vidmody.com/vs/tt27729779
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-titanlarin-savasi-turkce-dublaj-izle-hd-720p-orjinal-3d.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Titanların Savaşı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxNjg4MzU5OV5BMl5BanBnXkFtZTcwOTA3NTUwMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Titanların Savaşı
 https://vidmody.com/vs/tt0800320
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-ttnlarin-ofkesi-izlehd.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Titanların Öfkesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMzk1Nzg3OF5BMl5BanBnXkFtZTcwOTQ2NjcxNw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Titanların Öfkesi
 https://vidmody.com/vs/tt1646987
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-tomb-raider-full-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider (2018)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIwNWU2NTEtMDQ0Yi00MjFkLThhN2UtMjJhOGVjN2UyYzFkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider (2018)
 https://vidmody.com/vs/tt1365519
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-lara-croft-tomb-raider-full-hd-filmini-turkce-dublaj-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider Lara Croft (2001)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxYzIyZWItZWRiOS00ODliLWI3ZTEtZTA4NTg4OGQwZDY1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider Lara Croft (2001)
 https://vidmody.com/vs/tt0146316
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-lara-croft-tomb-raider-yasamin-kaynagi-full-hd-turkce-dublaj-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider Lara Croft - Yaşamın kaynağı (2003)
-https://balancehls9.playmix.uno/hls/tombraider-2-2003-bluray-trdualmp4-EV7A9QyDAA6.mp4/master.txt
+#EXTINF:-1 tvg-id="https://balancehls9.playmix.uno/hls/tombraider-2-2003-bluray-trdualmp4-EV7A9QyDAA6.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM4NzNiNDktOTlhMi00MjVkLTg0NGYtZTQ4MmVmMDNiY2ZlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Tomb Raider Lara Croft - Yaşamın kaynağı (2003)
+https://vidmody.com/vs/tt0325703
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/top-gun-3-7413.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Top Gun (1986)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Top Gun (1986)
 https://vidmody.com/vs/tt0092099
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/tp-gn-mverck-izle-3700.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Top Gun: Maverick (2022)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Top Gun: Maverick (2022)
 https://vidmody.com/vs/tt1745960
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-transformers-turkce-dublaj-izle-hd-720p.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZDA2YmItMzhiMi00ZGI3LTg3ZGQtOTk3Nzk0MDY0ZDZhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 1
 https://vidmody.com/vs/tt0418279
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-transformers-yenilenlerin-intikami-turkce-dublaj-izle-hd-720p.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 2 Yenilenlerin İntikamı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 2 Yenilenlerin İntikamı
 https://vidmody.com/vs/tt1055369
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-trns-3-ayin-karanlik-yuzu-hd-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 3 Ayın Karanlık Yüzü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 3 Ayın Karanlık Yüzü
 https://vidmody.com/vs/tt1399103
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-transformers-4-kayip-cag-filmi-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 4 Kayıp Çağ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 4 Kayıp Çağ
 https://vidmody.com/vs/tt2109248
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/fullhd-trns-5-son-sovalye-filmi-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 5 Son Şövalye
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNlNjU3ZTItYTY3Mi00YTU1LTk4NjQtYjQ3MjFiNjcyODliXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 5 Son Şövalye
 https://vidmody.com/vs/tt3371366
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/bumblebee-film-izle-yuk1-84533.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 6 Bumblebee
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 6 Bumblebee
 https://vidmody.com/vs/tt4701182
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-07/transformers-7-canavarlarin-yukselisi-izle-1-14180.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 7 Canavarların Yükselişi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVkZWY5MmItYjY3OS00OWY3LTg2NWEtOWE1NmQ4NGMwZGNlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers 7 Canavarların Yükselişi
 https://vidmody.com/vs/tt5090568
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-10/transformers-baslangic-transformers-one-2-48220.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers Başlangıç Transformers One
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI1ZDY1YTQtMjRkNy00ZDZhLWE3OTItMTIwNzliY2Y1MTZhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Transformers Başlangıç Transformers One
 https://vidmody.com/vs/tt8864596
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-uyumsuz-divergent.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 1 (2014)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 1 (2014)
 https://vidmody.com/vs/tt1840309
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.diziyo.de/wp-content/uploads/2019/11/9t5c8ATQjgn3z4j2klqm08ZvEuI-185x278.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 2: Kuralsız (2015)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTYxMTg3OF5BMl5BanBnXkFtZTgwMDgyMzA2NDE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 2: Kuralsız (2015)
 https://vidmody.com/vs/tt2908446
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/fullhd-uyumsuz-3-yandas-bolum-1-allegiant-hd-film-izle.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 3: Yandaş (2016)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlYzZlNDktMDAxMS00OGZiLThkYzAtNWEzNDliYjAyZmM5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uyumsuz 3: Yandaş (2016)
 https://vidmody.com/vs/tt3410834
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2024-08/ucak-airplane-89200.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Uçak (1980)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uçak (1980)
 https://vidmody.com/vs/tt0080339
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/airplane-ii-the-sequel.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Uçak 2 (1982)
-https://hls13.playmix.uno/hls/airplane-2-thesequel-1982-bluray-trdualmp4-BOpHLMcftA5.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/airplane-2-thesequel-1982-bluray-trdualmp4-BOpHLMcftA5.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdhM2JiMDItN2EwNi00YzIzLWE0ZGYtNjk1YzhlY2QxZTNlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Uçak 2 (1982)
+https://vidmody.com/vs/tt0083530
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/big-momma-s-house.webp" group-title="10.FiLM BOXSET SERi FiLMLER", Vay anam vay (2000)
 https://hls11.playmix.uno/hls/bigmommashouse-1-2000-bluray-trdualmp4-y50aDXalOfT.mp4/master.txt
