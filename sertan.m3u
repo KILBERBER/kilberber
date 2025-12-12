@@ -1983,6 +1983,9 @@ https://s1.24taraftarium4.xyz/cdn/b1.m3u8?|Referer=https://24taraftarium4.xyz/&e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv a
 http://tv.inat.workers.dev/?ID=yayininat.m3u8?|referer=https://inatspor.xyz/
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv b
+http://web.goals-399.workers.dev/?ID=yayininat.m3u8?|Referer=https://inatspor.xyz/&e=.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1inat.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 tr goals inat Tv b
 http://live.taraftarium.workers.dev/?ID=yayininat.m3u8?|referer=https://playerpatronstream.pages.dev/
 
@@ -1995,6 +1998,9 @@ https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_chan
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals a
 http://tv.inat.workers.dev/?ID=yayin1.m3u8?|referer=https://inatspor.xyz/
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals b
+http://web.goals-399.workers.dev/?ID=yayin1.m3u8?|Referer=https://inatspor.xyz/&e=.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals b
 http://live.taraftarium.workers.dev/?ID=yayin1.m3u8?|referer=https://playerpatronstream.pages.dev/
 
@@ -2006,6 +2012,9 @@ https://raw.githubusercontent.com/Kutlu0319/koprkbl/refs/heads/main/pygoals_chan
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve a
 http://tv.inat.workers.dev/?ID=yayinzirve.m3u8?|referer=https://inatspor.xyz/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve b
+http://web.goals-399.workers.dev/?ID=yayinzirve.m3u8?|Referer=https://inatspor.xyz/&e=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1trgoal.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 trgoals zirve b
 http://live.taraftarium.workers.dev/?ID=yayinzirve.m3u8?|referer=https://playerpatronstream.pages.dev/
@@ -4713,6 +4722,15 @@ https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="00.KIL-DiZi-FİLM", 1.LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-logo="https://teleontv.at.ua/988.jpeg" group-title="00.KIL-DiZi-FİLM", 1.MYWAY TV 2 ᴴᴰ
+http://104.238.23.182/d/live/out.m3u8
+
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-logo="https://teleontv.at.ua/988.jpeg" group-title="00.KIL-DiZi-FİLM", 1.MYWAY TV 3 ᴴᴰ
+http://104.238.23.216/d/live/out.m3u8
+
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-logo="https://teleontv.at.ua/988.jpeg" group-title="00.KIL-DiZi-FİLM", 1.MYWAY TV ᴴᴰ
+http://5.178.103.239:82/d/live/out.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.NOW  Play
 https://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
@@ -10072,6 +10090,31 @@ https://vidmody.com/vs/tt34434461
 Wake Up Dead Man: A Knives Out Mystery
 https://vidmody.com/vs/tt14364480
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0ZjY4N2UtNTk0Mi00YTliLTk1NWYtYzUwNjEwOWRiN2I4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gifted Pain
+https://vidmody.com/vs/tt15243798
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmN2E2YTYtNDc2Ni00ZjZlLWIzMjEtMjgyMzY2ZWU2YjRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Hunting Season
+https://vidmody.com/vs/tt32537226
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZjNhZjEtOTQxNi00ZWU3LTk1MGQtYjE3MWZiNWUwNjc0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Manevi Değer
+Sentimental Value
+https://vidmody.com/vs/tt27714581
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjljN2VkNDItODU0Ni00MDkxLWE0MWYtY2E2YzgzMjAzZmE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Operation Pope
+Zamach na papieza
+https://vidmody.com/vs/tt33996793
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmExZTcyZGUtN2Q4NC00NmFiLWI1NmQtOTg3OWRlMmE3OGVjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sore: Wife from the Future
+Sore: Istri Dari Masa Depan
+https://vidmody.com/vs/tt34548722
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlkNjlmMjItZjgwNC00MjJiLThiOGUtOWE1ZGFhNTIyMjEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Mother, the Menacer, and Me
+https://vidmody.com/vs/tt32551244
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zootropolis 2
+Zootopia 2
+https://vidmody.com/vs/tt26443597
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI3Y2YwZGYtMDk2NC00YzVmLTg3NzAtNjhhYzA4NTJlN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", After the Hunt
 Avın Ardından
 https://vidmody.com/vs/tt32159989
@@ -14803,6 +14846,10 @@ https://vidmody.com/vs/tt26084002
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-02/longing.webp" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Ozlem
 https://vidmody.com/vs/tt8442220
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZmNmY5ZjgtNzU3OC00ZjkwLWFlZWMtN2Q1MjQ4MTg1ZTAyXkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Oğle Güneşinde Yıldızlar
+Stars at Noon 
+https://vidmody.com/vs/tt10354106
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.pro/uploads/filmler/2025-03/pamuk-prenses.webp" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Pamuk Prenses korsan sürüm
 https://vidmody.com/vs/tt6208148
@@ -19801,7 +19848,7 @@ https://vidmody.com/vs/tt0050086
 #EXTINF:-1 tvg-id="https://p2.gamephotos.biz/v/8eg5djut6hwd/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1.jpg" group-title="10.FiLM WESTERN ", 3:10 Yuma Treni
 https://vidmody.com/vs/tt0381849
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY5YzU5ODQtZTNiNi00YjA2LTgxOGQtMTBiMzU4NTI1M2YyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", A Genius Two Friends and an Idiot
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/ageniustwofriendsandanidiot-1975-bluray-trdualmp4-vHlG2IXXKI4.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY5YzU5ODQtZTNiNi00YjA2LTgxOGQtMTBiMzU4NTI1M2YyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", A Genius Two Friends and an Idiot
 https://vidmody.com/mm/tt0073036/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJlM2FjOTEtNzQyNy00M2QzLWIwZjctZWI4OGFjMDhmNThmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", A Tale of Two Guns 
@@ -19881,30 +19928,27 @@ https://vidmody.com/vs/tt0067355
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc0ZGQ3M2UtNmM1Ni00YjliLTljNjUtNTA4NGE1NjY3Yjc1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Bandidas :Haydutlar(2006)
 https://vidmody.com/vs/tt0416496
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Bandolero!
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI0ZWU5NzQtNzNjNC00NTQ0LWE2N2EtZGEzNmQ5ZDUwODQ1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Bandolero!
 (1968)
 https://vidmody.com/vs/tt0062708
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Barquero_poster.jpg" group-title="10.FiLM WESTERN ", Barquero
-https://hls13.playmix.uno/hls/barquero-1970-bluray-trdualmp4-TjMEYzVximX.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Barquero
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/barquero-1970-bluray-trdualmp4-TjMEYzVximX.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFiYWZkOTgtODZlNS00N2RjLWIzNTItYWY3ZTc3MWM1YzNiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Barquero
 (1970)
 https://vidmody.com/vs/tt0065451
 
-#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/onceuponatimeinthewest-1968-amiable-trdualmp4-U6BDQedXI58.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Batıda Kan Var
+#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/onceuponatimeinthewest-1968-amiable-trdualmp4-U6BDQedXI58.mp4/master.txt https://hls10.playmix.uno/hls/onceuponatimeinthewest-1968-amiable-trdualmp4-U6BDQedXI58.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Batıda Kan Var
 Once Upon a Time in the West (1968)
 https://vidmody.com/vs/tt0064116
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Batıdan Gelen Adam
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3ZThmMTctZWY4ZC00MGRjLWJlYTEtZmEwNzIyNzMzYWJhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Batıdan Gelen Adam
 Man of the West (1958)
 https://vidmody.com/vs/tt0051899
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Batının En Hızlı Silahşörü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ3YTdjYjctZDIwYi00ZDU5LTllMDMtOTZmOTA5ZmNlZThkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Batının En Hızlı Silahşörü
 The Fastest Gun Alive (1956)
 https://vidmody.com/vs/tt0049201
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Bedel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRhMzMzYzgtNDM2My00MGQwLWI3MmEtNTRhNDZhZDk0YjJlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Bedel
 Traded (2016)
 https://vidmody.com/vs/tt5255524
 
@@ -19912,25 +19956,21 @@ https://vidmody.com/vs/tt5255524
 Joe Kidd (1972)
 https://vidmody.com/vs/tt0068768
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/8/8d/The_Legend_of_Ben_Hall_Poster%2C_Ross_Morgan%2C_Oct_2016.jpg" group-title="10.FiLM WESTERN ", Ben Hall Efsanesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYwMmU2NDItNWI4Zi00ODhkLWE3YjMtNDM2OTA2NmMwYWYyXkEyXkFqcGc@._V1.jpg " group-title="10.FiLM WESTERN ", Ben Hall Efsanesi
 https://vidmody.com/vs/tt3844876
 
 #EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/chisum-1970-bluray-trdualmp4-hzg3LOq0jXa.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlZDBkYjAtM2JkMC00ZTdiLTg1NWEtMDU2OGY4NzhjZDU4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Ben İstersem Yaşarsın
 Chisum (1970)
 https://vidmody.com/vs/tt0065547
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Benim Adım Hiç Kimse
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/mynameisnobody-1973-bluray-trdualmp4-F4ZR5Jq8lQd.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFhZjBkN2EtOGNlYS00MmY3LWE1MTQtODg5YjgyOTQ3ZjkxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Benim Adım Hiç Kimse
 My Name Is Nobody (1973)
 https://vidmody.com/vs/tt0070215
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/My-name-is-nobody-poster.jpg" group-title="10.FiLM WESTERN ", Benim Adım Hiç Kimse
-My Name Is Nobody (1973)
-https://hls13.playmix.uno/hls/mynameisnobody-1973-bluray-trdualmp4-F4ZR5Jq8lQd.mp4/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNGZkZDItMDE5My00MDgwLWE1ZWItNjZiNmYyYzY5MzdkXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Big Jake
 https://vidmody.com/mm/tt0066831/main/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img2.acsta.net/r_512_288/pictures/20/07/10/11/45/1998494.jpg" group-title="10.FiLM WESTERN ", Big Kill Kasabası
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIzYTA0OGUtMTU0MC00OTRiLTg1MDctOWQ5Y2Y5Njc4N2MyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Big Kill Kasabası
 https://vidmody.com/vs/tt7730102
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://resizing.flixster.com/Qadd6OfqIo9QmH9Q2QIs_tBHrn4=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16538429_k_v4_aa.jpg" group-title="10.FiLM WESTERN ", Bill Tilghman and the Outlaws
@@ -19939,7 +19979,7 @@ https://i7.pictabox.pro/f8/NNOxN9mOAXjNYAmDAgjVmZJ_PYWypYiZs1Vy8XEiRmYAAmAu8mWkp
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/a/a9/Billy_the_Kid_FilmPoster.jpeg" group-title="10.FiLM WESTERN ", Billie the Kid
 https://turbo.imgz.me/turbo/get/9fb4eebf2843f8bcae181537bcb2adae.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Bir Amerika Efsanesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWFjMTk3MjItZWRlNS00ZmFiLWJhMWQtNmZhMzQ4MjkxMGI1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Bir Amerika Efsanesi
 Geronimo: An American Legend (1993)
 https://vidmody.com/vs/tt0107004
 
@@ -19953,101 +19993,76 @@ https://i6.pictabox.pro/f1/NNOxN9mOAXjNYAmNAgjVmZEmHGWA_0CAs0AiFFhjllmE9ph2z3NjO
 For a Few Dollars More (1965)
 https://vidmody.com/vs/tt0059578
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/18/Once-upon-a-time-in-the-west-charles-bronson-henry-fonda.jpg" group-title="10.FiLM WESTERN ", Bir Zamanlar Batıda (1968)
-https://hls10.playmix.uno/hls/onceuponatimeinthewest-1968-amiable-trdualmp4-U6BDQedXI58.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/6/6c/Blackthorn_%28film%29.jpg" group-title="10.FiLM WESTERN ", Blackthorn
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MDA1MDczMV5BMl5BanBnXkFtZTcwMzE0MjU0Ng@@._V1.jpg" group-title="10.FiLM WESTERN ", Blackthorn
 https://vidmody.com/vs/tt1629705
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/Blazing_Saddles_afi%C5%9Fi.jpg" group-title="10.FiLM WESTERN ", Blazing Saddles
-https://hls13.playmix.uno/hls/blazingsaddles-1974-bluray-trdualmp4-JvQ35u0V7du.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b9/Bone_Tomahawk_-_Poster.jpg" group-title="10.FiLM WESTERN ", Bone Tomahawk:Kemik Balta(2015)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1.jpg" group-title="10.FiLM WESTERN ", Bone Tomahawk:Kemik Balta(2015)
 https://vidmody.com/vs/tt2494362
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Brimstone_film.jpg" group-title="10.FiLM WESTERN ", Brimstone (2016)Cehennem
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg2YjRhODMtYTMwNi00YjFiLTk2ZjgtYjRlOWVkOTA3M2Y0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Brimstone (2016)Cehennem
 https://vidmody.com/vs/tt1895315
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE1M2E3ZjEtYjkxMS00ZjEyLWE5YzMtMDVhMTkyYjFjOWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", Broke
-https://vidmody.com/vs/tt35048826/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Broke
-(2025)
 https://vidmody.com/vs/tt35048826
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Broken_Arrow_Film_Poster.jpg" group-title="10.FiLM WESTERN ", Broken Arrow
-https://vidmody.com/mm/tt0042286/main/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Butch_sundance_poster.jpg" group-title="10.FiLM WESTERN ", Butch Cassidy and the Sundance Kid (1969)Sonsuz Ölüm
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1.jpg" group-title="10.FiLM WESTERN ", Butch Cassidy and the Sundance Kid (1969)Sonsuz Ölüm
 https://vidmody.com/vs/tt0064115
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Butchers_crossing_poster.jpg" group-title="10.FiLM WESTERN ", Butchers Crossing (2022)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VkMDg1NGItNGU1My00OTMyLTg4NDItMjFhZjE0ZjQ3NjllXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Butchers Crossing (2022)
 https://vidmody.com/vs/tt1462759
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/The_Duel_%282016_film%29.jpg" group-title="10.FiLM WESTERN ", By Way of Helena (2016)Duello
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQwMTA2MDEyMl5BMl5BanBnXkFtZTgwNjU1MDY3ODE@._V1.jpg" group-title="10.FiLM WESTERN ", By Way of Helena (2016)Duello
 https://vidmody.com/vs/tt2436682
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_jake_ver2.jpg" group-title="10.FiLM WESTERN ", Büyük Jake
-https://hls13.playmix.uno/hls/bigjake-1971-bluray-trdualmp4-W89deWZL9gx.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Büyük Jake
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/bigjake-1971-bluray-trdualmp4-W89deWZL9gx.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhkNGZkZDItMDE5My00MDgwLWE1ZWItNjZiNmYyYzY5MzdkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Büyük Jake
 Big Jake (1971)
 https://vidmody.com/vs/tt0066831
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Calamity_jane.jpg" group-title="10.FiLM WESTERN ", Calamity Jane
 https://turbo.imgz.me/turbo/get/173b5702d0269a9d87468b673c777749.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ec/Django_film_posteri.jpg" group-title="10.FiLM WESTERN ", Cangonun İntikamı
-Django (1966)
-
-https://hls13.playmix.uno/hls/django-1966-bluray-trdualmp4-qXliYH8y4ks.mp4/master.txt
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDkzNDAzMV5BMl5BanBnXkFtZTcwMzEzMzM3Nw@@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Cehennem Geçidinin Esrarı
 https://d4.imgpics.pro/fb/NNUDwZjVwZ0RGXeR9pbfb01ytpWfN0dxjpWZU10NwZmVgXh0lpGiplB90pIi8lV78ph2z3NNkOFS5aHvyVqNJ3vYPGplKeZXeLgYZu8YAk8lvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.fullhdfilmizlesene.tv/cover/izle-lg/cehennemin-batisi-fh1-11737.webp" group-title="10.FiLM WESTERN ", Cehennemin Batısı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNjMjRjNTUtYjQ5NS00OGMzLWI4NGItZGZlZGFmMTMzNzc0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Cehennemin Batısı
 https://i7.hgphoto.vip/f8/NRDP0CU1fdHQcb8pDwPZjFmZDGYZlZG0W3ZFmC9GmUgYg80Ph2z3NNNjllepqlitZlit0lvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Chatos_land_Poster.jpg" group-title="10.FiLM WESTERN ", Chatos Land  Çato - Devler Ülkesi(1972)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTNjNDFmZTgtM2Y2YS00ZTU1LWIyZWMtMWZjNzhhOWZhODU4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Chatos Land  Çato - Devler Ülkesi(1972)
 https://vidmody.com/vs/tt0066907
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Conagher
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI0ZmNmMzMtNzkwNy00ZWE2LWE1YTktZmFjZjc4YWYzYTVmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Conagher
 (1991)
 https://vidmody.com/vs/tt0101609
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Corsicana
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmMwNzRjNTUtMzI3Yi00NjRjLTg0YmQtOGIxYjhjNjE1YjE2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Corsicana
 (2022)
 https://vidmody.com/vs/tt12814440
 
-#EXTINF:-1 tvg-id="https://s429.rapidrame.com/hls2/01/00005/fbgcfg1a2guq_,l,n,.urlset/master.m3u8?t=8qlKgehDQaPFZRe_GQc1BYs-VtakRDEF_45UBRb7Z3c&s=1748557058&e=1199998800&f=29774&i=0.0&sp=0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Cowboy_1958_poster.jpg" group-title="10.FiLM WESTERN ", Cowboy (1958)
-
-https://hls10.playmix.uno/hls/cowboy-1958-bluray-trdualmp4-8aGTBWvgSYm.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyNzU5ODIzMV5BMl5BanBnXkFtZTgwMzMxNjEwMzE@._V1_QL75_UX302_.jpg" group-title="10.FiLM WESTERN ", Cöl Aslanı
+#EXTINF:-1 tvg-id="https://s427.rapidrame.com/hls2/01/00017/wo9oqho10vbr_,l,n,.urlset/master.m3u8?t=1cHTnyG4yaFbYX-fJulspybh7nCHJq1YPc14xe-JEdM&s=1749290297&e=1199998800&f=88342&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyNzU5ODIzMV5BMl5BanBnXkFtZTgwMzMxNjEwMzE@._V1.jpg" group-title="10.FiLM WESTERN ", Cöl Aslanı
 https://s427.rapidrame.com/hls2/01/00017/wo9oqho10vbr_,l,n,.urlset/master.m3u8?t=WyzafIB-Aqdlo9YdTVCFmetFXi9Woe2fVbu-rB0TvGs&s=1748633836&e=1199998800&f=88342&i=0.0&sp=0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SearchersPoster-BillGold.jpg/500px-SearchersPoster-BillGold.jpg" group-title="10.FiLM WESTERN ", Cöl Aslanı The Searchers (1956)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU0MWUyZGItMzhmMy00MDkzLTkyNWItOWFkMWE0ZDA4NjA2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Cılgınların Günahı
+Hud (1963)
+https://vidmody.com/vs/tt0057163
 
-https://s427.rapidrame.com/hls2/01/00017/wo9oqho10vbr_,l,n,.urlset/master.m3u8?t=1cHTnyG4yaFbYX-fJulspybh7nCHJq1YPc14xe-JEdM&s=1749290297&e=1199998800&f=88342&i=0.0&sp=0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZlOGJhYzYtYmE3MS00YjYyLTk0NDUtZWIyNDliMDUyZmZhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Cıplak Mahmuz
+The Naked Spur (1953)
+https://vidmody.com/vs/tt0044953
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Dahi İki Arkadaş ve Bir Aptal
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY5YzU5ODQtZTNiNi00YjA2LTgxOGQtMTBiMzU4NTI1M2YyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dahi İki Arkadaş ve Bir Aptal
 A Genius, Two Partners and a Dupe (1975)
 https://vidmody.com/vs/tt0073036
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Les_Dalton-Film_poster.png" group-title="10.FiLM WESTERN ", Daltonlar
 https://vs2.photour.org/v/8z3k5jlsv1ky/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Damsel_%282018_film%29.png" group-title="10.FiLM WESTERN ", Damsel
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxNjY2NjY2OV5BMl5BanBnXkFtZTgwMzM2NzY1NTM@._V1.jpg" group-title="10.FiLM WESTERN ", Damsel
 https://vidmody.com/vs/tt5881528
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Day of Reckoning
-https://vidmody.com/vs/tt35317668/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Day of Reckoning
-(2025)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzU5ZGUxZmEtMTEyNi00OWMxLTgxMzQtNjUzYTk2ZjUyZjEwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Day of Reckoning
 https://vidmody.com/vs/tt35317668
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Dead_for_a_Dollar.jpg" group-title="10.FiLM WESTERN ", Dead for a Dollar Bir Dolar İçin Ölüm (2022)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThjODk2ZGEtNDA0NS00YzViLThiODQtZGE1NTM1OGIxMzFjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dead for a Dollar Bir Dolar İçin Ölüm (2022)
 https://vidmody.com/vs/tt14895206
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Dead_mans_hand_poster.png" group-title="10.FiLM WESTERN ", Dead Mans Hand 
@@ -20059,227 +20074,196 @@ https://i4.pictabox.pro/fy/NNOxN9mOAYXaNpmQAgjVmZG3pGmUAGAy0ph2z3NjOXwlXD_dlZyxY
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMyNmVkY2UtYmYyNy00OWVhLWJhOTItYjRmY2QyOWIzMTQ0XkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", Deadly Western
 https://turbo.imgz.me/turbo/get/2c33911b5975691e91db8fa44b633e00.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Deadwood: The Movie
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYyYTU0OGYtNDU3MS00ZmQyLTk5YmQtMjQ0YWI4YzAxNWFmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Deadwood: The Movie
 (2019)
 https://vidmody.com/vs/tt4943998
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Death_After_Dusk_Official_Poster.jpg/960px-Death_After_Dusk_Official_Poster.jpg" group-title="10.FiLM WESTERN ", Death After Dusk
 https://vidmody.com/vs/tt28811139
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE2MTYwMTQtYzk5YS00NGZmLTllYjMtZGQ5YzEyMmE3YTdiXkEyXkFqcGc@._V1_QL75_UX704_.jpg" group-title="10.FiLM WESTERN ", Death Alley
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI1MzUyMWQtMzQwMC00NmJmLWIyY2EtOTA3Y2NmYWViZGNjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Death Alley
 https://turbo.imgz.me/turbo/get/dd97645d0a23ef25d2e3e51069b593b4.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNhNGY4ODItZTQxZC00NWIyLThhNzItMGQ5NTAyNmI2ODZiXkEyXkFqcGc@._V1_QL75_UX168_.jpg" group-title="10.FiLM WESTERN ", Death Rider in the House of Vampires
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmNhNGY4ODItZTQxZC00NWIyLThhNzItMGQ5NTAyNmI2ODZiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Death Rider in the House of Vampires
 https://turbo.imgz.me/turbo/get/37d204cc68c29a0bf2ac99718e2ac9db.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Decision_at_Sundown_FilmPoster.jpeg" group-title="10.FiLM WESTERN ", Decision at Sundown
-https://s427.rapidrame.com/hls2/01/00020/52bvug7lkb6l_,l,n,.urlset/master.m3u8?t=60anYg49Uqd6KgDXZdbG4Zr-Xyfoj8Q28APE8n88TsA&s=1748634063&e=1199998800&f=100508&i=0.0&sp=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Dehşet Ülkesi
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/thecomancheros-1961-bluray-trdualmp4-rW8zRIFNdcl.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwOTJiMDMtN2ZiZi00ZWY2LThiNzktZDVhZmY0NDY3NWNiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dehşet Ülkesi
 The Comancheros (1961)
 https://vidmody.com/vs/tt0054757
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmNjUxY2QtNDBkOC00YTJjLWExOWItZGYzNWRjZjkxODhiXkEyXkFqcGc@._V1_FMjpg_UX614_.jpg" group-title="10.FiLM WESTERN ", Desperate Riders
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmNjUxY2QtNDBkOC00YTJjLWExOWItZGYzNWRjZjkxODhiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Desperate Riders
 https://vidmody.com/vs/tt11833692
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Devlerin Aşkı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRjYjQ4ZjktZWVkNS00YmRkLTkwMjYtOTA5ZDUxM2UzNDk1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Devlerin Aşkı
 Giant (1956)
 https://vidmody.com/vs/tt0049261
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg" group-title="10.FiLM WESTERN ", Diriliş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Diriliş
 https://vidmody.com/vs/tt1663202
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Djangofilm.jpg" group-title="10.FiLM WESTERN ", Django 
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/django-1966-bluray-trdualmp4-qXliYH8y4ks.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVmN2NjOTMtMjZiNy00NDU2LTk3OTgtODFkYWQ2MDFiYzAwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Django 
 Cangonun İntikamı (1966)
 https://vidmody.com/vs/tt0060315
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4N2Q0ZTMtZWZkMi00YjFmLWI1ZTAtNjcxMTA3ZDE0MmE0XkEyXkFqcGc@._V1_FMjpg_UX900_.jpg" group-title="10.FiLM WESTERN ", Doc Holliday
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4N2Q0ZTMtZWZkMi00YjFmLWI1ZTAtNjcxMTA3ZDE0MmE0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Doc Holliday
 https://vidmody.com/vs/tt21340016
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Dostum Silahımdır
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI5OGIzYTctMTBiMS00YWRmLWEzZDEtMmI3MWU3NTdhODAwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dostum Silahımdır
 Will Penny (1967)
 https://vidmody.com/vs/tt0063811
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Duel_at_Diablo_%28movie_poster%29.jpg" group-title="10.FiLM WESTERN ", Duel at Diablo
-https://s427.rapidrame.com/hls2/01/00016/px85y5339tz1_,l,n,.urlset/master.m3u8?t=4_hxg0PcvjGI4vQ18_Md_qm5GcJKeyO-D2bE9UgxdlA&s=1748634156&e=1199998800&f=81413&i=0.0&sp=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Duel at Diablo
+#EXTINF:-1 tvg-id="https://s427.rapidrame.com/hls2/01/00016/px85y5339tz1_,l,n,.urlset/master.m3u8?t=4_hxg0PcvjGI4vQ18_Md_qm5GcJKeyO-D2bE9UgxdlA&s=1748634156&e=1199998800&f=81413&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE0MDNkMjctZGExMi00NTBiLWFmZDctMDEwMDk1ODNlOTk4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Duel at Diablo
 (1966)
 https://vidmody.com/vs/tt0060355
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Dönüşü Olmayan Nehir
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwNjc3ZmQtOWRjNy00ODAxLTljZGItODE2ZTNjZGMxNWIwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dönüşü Olmayan Nehir
 River of No Return (1954)
 https://vidmody.com/vs/tt0047422
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img02.imgsinemalar.com/images/afis_buyuk/i/i-Quattro-Dellave-Maria-1258102646.jpg" group-title="10.FiLM WESTERN ", Dördü Bir Ave Maria İçin
-https://s429.rapidrame.com/hls2/01/00016/o69qg8lobhu3_,l,n,.urlset/master.m3u8?t=SaD5ItHXAEkL20IQreiBPLfEGzpunLYqz0l3z3NPDgk&s=1748634236&e=1199998800&f=81278&i=0.0&sp=0
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Dördü Bir Ave Maria İçin
+#EXTINF:-1 tvg-id="https://s429.rapidrame.com/hls2/01/00016/o69qg8lobhu3_,l,n,.urlset/master.m3u8?t=SaD5ItHXAEkL20IQreiBPLfEGzpunLYqz0l3z3NPDgk&s=1748634236&e=1199998800&f=81278&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjAzYjAzNDQtMDc1NS00NWI3LWEyZjEtZTE1Mjc0ZWNkZWIxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dördü Bir Ave Maria İçin
 Ace High (1968)
 https://vidmody.com/vs/tt0064860
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/SUKIYAKI_WESTERN_DJANGOposter-200.jpg" group-title="10.FiLM WESTERN ", Düello 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODYwNTJlNDktNzM1Ny00ZDQyLWE3YzEtZGZiMmEyN2JmZDIwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Düello 
 Sukiyaki Western Django (2007)
 https://vidmody.com/vs/tt0906665
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/7/76/The_Dead_Don%27t_Hurt_afi%C5%9Fi.jpg/500px-The_Dead_Don%27t_Hurt_afi%C5%9Fi.jpg" group-title="10.FiLM WESTERN ", Dünyanın Sonuna Doğru
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc1OTM5ZDAtNDBiYS00M2VkLTk0ODUtZGQ1Nzk1NGYwODVhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Dünyanın Sonuna Doğru
 https://vidmody.com/vs/tt22773644
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Echoes of War
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU3MTMyODc3OF5BMl5BanBnXkFtZTgwMDYzODg5NDE@._V1.jpg" group-title="10.FiLM WESTERN ", Echoes of War
 (2015)
 https://vidmody.com/vs/tt3094252
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/31176520.jpg" group-title="10.FiLM WESTERN ", Eddington
-https://vidmody.com/vs/tt31176520/
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Eddington
-(2025)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Eddington
 https://vidmody.com/vs/tt31176520
 
-#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/eldorado-1967-bluray-trdualmp4-iFR95BVEgZ1.mp4/master.txt https://s427.rapidrame.com/hls2/01/00017/98gjf6egsbpo_,l,n,.urlset/master.m3u8?t=TOLUD8gXsm6J9aQ36WfBUhnLCUIGPX8O9-IhACspnMY&s=1748634317&e=1199998800&f=88791&i=0.0&sp=0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/El_Dorado_%28John_Wayne_movie_poster%29.jpg" group-title="10.FiLM WESTERN ", Eldorado 
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/eldorado-1967-bluray-trdualmp4-iFR95BVEgZ1.mp4/master.txt https://s427.rapidrame.com/hls2/01/00017/98gjf6egsbpo_,l,n,.urlset/master.m3u8?t=TOLUD8gXsm6J9aQ36WfBUhnLCUIGPX8O9-IhACspnMY&s=1748634317&e=1199998800&f=88791&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZjMGE5NTktMjkxZi00NDRhLWJmYzMtMTA3OTY2ZTcyNjIzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Eldorado 
 El Dorado (1966)
 
 https://vidmody.com/vs/tt0061619
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Eminence_Hill_poster.jpg" group-title="10.FiLM WESTERN ", Eminence Hill
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBkMjBhMzMtNzcwZC00ZjllLWIzM2YtZTc2YzYxZjg1NDJjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Eminence Hill
 https://vidmody.com/vs/tt9135272
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Eski Dost
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRkZWQyMGEtOGMzZi00MWE0LTgyNGEtM2IyYzMxYzY0MzVjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Eski Dost
 Pat Garrett & Billy the Kid (1973)
 https://vidmody.com/vs/tt0070518
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBhOWJlMGYtY2JkMy00NmZkLWI3Y2ItODdmZTg2ZGZjNzM5XkEyXkFqcGc@._V1_QL75_UY562_CR31,0,380,562_.jpg" group-title="10.FiLM WESTERN ", Eye for Eye 
 https://turbo.imgz.me/turbo/get/7c278dfa7d1153c2123d5da0bc0e86eb.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Eyerdeki Adam
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ1YTM2YzAtNDk1Yy00ZmYyLWFiZGMtNGZjMmE2NmRhZWRkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Eyerdeki Adam
 Man in the Saddle (1951)
 https://vidmody.com/vs/tt0043781
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Far Haven
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUxMzNlZDUtNWQyOC00N2UwLTgzMjEtNDVhY2YyYWE3NWJhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Far Haven
 (2023)
 https://vidmody.com/vs/tt23647954
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Five Fingers for Marseilles
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzN2FmNjktOWM5YS00Nzg5LWExYzQtNDZiMTcxNmIyNjRlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Five Fingers for Marseilles
 (2018)
 https://vidmody.com/vs/tt2396489
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Gaip Kervan
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTFkNjYzMjYtYTJjOS00Yzc2LTk4ZTItNjlmM2M5YTUxNDk1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Gaip Kervan
 Bend of the River (1952)
 https://vidmody.com/vs/tt0044413
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Gallowwalkers_movie_poster.png" group-title="10.FiLM WESTERN ", Gallowwalkers ipten dönenler 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MzIxNzM0OV5BMl5BanBnXkFtZTgwNDEzOTQxMDE@._V1.jpg" group-title="10.FiLM WESTERN ", Gallowwalkers ipten dönenler 
 https://vidmody.com/vs/tt0829176
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Genç Silahşörler
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE5ZjYzMDEtZmQ4ZS00YjczLTk5YWYtNjdkZjY4NmQxNTEyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Genç Silahşörler
 Young Guns (1988)
 https://vidmody.com/vs/tt0096487
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Gun Hillden Son Tren
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY3ZTFkOTMtNDA4MC00YTk3LWE0Y2YtOTcwNjRjNzJiZWEyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Gun Hillden Son Tren
 Last Train from Gun Hill (1959)
 https://vidmody.com/vs/tt0052993
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://resizing.flixster.com/Hboy9t6zdpemGEt8vNJyVDfDkfY=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20415766_p_v13_ac.jpg" group-title="10.FiLM WESTERN ", Gunfight at Dry River Dry Riverda Çatışmaa(2021)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlmZTU2ZmEtMDI3Mi00MTJjLWE4ZmYtM2ZiMGYxMmFlMGQ5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Gunfight at Dry River Dry Riverda Çatışmaa(2021)
 https://vidmody.com/vs/tt9168164
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/phantomlake/images/f/fc/Guns_poster_page.png" group-title="10.FiLM WESTERN ", Guns of the Apocalypse
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk1M2FmZWEtOWI0Zi00NDAwLThlZTEtZDQ2YTJiNjI2ODg4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Guns of the Apocalypse
 https://vidmody.com/vs/tt8924518
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Guns_of_the_Timberlands.jpg" group-title="10.FiLM WESTERN ", Guns of the Timberland
 https://s429.rapidrame.com/hls2/01/00016/68qd9bqn1drk_,l,n,.urlset/master.m3u8?t=cXQqoNlu_tyt247Q3XgOWqTiEdriXUAzvkzEp7-ijb0&s=1748634491&e=1199998800&f=81265&i=0.0&sp=0
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/0/03/Gunslingers_poster.jpg" group-title="10.FiLM WESTERN ", Gunslingers
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2NzY0ZTktODZkOC00Yjg1LTkxNTEtYjIzYTUxMzNkZmFkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Gunslingers
 https://vidmody.com/vs/tt24850708
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/51/310_to_Yuma_%281957%29_afi%C5%9F.jpg" group-title="10.FiLM WESTERN ", Gönüllü Katil
 https://hls13.playmix.uno/hls/310toyuma-1957-bluray-trdualmp4-xrQ7H5cD0QO.mp4/master.txt
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Gümüş Eyerler
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/blazingsaddles-1974-bluray-trdualmp4-JvQ35u0V7du.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Gümüş Eyerler
 Blazing Saddles (1974)
 https://vidmody.com/vs/tt0071230
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Güneye Yolculuk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE5NmQ2YzktZDg2NS00OTEwLWFhOWQtMWQ5ZDE0ZWUyZDViXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Güneye Yolculuk
 Goin South (1978)
 https://vidmody.com/vs/tt0077621
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/The_War_Wagon_1967.jpg" group-title="10.FiLM WESTERN ", Harp Vagonu
-https://hls13.playmix.uno/hls/thewarwagon-1967-bluray-trdualmp4-lVSG3aC5UgP.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Harp Vagonu
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/thewarwagon-1967-bluray-trdualmp4-lVSG3aC5UgP.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE2YzQ2NTYtOGRmZS00MTBjLWFhYmUtNGY0NzM1OGE3MDI1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Harp Vagonu
 The War Wagon (1967)
 https://vidmody.com/vs/tt0062472
 
 #EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/crymacho-2021-bluray-trdualmp4-P5ZSzrjEOvI.mp4/master.txt" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/6f/Cry_Macho_afi%C5%9Fi.jpg" group-title="10.FiLM WESTERN ", Hassas Maço
 https://vidmody.com/vs/tt1924245
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/5/51/Outlaws_and_angels_poster.jpg" group-title="10.FiLM WESTERN ", Haydutlar Ve Melekler
-https://d1.hgphoto.vip/f8/NNVDB7DQZFClEAi9XTaHGi4OfRmmM9YfxHlg8l8h2z3DNFgfZlcRVGXEqYh0fUdZXeLgYZu8YAkplDmllepqlitZlit0lvr1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Haydutlar ve Melekler
+#EXTINF:-1 tvg-id="https://d1.hgphoto.vip/f8/NNVDB7DQZFClEAi9XTaHGi4OfRmmM9YfxHlg8l8h2z3DNFgfZlcRVGXEqYh0fUdZXeLgYZu8YAkplDmllepqlitZlit0lvr1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4MTU4MzA0OV5BMl5BanBnXkFtZTgwMTYxOTAyOTE@._V1.jpg" group-title="10.FiLM WESTERN ", Haydutlar ve Melekler
 Outlaws and Angels (2016)
 https://vidmody.com/vs/tt3491962
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onceuponatimeinawestern.com/wp-content/uploads/2022/11/Heart-of-the-Gun-2021-poster.jpg" group-title="10.FiLM WESTERN ", Heart of the Gun
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg5YTYxNGQtZWVlNS00Y2YyLThiYzAtNDA4NDhmNjZmNWJlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Heart of the Gun
 https://vidmody.com/vs/tt6866062
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Hell_or_High_Water_film_poster.png" group-title="10.FiLM WESTERN ", Hell or High Water:İki Eli Kanda
 https://vidmody.com/vs/tt2582782
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/2582782.jpg" group-title="10.FiLM WESTERN ", Hell or High Water:İki Eli Kanda-Vahşi Batı-Suç-Dram (2016)
-https://vidmody.com/mm/tt2582782/main/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Hickok_%282017_movie_poster%29.png" group-title="10.FiLM WESTERN ", Hickok
 https://vidmody.com/vs/tt6334884
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://resizing.flixster.com/wDHQkcIvvcMSmOKPPtS86-95Oro=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19866629_v_v8_ac.jpg" group-title="10.FiLM WESTERN ", Honor Among Thieves
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViOTA0MmYtZjYxNC00ZTJiLWJjOGItODMwN2RjYTMzM2M3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Honor Among Thieves
 https://turbo.imgz.me/turbo/get/318f71e9c4c9e2b69cb8483b013fcbf4.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Horizon: An American Saga - Chapter 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTRkNTEtOWU2MS00NWNlLWE3M2QtMGNlNDc2ZGMyOWYzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Horizon: An American Saga - Chapter 1
 (2024)
 https://vidmody.com/vs/tt17505010
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://resizing.flixster.com/kDvguLpf923UM18pWo5gn_9xppY=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21715688_v_h9_aa.jpg" group-title="10.FiLM WESTERN ", Hostile Territory
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThhNDQxMWItYjcyMC00YzdmLTliZDctMmI0ZTcxNWNlMGE0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Hostile Territory
 https://vidmody.com/vs/tt8859236
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img02.imgsinemalar.com/images/afis_buyuk/h/hirsizlar-ve-gunahkarlar-1660920214.jpg" group-title="10.FiLM WESTERN ", Hırsızlar ve Günahkarlar
 https://turbo.imgz.me/turbo/get/b9b4843d2ad58b99fd1fedab4e7af890.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/98/H%C4%B1zl%C4%B1-ve-%C3%B6l%C3%BC.jpg" group-title="10.FiLM WESTERN ", Hızlı Ve Ölü 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRlZTJmNTEtMzE3Yi00YTAwLWIyMjgtODU4NTExNjFmOTQwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Hızlı Ve Ölü 
 The Quick and the Dead (1995)
 https://vidmody.com/vs/tt0114214
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İhtiras Rüzgarları
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFlMjE3NjYtYjIwMC00YTVhLWJlOWMtZjM1NDdmMTk1OGRlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İhtiras Rüzgarları
 Legends of the Fall (1994)
 https://vidmody.com/vs/tt0110322
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İhtirasın Bedeli
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDViNjQxNzItMTBjNC00NjdjLWI3NTMtOTM0ZGU4MzFjNzY1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İhtirasın Bedeli
 The Claim (2000)
 https://vidmody.com/vs/tt0218378
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/A_Genius%2C_Two_Partners_and_a_Dupe.jpg" group-title="10.FiLM WESTERN ", intikam Günü A Genius, Two Friends, and an Idiot (1975)
-https://hls13.playmix.uno/hls/ageniustwofriendsandanidiot-1975-bluray-trdualmp4-vHlG2IXXKI4.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img05.imgsinemalar.com/images/afis_dev/i/intikam-kanunu-1660916399.jpg" group-title="10.FiLM WESTERN ", intikam Kanunu
-https://hls13.playmix.uno/hls/themanfromlaramie-1955-bluray-trdualmp4-7A5NjrWwZGF.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İntikam Kanunu
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/themanfromlaramie-1955-bluray-trdualmp4-7A5NjrWwZGF.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGRlMmM1OTctZTM2Zi00Yjc2LWE0NjMtZTI2M2VjZmE5ZTk0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İntikam Kanunu
 The Man from Laramie (1955)
 https://vidmody.com/vs/tt0048342
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İntikam Meleği
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzAwN2E5MTAtYjcyMC00NjlmLTlhNDgtY2Y0NzZmZmQ1NTllXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İntikam Meleği
 Hannie Caulder (1971)
 https://vidmody.com/vs/tt0068675
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Rooster_cogburn.jpg" group-title="10.FiLM WESTERN ", intikam Peşinde
-https://hls10.playmix.uno/hls/roostercogburn-1975-bluray-trdualmp4-uErs3u8IaFv.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İntikam Peşinde
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M3Yjg3MjYtNDM3My00ZjUzLWFkMjktYThhOWFmYmUxZDJkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İntikam Peşinde
 Rooster Cogburn (1975)
 https://vidmody.com/vs/tt0073636
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM0ODIwOTI3NV5BMl5BanBnXkFtZTgwMTI5OTAwNzE@._V1_QL75_UX290_.jpg " group-title="10.FiLM WESTERN ", intikam Yolu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1ODUzOTIxMl5BMl5BanBnXkFtZTcwOTI0NDcyNw@@._V1.jpg " group-title="10.FiLM WESTERN ", intikam Yolu
 https://vidmody.com/vs/tt1861439
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", istiklal Kahramanları
+#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/veracruz-1954-bluray-trdualmp4-fJSw5ZaZ3wu.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyYWMxZGItMmYzNy00OWI2LWJjMzAtMTgyOGVhOTZkYWZiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", istiklal Kahramanları
 Vera Cruz (1954)
 https://vidmody.com/vs/tt0047647
 
@@ -20295,277 +20279,260 @@ https://hls9.playmix.uno/hls/thegoodthebadtheweird-2008-bluray-trdualmp4-YZtjBob
 #EXTINF:-1 tvg-id="https://srv11.cdnimages1310.sbs/hls/thegoodthebadandtheugly-1966-bluray-trdualmp4-9i0lYsL2vlx.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", iyi Kötü ve Çirkin (1966)
 https://vidmody.com/vs/tt0060196
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5NjczMzA3Nl5BMl5BanBnXkFtZTgwODgyNjU1MzE@._V1_QL75_UX296_.jpg " group-title="10.FiLM WESTERN ", iz Peşinde
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5NjczMzA3Nl5BMl5BanBnXkFtZTgwODgyNjU1MzE@._V1.jpg " group-title="10.FiLM WESTERN ", iz Peşinde
 https://vidmody.com/vs/tt2215673
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İz Peşinde
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM0NjllNDEtYjIzZS00MDZjLWE1NzYtYWEwNGM3NjEwNmVmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", İz Peşinde
 True Grit (1969)
 https://vidmody.com/vs/tt0065126
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", İz Peşinde
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@._V1.jpg" group-title="10.FiLM WESTERN ", İz Peşinde
 True Grit (2010)
 https://vidmody.com/vs/tt1403865
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdlMTIwZWUtMTQyZS00ZDA4LTkyNWQtMjY1ODg4MGFiMzFiXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="10.FiLM WESTERN ", Jane Got a Gun (2016)Janein İntikamı 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdlMTIwZWUtMTQyZS00ZDA4LTkyNWQtMjY1ODg4MGFiMzFiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Jane Got a Gun (2016)Janein İntikamı 
 https://vidmody.com/vs/tt2140037
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Jeremiah Johnson
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU5NzJhNWQtOWYxZS00YzI3LTg1YjAtZWMyNWEwZmUzODU2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Jeremiah Johnson
 (1972)
 https://vidmody.com/vs/tt0068762
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Poster_-_Jesse_James_%281939%29_01.jpg/500px-Poster_-_Jesse_James_%281939%29_01.jpg" group-title="10.FiLM WESTERN ", Jesse James
-https://hls13.playmix.uno/hls/jessejames-1939-bluray-trdualmp4-EEdODeHHsU42.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/The_outlaw_josey_wales.jpg" group-title="10.FiLM WESTERN ", Josey Wales (1976)
-https://lasvegas5.site/cdn/down/f84e6a57f6c36914a9021d59f5392663/720p/720p.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NzQ1NjI3MF5BMl5BanBnXkFtZTgwNDY1NzczNTM@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Kadın Önden Yürür
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NzQ1NjI3MF5BMl5BanBnXkFtZTgwNDY1NzczNTM@._V1.jpg" group-title="10.FiLM WESTERN ", Kadın Önden Yürür
 https://vidmody.com/vs/tt5436228
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kahraman Süvariler
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RiNDEzYWItYjA0Ni00YmQ0LWIxMDEtZDgyM2NkZTk0ZDE4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kahraman Süvariler
 The Horse Soldiers (1959)
 https://vidmody.com/vs/tt0052902
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kahramanlar Şehri
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kahramanlar Şehri
 Rio Bravo (1959)
 https://vidmody.com/vs/tt0053221
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kahramanın Sonu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzNjljYjgtNzY1MS00MjYwLWIwMmItOGJjOGNhNmZiZmYxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kahramanın Sonu
 The Man Who Shot Liberty Valance (1962)
 https://vidmody.com/vs/tt0056217
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kanlı Göç
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1NjAxODYtNGE1My00NzFjLThjNzctZTY3NWVlYThlM2IxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kanlı Göç
 The Law and Jake Wade (1958)
 https://vidmody.com/vs/tt0051848
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kanlı Nehir
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1.jpg" group-title="10.FiLM WESTERN ", Kanlı Nehir
 Red River (1948)
 https://vidmody.com/vs/tt0040724
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kanlı Teklif
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU2NGQ0MzAtMzZiNy00NDUyLThhNDMtZGNjMjViZmM0NTMwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kanlı Teklif
 The Proposition (2005)
 https://vidmody.com/vs/tt0421238
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjIwNWFhN2MtYzI0Ni00ODgyLTk5YWEtYzQ4MDMyM2EwNWRmXkEyXkFqcGc@._V1_QL75_UX160_.jpg" group-title="10.FiLM WESTERN ", Kanun Adamı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjIwNWFhN2MtYzI0Ni00ODgyLTk5YWEtYzQ4MDMyM2EwNWRmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kanun Adamı
 https://d5.pictabox.pro/fu/NNQDGf0DGg0RGXeRAqYwlvFKKPlyjPDmtlWZKPmEAAjVmZH3ZmWk0pG38XZ708h2z3NN2NFk5CtczGz5Nyl1XwlXD_dlZyxYZu8Xvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlkNWJiOTMtODM3NS00ZGVhLWI2ZDItOTEwZjk5YTRiZDM0XkEyXkFqcGc@._V1_QL75_UX306_.jpg" group-title="10.FiLM WESTERN ", Kanun Benim 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlkNWJiOTMtODM3NS00ZGVhLWI2ZDItOTEwZjk5YTRiZDM0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kanun Benim 
 Appaloosa (2008)
 https://vidmody.com/vs/tt0800308
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kanunsuz Josey Wales
+#EXTINF:-1 tvg-id="https://lasvegas5.site/cdn/down/f84e6a57f6c36914a9021d59f5392663/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1.jpg" group-title="10.FiLM WESTERN ", Kanunsuz Josey Wales
 The Outlaw Josey Wales (1976)
 https://vidmody.com/vs/tt0075029
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kanunsuzlar Diyarı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyNzFkOTMtOTkzNi00NWMwLTg2NDItY2FiOTVhZTM0MWFjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kanunsuzlar Diyarı
 Day of the Outlaw (1959)
 https://vidmody.com/vs/tt0052724
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kasabadaki Yabancı
+#EXTINF:-1 tvg-id="https://balancehls10.playmix.uno/hls/highplainsdrifter-1973-bluray-trdualmp4-5v19vWtGCal.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyMDFjMDUtZGFiYy00MGFmLWI0MTctMzg1MTZhOThhMTFiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kasabadaki Yabancı
 High Plains Drifter (1973)
 https://vidmody.com/vs/tt0068699
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/High_Plains_Drifter_poster.jpg" group-title="10.FiLM WESTERN ", Kasabadaki Yabancı
-High Plains Drifter (1973)
-https://balancehls10.playmix.uno/hls/highplainsdrifter-1973-bluray-trdualmp4-5v19vWtGCal.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDI5NTMyNV5BMl5BanBnXkFtZTgwMzQzNjcwMDE@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Kasabadaki Ölü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyNDI5NTMyNV5BMl5BanBnXkFtZTgwMzQzNjcwMDE@._V1.jpg" group-title="10.FiLM WESTERN ", Kasabadaki Ölü
 https://vidmody.com/vs/tt2268419
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kasabadaki Ölü 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVmNzFiODEtOTIwMi00MDhmLTkxNWItYmVjNWU2YWEwZTEzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kasabadaki Ölü 2
 Dead Again in Tombstone (2017)
 https://vidmody.com/vs/tt5794440
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyMDQ0NzU1Ml5BMl5BanBnXkFtZTYwNzg4OTA5._V1_QL75_UX302_.jpg" group-title="10.FiLM WESTERN ", Kasabanın Namusu Tombstone (1993)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyMDQ0NzU1Ml5BMl5BanBnXkFtZTYwNzg4OTA5._V1.jpg" group-title="10.FiLM WESTERN ", Kasabanın Namusu Tombstone (1993)
 https://vidmody.com/vs/tt0108358
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kayıp
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFkMDY5NWYtYzMyMi00OTk4LTljOWMtNTY5MTY3Njk4MGMzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kayıp
 The Missing (2003)
 https://vidmody.com/vs/tt0338188
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2ODc5Nzg0MF5BMl5BanBnXkFtZTgwMjQ2MjcwMzE@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Kefaret Gururunun Son Ayinleri
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2ODc5Nzg0MF5BMl5BanBnXkFtZTgwMjQ2MjcwMzE@._V1.jpg" group-title="10.FiLM WESTERN ", Kefaret Gururunun Son Ayinleri
 The Last Rites of Ransom Pride (2010)
 https://d1.hgphoto.vip/fu/NtLRmcdFsnCKjxfV2eNZQXba2QVD27NQAjV9jxbHmWiZe8k9jQ_t3YCFmejP0lYmSqYXklFA508h2z3NNZNcP8GXkFFBmP2WIllZafUh8XhNfPlHFDmllepqlitZlit0lvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ0MzE4OTUzMF5BMl5BanBnXkFtZTgwODAyNzI3NjE@._V1_QL75_UX296_.jpg" group-title="10.FiLM WESTERN ", Kemik Balta 
-Bone Tomahawk (2015)
-https://vidmody.com/vs/tt2494362
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kent Kovboyu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg4ODc0M2UtM2Y5YS00YjdjLThiNDQtMWRkOWQ1ODQwMzYwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kent Kovboyu
 Concrete Cowboy (2020)
 https://vidmody.com/vs/tt8846176
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Keoma.jpg" group-title="10.FiLM WESTERN ", Keoma
-https://hls11.playmix.uno/hls/keoma-1976-bluray-trdualmp4-nyEsz9FuJFK.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Keoma
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/keoma-1976-bluray-trdualmp4-nyEsz9FuJFK.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlmMjIyNjAtM2YwZi00ZGQ0LWI5MDgtZDhjNDVhYTVmZDA0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Keoma
 (1976)
 https://vidmody.com/vs/tt0074740
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzMTI4MDc5NF5BMl5BanBnXkFtZTgwNTc0MzE3NzE@._V1_QL75_UX312_.jpg" group-title="10.FiLM WESTERN ", Kill or Be Killed (2015)Öldür Ya da Öl
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzMTI4MDc5NF5BMl5BanBnXkFtZTgwNTc0MzE3NzE@._V1.jpg" group-title="10.FiLM WESTERN ", Kill or Be Killed (2015)Öldür Ya da Öl
 https://vidmody.com/vs/tt2364774
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIxNDNjNDQtY2EwOS00YTllLTgxZWYtOGE0MGMwNzBlY2M5XkEyXkFqcGc@._V1_QL75_UX166_.jpg" group-title="10.FiLM WESTERN ", Kirli Geçmiş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIxNDNjNDQtY2EwOS00YTllLTgxZWYtOGE0MGMwNzBlY2M5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kirli Geçmiş
 https://vidmody.com/vs/tt0479537
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Komançi İstasyonu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJiZGNhYTgtYzkzZC00M2ZjLTlmN2QtNmNjZDc3OTEzMThiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Komançi İstasyonu
 Comanche Station (1960)
 https://vidmody.com/vs/tt0053729
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Korkunç Mücadele
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE0OTEwMDMtNTlhMi00MGNjLThlOTYtM2FkMmUzNWUxZTU2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Korkunç Mücadele
 Warlock (1959)
 https://vidmody.com/vs/tt0053434
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kovboy
+#EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/cowboy-1958-bluray-trdualmp4-8aGTBWvgSYm.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhkNWIzNjAtM2ZjZC00ODBlLThkYWMtZGUyNzExNjM3MzM4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kovboy
 Cowboy (1958)
 https://vidmody.com/vs/tt0051496
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1MzkyNzQ3OV5BMl5BanBnXkFtZTcwMDk1NTg2NQ@@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Kovboylar ve Uzaylılar Cowboys and Aliens (2011)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1MzkyNzQ3OV5BMl5BanBnXkFtZTcwMDk1NTg2NQ@@._V1.jpg" group-title="10.FiLM WESTERN ", Kovboylar ve Uzaylılar Cowboys and Aliens (2011)
 https://vidmody.com/vs/tt0409847
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kurşunu Isır
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZjMzUwNDItMTdlZS00N2Y0LTgyZTYtZGIxMDE0MmRjZGE4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kurşunu Isır
 Bite the Bullet (1975)
 https://vidmody.com/vs/tt0072705
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1MTkxNzc5OF5BMl5BanBnXkFtZTgwMDczNTQ3NzE@._V1_QL75_UX300_.jpg" group-title="10.FiLM WESTERN ", Kuşatılmış
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1MTkxNzc5OF5BMl5BanBnXkFtZTgwMDczNTQ3NzE@._V1.jpg" group-title="10.FiLM WESTERN ", Kuşatılmış
 https://vidmody.com/vs/tt2271563
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kuşatılmış
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFlNjQ0ZGYtYTQwMS00NjkyLTgwMmEtYmZhYjNkNWVkMWY4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kuşatılmış
 Surrounded (2023)
 https://vidmody.com/vs/tt2572212
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmM2UxZWEtOGY0NS00MGI3LTk0NTEtOTBlMDZiYzY2NDc5XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Köpeğin pençesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmM2UxZWEtOGY0NS00MGI3LTk0NTEtOTBlMDZiYzY2NDc5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Köpeğin pençesi
 https://vidmody.com/vs/tt10293406
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kötü Evlat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBiMDI3ZDUtYzBjMi00NWMyLTk2NmEtZWM2NmIwMGI4Yjk4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kötü Evlat
 The Sons of Katie Elder (1965)
 https://vidmody.com/vs/tt0059740
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kötü Kızlar
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVlZWJkNmYtYjBjZS00ODJmLTgxZDItMjM3NTM2OTNlNDBmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kötü Kızlar
 Bad Girls (1994)
 https://vidmody.com/vs/tt0109198
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Küçük Dev Adam
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWM3ODE1NTgtNDc5NS00OWFhLWIyNzgtMmNhMDU1MWI4N2I3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Küçük Dev Adam
 Little Big Man (1970)
 https://vidmody.com/vs/tt0065988
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kırmızı Güneş
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFhZDcxOWYtOTZkOC00OWFhLTllMjItZDZjN2EwZWZjZDFiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kırmızı Güneş
 Red Sun (1971)
 https://vidmody.com/vs/tt0067770
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kırık Ok
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJmZjcxNGQtODdlMi00ZjY3LWFiNWItOGI3MGMwN2RlYTM5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kırık Ok
 Broken Arrow (1950)
 https://vidmody.com/vs/tt0042286
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kızgın ve Sakin
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI0MjdhZDktYWQwNS00OTk3LTg5MWItNzdhM2VlNjVmOGYwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kızgın ve Sakin
 Buck and the Preacher (1972)
 https://vidmody.com/vs/tt0068323
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Kızıl Şeytanın Oğlu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgzYzBhODktZTBjNS00OTBhLWExNTUtYjkwNmUzZTg2NjRmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Kızıl Şeytanın Oğlu
 Taza, Son of Cochise (1954)
 https://vidmody.com/vs/tt0047562
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Land Raiders
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlhMmE5NGMtZTM3NC00YmY1LTljYjItZDIyNjM5MTJmOWQ3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Land Raiders
 (1969)
 https://vidmody.com/vs/tt0065962
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Lapacılar Çetesi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MWFhN2QtMjhmOC00ZWQyLTkwZDktMTg0M2IyNmI5MTcyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Lapacılar Çetesi
 The Apple Dumpling Gang Rides Again (1979)
 https://vidmody.com/vs/tt0078790
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Last Stand at Saber River
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTFhZWY4ZDgtOTA2NC00NmExLTllMmQtMWNmMDA5NDA0NzVkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Last Stand at Saber River
 (1997)
 https://vidmody.com/vs/tt0119501
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Nzg0NzU0Ml5BMl5BanBnXkFtZTgwOTkwMjY5MzI@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Lefty Brownun Türküsü
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Nzg0NzU0Ml5BMl5BanBnXkFtZTgwOTkwMjY5MzI@._V1.jpg" group-title="10.FiLM WESTERN ", Lefty Brownun Türküsü
 https://vidmody.com/vs/tt4400994
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc3YzNjMmQtMmU3ZC00ZWY4LWJhNGItYTA5ZDY2ODdjYTkyXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", letat sauvage
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc3YzNjMmQtMmU3ZC00ZWY4LWJhNGItYTA5ZDY2ODdjYTkyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", letat sauvage
 https://vidmody.com/vs/tt8770976
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Lonesome Dove Church
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5NDk4NzY2M15BMl5BanBnXkFtZTgwNjE3ODEwNTE@._V1.jpg" group-title="10.FiLM WESTERN ", Lonesome Dove Church
 (2014)
 https://vidmody.com/vs/tt3447676
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Man in the Wilderness
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4ODNlNDMtZjY5Yi00ZWIzLTgxY2EtYjFhYTBjMjQ0NzIzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Man in the Wilderness
 (1971)
 https://vidmody.com/vs/tt0067388
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkODE3NWUtMzBmMS00NDY4LTk3OTEtYWQ1YWI2ZWQ1N2Y5XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Maskeli Süvari
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkODE3NWUtMzBmMS00NDY4LTk3OTEtYWQ1YWI2ZWQ1N2Y5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Maskeli Süvari
 https://vidmody.com/vs/tt1210819
 
-#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/maverick-1994-bluray-trdualmp4-k8fHXljvOk5.mp4/master.txt https://p3.photofunny.org/v/9591pk4uz8ft/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NjgzNDI0NV5BMl5BanBnXkFtZTcwMTQyMTk3Mg@@._V1_QL75_UX312_.jpg" group-title="10.FiLM WESTERN ", Maverick
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/maverick-1994-bluray-trdualmp4-k8fHXljvOk5.mp4/master.txt https://p3.photofunny.org/v/9591pk4uz8ft/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NjgzNDI0NV5BMl5BanBnXkFtZTcwMTQyMTk3Mg@@._V1.jpg" group-title="10.FiLM WESTERN ", Maverick
 https://vidmody.com/vs/tt0110478
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", McCabe ve Bayan Miller
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyMDIyMWEtOWQ1ZC00NzFiLTk2NWEtZWRiZmZkNjQ2MGI3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", McCabe ve Bayan Miller
 McCabe & Mrs. Miller (1971)
 https://vidmody.com/vs/tt0067411
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Mclintockposter.jpg" group-title="10.FiLM WESTERN ", McLintock
-https://hls13.playmix.uno/hls/mclintock-1963-bluray-trdualmp4-p1Nh9Vu8dGU.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", McLintock!
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/mclintock-1963-bluray-trdualmp4-p1Nh9Vu8dGU.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQwOTdlOWUtZWIxNC00NWI0LTk4MWEtNzgyOWE0M2VmZjAwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", McLintock!
 (1963)
 https://vidmody.com/vs/tt0057298
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Muhteşem Yedili
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1.jpg" group-title="10.FiLM WESTERN ", Muhteşem Yedili
 The Magnificent Seven (1960)
 https://vidmody.com/vs/tt0054047
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMDcwZWUtNTk1OC00NzdjLThhYWItZjg3NDk0Zjc2NDQwXkEyXkFqcGc@._V1_QL75_UX306_.jpg" group-title="10.FiLM WESTERN ", Muhteşem Yedili 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxMDcwZWUtNTk1OC00NzdjLThhYWItZjg3NDk0Zjc2NDQwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Muhteşem Yedili 
 https://vidmody.com/vs/tt2404435
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQzMjQ5YmYtZDdhOC00NWRiLTk2Y2MtMGQ4MGUyMjIyNjlkXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Murder at Yellowstone City
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQzMjQ5YmYtZDdhOC00NWRiLTk2Y2MtMGQ4MGUyMjIyNjlkXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Murder at Yellowstone City
 https://turbo.imgz.me/turbo/get/4a4b633b46c15889a70c63a80c92b27e.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJhZDZlZTItZTI3OC00ZmRkLWJlZjAtNmMyMjk2NGUyODdiXkEyXkFqcGc@._V1_QL75_UX338_.jpg" group-title="10.FiLM WESTERN ", Mysterious Circumstance: The Death of Meriwether Lewis
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJhZDZlZTItZTI3OC00ZmRkLWJlZjAtNmMyMjk2NGUyODdiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Mysterious Circumstance: The Death of Meriwether Lewis
 https://turbo.imgz.me/turbo/get/fddbb2c1016036eb7813ab69fe34b445.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/42/Pale_Rider.jpg" group-title="10.FiLM WESTERN ", Namludaki Adalet
-https://hls9.playmix.uno/hls/palerider-1985-bluray-trdualmp4-kPuYSlEUif5.mp4/master.txt
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Namludaki Adalet
+#EXTINF:-1 tvg-id="https://hls9.playmix.uno/hls/palerider-1985-bluray-trdualmp4-kPuYSlEUif5.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2YjMwODAtZTllMC00OTZhLTg3N2EtMjcxNzg0ZjYwODY2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Namludaki Adalet
 Pale Rider (1985)
 https://vidmody.com/vs/tt0089767
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM5MWIwNjktZjI5Ni00ZGI5LWE3OWMtOTU1Njc5ZjM5ZTU4XkEyXkFqcGc@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Nefret Sekizlisi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM5MWIwNjktZjI5Ni00ZGI5LWE3OWMtOTU1Njc5ZjM5ZTU4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Nefret Sekizlisi
 https://vidmody.com/vs/tt3460252
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNmYWFkMjktOTBlNy00NzE0LWE1MWQtZTAwNDkxMGJlMTJlXkEyXkFqcGc@._V1_QL75_UX318_.jpg" group-title="10.FiLM WESTERN ", No Name & Dynamite 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNmYWFkMjktOTBlNy00NzE0LWE1MWQtZTAwNDkxMGJlMTJlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", No Name & Dynamite 
 https://turbo.imgz.me/turbo/get/c581dc05a686868351c7457b6d0042f5.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2MjZmN2YtNGRiNy00MTliLWE2ZTctOGUyYzRmY2U4NjA5XkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="10.FiLM WESTERN ", Oda The Keeping Room (2014)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2MjZmN2YtNGRiNy00MTliLWE2ZTctOGUyYzRmY2U4NjA5XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Oda The Keeping Room (2014)
 https://vidmody.com/vs/tt2488778
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI5NTJiZTYtNDE0MS00ZTc3LWFiZTItOTY2Y2NlYTc2Mzc0XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Old Henry:Yaşlı Henry(2021)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI5NTJiZTYtNDE0MS00ZTc3LWFiZTItOTY2Y2NlYTc2Mzc0XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Old Henry:Yaşlı Henry(2021)
 https://vidmody.com/vs/tt12731980
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Old Yeller
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE4NzZiNTctNzQ4My00MDE3LThiNTMtNDYwNWRjZGRlM2QzXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Old Yeller
 (1957)
 https://vidmody.com/vs/tt0050798
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3YzIzODAtNDM2NS00NDllLTg5N2EtOTNiYWE1MjcwYmE3XkEyXkFqcGc@._V1_QL75_UX168_.jpg" group-title="10.FiLM WESTERN ", Oldür Ya da Öl
-https://vidmody.com/vs/tt2364774
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM1YWNiZjAtZTNhOS00M2Y0LTk5MDItMTQ2NDk5YzY3YTM3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Olüm Avı
+Death Hunt (1981)
+https://vidmody.com/vs/tt0082247
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Once Upon a Time in the West
-https://vidmody.com/vs/tt0064116/
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWMzODA2NzctYjU0YS00N2Y4LTk5ZDEtMTEyNzgzMzc0YTQ4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Olüm Harbi
+Springfield Rifle (1952)
+https://vidmody.com/vs/tt0045184
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Onları Yükseğe As
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ3MmY2NDktZmRiYy00MTA5LThhOWItODNiOTMyNjZjMDg2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Onları Yükseğe As
 Hang Em High (1968)
 https://vidmody.com/vs/tt0061747
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4NTZhZmMtNGRiNS00ZTE2LWI4OGQtOTE5ODI2MzExZjI4XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Organ Yolu 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA4NTZhZmMtNGRiNS00ZTE2LWI4OGQtOTE5ODI2MzExZjI4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Organ Yolu 
 https://vidmody.com/vs/tt18071972
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM2MTA0OGMtNzQ5Mi00ZDJhLTg3ZDktOGZiOTAzOWYzYzBiXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", Outlaw Johnny Black 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM2MTA0OGMtNzQ5Mi00ZDJhLTg3ZDktOGZiOTAzOWYzYzBiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Outlaw Johnny Black 
 https://vidmody.com/vs/tt8667828
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE1M2I3YmQtYWViNi00MjhmLWFkNWUtZDgyMDA5NzZiNzRiXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", Outlaw Posse 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE1M2I3YmQtYWViNi00MjhmLWFkNWUtZDgyMDA5NzZiNzRiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Outlaw Posse 
 https://vidmody.com/vs/tt10618968
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Ox-Bow Olayı
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ2MGY2NmYtZmVmNy00ZmRiLWJjYWYtNzFhMzk4MzQ0MGQ2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Ox-Bow Olayı
 The Ox-Bow Incident (1943)
 https://vidmody.com/vs/tt0036244
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjYxMzFmMzAtOTI5My00OTAzLTgwOGUtMGQ3NTgzNWE3NTIxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Oğleden Üçe Kadar
+From Noon Till Three (1976)
+https://vidmody.com/vs/tt0074553
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRhYWMxNGMtNDJmYy00NzRkLWJhY2QtMTViNWNiYjE2MjBmXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="10.FiLM WESTERN ", Pancho Villa
 https://vidmody.com/vs/tt0337824
@@ -20629,9 +20596,6 @@ https://vidmody.com/vs/tt27000642
 (1966)
 https://vidmody.com/vs/tt0059653
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/92/Rio_Bravo_afiş.jpg" group-title="10.FiLM WESTERN ", Rio Bravo
-https://vidmody.com/mm/tt0053221/main/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Rio Conchos
 (1964)
 https://vidmody.com/vs/tt0058525
@@ -20671,7 +20635,7 @@ https://hls10.playmix.uno/hls/twomulesforsistersara-1970-bluray-trdualmp4-iCFnnz
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhYzhmYzAtOWE0MS00YzkxLTg4ZGMtYjIxZTAzMjBmNTU5XkEyXkFqcGc@._V1_QL75_UX164_.jpg" group-title="10.FiLM WESTERN ", Savaş Yolu
 https://i8.abphoto.live/fm/NDNWD_pDwvZ3ZQ0lNwZmNqlftxXf80Ph2z3NDOYkFlYsqlitZldj0Fvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Sevimli Haydut
+#EXTINF:-1 tvg-id="https://hls13.playmix.uno/hls/jessejames-1939-bluray-trdualmp4-EEdODeHHsU42.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY3ZjZkOWMtZjdmMS00OWQ3LTgwMGEtMTczYWM2NzQxOGQwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Sevimli Haydut
 Jesse James (1939)
 https://vidmody.com/vs/tt0031507
 
@@ -20728,7 +20692,7 @@ https://d2.abphoto.pro/f0/NRDP0C300NwZmDgdixfYYLgmZc08JmPFgz0PIwHlYNgmZ9xmA9RGW5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI5ZTJkMGUtNDMwNC00MDE0LWFlZDMtNGZhODc0MjYyNThjXkEyXkFqcGc@._V1_QL75_UX164_.jpg" group-title="10.FiLM WESTERN ", Sudsy Slim Tekrar At Üstünde
 https://i2.abphoto.live/f3/NRDP0CU0bNQf0ZQ00PwZmZAmZ_RGmMqYWkxlYHAmW78PH7nXA5lPh2z3NDOYkFlYsqlitZldj0Fvr1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Sundownda Karar Günü
+#EXTINF:-1 tvg-id="https://s427.rapidrame.com/hls2/01/00020/52bvug7lkb6l_,l,n,.urlset/master.m3u8?t=60anYg49Uqd6KgDXZdbG4Zr-Xyfoj8Q28APE8n88TsA&s=1748634063&e=1199998800&f=100508&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk3MmNjYjgtNmYyMy00ZWZmLTlkODktZGVjMWFkODAwNTc2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM WESTERN ", Sundownda Karar Günü
 Decision at Sundown (1957)
 https://vidmody.com/vs/tt0050296
 
@@ -20759,9 +20723,6 @@ https://vidmody.com/mm/tt6412452/main/index.m3u8
 (1958)
 https://vidmody.com/vs/tt0051411
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/The_Comancheros_poster.jpg" group-title="10.FiLM WESTERN ", The Comancheros
-https://hls13.playmix.uno/hls/thecomancheros-1961-bluray-trdualmp4-rW8zRIFNdcl.mp4/master.txt
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkxNjZkMTAtNTMzYy00NTcyLTlmZDMtNjA5OTM4OTFmOTNlXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", The Dark Valley (2014)
 https://vidmody.com/vs/tt2650978
 
@@ -20781,9 +20742,6 @@ https://vidmody.com/mm/tt3460252/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUwOTU0ZGYtMGE4Ny00OWNkLWJmODMtMjViYTlkZDQ5YTEzXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM WESTERN ", The Homesman (2014) Yolcu
 https://vidmody.com/vs/tt2398231
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://turkcealtyazi.org/film/200/0052902.jpg" group-title="10.FiLM WESTERN ", The Horse Soldiers
-https://vidmody.com/mm/tt0052902/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI0NzQxOTMwOF5BMl5BanBnXkFtZTgwMjAxMzg0NzM@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Kid-Çocuk(2019)
 https://vidmody.com/vs/tt4975920
@@ -20825,9 +20783,6 @@ https://vidmody.com/vs/tt10303892/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="10.FiLM WESTERN ", The Power of the Dog
 https://vidmody.com/mm/tt10293406/main/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/The_Proposition_5.jpg/220px-The_Proposition_5.jpg" group-title="10.FiLM WESTERN ", The Proposition
-https://vidmody.com/vs/tt0421238/
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NzMxMjUwOF5BMl5BanBnXkFtZTgwMDk1ODMxNzE@._V1_QL75_UX294_.jpg" group-title="10.FiLM WESTERN ", The Ridiculous 6(2015)
 https://vidmody.com/vs/tt2479478
@@ -20880,9 +20835,6 @@ https://turbo.imgz.me/turbo/get/f8fc1a6b45addb104a794a38f620c039.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", The Yearling
 (1946)
 https://vidmody.com/vs/tt0039111
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg" group-title="10.FiLM WESTERN ", Tombstone
-https://vidmody.com/mm/tt0108358/main/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM0ZTU2YjQtNjc5NS00Njg5LTg0ZWMtNDYwOTkxZGNjNzQwXkEyXkFqcGc@._V1_QL75_UX328_.jpg" group-title="10.FiLM WESTERN ", Trinita (1970)
 https://hls11.playmix.uno/hls/mynameistrinity-1970-bluray-trdualmp4-kCn9309Oucj.mp4/master.txt
@@ -20957,9 +20909,6 @@ https://vidmody.com/vs/tt5478478
 (1971)
 https://vidmody.com/vs/tt0067921
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vera_Cruz_Movie_Poster.jpg/500px-Vera_Cruz_Movie_Poster.jpg" group-title="10.FiLM WESTERN ", Vera Cruz
-https://hls10.playmix.uno/hls/veracruz-1954-bluray-trdualmp4-fJSw5ZaZ3wu.mp4/master.txt
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Virjinyalı
 The Virginian (2014)
 https://vidmody.com/vs/tt2788332
@@ -21006,26 +20955,6 @@ https://i5.abphoto.pro/fy/NVDPYNAXlpmZJGQZlZG1Cy0mCCU1B3pFh0fGgjlvh2z3NNUbZXepql
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4NTYzNjU4N15BMl5BanBnXkFtZTcwNTI4ODEwOQ@@._V1_QL75_UX308_.jpg" group-title="10.FiLM WESTERN ", Zincirsiz
 https://vidmody.com/vs/tt1853728
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Çılgınların Günahı
-Hud (1963)
-https://vidmody.com/vs/tt0057163
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Çıplak Mahmuz
-The Naked Spur (1953)
-https://vidmody.com/vs/tt0044953
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Ölüm Avı
-Death Hunt (1981)
-https://vidmody.com/vs/tt0082247
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Ölüm Harbi
-Springfield Rifle (1952)
-https://vidmody.com/vs/tt0045184
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM WESTERN ", Öğleden Üçe Kadar
-From Noon Till Three (1976)
-https://vidmody.com/vs/tt0074553
 
 #EXTINF:-1 tvg-id="TR: KURAN DINLE NasserAlQatamii" tvg-logo="https://kuranportali.com/wp-content/uploads/2015/08/quran1.png" group-title="KURAN DINLE", ABESE
 https://ia801308.us.archive.org/7/items/NasserAlQatamii/Abese%20Suresi%20-%20Nasser%20al%20Qatami%20%28720p%29.mp4
