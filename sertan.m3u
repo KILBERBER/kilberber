@@ -1923,6 +1923,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/che
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.just.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Justsporthd
 https://streamnet10.xyz/?url=https://streamcdn.xyz/hls/bein1.m3u8?|referer=https://justsporthd45.xyz/
 
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.kralbetsss.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 KralBets
+http://45.11.58.245:25461/live/spor/spor/5.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://netspor-amp.xyz/logo.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 NetSpor
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 
@@ -3751,17 +3754,11 @@ http://tv.dsmart-go.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Show TV 
 http://tv.dsmart-go.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
 
-#EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-ULUSAL", show TV hayal
-https://217.30.11.75/e/1551.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", SHOWTURK
 http://tv.dsmart-go.workers.dev/?ID=https://www.showturk.com.tr/canli-yayin
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV8 
 http://tv.dsmart-go.workers.dev/?ID=https://www.tv8.com.tr/canli-yayin
-
-#EXTINF:-1 tvg-id="https://cdn-cesz5ocywlnlxrmcjbcl.ytvidcdn.com/      https://217.30.11.74/e/6570.m3u8      https://m.hayalbahis568.com" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.Hayalbahis.png" group-title="0.KIL-ULUSAL", TV8 hayal
-https://217.30.11.75/e/1140.m3u8|referer=https://cdn-tlu15zz5xfgb1u3daore.ytvidcdn.com/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV8.5
 http://tv.dsmart-go.workers.dev/?ID=https://www.tv8bucuk.com/tv8-5-canli-yayin
@@ -9461,11 +9458,17 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="mr-bean-live-action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg" group-title="07.KIL ORTAYA KARISIK", (Mr. Bean - Live Action (Original)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6617&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=38ccab99-a4bb-4acf-8050-bb11b8b6e5c7&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (Survivor
+https://stitcher.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55
+
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ytimg.com/vi/t4XyFHEw3FA/maxresdefault.jpg" group-title="07.KIL ORTAYA KARISIK", (The Benny Hill Show
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Wipeout_reboot_logo.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Xtra (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lgca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore
+https://stitcher.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore arj
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=377ba761-af3a-11f0-bdb9-07c03d4196d7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad585d09-7143-4d22-98a3-51b44597448a&userId=&serverSideAds=true
@@ -9478,6 +9481,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d433
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (X.Acapulco Shore Latin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (x.Big Brother
+https://stitcher.pluto.tv/stitch/hls/channel/6661f11a41af6400080e90d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55
 
 #EXTINF:-1 tvg-id="https://30a-tv.com/feeds/720p/52.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/30A-TV-Classic-Movies-live-vipotv.png" group-title="07.KIL ORTAYA KARISIK", 30A Classic Movie
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
@@ -10108,6 +10114,22 @@ https://vidmody.com/vs/tt32551244
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zootropolis 2
 Zootopia 2
 https://vidmody.com/vs/tt26443597
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFhYTczNWUtY2I0OC00MjEwLWEwZmMtY2VlZGVjZjJlYWRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aaryan
+https://vidmody.com/vs/tt28434143
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiMTBiYWMtMTZjZi00OTMxLWI5NmUtMWE2OTFmZjQwMDI1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Guns & Moses
+https://vidmody.com/vs/tt21861086
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRhNmU2OTUtNzk2YS00NDRjLTlhN2YtODUzM2JiNjMyMzUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Turbulence
+https://vidmody.com/vs/tt33009027
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlNDY1OWUtMjFmNy00MjA4LThiNWEtNzRjMGM2MGUzNjZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yaşama Ateşi
+Soul on Fire
+https://vidmody.com/vs/tt28078628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRkODYwZjItYjNhZi00OWU5LWI0ODItZDhhNWQ1MDhlNGZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Influencers
+https://vidmody.com/vs/tt36833584
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI3Y2YwZGYtMDk2NC00YzVmLTg3NzAtNjhhYzA4NTJlN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", After the Hunt
 Avın Ardından
