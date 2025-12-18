@@ -5603,6 +5603,27 @@ https://vidmody.com/vs/tt19244304/s1/e07
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.08
 https://vidmody.com/vs/tt19244304/s1/e08
 
+#EXTINF:-1 tvg-id="Belgesel TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/belgesel.png" group-title="01.KIL-BELGESEL", ((Belgesel TV
+https://goldvod.org/live/hpgdiscoo/123456/103.m3u8
+
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", ((beIN Gurme
+https://goldvod.org/live/hpgdiscoo/123456/179.m3u8
+
+#EXTINF:-1 tvg-id="beinhomeentertainmenthd.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BeIN_%C4%B0Z-HD.png" group-title="01.KIL-BELGESEL", ((beIN IZ
+https://goldvod.org/live/hpgdiscoo/123456/173.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp" group-title="01.KIL-BELGESEL", ((DISCOVERY CHANNEL HD
+https://goldvod.org/live/hpgdiscoo/123456/370.m3u8
+
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", ((DISCOVERY CHANNEL ID
+https://goldvod.org/live/hpgdiscoo/123456/371.m3u8
+
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", ((YABAN TV
+https://goldvod.org/live/hpgdiscoo/123456/447.m3u8
+
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", ((YABAN TV HD
+https://goldvod.org/live/hpgdiscoo/123456/448.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png" group-title="01.KIL-BELGESEL", (BBC EARTH
 http://65.108.239.207/bbc/index.m3u8
 
@@ -5612,7 +5633,7 @@ https://ds.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1600px-CGTN.svg.png" group-title="01.KIL-BELGESEL", (CGTN Belgesel
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", (discovery
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/10/0926268422105eb7f426_op_0_XL.webp" group-title="01.KIL-BELGESEL", (discovery
 http://65.108.239.207:80/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (discovery
@@ -5708,7 +5729,7 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6864/index.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="01.KIL-BELGESEL", 4.TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="01.KIL-BELGESEL", 4.Trt belgesel 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 4.Trt belgesel 
 https://tv-trtvbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="01.KIL-BELGESEL", 4.TRT BELGESEL A
@@ -5732,14 +5753,14 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="01.KIL-BELGESEL", 5.Toprak TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12274&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.YABAN TV
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&=.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban tv
+http://116.202.238.88/YABANTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yaban TV A
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.Yabantv
-http://116.202.238.88/YABANTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="01.KIL-BELGESEL", 5.YABAN TV B
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&=.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="01.KIL-BELGESEL", 7.Darcizzle Offshore Fishing
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
@@ -5896,9 +5917,6 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", Discovery Channel
 http://sultanweb.info/Zsmart.php?ID=11894
-
-#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://dsmart-static-v2.ercdn.net/content/b/vE/11891/Thumbnail.png" group-title="01.KIL-BELGESEL", Discovery ID
-http://sultanweb.info/Zsmart.php?ID=11891
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20231219_193112_63.png" group-title="01.KIL-BELGESEL", Documentary+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
@@ -10167,6 +10185,10 @@ https://vidmody.com/vs/tt34230114
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmIzZDEtOTUzNy00ZDVmLTliYWItOTk0NGE0ZTA2MTc2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Only on Earth
 
 https://vidmody.com/vs/tt32373054
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODlhZTg4NmUtYzRhNi00MDdlLWJmZmUtZDJmM2FlZGYyMTk2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yeni Hayata Hazırlık
+Preparation for the Next Life
+https://vidmody.com/vs/tt31727191
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI3Y2YwZGYtMDk2NC00YzVmLTg3NzAtNjhhYzA4NTJlN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", After the Hunt
 Avın Ardından
@@ -16394,7 +16416,7 @@ https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/9/cdn50
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/41ggdCUIBwL._AC_UF1000,1000_QL80_FMwebp_.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Cabaret Desire 
 (2011)
 
-https://s230.rapidrame.com/hls2/01/00018/b50y3xyt77hw_,l,.urlset/master.m3u8?t=MiCpvoZHGavFlA_wW5uEfQs51utjtH36aUKZthSH8ME&s=1765977850&e=86400&f=90661&srv=s429&i=0.0&sp=0
+https://s231.rapidrame.com/hls2/01/00018/b50y3xyt77hw_,l,.urlset/master.m3u8?t=Vok0C1cJDwQ0dPG9FulgpOM-myiE5vYpAMr3wKwW2aQ&s=1766066147&e=86400&f=90661&srv=s429&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdkNjZjMWMtZjBiZi00MzMxLTkzY2EtZmY4NTllZjgwZjE0XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Death By Desire 
 https://s427.rapidrame.com/hls2/01/00017/fyrn6rixn99c_,l,.urlset/master.m3u8?t=c4o6hNuq2UVDMGYdXe6iCXy0C6RQplw1X3PLSIr5Zmw&s=1765982109&e=86400&f=86951&i=0.0&sp=0
@@ -19431,6 +19453,10 @@ https://vidmody.com/vs/tt7587604
 Cai Li Fo (2011)
 https://vidmody.com/vs/tt1851871
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc5YjQ2ODgtOWI3Zi00ZDA1LWJmMWYtMDNiMTU2ZDgyMmNmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Dövüşçü
+In Full Blossom (2019)
+https://vidmody.com/vs/tt4538670
+
 #EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/themyth-2005-bluray-trdualmp4-aJ1dBbXVVV5.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVmODVhN2YtMGFkNS00ZTRhLWE0NjQtMmExMGI5NjdiODI5XkEyXkFqcGc@._V1_QL75_UX320_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Efsane (2005)
 https://vidmody.com/vs/tt0365847
 
@@ -19483,8 +19509,16 @@ https://vidmody.com/vs/tt0271027
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdmNWU5YmQtMGFlNS00ZmNlLWE3MTAtNTNiMzBiMmViOTk1XkEyXkFqcGc@._V1_QL75_UX358_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Enter the Fat Dragon 2020 
 https://vidmody.com/vs/tt7335600
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5YTM4NTYtODlkMy00YzY4LTg5ODMtN2EzYjQ0N2ZhYjU2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", FABLE: Aradığınız Katile Ulaşılamıyor
+(2021)
+https://vidmody.com/vs/tt13017204
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlODQzNzQtNjMwMi00YjJhLThjOWMtMmZiYThiZmRkY2UwXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Flash Point 2007
 https://vidmody.com/vs/tt0992911
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIxNzUwYzctOGJjZS00NmRkLWEwY2ItZTU2NDhlZjJlMjU4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Fullmetal Alchemist: The Revenge Of Scar
+Fullmetal Alchemist the Revenge of Scar (2022)
+https://vidmody.com/vs/tt18671386
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU1MWQ0NGEtZTRmOC00NWJiLWFkZjYtZWM5NmM1ODQ5Y2U3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Fırtına Adam
 Mr. Nice Guy (1997)
@@ -19507,6 +19541,10 @@ https://vidmody.com/vs/tt0386005
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjMjMyYzYtODRjNC00MzE3LTg2YjEtNDVmNjAyZTI5MjAyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", God of War
 (2017)
 https://vidmody.com/vs/tt6083388
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5ODE3MjEzNV5BMl5BanBnXkFtZTgwNzY2NjcwMzE@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Goemon Efsanesi
+Goemon (2009)
+https://vidmody.com/vs/tt1054122
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGExZmUyYTUtNTRmNi00MGIzLTgzMzQtZDVmYTcwNTgwNGJjXkEyXkFqcGc@._V1_QL75_UX308_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Golden Kamuy
 https://vidmody.com/vs/tt19759618
@@ -19541,6 +19579,10 @@ https://vidmody.com/vs/tt0992911
 Showdown in Little Tokyo (1991)
 https://vidmody.com/vs/tt0102915
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNlNzViMTYtMjUwOC00MmUyLWIxOWQtNGI0ZTY5ZjdmYWIxXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Hell Dogs
+Hell Dogs - In The House Of Bamboo (2022)
+https://vidmody.com/vs/tt19845414
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyYjkyMzctMGYzMi00OGY4LWI1YTQtOWZkMGZiYTI3MDQwXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Home Coming
 (2022)
 https://vidmody.com/vs/tt22049410
@@ -19560,6 +19602,10 @@ https://vidmody.com/vs/tt0101764
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZlZDdlNjYtNDdjMy00YWJjLTk4YWMtN2NhYWRmMzc4OTBiXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", ikiz Vampir Avcıları
 The Twins Effect (2003)
 https://vidmody.com/vs/tt0351887
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", İlk Aşk
+Hatsukoi (2019)
+https://vidmody.com/vs/tt10228168
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZhZjI1M2MtZTNmMi00ZDc2LTg2ZTgtODBjYjNmOGE0YTBhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", ilk Vuruş
 First Strike (1996)
@@ -19814,6 +19860,10 @@ https://vidmody.com/vs/tt0117011
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI5YTFjOWYtNjBiYi00ZTc5LWJhMGMtMjNkNzliMTJkOWVjXkEyXkFqcGc@._V1_QL75_UX312_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Man of Tai Chi (2013)
 https://vidmody.com/vs/tt2016940
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ2MmEwZmMtNzA4MC00MjljLWIyOWItZjhhMmI0NWJhNzJmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Mantis
+Samagwi (2025)
+https://vidmody.com/vs/tt33312131
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NTE5OTczNl5BMl5BanBnXkFtZTgwNDAxNTc3NzE@._V1_QL75_UX252_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Maymun Kral (2014)
 https://vs6.photour.org/v/38zuw5kf1k2d/master.m3u8
 
@@ -19871,6 +19921,10 @@ https://vidmody.com/vs/tt2371411
 Hidden Strike (2023)
 https://vidmody.com/vs/tt6879446
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzODFjYmYtYzA0Yi00ODk2LTg2OGUtYWExYjc2NzYyNTc1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Olümsüz Kılıç
+Mugen no jûnin (2017)
+https://vidmody.com/vs/tt5084170
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTRiZjc4YTQtNTYxNS00YzIyLTg2MTktNjJkNDI4N2RiZWRjXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Olümün Eli (1976)
 https://hls10.playmix.uno/hls/thehandofdeath-1976-bluray-trdualmp4-uchh8KwCGiw.mp4/master.txt
 
@@ -19916,6 +19970,10 @@ The Twilight Samurai (2002)
 
 https://hls13.playmix.uno/hls/alacakaranliksamurayithetwilightsamurai2002dualmkvmp4-xT7HfL3kskU.mp4/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMxMWFmM2UtMzNjZC00ZWE3LThhNzItZDNjZTU3NGZiOTNjXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Samuray Maratonu
+Samurai Marathon (2019)
+https://vidmody.com/vs/tt9311062
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWI4MTcxMjEtZjFkMy00YjhkLTkwNTktODY2YTYxMWU5NDA2XkEyXkFqcGc@._V1_QL75_UX372_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Samurayın İntikamı Kör Kurt 
 https://vidmody.com/vs/tt1243972
 
@@ -19940,9 +19998,9 @@ https://vidmody.com/vs/tt0103950
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk3NDg5NTE4MV5BMl5BanBnXkFtZTcwNzMxMjAwMQ@@._V1_QL75_UX296_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Shaolin Futbolu
 https://vidmody.com/vs/tt0286112
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Shinobi_%28Movie_Poster%29.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Shinobi: Heart Under Blade (2005)
+#EXTINF:-1 tvg-id="https://hls11.playmix.uno/hls/shinobi-heartunderblade-2005-bluray-trdualmp4-5D9aN4dslIE.mp4/master.txt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Shinobi_%28Movie_Poster%29.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Shinobi: Heart Under Blade (2005)
 
-https://hls11.playmix.uno/hls/shinobi-heartunderblade-2005-bluray-trdualmp4-5D9aN4dslIE.mp4/master.txt
+https://vidmody.com/vs/tt0475723
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNTI0NjM5M15BMl5BanBnXkFtZTYwMjQ0NTE3._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Smokin
 The Tuxedo (2002)
@@ -20035,8 +20093,20 @@ https://vidmody.com/vs/tt0113326
 #EXTINF:-1 tvg-id="https://hls10.playmix.uno/hls/theone-2001-bluray-trdualmp4-cq4G9lmUvLI.mp4/master.txt https://p2.photomag.biz/v/8wn61utauas0/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI2MTQxNDEyM15BMl5BanBnXkFtZTYwOTEwMzU5._V1_QL75_UX240_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Tek (2001)
 https://vidmody.com/vs/tt0267804
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE2NmNmYjYtZjc5ZC00NzI3LWI3OTUtNDhhMjdkMzBhOGQ4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Tekken
+(2010)
+https://vidmody.com/vs/tt0411951
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGFhYzllOTUtMWIyZS00Y2RiLWIxNzUtZjkyMTVkNjNhNWI1XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", The Assassin
+Night of the Assassin (2023)
+https://vidmody.com/vs/tt21109580
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQxMDMzODktNzU4ZS00NDU5LWJhYTUtMTE3YmRjYWVlZWU2XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", The Guillotines
 https://vidmody.com/vs/tt1847713
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJlZDk3NjUtYTI0ZS00ZTU4LThiNjYtNGZlODk5ZmQyZmM3XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", The Untold Tale of the Three Kingdoms
+(2020)
+https://vidmody.com/vs/tt12718318
 
 #EXTINF:-1 tvg-id="https://p1.gamephotos.biz/v/63wvqujdt3hb/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNhYzFkZjMtMTliZC00MjhlLTljM2UtZGExZThmNTVjMjYyXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", The Warriors Way
 https://hls11.playmix.uno/hls/thewarriorsway-2010-bluray-trdualmp4-P0U4H3c8zAz.mp4/master.txt
@@ -20054,9 +20124,6 @@ https://cdn.prectv2.lat/hls/4/cdn1/cdn/series/test/Filmler/Altyazi/Yin-YangMaste
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NzgxMjY2NV5BMl5BanBnXkFtZTgwMzcxMjc0OTE@._V1.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Toz Ol
 Skiptrace (2016)
 https://vidmody.com/vs/tt2238032
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgyZjcxNzYtNGRkYi00NGEwLTgzNTgtZDBkODRjNWFiNGI2XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Uprising Jeon, Ran (2024)
-https://vidmody.com/vs/tt27987046
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJmM2ViMzktMWRlMC00YmE2LWI3MWItN2IyMGJkYjMxNGFkXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="10.FiLM UZAKDOĞU DÖVÜŞ KARATE", Usta 1992
 https://turbo.imgz.me/turbo/get/87d5e6a37f30ffa17878d3f3564ef9b2.m3u8
