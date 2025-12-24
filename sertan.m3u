@@ -23,6 +23,9 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310519663101870451/WpKVsqlJuaeOkuWZ.png" group-title="0.KIL-MÜZİK", 04.4Turkpop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.parsatv.com/thumb.php?src=https://www.parsatv.com/index_files/channels/bizmusic.jpg" group-title="0.KIL-MÜZİK", 04.biz müzik 
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.EZGI  Müzik
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
 
@@ -3367,6 +3370,9 @@ http://162.212.179.33:80/gin-dvrfl05/gin-tv8int/tracks-v1a1/rewind-128880.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/7f69ae6e-f799-42f5-916b-a22eccad421b.png" group-title="0.KIL-ULUSAL", 03.TV8 INT c
 https://trn03.tulix.tv/gt-tv8int/index.m3u8
 
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="0.KIL-ULUSAL", 03.tv8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="0.KIL-ULUSAL", 03.Tv8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8?&sid=7tra76g4cefx&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
@@ -3399,6 +3405,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="0.KIL-ULUSAL", 04.Atv        Türknet b
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 04.Atv        Türknet c
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="0.KIL-ULUSAL", 04.ATV    ᵁᴴᴰ⁺™
 http://95.174.71.114:80/TR-ATV/playlist.m3u8
@@ -3510,6 +3519,12 @@ http://95.174.71.114:80/TR-STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Tv" tvg-logo="https://turkey.mom-rsf.org/uploads/_processed_/c/1/csm_261-101_import_aef58b573d.png" group-title="0.KIL-ULUSAL", 07.Star d
 http://162.212.179.33:80/gin-36bay4/gt-startvback2/tracks-v1a1/rewind-128880.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 07.star puhu
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", 07.star puhu2
+http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 
 #EXTINF:-1 tvg-id="Star Tv" tvg-logo="https://turkey.mom-rsf.org/uploads/_processed_/c/1/csm_261-101_import_aef58b573d.png" group-title="0.KIL-ULUSAL", 07.STAR TV     ᵁᴴᴰ⁺™
 http://95.174.71.114:80/TR-STAR/playlist.m3u8
@@ -4510,6 +4525,9 @@ http://104.238.23.215/yt.php?ID=UCUALYmnkEmx8vlxIbpr2gmw&ext=.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.BEST TV 
 https://dengetv.radyotelekom.com.tr:3012/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-biz-cinema.jpg" group-title="00.KIL-DiZi-FİLM", 1.biz sinema 
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
@@ -5326,10 +5344,10 @@ https://vidmody.com/vs/tt22202452/s1/e06
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/7EYlRARcbaToxqJJulwWZH4kUAMVL1FjjO4Y66fd.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.07 Geçit
 https://vidmody.com/vs/tt22202452/s1/e07
 
-#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/hVtenohszSJHHOYrwVmXIsCZtR8VkmMFX5HV8Msc.mp4/index.m3u8" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Pluribus 1.08 Sempati Taarruzu
+#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/hVtenohszSJHHOYrwVmXIsCZtR8VkmMFX5HV8Msc.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.08 Sempati Taarruzu
 https://vidmody.com/vs/tt22202452/s1/e08
 
-#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/10/cdn73/Da3xHZWPYcbdTHTsMdpRZmWdN1ZiRgPozetrZJZ8.mp4/index.m3u8" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Pluribus 1.09 /25.12.2025
+#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/10/cdn73/Da3xHZWPYcbdTHTsMdpRZmWdN1ZiRgPozetrZJZ8.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.09 La Chica o El Mundo
 https://vidmody.com/vs/tt22202452/s1/e09
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.01
@@ -5434,7 +5452,7 @@ https://vidmody.com/vs/tt30645193/s1/e03
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.04
 https://vidmody.com/vs/tt30645193/s1/e04
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.05
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.05
 https://vidmody.com/vs/tt30645193/s1/e05
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry
@@ -10096,6 +10114,28 @@ https://vidmody.com/vs/tt37998920
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE3Nzk0ZjUtYWRkMy00ZmI2LTkxMzktNTAwMDhkMjg3MzEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", On Falling
 https://vidmody.com/vs/tt30766504
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM2NzYxZjktNjQwNi00MGUxLTg5ZWYtNTdhYjMxYjNiN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Caretta Bobi
+https://vidmody.com/vs/tt36334413
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNlOTQ4OGUtODk4OC00MDMxLTliNjQtNzZkMDk0MTk4MjMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Elveda June
+Goodbye June
+https://vidmody.com/vs/tt35766629
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Nuremberg
+https://vidmody.com/vs/tt29567915
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sonsuza Dek
+Eternity
+https://vidmody.com/vs/tt24950660
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Wicked: İyilik Uğruna
+Wicked: For Good 
+https://vidmody.com/vs/tt19847976
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFmNjYxNjEtMGM3My00ZjY1LWEyZDAtZmYyY2NjNTIyZTY2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", 100 Nights of Hero
+
+https://vidmody.com/vs/tt33350512
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI3Y2YwZGYtMDk2NC00YzVmLTg3NzAtNjhhYzA4NTJlN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", After the Hunt
 Avın Ardından
 https://vidmody.com/vs/tt32159989
@@ -10451,9 +10491,6 @@ https://vidmody.com/vs/tt27737203
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JiNjdiN2QtNjlmMS00NzExLTlmZTEtOTVmNzNmYzhmZTc3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Noel Soygunu
 Jingle Bell Heist
 https://vidmody.com/vs/tt24852126
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Nuremberg
-https://vidmody.com/vs/tt29567915
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhhNDhiYjMtZGUwMC00OWIzLTlhMmMtMzg1OGEyZmY4YmY3XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Olümsüzlük İksiri
 Abadi Nan Jaya
