@@ -1650,11 +1650,11 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Kasımpaşa 3-0
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_gs_kas_21ara_ip&secure=1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Gençlerbirliği - Trabzonspor  4-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_genc_ts_17h_22ara_ip&secure=1
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Samsunspor 2-0
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_goz_sam_21ara_ip&secure=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Trendyol_super_lig_logo.svg/1024px-Trendyol_super_lig_logo.svg.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Trabzonspor - 
-
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL ʜᴅ
 http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
@@ -5361,6 +5361,18 @@ https://vidmody.com/vs/tt38781098/s1/e03
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.04
 https://vidmody.com/vs/tt38781098/s1/e04
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.05
+https://vidmody.com/vs/tt38781098/s1/e05
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.06
+https://vidmody.com/vs/tt38781098/s1/e06
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.07
+https://vidmody.com/vs/tt38781098/s1/e07
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.08
+https://vidmody.com/vs/tt38781098/s1/e08
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.01
 https://vidmody.com/vs/tt29921437/s1/e01
