@@ -10334,208 +10334,42 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", Zee BollyWorld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNlYTgwYzMtYzdlNC00MjJhLTlmMzItNWFiYmZhOWNhNmYzXkEyXkFqcGc@._V1_QL75_UX200_.jpg" group-title="08.FiLM YENi 2025", A House of Dynamite
-https://vidmody.com/vs/tt32376165
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Avengers: Doomsday (2026)
+https://imdb-video.media-imdb.com/mc/vi1068354329/vi1068354329_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRhNjE4OTgtNGNmYS00NjgyLWE1MjUtZDcxOTAxMjgzMDFmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yavaşça Söyle
-Tell Me Softly
-https://vidmody.com/vs/tt34434461
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhOWNiMGItYjIwZi00MzNiLTk1MDEtNGMyYjFmYmU3ZTVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Disclosure Day
+https://imdb-video.media-imdb.com/mc/vi2460338969/vi2460338969_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcxNjQxYWEtZTRlMy00ZDFmLTk1MGMtZGYwZjUxNjMzM2M2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Bıçaklar Çekildi: Ölü Adamın Uyanışı
-Wake Up Dead Man: A Knives Out Mystery
-https://vidmody.com/vs/tt14364480
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MjM5M2ItMTU0My00YzI2LTg5NzEtZGNmN2ZmNzhiNjQ1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Moana
+https://imdb-video.media-imdb.com/mc/vi105367577/vi105367577_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0ZjY4N2UtNTk0Mi00YTliLTk1NWYtYzUwNjEwOWRiN2I4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gifted Pain
-https://vidmody.com/vs/tt15243798
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNDJhMjMtZTc4My00MGExLWJjN2MtNWRlNWJmMjcyOTZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Mortal Combat 2
+https://imdb-video.media-imdb.com/vi265930777/1434659607842-pgv4ql-1752771135711.mp4?Expires=1767030245&Signature=pZN5iguJbAup02tMf-~L0Q3S6XXRT4U4ftftpwyNMsRJtvr7GFwI6X0U5UVVU8aFntpRrpQnjjj5FFU4vfgpWa7zVATHaEIfpbac-YYe2PZY4KptBZKmWnlMPHVq9qUqOHWDco5e0DAbBDQ6sENvpmh98lvAnrMFEEUGhFWz4BQOxQLVq-qu1iM~CURgdR0tJZoM8lD7h65xYGxhFkHC7EJy9r7wL0HyGYPhPY-ti50l34F9cY51nU03JUHuM44jH8uEYG2ZjyX3c2KF1gzd1hu1hDIBA23z2QPui06RoGm9gAGWMifMXm6HYHxW7Qg-01H3LrK9Uuf2jkwPr0VBdg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmN2E2YTYtNDc2Ni00ZjZlLWIzMjEtMjgyMzY2ZWU2YjRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Hunting Season
-https://vidmody.com/vs/tt32537226
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Return to Silent Hill
+https://imdb-video.media-imdb.com/mc/vi297126681/hls/vi297126681_8000k.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZjNhZjEtOTQxNi00ZWU3LTk1MGQtYjE3MWZiNWUwNjc0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Manevi Değer
-Sentimental Value
-https://vidmody.com/vs/tt27714581
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q5ODAzYzYtNGUwMi00NDhkLTljZDEtNjk2MjJiZmQ0MTBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Street Fighter
+https://imdb-video.media-imdb.com/mc/vi312593177/vi312593177_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjljN2VkNDItODU0Ni00MDkxLWE0MWYtY2E2YzgzMjAzZmE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Operation Pope
-Zamach na papieza
-https://vidmody.com/vs/tt33996793
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında Supergirl
+https://imdb-video.media-imdb.com/mc/vi849398553/vi849398553_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmExZTcyZGUtN2Q4NC00NmFiLWI1NmQtOTg3OWRlMmE3OGVjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sore: Wife from the Future
-Sore: Istri Dari Masa Depan
-https://vidmody.com/vs/tt34548722
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWZhNjJmYmQtN2JkNS00OGY0LTk3YzYtNDgwNjE2ODIwODczXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında The Hunger Games Sunrise on the Reaping
+https://imdb-video.media-imdb.com/mc/vi2102315033/hls/vi2102315033_8000k.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlkNjlmMjItZjgwNC00MjJiLThiOGUtOWE1ZGFhNTIyMjEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Mother, the Menacer, and Me
-https://vidmody.com/vs/tt32551244
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zootropolis 2
-Zootopia 2
-https://vidmody.com/vs/tt26443597
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFhYTczNWUtY2I0OC00MjEwLWEwZmMtY2VlZGVjZjJlYWRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aaryan
-https://vidmody.com/vs/tt28434143
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiMTBiYWMtMTZjZi00OTMxLWI5NmUtMWE2OTFmZjQwMDI1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Guns & Moses
-https://vidmody.com/vs/tt21861086
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRhNmU2OTUtNzk2YS00NDRjLTlhN2YtODUzM2JiNjMyMzUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Turbulence
-https://vidmody.com/vs/tt33009027
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlNDY1OWUtMjFmNy00MjA4LThiNWEtNzRjMGM2MGUzNjZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yaşama Ateşi
-Soul on Fire
-https://vidmody.com/vs/tt28078628
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRkODYwZjItYjNhZi00OWU5LWI0ODItZDhhNWQ1MDhlNGZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Influencers
-https://vidmody.com/vs/tt36833584
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Downton Abbey: The Grand Finale
-Downton Abbey: Büyük Final
-https://vidmody.com/vs/tt31888477
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE4ZmRmZGUtMTVjOC00OWE2LTk2OGItZmJkNzkyMGFjNGE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Last Seen Alive
-Son Görüldüğü Yer
-https://vidmody.com/vs/tt10242388
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhODA0NzctMDY0Ny00YTRkLWIzNzgtN2E1MDY3MTU2ODQyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Shadow’s Edge
-Bu feng zhui ying
-https://vidmody.com/vs/tt34610311
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg4Y2EwOWItYzk0Yy00M2RhLTgzYjgtZmE4ZjNjOTliZjFmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Begi
-https://vidmody.com/vs/tt34230114
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmIzZDEtOTUzNy00ZDVmLTliYWItOTk0NGE0ZTA2MTc2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Only on Earth
-
-https://vidmody.com/vs/tt32373054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODlhZTg4NmUtYzRhNi00MDdlLWJmZmUtZDJmM2FlZGYyMTk2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yeni Hayata Hazırlık
-Preparation for the Next Life
-https://vidmody.com/vs/tt31727191
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE5MzFlZTItMzZkMC00MTkwLWIwMDMtYmExYjdhYWFiNzJkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Cesurluk Zamanı
-La hora de los valientes 
-https://vidmody.com/vs/tt37961727
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE0ZWNmNDktM2JiYy00NWZlLTliYTktYWNkMjdmMzQ3NjBiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Raat Akeli Hai
-https://vidmody.com/vs/tt12567088
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ2OTBiZmQtYmQyZi00ZWI2LTk2NTYtMWZjNDFlMWYyZDZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Raat Akeli Hai: Bansal Cinayetleri
-Raat Akeli Hai: The Bansal Murders 
-https://vidmody.com/vs/tt37443891
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVlYTJhNWQtZDdhMS00MjRhLWI3YWEtMDRkN2FhNTc3MWZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Tufan
-Daehongsu
-https://vidmody.com/vs/tt29927663
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Avatar: Ateş ve Kül
-Avatar: Fire and Ash
-https://vidmody.com/vs/tt1757678
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUxNTYxN2ItYWU2ZC00NGRmLTgxMmUtZTc5NjVlM2UyZWY1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aşkın Üç Harfi
-Four Letters of Love
-https://vidmody.com/vs/tt13020386
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Arcadian
-En Uzun Gece
-https://vidmody.com/vs/tt22939186
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUwNTg3ODMtZGQxZi00Y2VmLWJhMTEtZTc5ZGM1Nzc5MDViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gabby’nin Hayal Evi: Film
-Gabby's Dollhouse: The Movie
-https://vidmody.com/vs/tt32214143
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRkMThjMWItZDI1NC00NTYxLWIzYjMtMmY2ZTBjN2E3MWMxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Muzzle: City of Wolves
-https://vidmody.com/vs/tt32395062
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI4NGY0Y2UtNzRhOC00YTk4LTkzNTctODhkOTRjOTI5ZGI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Carpenter's Son
-Oğul
-https://vidmody.com/vs/tt32304349
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUxYmFhODUtZGJhZi00MjgwLWJiMWEtOTRlOWRmNTkyMmIwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gatao1: Like Father Like Son
-https://vidmody.com/vs/tt32915791
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAyZTc1YzAtOTEwOS00MThiLWFkMDYtZDgwMzQ0MmY3M2YzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gatao2: Big Brothers
-https://vidmody.com/vs/tt37998920
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE3Nzk0ZjUtYWRkMy00ZmI2LTkxMzktNTAwMDhkMjg3MzEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", On Falling
-https://vidmody.com/vs/tt30766504
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM2NzYxZjktNjQwNi00MGUxLTg5ZWYtNTdhYjMxYjNiN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Caretta Bobi
-https://vidmody.com/vs/tt36334413
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNlOTQ4OGUtODk4OC00MDMxLTliNjQtNzZkMDk0MTk4MjMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Elveda June
-Goodbye June
-https://vidmody.com/vs/tt35766629
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Nuremberg
-https://vidmody.com/vs/tt29567915
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sonsuza Dek
-Eternity
-https://vidmody.com/vs/tt24950660
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Wicked: İyilik Uğruna
-Wicked: For Good 
-https://vidmody.com/vs/tt19847976
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", (Yakında The Odyssey
+https://imdb-video.media-imdb.com/mc/vi766298905/hls/vi766298905_5000k.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFmNjYxNjEtMGM3My00ZjY1LWEyZDAtZmYyY2NjNTIyZTY2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", 100 Nights of Hero
 
 https://vidmody.com/vs/tt33350512
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJjNDAyZDktOTcyZS00MzUxLWIyMjAtZWM0NGE0YzBlNTIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Doğulu
-https://vidmody.com/vs/tt33369041
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNlYTgwYzMtYzdlNC00MjJhLTlmMzItNWFiYmZhOWNhNmYzXkEyXkFqcGc@._V1_QL75_UX200_.jpg" group-title="08.FiLM YENi 2025", A House of Dynamite
+https://vidmody.com/vs/tt32376165
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzZGUzY2EtY2JiNS00NGQwLThkZDYtZDM1OGY0YjgxYWE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight: Kanunsuz
-Detective Knight: Rogue
-https://vidmody.com/vs/tt21435436
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJjYzNiY2QtOWE4Zi00YjJmLWE0ZjEtY2UyNTEyNDMxMGViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight 2: Kefaret
-Detective Knight: Redemption
-https://vidmody.com/vs/tt22394694
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I0NDVjY2UtMWU3MS00ZTBmLWFjY2MtZTI4YmIzYmEwYjY5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Bay & Bayan Aslan
-Mr. & Mrs. Aslan
-https://vidmody.com/vs/tt37249795
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGYzZDI4OTktZWJkZC00NjdiLTlkMjYtMzA1ZTVjMDU2M2FhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Kuş
-Bird
-https://vidmody.com/vs/tt28277817
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTlmNDA4NGEtZTNmZS00NzE4LTk5YzYtNWRjYzFhMWMxOTljXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Vahşiler
-Sauvages 
-https://vidmody.com/vs/tt10695672
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiYzNhNTItN2M4Mi00MDRjLTk2NTMtYmQxODk4ZTMzN2E5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Ayak Takımı
-Riff Raff 
-https://vidmody.com/vs/tt27775403
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ZTBhYTUtNzY1Mi00OWQzLWJmOTItMjAzYzU1ZWYyZDViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dave Chappelle: The Unstoppable...
-https://vidmody.com/vs/tt39227597
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2MmExOTAtOWIxMi00NGQ1LWI1YTItN2M4Y2JhYWMxY2ViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Fackham Hall
-https://vidmody.com/vs/tt29008225
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIwYjJkNWItMWI1ZS00M2IyLWEwMjEtZmI2MWRjOTI1ZDQ0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Handsome Guys
-Haenseomgaijeu
-https://vidmody.com/vs/tt32475217
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgwMzJiODQtZDcxMy00ZWUwLTkyMTMtZjIyMjYwNzljNWNhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Long Shadows
-https://vidmody.com/vs/tt21631810
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4Y2FjMDMtYjJjNC00YTc5LTkxMTMtODA0ZjExNjdkZTk5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Suddenly
-Soudain seuls
-https://vidmody.com/vs/tt14904622
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEzYWE3ZDEtZWFkMS00MTUzLTg3NWQtMjhjNmVjOWUyYjZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zebun
-https://vidmody.com/vs/tt11915106
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZhYTlmODktODdlMC00OWJjLTg2YmQtNGY4N2Q3NjJjMGIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Öfkeli Zarafet
-Raging Grace 
-https://vidmody.com/vs/tt14946978
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc0MTQ3YTctZjRlZC00NTdjLWFmYzYtZGY5OGMwYWJlMWYyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Örtbas: Savaşın Çirkin Gerçekleri
-Cover-Up 
-https://vidmody.com/vs/tt37660887
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE0NzRjMTUtMDc1Zi00YjQyLTk2YzYtNTQ3Yjg1YWMwZjcwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight 3: Son Görev
-Detective Knight: Independence
-https://vidmody.com/vs/tt22394702
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFhYTczNWUtY2I0OC00MjEwLWEwZmMtY2VlZGVjZjJlYWRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aaryan
+https://vidmody.com/vs/tt28434143
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI3Y2YwZGYtMDk2NC00YzVmLTg3NzAtNjhhYzA4NTJlN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", After the Hunt
 Avın Ardından
@@ -10559,13 +10393,29 @@ https://vidmody.com/vs/tt31849867
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NzVkY2UtYWU0Ny00MjcxLWI3YjAtMmZhMDk5NjFhZjlkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Altered
 https://vidmody.com/vs/tt32123395
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ0OTU4MDUtOTM5Yi00Y2QwLThhYTMtZGFmOWU2ZTU0Y2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Arcadian
+En Uzun Gece
+https://vidmody.com/vs/tt22939186
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzYjRmYjctN2E5NS00YWQ4LTk1NGYtYjE4YWZkY2UzYzg1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", As In Heaven
 Du som er i himlen
 https://vidmody.com/vs/tt13269616
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Avatar: Ateş ve Kül
+Avatar: Fire and Ash
+https://vidmody.com/vs/tt1757678
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FiYzNhNTItN2M4Mi00MDRjLTk2NTMtYmQxODk4ZTMzN2E5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Ayak Takımı
+Riff Raff 
+https://vidmody.com/vs/tt27775403
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZmZDQyYmEtZjM1Ni00MmU0LWI0Y2QtY2NiN2ZkNWMwZDcyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aşk ve Şarap
 Love and Wine
 https://vidmody.com/vs/tt38907962
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUxNTYxN2ItYWU2ZC00NGRmLTgxMmUtZTc5NjVlM2UyZWY1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Aşkın Üç Harfi
+Four Letters of Love
+https://vidmody.com/vs/tt13020386
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjI2N2YwNjYtNzlmZS00MzAyLWI1YjktOTNkODY0NDA0YTg0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Babamı Ben Kaçırdım
 The Fakenapping
@@ -10581,6 +10431,10 @@ https://vidmody.com/vs/tt32063098
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU5OGFiN2QtZDBiZC00MjdiLTg5ZmMtNWI2Yjg2NGU0MzhjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Baramulla
 https://vidmody.com/vs/tt29247040
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I0NDVjY2UtMWU3MS00ZTBmLWFjY2MtZTI4YmIzYmEwYjY5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Bay & Bayan Aslan
+Mr. & Mrs. Aslan
+https://vidmody.com/vs/tt37249795
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRiOWY5YzMtYjYzZS00ZmE3LWFhOWEtYjU3NTkwNTdkODhkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Bay ve Bayan Mahi
 Mr. & Mrs. Mahi
 https://vidmody.com/vs/tt16227342
@@ -10588,6 +10442,9 @@ https://vidmody.com/vs/tt16227342
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRjMjZiNTMtNWQ3MC00Mzg1LWIxZTctZGNjNDVmMzRlYzI3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Başka Yolu Yok
 No Other Choice
 https://vidmody.com/vs/tt1527793
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg4Y2EwOWItYzk0Yy00M2RhLTgzYjgtZmE4ZjNjOTliZjFmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Begi
+https://vidmody.com/vs/tt34230114
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmMzI2YTAtYzQ4Yy00Zjg0LWExNWYtYTdjZDk1NTI0MDk4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Believe: The Ultimate Battle
 Believe: Takdir, Mimpi, Keberanian
@@ -10648,9 +10505,20 @@ https://vidmody.com/vs/tt28171985
 A Big Bold Beautiful Journey
 https://vidmody.com/vs/tt13650700
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzcxNjQxYWEtZTRlMy00ZDFmLTk1MGMtZGYwZjUxNjMzM2M2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Bıçaklar Çekildi: Ölü Adamın Uyanışı
+Wake Up Dead Man: A Knives Out Mystery
+https://vidmody.com/vs/tt14364480
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM2NzYxZjktNjQwNi00MGUxLTg5ZWYtNTdhYjMxYjNiN2RlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Caretta Bobi
+https://vidmody.com/vs/tt36334413
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UwYmVjZWMtMTA5Ni00NTc0LTk1MDctNTk3MGY1OGZhYWJhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Carman Ailesinin Gizemi
 The Carman Family Deaths
 https://vidmody.com/vs/tt31137117
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE5MzFlZTItMzZkMC00MTkwLWIwMDMtYmExYjdhYWFiNzJkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Cesurluk Zamanı
+La hora de los valientes 
+https://vidmody.com/vs/tt37961727
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_QL75_UX298_.jpg" group-title="08.FiLM YENi 2025", Cevher
 The Substance 
@@ -10680,8 +10548,23 @@ https://vidmody.com/vs/tt29383191
 Underverden II
 https://vidmody.com/vs/tt20204996
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ZTBhYTUtNzY1Mi00OWQzLWJmOTItMjAzYzU1ZWYyZDViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dave Chappelle: The Unstoppable...
+https://vidmody.com/vs/tt39227597
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQxZWQyNmQtZDI5Yy00OWM4LTg2MTctNDViNTVkOTE1MjMxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Day of a Lion
 https://vidmody.com/vs/tt28153464
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJjYzNiY2QtOWE4Zi00YjJmLWE0ZjEtY2UyNTEyNDMxMGViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight 2: Kefaret
+Detective Knight: Redemption
+https://vidmody.com/vs/tt22394694
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE0NzRjMTUtMDc1Zi00YjQyLTk2YzYtNTQ3Yjg1YWMwZjcwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight 3: Son Görev
+Detective Knight: Independence
+https://vidmody.com/vs/tt22394702
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzZGUzY2EtY2JiNS00NGQwLThkZDYtZDM1OGY0YjgxYWE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Dedektif Knight: Kanunsuz
+Detective Knight: Rogue
+https://vidmody.com/vs/tt21435436
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI0M2E1MTAtZTAwNy00MjQ5LWE3ZTAtNWQ1ZTY0NmVmYzVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Delirtiyorsun
 You Drive Me Crazy 
@@ -10700,6 +10583,13 @@ https://vidmody.com/vs/tt9362736
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFkNTRkNGMtNmVmMC00N2Y3LWI0ZTktODQ2ZGYwN2MyZGE2XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Diskonun İntikamı
 Discos Revenge
 https://vidmody.com/vs/tt31828588
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Downton Abbey: The Grand Finale
+Downton Abbey: Büyük Final
+https://vidmody.com/vs/tt31888477
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjJjNDAyZDktOTcyZS00MzUxLWIyMjAtZWM0NGE0YzBlNTIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Doğulu
+https://vidmody.com/vs/tt33369041
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJmYzIzYWMtNzBhYS00ZWExLTgzZjQtMTg0NzBiYTEwNjE5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Duvarın Ötesi
 East of Wall
@@ -10721,6 +10611,10 @@ https://vidmody.com/vs/tt35627915
 Cennet
 https://vidmody.com/vs/tt23149780
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjNlOTQ4OGUtODk4OC00MDMxLTliNjQtNzZkMDk0MTk4MjMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Elveda June
+Goodbye June
+https://vidmody.com/vs/tt35766629
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFmMTJkOGMtZjhkNS00YzE1LWEyZGMtZDMyNjI1ODE0Mzc5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Esrarengiz Canavar
 Troll
 https://vidmody.com/vs/tt11116912
@@ -10735,6 +10629,9 @@ https://vidmody.com/vs/tt12444168
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", F1 Filmi
 https://vidmody.com/vs/tt16311594
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2MmExOTAtOWIxMi00NGQ1LWI1YTItN2M4Y2JhYWMxY2ViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Fackham Hall
+https://vidmody.com/vs/tt29008225
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNkYmFhZjQtMDg1Ny00OTJhLTgwOWQtODk5ZGEyZjgzOWEwXkEyXkFqcGc@._V1_QL75_UX346_.jpg" group-title="08.FiLM YENi 2025", Fantastik Dörtlü: İlk Adımlar
 The Fantastic Four: First Steps 
@@ -10751,18 +10648,41 @@ https://vidmody.com/vs/tt1312221
 Five Nights at Freddys 2
 https://vidmody.com/vs/tt30274401
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmUwNTg3ODMtZGQxZi00Y2VmLWJhMTEtZTc5ZGM1Nzc5MDViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gabby’nin Hayal Evi: Film
+Gabby's Dollhouse: The Movie
+https://vidmody.com/vs/tt32214143
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUxYmFhODUtZGJhZi00MjgwLWJiMWEtOTRlOWRmNTkyMmIwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gatao1: Like Father Like Son
+https://vidmody.com/vs/tt32915791
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAyZTc1YzAtOTEwOS00MThiLWFkMDYtZDgwMzQ0MmY3M2YzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gatao2: Big Brothers
+https://vidmody.com/vs/tt37998920
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGMwYmM3NWQtNDBkZS00MDhmLWJjZjktZTFmYmYzMDhmMmU5XkEyXkFqcGc@._V1_QL75_UX306_.jpg" group-title="08.FiLM YENi 2025", Geçiş
 Crossing 
 https://vidmody.com/vs/tt27417166
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0ZjY4N2UtNTk0Mi00YTliLTk1NWYtYzUwNjEwOWRiN2I4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Gifted Pain
+https://vidmody.com/vs/tt15243798
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIzZDk2NWYtNDA2YS00MWFhLWE1OTItNmVhMjMxNDE5NTk2XkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="08.FiLM YENi 2025", Good Boy
 https://vidmody.com/vs/tt35521922
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiMTBiYWMtMTZjZi00OTMxLWI5NmUtMWE2OTFmZjQwMDI1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Guns & Moses
+https://vidmody.com/vs/tt21861086
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIwYjJkNWItMWI1ZS00M2IyLWEwMjEtZmI2MWRjOTI1ZDQ0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Handsome Guys
+Haenseomgaijeu
+https://vidmody.com/vs/tt32475217
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTYyN2VlZDctNTk4Ny00NDRkLWI0ZDAtMDVkNjhiZDE5MGJmXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Hedda
 https://vidmody.com/vs/tt27953589
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1NDhkZDctYjg4Ni00OWNiLWE5MTAtMzIzZjgxMmE2MWZhXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="08.FiLM YENi 2025", Hierarchy
 https://vidmody.com/vs/tt13540044
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJmN2E2YTYtNDc2Ni00ZjZlLWIzMjEtMjgyMzY2ZWU2YjRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Hunting Season
+https://vidmody.com/vs/tt32537226
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ2MGIyNDQtYjVhOS00ZjI1LWFmYzctMWI2MGZhZGFhZWM4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Hurry Up Tomorrow
 
@@ -10821,6 +10741,10 @@ https://vidmody.com/vs/tt33305815
 The Conjuring: Last Rites
 https://vidmody.com/vs/tt22898462
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGYzZDI4OTktZWJkZC00NjdiLTlkMjYtMzA1ZTVjMDU2M2FhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Kuş
+Bird
+https://vidmody.com/vs/tt28277817
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk4YzUwZGQtNWViMi00ZmRkLTlhYjAtOTVhNTY1MWYxNDEzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Köln 75
 https://vidmody.com/vs/tt20414360
 
@@ -10828,8 +10752,15 @@ https://vidmody.com/vs/tt20414360
 Tee Yai Rerk Dao Jone
 https://vidmody.com/vs/tt35669044
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE4ZmRmZGUtMTVjOC00OWE2LTk2OGItZmJkNzkyMGFjNGE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Last Seen Alive
+Son Görüldüğü Yer
+https://vidmody.com/vs/tt10242388
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA5ZGFlYjUtNjMxZi00YzQ2LWE1MDUtZGQ3ZjMwMTYyZjE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Lone Samurai
 https://vidmody.com/vs/tt32244794
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgwMzJiODQtZDcxMy00ZWUwLTkyMTMtZjIyMjYwNzljNWNhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Long Shadows
+https://vidmody.com/vs/tt21631810
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVjYTIzMzctNTlmZi00YmNhLTlkZTktNzdkZTQwZmRlNDViXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Lookout
 https://vidmody.com/vs/tt33523851
@@ -10843,6 +10774,10 @@ https://vidmody.com/vs/tt26342662
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZhZmY0MTgtMGRlYy00MWRhLThkNWEtOWYyNzA3Zjg1M2FhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Man Finds Tape
 https://vidmody.com/vs/tt36591419
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5ZjNhZjEtOTQxNi00ZWU3LTk1MGQtYjE3MWZiNWUwNjc0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Manevi Değer
+Sentimental Value
+https://vidmody.com/vs/tt27714581
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY3NzhjNWYtNTgyOS00NjAwLWFhMjgtNjMzMjhhZTVkZjkyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Mango
 https://vidmody.com/vs/tt33293169
@@ -10878,6 +10813,9 @@ https://vidmody.com/vs/tt31728562
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIxOTdmNTEtZTRmMS00NjBkLWI2OWItNjcyYzRjN2JlOGU0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Murder at the Embassy
 https://vidmody.com/vs/tt22772712
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRkMThjMWItZDI1NC00NTYxLWIzYjMtMmY2ZTBjN2E3MWMxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Muzzle: City of Wolves
+https://vidmody.com/vs/tt32395062
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFlNjA0NzAtOWM1ZC00NDAwLWE0MGItZTY3MTFjMDk4NzUyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Mükemmel Aile
 https://vidmody.com/vs/tt23792600
 
@@ -10893,6 +10831,9 @@ https://vidmody.com/vs/tt27737203
 Jingle Bell Heist
 https://vidmody.com/vs/tt24852126
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Nuremberg
+https://vidmody.com/vs/tt29567915
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhhNDhiYjMtZGUwMC00OWIzLTlhMmMtMzg1OGEyZmY4YmY3XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Olümsüzlük İksiri
 Abadi Nan Jaya
 https://vidmody.com/vs/tt32643830
@@ -10901,12 +10842,23 @@ https://vidmody.com/vs/tt32643830
 Omniscient Readers Viewpoint
 https://vidmody.com/vs/tt30254719
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE3Nzk0ZjUtYWRkMy00ZmI2LTkxMzktNTAwMDhkMjg3MzEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", On Falling
+https://vidmody.com/vs/tt30766504
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYwOWQ2M2EtNzAzOC00ZWE4LThiMmMtMWVhMGIzZWJjMDJmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", ONE SHOT with Ed Sheeran
 https://vidmody.com/vs/tt38608937
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmIzZDEtOTUzNy00ZDVmLTliYWItOTk0NGE0ZTA2MTc2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Only on Earth
+
+https://vidmody.com/vs/tt32373054
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlhYTk1ZTEtOWY3NC00NWQ5LTlkOTctNjQ3ZDYyZGE5ZWNlXkEyXkFqcGc@._V1_QL75_UX294_.jpg" group-title="08.FiLM YENi 2025", Onu Geri Getir
 Bring Her Back
 https://vidmody.com/vs/tt32246771
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjljN2VkNDItODU0Ni00MDkxLWE0MWYtY2E2YzgzMjAzZmE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Operation Pope
+Zamach na papieza
+https://vidmody.com/vs/tt33996793
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThkNDg5NTktZjViZC00NzY2LTkxNDItODgzMWIyNGQwZDM4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Osiris
 https://vidmody.com/vs/tt31179712
@@ -10933,6 +10885,13 @@ https://vidmody.com/vs/tt37506041
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRkNWI2YzgtOTc2NC00M2NmLTk4NGMtYjAyZjE5NGYyZTBhXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="08.FiLM YENi 2025", Predator: Vahşi Topraklar
 Predator: Badlands 
 https://vidmody.com/vs/tt31227572
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE0ZWNmNDktM2JiYy00NWZlLTliYTktYWNkMjdmMzQ3NjBiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Raat Akeli Hai
+https://vidmody.com/vs/tt12567088
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ2OTBiZmQtYmQyZi00ZWI2LTk2NTYtMWZjNDFlMWYyZDZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Raat Akeli Hai: Bansal Cinayetleri
+Raat Akeli Hai: The Bansal Murders 
+https://vidmody.com/vs/tt37443891
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBjNmMxNDUtNzJhZC00YTI0LWI3Y2YtMzI2YzU0ZDgyYjQ4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Risk
 Risque
@@ -10991,11 +10950,23 @@ https://vidmody.com/vs/tt27977862
 The Last Gunfight
 https://vidmody.com/vs/tt36589671
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sonsuza Dek
+Eternity
+https://vidmody.com/vs/tt24950660
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmExZTcyZGUtN2Q4NC00NmFiLWI1NmQtOTg3OWRlMmE3OGVjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sore: Wife from the Future
+Sore: Istri Dari Masa Depan
+https://vidmody.com/vs/tt34548722
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTdiOTNhNjItMzk3ZC00YTBlLWE2YjQtZDQ4ZjYyOWNjZjA4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Stephen
 https://vidmody.com/vs/tt38681567
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZhNTg5ODctNDQ4My00YmYzLTkyMmUtNzUzNTBmN2NjYzhiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Stone Creek Killer
 https://vidmody.com/vs/tt33113422
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc4Y2FjMDMtYjJjNC00YTc5LTkxMTMtODA0ZjExNjdkZTk5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Suddenly
+Soudain seuls
+https://vidmody.com/vs/tt14904622
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQxMDVmNDQtMDRhMy00NmNiLTlmNTUtOTA5NDAyMzZkNDQ0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Sulis 1907
 The Riot
@@ -11017,6 +10988,10 @@ https://vidmody.com/vs/tt11539996
 Mahavatar Narsimha
 https://vidmody.com/vs/tt34365591
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI4NGY0Y2UtNzRhOC00YTk4LTkzNTctODhkOTRjOTI5ZGI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Carpenter's Son
+Oğul
+https://vidmody.com/vs/tt32304349
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNjY2NlNzItZWIyMy00N2EzLWFlNjQtOWNlNzYzMmQxNTY5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Grove
 https://vidmody.com/vs/tt7891844
 
@@ -11032,9 +11007,16 @@ https://vidmody.com/vs/tt26569323
 #EXTINF:-1 tvg-id="https://pixeldrain.com/api/file/F6bq22MX" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQzM2RmMzUtM2Y3Yy00YTFjLWJjMjQtZThmNGY3ZTI3ZWEzXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", The Monkey
 https://vidmody.com/vs/tt27714946
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlkNjlmMjItZjgwNC00MjJiLThiOGUtOWE1ZGFhNTIyMjEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Mother, the Menacer, and Me
+https://vidmody.com/vs/tt32551244
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJjZGVkN2MtNWI2Zi00NzE3LThmNjUtOGZjNzVkNjc0NWY3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Old Woman With The Knife
 Pagwa
 https://vidmody.com/vs/tt34509472
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhODA0NzctMDY0Ny00YTRkLWIzNzgtN2E1MDY3MTU2ODQyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", The Shadow’s Edge
+Bu feng zhui ying
+https://vidmody.com/vs/tt34610311
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIzZmE0YmYtZjkwOS00ZDQxLTlkNDQtYmIzNTdjZTc5M2Q4XkEyXkFqcGc@._V1_QL75_UX436_.jpg" group-title="08.FiLM YENi 2025", The Stranger in My Home
 Evimdeki Yabancı
@@ -11070,14 +11052,29 @@ https://vidmody.com/vs/tt29768334
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRlMzYzZDMtYTQ0Yy00YTJiLWFiMTItYWIzODdlZTc3ZTU4XkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", TRON: Ares
 https://vidmody.com/vs/tt6604188
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVlYTJhNWQtZDdhMS00MjRhLWI3YWEtMDRkN2FhNTc3MWZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Tufan
+Daehongsu
+https://vidmody.com/vs/tt29927663
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRhNmU2OTUtNzk2YS00NDRjLTlhN2YtODUzM2JiNjMyMzUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Turbulence
+https://vidmody.com/vs/tt33009027
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2MyOTRjYmEtM2JkYS00Y2RiLThjOTItOGNhNGJlY2I0ZWQyXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Tyler Perryden Joyun Kısmeti
 https://vidmody.com/vs/tt31193547
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFiYzZlMjMtYjBjMy00NDFiLTgwOWEtNWI4MzIyNGNjOThmXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", V/H/S/Halloween
 https://vidmody.com/vs/tt37676033
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTlmNDA4NGEtZTNmZS00NzE4LTk5YzYtNWRjYzFhMWMxOTljXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Vahşiler
+Sauvages 
+https://vidmody.com/vs/tt10695672
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2YzE5OGYtNjU1Zi00ODZmLTllOTAtZWFhMDMxYjg5MDBmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Violent Ends
 https://vidmody.com/vs/tt6902560
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Wicked: İyilik Uğruna
+Wicked: For Good 
+https://vidmody.com/vs/tt19847976
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc4NGFlYjMtOWZmZC00NzJiLTk2NDUtNWJmMjgyNDIwMWYwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Wildcat
 https://vidmody.com/vs/tt36153493
@@ -11089,6 +11086,21 @@ https://vidmody.com/vs/tt27629220
 Twinless
 https://vidmody.com/vs/tt31322753
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRhNjE4OTgtNGNmYS00NjgyLWE1MjUtZDcxOTAxMjgzMDFmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yavaşça Söyle
+Tell Me Softly
+https://vidmody.com/vs/tt34434461
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlNDY1OWUtMjFmNy00MjA4LThiNWEtNzRjMGM2MGUzNjZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yaşama Ateşi
+Soul on Fire
+https://vidmody.com/vs/tt28078628
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODlhZTg4NmUtYzRhNi00MDdlLWJmZmUtZDJmM2FlZGYyMTk2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Yeni Hayata Hazırlık
+Preparation for the Next Life
+https://vidmody.com/vs/tt31727191
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEzYWE3ZDEtZWFkMS00MTUzLTg3NWQtMjhjNmVjOWUyYjZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zebun
+https://vidmody.com/vs/tt11915106
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY4ZTJmZmQtNWNmMS00MjEwLWI1ZTYtNzEzNGFjZTBhMzE4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Ziyaretçiler: Bölüm 2
 The Strangers: Chapter 2 
 https://vidmody.com/vs/tt28671344
@@ -11096,6 +11108,10 @@ https://vidmody.com/vs/tt28671344
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgwODE3ODYtYmZkMS00NjE1LWE0YjgtZTI4ODk1YzVmNGRkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zombi İstilası
 Herd
 https://vidmody.com/vs/tt14348734
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Zootropolis 2
+Zootopia 2
+https://vidmody.com/vs/tt26443597
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwOTEwZDgtZmJkMy00YmRiLWFjMjgtOTM2NWYzYjIzYzAwXkEyXkFqcGc@._V1_QL75_UX186_.jpg" group-title="08.FiLM YENi 2025", Zoraki Tatil
 Forced Vacation
@@ -11108,6 +11124,10 @@ https://vidmody.com/vs/tt4627382
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzNDk0YTctYzJiMi00MDIzLTg2OWUtODE4Y2NlZmZlZWNiXkEyXkFqcGc@._V.jpg" group-title="08.FiLM YENi 2025", Çıldırmanın Eşiğinde
 Las Locuras 
 https://vidmody.com/vs/tt31226985
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZhYTlmODktODdlMC00OWJjLTg2YmQtNGY4N2Q3NjJjMGIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Öfkeli Zarafet
+Raging Grace 
+https://vidmody.com/vs/tt14946978
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQyMTZmYWMtNGJmZi00Y2MyLWJhM2QtZWQ4ODc2OTM1ZmU2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Öldüren Terapi
 It Feeds
@@ -11124,12 +11144,19 @@ https://vidmody.com/vs/tt14107334
 Nobody 2 
 https://vidmody.com/vs/tt28996126
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc0MTQ3YTctZjRlZC00NTdjLWFmYzYtZGY5OGMwYWJlMWYyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Örtbas: Savaşın Çirkin Gerçekleri
+Cover-Up 
+https://vidmody.com/vs/tt37660887
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk1NzdhZmItMDhmNi00NThmLWIyYzEtZTU3ZDQ0ZjczZDJlXkEyXkFqcGc@._V1_QL75_UX306_.jpg" group-title="08.FiLM YENi 2025", Örümcek Kadının Öpücüğü
 Kiss of the Spider Woman
 https://vidmody.com/vs/tt30400277
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM0ODliY2EtOGU1OC00YThlLWJkZjMtOTg0YjYxYTg5MjkxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", I Swear
 https://vidmody.com/vs/tt31514146
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRkODYwZjItYjNhZi00OWU5LWI0ODItZDhhNWQ1MDhlNGZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2025", Influencers
+https://vidmody.com/vs/tt36833584
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI2MTUzOWUtZGZmMC00YjE5LWJiMzQtNmY4M2ZmNGM1YTAwXkEyXkFqcGc@._V1_QL75_UX290_.jpg" group-title="08.FiLM YENi 2025", Şanslı Baskhar Lucky Baskhar
 https://vidmody.com/vs/tt27540542
