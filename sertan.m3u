@@ -113,6 +113,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZM4PSyq.png" group-title="0.KIL-MÜZİK", 08.Number 1 Dance d
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", 08.Number One Rap
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/18zjk3q.png" group-title="0.KIL-MÜZİK", 09.Number 1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 
@@ -5894,6 +5897,9 @@ http://65.108.239.207/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (discovery b
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6861/index.m3u8
 
+#EXTINF:-1 tvg-id="discoverychannel" tvg-logo="https://img.dsmartgo.com.tr/content/r/9C/11894/Thumbnail.png" group-title="01.KIL-BELGESEL", (Discovery Channel
+https://cablew.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=
+
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (Discovery Channel Rec tv
 https://ds.ayakkabiparti.lol/discovery/index.m3u8
 
@@ -5917,6 +5923,12 @@ http://65.108.239.207/docubox/index.m3u8
 
 #EXTINF:-1 tvg-id="https://tv1.arectv30.sbs/live/docubox.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (Docubox rec
 https://ds.ayakkabiparti.lol/docubox/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/2AhNhK8-75mE6-P-DLxVeMGdgILIeJP9Tr2alfmxInwl0gfguHSTIcQvLfT86JUIdzFkJDxwOg" group-title="01.KIL-BELGESEL", (DISCOVERY CHANNEL
+https://live.rec-mobil.workers.dev/?CDN=2&ID=106
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="01.KIL-BELGESEL", (DISCOVERY CHANNEL HD
+http://65.108.239.207:80/discovery/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="https://tv.arectv3.xyz/live/history.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="01.KIL-BELGESEL", (HISTORY CHANNEL rec
 https://ds.ayakkabiparti.lol/history/index.m3u8
@@ -10394,10 +10406,10 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", Zee BollyWorld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3MmRhMWMtY2FhNS00M2VmLWFmNzEtYTMyZWU0OTVlYzQ4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", ( Yakında 28 Years Later The Bone Temple
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3MmRhMWMtY2FhNS00M2VmLWFmNzEtYTMyZWU0OTVlYzQ4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında 28 Years Later The Bone Temple
 https://imdb-video.media-imdb.com/mc/vi4122790681/vi4122790681_1080p.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", ( Yakında Apex
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Apex
 https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Avengers: Doomsday (2026)
@@ -10405,6 +10417,9 @@ https://imdb-video.media-imdb.com/mc/vi1068354329/vi1068354329_1080p.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhOWNiMGItYjIwZi00MzNiLTk1MDEtNGMyYjFmYmU3ZTVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Disclosure Day
 https://imdb-video.media-imdb.com/mc/vi2460338969/vi2460338969_1080p.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzM2IzZTMtYzA2Yi00NjY0LWE1ODktNTllZmI3ZTI1MzBmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Greenland 2 Migration
+https://imdb-video.media-imdb.com/mc/vi915917593/hls/vi915917593_8000k.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg1MmRiODQtMjU1OC00Nzc5LTlhNjktNzllMmUwODIzMDU2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Michael
 https://imdb-video.media-imdb.com/mc/vi1901512729/hls/vi1901512729_8000k.m3u8
@@ -10418,6 +10433,9 @@ https://imdb-video.media-imdb.com/vi2977548313/1701734515261-esrwmn-176022134663
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Return to Silent Hill
 https://imdb-video.media-imdb.com/mc/vi297126681/hls/vi297126681_8000k.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ3OWQ2YjUtZDMyZC00NGYxLTlkY2ItMzdjYTViM2E0YTJlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Shelter
+https://imdb-video.media-imdb.com/mc/vi397789977/hls/vi397789977_8000k.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Q5ODAzYzYtNGUwMi00NDhkLTljZDEtNjk2MjJiZmQ0MTBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Street Fighter
 https://imdb-video.media-imdb.com/mc/vi312593177/vi312593177_1080p.mp4
 
@@ -10429,6 +10447,9 @@ https://imdb-video.media-imdb.com/mc/vi2102315033/hls/vi2102315033_8000k.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2MyYjk2MWMtODMyZS00MDUyLWE0OGQtOTQ3MGY0MDE0ZjVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında The Odyssey
 https://imdb-video.media-imdb.com/mc/vi766298905/hls/vi766298905_5000k.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4MmM4MTgtZjNmYi00NjkzLWIzZWYtMWFlYWE0NzE4MzI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında The Rip
+https://imdb-video.media-imdb.com/mc/vi244828953/hls/vi244828953_8000k.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Anakonda
 Anaconda
@@ -10462,8 +10483,15 @@ https://vidmody.com/vs/tt32475217
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2ZGRiY2ItZDY5Mi00ZjJlLWJiZTEtMWFiMTEwMWZiODQ1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Jimmy and Stiggs
 https://vidmody.com/vs/tt33372496
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQxYzgyNTEtZTQwYi00Y2ZiLWJlYmYtNWI3ZGNiM2Q2YjE3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", People You May Know
+Tanıyor Olabileceğin Kişiler
+https://vidmody.com/vs/tt5318534
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFjZjBhNTUtM2RlOS00YWFiLThmNDktYmMzZjk4YWYwYTg0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Play Dead
 https://vidmody.com/vs/tt20198774
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4NzQxZmItMjUyYS00YWY3LTk0YWQtMDdkZmI0NzE3NjIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Rembrandt
+https://vidmody.com/vs/tt31539698
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFhMjY5NGQtYWFlNS00MDZmLTkwNzAtNjdjMzQzMTQxY2U3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sesimi Takip Et
 Follow My Voice
@@ -10537,9 +10565,6 @@ https://vidmody.com/vs/tt28989517
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZkNWQyNWEtYTUxMy00Y2RjLThkNGMtNDBjZjE1NWI4MmFiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", 9 Kere Leyla
 https://vidmody.com/vs/tt11792734
 
-#EXTINF:-1 tvg-id="https://ankara3.shop/cdn/down/83c4534755d780cbbddae5811805ead5/720p/720p.txt https://mp4.txtstream2.xyz/5/cdn8/Movies/Arog.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyODRjMWMtNzkzMi00NmJmLTljODEtMWI3NWViZjYxZmZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", A.R.O.G.
-https://vidmody.com/vs/tt1286126
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgzNzA1ODAtYTQ4OC00NjllLTk3OGYtYjY2NmM5YTM3M2Y3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aaahh Belinda
 (1986)
 https://vidmody.com/vs/tt0278891
@@ -10576,9 +10601,6 @@ https://vidmody.com/vs/tt7748426
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZWNkMDEtYjQ3Ny00ZGU0LTg4MjYtMDlmNTgzZTM4ZmNiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Akşam Güneşi 1966
 https://videos.files.wordpress.com/hDlkBdps/aksm-gns-1966_mp4.adaptive_3.m3u8
-
-#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/f373bb322e44c2b04209261be5013617/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwNTQyMjA0NF5BMl5BanBnXkFtZTgwNjUyODMyNzE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ali Baba ve 7 Cüceler (2015)
-https://vidmody.com/vs/tt4728338
 
 #EXTINF:-1 tvg-id="https://p3.photofunia.pro/v/6w6d05dt82hp/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1NTQ2NzEwMl5BMl5BanBnXkFtZTgwNDY2OTk3OTE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ali Kundilli
 https://vidmody.com/vs/tt4712818
@@ -10617,9 +10639,6 @@ https://vidmody.com/vs/tt33504617
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI0NTFkOWYtNjBhMy00YWY5LWIyODMtNzQwYzYyN2E2ZGRiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Arap Kadri (2024)
 https://vidmody.com/vs/tt29551250
 
-#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/31dc5092b5c1a76653323f5ebbbf0a38/720p/720p.txt https://mp4.txtstream2.xyz/2/cdn5/ups/filess/arifv216.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFkMmRkMzktNTkwYy00ZTA2LWJmYmItNzZlNWQxOWMwZmE5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Arif V 216
-https://vidmody.com/vs/tt6697582
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBkZDE1NzItYTg5My00ZTNkLWJmYmEtZDIyMzg3MWVmMzhhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Arım Balım Peteğim (1970)
 https://videos.files.wordpress.com/7d5ZVWDz/1970_mp4.adaptive_3.m3u8
 
@@ -10628,6 +10647,14 @@ https://vidmody.com/vs/tt4580292
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMyMGMxZGUtZDA4NC00MTc5LWFlODctNjRkZmU0YjQwNWYyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ata Demirer Gazinosu
 https://vidmody.com/vs/tt13663146
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmI5MDU0NTUtYTY0OS00MWU2LWI1OTYtYTM4Yzg0NDU4NWRkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ata Demirer: Tek Kişilik Dev Kadro
+(2005)
+https://vidmody.com/vs/tt1565438
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY2Njc4ODktNWIwOC00NWVkLTg5NzAtOWVkZWM2MmFlYmRhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ata Demirer: Tek Kişilik Dev Kadro 2
+(2011)
+https://vidmody.com/vs/tt3758462
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/9/cdn501/3cd8256c0ddb3d43f5f0a097fb3af9f017259112648.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFmM2E3NTQtNTY1MS00YTNhLWE1ZjItNjE4YjE0MTI4ODNlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Atatürk 1- 1881 - 1919
 https://vs14.photoflax.org/v/Ataturk.I.1881-1919.2023.WEB-DL.1080p/master.m3u8
@@ -10772,9 +10799,6 @@ https://vidmody.com/vs/tt0893507
 #EXTINF:-1 tvg-id="https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5NTAyMjczNV5BMl5BanBnXkFtZTgwNTQ3OTQyMTE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bi Küçük Eylül Meselesi
 https://vidmody.com/vs/tt3142872
 
-#EXTINF:-1 tvg-id="https://ok.vidmoxy.com/oget/31160339198" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk4YTEyODQtZmI2OC00MzZiLTg3MWQtZWMwMmIzOWM5OTQ5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bifo & CMYLMZ
-https://vidmody.com/vs/tt4184166
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM5YTE1NDQtMDg0My00MTlmLTgwMjMtOGQyYzVjYmM3ZWQ1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bihter
 https://vidmody.com/vs/tt26258488
 
@@ -10880,11 +10904,65 @@ https://vidmody.com/vs/tt2610768
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RmZWNhODctZjdhYi00MjhiLThlMjMtMjAyNWMzZDZjM2M5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Karacanın Gözyaşları
 https://vidmody.com/vs/tt22394800
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ3YzU5NDQtNjExMy00NTI3LTgyODgtYTNlZTFlMzdjNGEzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz Bir Tat Bir Doku
+#EXTINF:-1 tvg-id="https://ankara3.shop/cdn/down/83c4534755d780cbbddae5811805ead5/720p/720p.txt https://mp4.txtstream2.xyz/5/cdn8/Movies/Arog.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyODRjMWMtNzkzMi00NmJmLTljODEtMWI3NWViZjYxZmZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: A.R.O.G.
+https://vidmody.com/vs/tt1286126
+
+#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/f373bb322e44c2b04209261be5013617/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwNTQyMjA0NF5BMl5BanBnXkFtZTgwNjUyODMyNzE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Ali Baba ve 7 Cüceler (2015)
+https://vidmody.com/vs/tt4728338
+
+#EXTINF:-1 tvg-id="https://sheldoncooper5.shop/cdn/down/31dc5092b5c1a76653323f5ebbbf0a38/720p/720p.txt https://mp4.txtstream2.xyz/2/cdn5/ups/filess/arifv216.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFkMmRkMzktNTkwYy00ZTA2LWJmYmItNzZlNWQxOWMwZmE5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Arif V 216
+https://vidmody.com/vs/tt6697582
+
+#EXTINF:-1 tvg-id="https://ok.vidmoxy.com/oget/31160339198" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk4YTEyODQtZmI2OC00MzZiLTg3MWQtZWMwMmIzOWM5OTQ5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Bifo & CMYLMZ
+https://vidmody.com/vs/tt4184166
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ3YzU5NDQtNjExMy00NTI3LTgyODgtYTNlZTFlMzdjNGEzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Bir Tat Bir Doku
 https://vidmody.com/vs/tt0382568
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Njc3MDQ5MV5BMl5BanBnXkFtZTcwNzIwNTQ5OA@@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: CM101MMXI Fundamentals
+https://vidmody.com/vs/tt2592910
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQxZGUxOTktYWE2Ni00MTQwLThlMTgtNDM4NzRhNWJhNDQ2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: CMXXIV
+https://srv12.cdnimages2060.sbs/hls/cmxxiv-2025-webdlmp4-vaOjpjYlMWK.mp4/txt/master.txt
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFmZTFiOGUtZjYyNi00NWIzLThiNmMtZDk0ZDNlODkyMGQ5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: CMYLMZ
+https://vidmody.com/vs/tt1578118
+
+#EXTINF:-1 tvg-id="https://ok.vidmoxy.com/oget/31153785598" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2YzIwM2EtYmRhNi00NjVkLThjMTItZGE4Mjg4ZTc4NzZiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: CMYLMZ: Soru & Cevap
+https://dosyaload.com/m3u/NmhMM3pzalBCUy8rM0owMzhGUjhJTmJzN0g5cDllTlhpL0Zoa3pDdHhKYlhXZGxsV3BPZG9OQmMxSWRINHpUWS9id2REV2QrUHFOUzZ2d2VZOE55K3JaNnJiaUZScWVycTBjY1JZOGQvVERiNlQ0VVR4OVk0VDVtaDRBWkdES1lpc3c5aUt1OVVRUVNKb3BTV3ArelhCV200OVd2aXhaWndnUUtYMHVmOTZQNlFMYjZtQ3oxNE9CajAwczhsM2Zk
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWExNjc0NDMtNDdmMS00OTczLTg5OTQtOTdjMGIxMGZiMDFiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Diamond Elite Platinum Plus
 https://vidmody.com/vs/tt16444502
+
+#EXTINF:-1 tvg-id="https://srv13.cdnimages1527.sbs/hls/gora-2004-bluraymp4-qcW17CCba4f.mp4/txt/master.txt https://mp4.txtstream2.xyz/5/cdn8/Movies/Gora.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk5NTk2ZWMtZWNlZC00ZmViLWFkYWUtYmNmOTc3NWZjOTJjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: G.O.R.A.
+https://vidmody.com/vs/tt0384116
+
+#EXTINF:-1 tvg-id="https://p2.photostack.net/v/0r8tw0144v55/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjM2IyZjgtNTA0NC00OGZhLWI3ODctMGJmODE2N2Y0NGRjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Her Şey Çok Güzel Olacak
+https://vidmody.com/vs/tt0263438
+
+#EXTINF:-1 tvg-id="https://p1.photofunia.pro/v/g651mhw14c9c/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBiZmJlMTEtZDA1ZS00ZGYyLTliNmQtYTk4OGQyNGE4MTY3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Hokkabaz
+https://vidmody.com/vs/tt0827503
+
+#EXTINF:-1 tvg-id="https://p3.photofunia.pro/v/pul5la9a8cnq/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjN2RjMDctZjFmYS00MmZkLWI5YzctZWExMDU1NDEwYzM1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: iftarlık Gazoz
+https://vidmody.com/vs/tt5229228
+
+#EXTINF:-1 tvg-id="https://kyoto4.shop/cdn/down/a498a3ee539908bae98cb1d289d90537/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwZjk4ODgtNGQzOS00YzA4LTg1N2QtNGY3OGQ0YzQwYjk0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Karakomik Filmler 2: Deli (2020)
+https://vidmody.com/vs/tt11416594
+
+#EXTINF:-1 tvg-id="https://ispanya5.shop/cdn/down/413a8b1a92f90ad9063b086466c36916/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIyMmU0MTMtYzMxMC00NWQyLWFhMmMtMmU5ZjA2YjE3ZDI3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Karakomik Filmler 2: Emanet (2020)
+https://vidmody.com/vs/tt10472102
+
+#EXTINF:-1 tvg-id="https://losangeles2.shop/cdn/down/2049346d9c8763c48f11cb5eb56ade6f/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ1NTE2OGQtYjI0My00YzliLWE0MjctM2UzNzlhNDBhN2ZhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Karakomik Filmler: 2 Arada (2019)
+https://vidmody.com/vs/tt8456098
+
+#EXTINF:-1 tvg-id="https://marsilya5.shop/cdn/down/1ac89443c694523a8033af29b63edf1e/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FmMTM4YmItMGQxOC00OTFjLWI5NGEtYmZiMjcwZDIzY2VmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Karakomik Filmler: Kaçamak (2019)
+https://vidmody.com/vs/tt8865546
+
+#EXTINF:-1 tvg-id="https://nagoya5.shop/cdn/down/d75ee0588e27fbee5697135f475db610/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0ODQ4OTE0OF5BMl5BanBnXkFtZTgwNzQwMTk3MjE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Pek Yakında (2014)
+https://vidmody.com/vs/tt3698408
+
+#EXTINF:-1 tvg-id="https://tatlilar5.shop/cdn/down/3f83b68ded558028ba097fb9ccbab2f2/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMWY0NzQtZmNkNS00ZGQ3LWIzNTEtNzY1ODEyYmIwNWMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cem Yılmaz: Yahşi Batı (2009)
+https://vidmody.com/vs/tt1567448
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I4OGE0NGEtY2YxYy00YzBkLWI0NDctNzhkMWIzNDg1ZmUzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cep Herkülü: Naim Süleymanoğlu
 https://vidmody.com/vs/tt9500372
@@ -10898,15 +10976,6 @@ https://vidmody.com/vs/tt7218732
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTRhNzUwMDgtM2NmMi00ZGI3LTg3M2EtYTI0MTdmZjA1NjRiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ciçek Abbas (1982)
 https://videos.files.wordpress.com/rvaaOwVt/cck-abbs-snsrsz-hd_mp4.adaptive_3.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Njc3MDQ5MV5BMl5BanBnXkFtZTcwNzIwNTQ5OA@@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", CM101MMXI Fundamentals
-https://vidmody.com/vs/tt2592910
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFmZTFiOGUtZjYyNi00NWIzLThiNmMtZDk0ZDNlODkyMGQ5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", CMYLMZ
-https://vidmody.com/vs/tt1578118
-
-#EXTINF:-1 tvg-id="https://ok.vidmoxy.com/oget/31153785598" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2YzIwM2EtYmRhNi00NjVkLThjMTItZGE4Mjg4ZTc4NzZiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", CMYLMZ: Soru & Cevap
-https://dosyaload.com/m3u/NmhMM3pzalBCUy8rM0owMzhGUjhJTmJzN0g5cDllTlhpL0Zoa3pDdHhKYlhXZGxsV3BPZG9OQmMxSWRINHpUWS9id2REV2QrUHFOUzZ2d2VZOE55K3JaNnJiaUZScWVycTBjY1JZOGQvVERiNlQ0VVR4OVk0VDVtaDRBWkdES1lpc3c5aUt1OVVRUVNKb3BTV3ArelhCV200OVd2aXhaWndnUUtYMHVmOTZQNlFMYjZtQ3oxNE9CajAwczhsM2Zk
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IzNGQ4NzUtM2YxNS00YzQ5LWFhNDktNTAzMjRhZDg2NjBkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cok Aşk
 Too Much Love (2023)
@@ -11032,9 +11101,6 @@ https://videos.files.wordpress.com/HhwtAxxQ/frr-1984-hd_mp4.adaptive_3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThmYjE5OGYtZjNlMS00OGMzLWI1YmQtNTM3ODE4YjNjMTEzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Firincinin Karisi (2019)
 https://vidmody.com/vs/tt10183542
-
-#EXTINF:-1 tvg-id="https://srv13.cdnimages1527.sbs/hls/gora-2004-bluraymp4-qcW17CCba4f.mp4/txt/master.txt https://mp4.txtstream2.xyz/5/cdn8/Movies/Gora.mp4" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk5NTk2ZWMtZWNlZC00ZmViLWFkYWUtYmNmOTc3NWZjOTJjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", G.O.R.A.
-https://vidmody.com/vs/tt0384116
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIwNDcyMTMtOTczMC00Y2YxLWFmMzAtNDc2MmE3NDdlNzIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Gelin (1973)
 https://hls10.playmix.uno/hls/gelin-1973-webdlmp4-eCAwHYsRUyR.mp4/master.txt
@@ -11174,12 +11240,6 @@ https://vidmody.com/vs/tt36622181
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMyNzQ2MzQtNDE3Mi00N2U3LTg5ZjItMTkzM2QyNTA0MjZhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Her Şey Dahil
 https://vidmody.com/vs/tt20568010
 
-#EXTINF:-1 tvg-id="https://p2.photostack.net/v/0r8tw0144v55/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjM2IyZjgtNTA0NC00OGZhLWI3ODctMGJmODE2N2Y0NGRjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Her Şey Çok Güzel Olacak
-https://vidmody.com/vs/tt0263438
-
-#EXTINF:-1 tvg-id="https://p1.photofunia.pro/v/g651mhw14c9c/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBiZmJlMTEtZDA1ZS00ZGYyLTliNmQtYTk4OGQyNGE4MTY3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hokkabaz
-https://vidmody.com/vs/tt0827503
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlhYTkwOWItN2UzZS00MzgwLThlMWEtNjgzZmFiMzM3ZDRhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hükümet Bey
 https://vidmody.com/vs/tt25011204
 
@@ -11191,9 +11251,6 @@ https://vidmody.com/vs/tt3283718
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzljZDU5YTAtZjViYS00NzQ1LWFmMWUtMzc1NzdjNjMxMGVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hınç  (1976)
 https://videos.files.wordpress.com/zNTJk56y/hnc-1976_mp4.adaptive_3.m3u8
-
-#EXTINF:-1 tvg-id="https://p3.photofunia.pro/v/pul5la9a8cnq/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRjN2RjMDctZjFmYS00MmZkLWI5YzctZWExMDU1NDEwYzM1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", iftarlık Gazoz
-https://vidmody.com/vs/tt5229228
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ0N2I2M2MtMjFhMy00OTI3LWFkZmEtOThmMTFhN2MzOGYwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", İki Dünya Bir Dilek
 https://vidmody.com/vs/tt36499994
@@ -11251,18 +11308,6 @@ https://vidmody.com/vs/tt35825882
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk0OTQ1YTYtNjJhYy00ZDNkLTkwOWEtNjRmM2U3MDdmNzVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kanal
 (1979)
 https://vidmody.com/vs/tt0280819
-
-#EXTINF:-1 tvg-id="https://kyoto4.shop/cdn/down/a498a3ee539908bae98cb1d289d90537/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwZjk4ODgtNGQzOS00YzA4LTg1N2QtNGY3OGQ0YzQwYjk0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Karakomik Filmler 2: Deli (2020)
-https://vidmody.com/vs/tt11416594
-
-#EXTINF:-1 tvg-id="https://ispanya5.shop/cdn/down/413a8b1a92f90ad9063b086466c36916/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIyMmU0MTMtYzMxMC00NWQyLWFhMmMtMmU5ZjA2YjE3ZDI3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Karakomik Filmler 2: Emanet (2020)
-https://vidmody.com/vs/tt10472102
-
-#EXTINF:-1 tvg-id="https://losangeles2.shop/cdn/down/2049346d9c8763c48f11cb5eb56ade6f/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTQ1NTE2OGQtYjI0My00YzliLWE0MjctM2UzNzlhNDBhN2ZhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Karakomik Filmler: 2 Arada (2019)
-https://vidmody.com/vs/tt8456098
-
-#EXTINF:-1 tvg-id="https://marsilya5.shop/cdn/down/1ac89443c694523a8033af29b63edf1e/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FmMTM4YmItMGQxOC00OTFjLWI5NGEtYmZiMjcwZDIzY2VmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Karakomik Filmler: Kaçamak (2019)
-https://vidmody.com/vs/tt8865546
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZiYjIzMzMtOWY2NC00OWMyLWFiNjktNjBjMTBhNjU4NjZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kardeş Takımı
 https://vidmody.com/vs/tt28350395
@@ -11692,9 +11737,6 @@ https://vidmody.com/vs/tt22208480
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiMDk2NTktYTBhMS00ODZiLTgxODItMTI4NDM0NDNhZTZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Pehlivan 1984 
 https://videos.files.wordpress.com/02VyC8q2/phlvn_mp4.adaptive_3.m3u8
 
-#EXTINF:-1 tvg-id="https://nagoya5.shop/cdn/down/d75ee0588e27fbee5697135f475db610/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0NTMyNDktMWM5MC00MGE4LTkxMWQtMGNhYTE4ZDg0MmRiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Pek Yakında (2014)
-https://vidmody.com/vs/tt3698408
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUzYTAzM2QtN2E3MC00ODA1LWE1YjctYTc3ZGJjMGMxMTRkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Polis Akademisi Alaturka
 Police Academy Alaturka
 https://vidmody.com/vs/tt4325152
@@ -11898,9 +11940,6 @@ https://vidmody.com/vs/tt0270053
 
 #EXTINF:-1 tvg-id="https://chicago5.online/cdn/down/fbd552f1cfd6cf8c0565edfa18b687fc/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5NTkyMTIzMF5BMl5BanBnXkFtZTcwNTk3MDY4NA@@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Vizontele Tuuba (2004)
 https://vidmody.com/vs/tt0399854
-
-#EXTINF:-1 tvg-id="https://tatlilar5.shop/cdn/down/3f83b68ded558028ba097fb9ccbab2f2/720p/720p.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMWY0NzQtZmNkNS00ZGQ3LWIzNTEtNzY1ODEyYmIwNWMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yahşi Batı (2009)
-https://vidmody.com/vs/tt1567448
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWU5ZjJiZWYtMjk4OC00MTgzLThmNzAtODFkODY4YzAwMTFkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yalan Dolan
 (2019)
@@ -18240,6 +18279,21 @@ https://vidmody.com/vs/tt0499448
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ2YTdmMmEtZGRiZS00MTlmLThiMGMtYmM4MmRkMjkwZDNhXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Narnia Günlükleri 3 Şafak Yıldızının Yolculuğu
 https://vidmody.com/vs/tt0980970
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE1MmMxZDMtYzkyYS00N2EzLTgxYWItNWZiN2NmMzZiZTNmXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ne Yaptığını 1 Biliyorum I Know What You Did Last Summer (1997)
+https://vidmody.com/vs/tt0119345
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2ZDVlNGMtNDFmZi00YjIzLWJmZGQtNzQwODJkY2YwNGE4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ne Yaptığını 2 Hala Biliyorum
+I Still Know What You Did Last Summer (1998)
+https://vidmody.com/vs/tt0130018
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBlMjY2OTEtNzRjMy00NDMwLTlmYTItMWU3ZTFjOTgyM2I4XkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ne Yaptığını 3 Her Zaman Bileceğim
+I ll Always Know What You Did Last Summer (2006)
+https://vidmody.com/vs/tt0469111
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2Y2UyNmItZDQyZS00ZjE1LThmMWMtNTVmYzMxOTgwNmVlXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ne Yaptığını 4 Geçen Yaz Biliyorum
+I Know What You Did Last Summer (2025)
+https://vidmody.com/vs/tt4045450
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg3NTQ4NDk5NV5BMl5BanBnXkFtZTgwNzMzNDg4NjE@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Ninja Kaplumbağalar (1990)
 https://vidmody.com/vs/tt0100758
