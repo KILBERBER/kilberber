@@ -5861,6 +5861,9 @@ https://vidmody.com/vs/tt19244304/s1/e08
 #EXTINF:-1 tvg-id="Belgesel TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/belgesel.png" group-title="01.KIL-BELGESEL", ((Belgesel TV
 https://goldvod.org/live/hpgdiscoo/123456/103.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/aaac1290-6d58-4036-b106-a7026a4c1bfc.png" group-title="01.KIL-BELGESEL", ((Discovery
+http://109.61.81.147:1935/cdn7/4029/video.m3u8?token=42e57e1e78da0b8220b1ec69bc8384d1
+
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_GURME-HD.png" group-title="01.KIL-BELGESEL", ((beIN Gurme
 https://goldvod.org/live/hpgdiscoo/123456/179.m3u8
 
@@ -10433,6 +10436,9 @@ https://imdb-video.media-imdb.com/vi2977548313/1701734515261-esrwmn-176022134663
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Return to Silent Hill
 https://imdb-video.media-imdb.com/mc/vi297126681/hls/vi297126681_8000k.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Send Help
+https://imdb-video.media-imdb.com/mc/vi1637403417/vi1637403417_1080p.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ3OWQ2YjUtZDMyZC00NGYxLTlkY2ItMzdjYTViM2E0YTJlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Shelter
 https://imdb-video.media-imdb.com/mc/vi397789977/hls/vi397789977_8000k.m3u8
 
@@ -10451,8 +10457,14 @@ https://imdb-video.media-imdb.com/mc/vi766298905/hls/vi766298905_5000k.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4MmM4MTgtZjNmYi00NjkzLWIzZWYtMWFlYWE0NzE4MzI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında The Rip
 https://imdb-video.media-imdb.com/mc/vi244828953/hls/vi244828953_8000k.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında The Wrecking Crew
+https://imdb-video.media-imdb.com/mc/vi3701132057/vi3701132057_480p.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg5ZjQ0ZGQtMmY1NS00NTgyLTlkZWYtMDhlNzE3ZGY5ZDdmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında They Will Kill You
 https://imdb-video.media-imdb.com/mc/vi1738001177/vi1738001177_1080p.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YTY5ODQtOWUxYi00MGU5LWE0MGItZDkwODcyMzc3OGQ3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Undertone
+https://imdb-video.media-imdb.com/mc/vi2778385177/vi2778385177_480p.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNlMTk1YTItOWYxNi00ZWIzLTkyOWEtNTJmMzk4NmIyN2NmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Anakonda
 Anaconda
@@ -10464,6 +10476,12 @@ https://vidmody.com/vs/tt13663146
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Avatar: Ateş ve Kül
 Avatar: Fire and Ash
 https://vidmody.com/vs/tt1757678
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRiZjdiNTgtMmVlNy00YjhiLThiNWItZGU2Mzg2N2EzNDVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Beraber
+https://vidmody.com/vs/tt27997070
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlhYTZiZjYtYzI0Ni00NGRkLWFlMmEtZDU1ZTU2OGYwNDk1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Bugonia
+https://vidmody.com/vs/tt12300742
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZjYxNDktMWE5YS00ZDlhLTg5NTgtNjA1MjMwYzBkMjZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Bütün Şeytanlar Burada
 All the Devils Are Here
@@ -10479,6 +10497,14 @@ https://vidmody.com/vs/tt39214430
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Eddington
 https://vidmody.com/vs/tt31176520
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Freddynin Pizza Dükkanında Beş Gece 2
+Five Nights at Freddys 2
+https://vidmody.com/vs/tt30274401
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzliNTEyYjEtNGE3Mi00ZDIzLTg1NzYtZDBhNTQ5ZDVkMmM3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Güller
+The Roses
+https://vidmody.com/vs/tt31973693
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIwYjJkNWItMWI1ZS00M2IyLWEwMjEtZmI2MWRjOTI1ZDQ0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Handsome Guys
 Haenseomgaijeu
 https://vidmody.com/vs/tt32475217
@@ -10486,8 +10512,15 @@ https://vidmody.com/vs/tt32475217
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2ZGRiY2ItZDY5Mi00ZjJlLWJiZTEtMWFiMTEwMWZiODQ1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Jimmy and Stiggs
 https://vidmody.com/vs/tt33372496
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkOTg3ODEtMTJjMS00YjBmLWJkOWMtNmE3YmVjNTc5MTlkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Kısa Ziyaret Uzun Hikaye
+The Travellers
+https://vidmody.com/vs/tt33068674
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmYThiOGItYTdhNi00ZjUxLTgyMTktYzQwYjhkZmYyNTRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Not Without Hope
 https://vidmody.com/vs/tt3331548
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFkMjU5ZTQtMzA0Yi00M2VmLThlZWMtZWUwZTkxNmFkNDZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Oscar Shaw
+https://vidmody.com/vs/tt27674706
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQxYzgyNTEtZTQwYi00Y2ZiLWJlYmYtNWI3ZGNiM2Q2YjE3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", People You May Know
 Tanıyor Olabileceğin Kişiler
@@ -10797,6 +10830,9 @@ https://kanaldvod.duhnet.tv/S11/HLS_VOD/277913_08ca/index.m3u8
 
 #EXTINF:-1 tvg-id="https://abant3.shop/cdn/down/26a4a11f765c07cdeecc3a55a9828b04/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY5MmI1NDktMDA0ZC00MTJlLWIwNWItMmRjNWQyMjdiNmE2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bekleme Odası
 https://vidmody.com/vs/tt0446930
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRiZjdiNTgtMmVlNy00YjhiLThiNWItZGU2Mzg2N2EzNDVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Beraber
+https://vidmody.com/vs/tt27997070
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgxOTJjZTAtYWUxNC00YjlhLTg0MDYtN2MzMjQ3OGJmM2Y0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bergen
 https://vidmody.com/vs/tt12578564
@@ -12149,6 +12185,9 @@ https://vidmody.com/vs/tt24084674
 #EXTINF:-1 tvg-id="https://kanaldvod.duhnet.tv/S11/HLS_VOD/279154_127c/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMzg3MDE3Ml5BMl5BanBnXkFtZTgwMzI2NDg5MjE@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Agorafobi
 https://vidmody.com/vs/tt2689958
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.justwatch.com/poster/321261442/s718/ah-mary-vah-mary.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Ah Mery Vah Mery 1998
+https://vidmody.com/vs/tt0129387
+
 #EXTINF:-1 tvg-id="https://vs3.photoflick.org/v/Depravity.2024.1080p.WEBRip2/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzEwNzNjMjktODI2NC00NzJjLWI0MTItOWYyYTFhZTkwMzI0XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Ahlaksız
 Depravity
 https://vidmody.com/vs/tt1659324
@@ -12206,6 +12245,9 @@ https://vidmody.com/vs/tt14644048
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q0ZDk2OTgtZTQwMy00NTgwLThlZDAtYjkzYzMxNDUzNWFmXkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Altına Hücum Çetesi
 https://vidmody.com/vs/tt36711248
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/22092.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Altıncı His 1999
+https://vidmody.com/vs/tt0167404
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5MDg1MDctM2QxMi00ZDVlLThlMWMtMmNlNmExZGJmNThlXkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Am I OK? 
 https://vidmody.com/vs/tt11225626
@@ -12726,9 +12768,6 @@ https://vidmody.com/vs/tt32944883
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVlMGVmNjQtNGI0NC00ZWVmLTk5MDQtOGM5MzBlYTQxNTU2XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Bu Sırada, Dünyada
 https://vidmody.com/vs/tt21247132
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlhYTZiZjYtYzI0Ni00NGRkLWFlMmEtZDU1ZTU2OGYwNDk1XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Bugonia
-https://vidmody.com/vs/tt12300742
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQwZjg3NjEtMjQ3My00MjkxLWFiZGItM2ZkNmI0OWQxOTAzXkEyXkFqcGc@._V1_QL75_UX582_.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Bugünlerde Metro
 Metro... In Dino
@@ -16728,6 +16767,9 @@ https://vidmody.com/vs/tt0107211
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Anora
 https://vidmody.com/vs/tt28607951
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/65/2010865-430731629.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Ateşli Oda 2010
+https://vidmody.com/vs/tt1263750
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg1MTg0ZDgtZTM5Ny00OTFmLWE1OWItNTAzZDgxOWU1YTA2XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Aşk
 Love (2015)
 https://vidmody.com/vs/tt3774694
@@ -16895,7 +16937,7 @@ https://vidmody.com/vs/tt0430912
 Double Lover (2017)
 https://vidmody.com/vs/tt6367558
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4YWE2YzktN2IzOS00MjcwLWEzMzItYjdhOGFjYjY0ZWE2XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Un amor
+#EXTINF:-1 tvg-id="https://pixeldrain.com/api/file/nFgrqLt7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4YWE2YzktN2IzOS00MjcwLWEzMzItYjdhOGFjYjY0ZWE2XkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Un amor
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/10/cdn32/32d0ec1dab660d1bab12071f5515d1f517140510168.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE0ZGMzNmMtYzE0MC00NjVkLTg3MTgtYzE4MTg3MjYxMDIwXkEyXkFqcGc@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", zzx Vahşi Orkide
@@ -17283,6 +17325,12 @@ https://vidmody.com/vs/tt6343314
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJjMzFhNzMtZmE4Yi00MjljLWIxZDgtMjM5ZmFlZTYzNjIyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Creed 3 Efsane Devam Ediyor
 Creed III (2023)
 https://vidmody.com/vs/tt11145118
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/138726.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Cılgın Bir Gece 2010
+https://vidmody.com/vs/tt1279935
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.justwatch.com/poster/321351240/s332/onceki-gece" group-title="10.FiLM BOXSET SERi FiLMLER", Cılgın Bir Gece 2015
+https://vidmody.com/vs/tt3530002
 
 #EXTINF:-1 tvg-id="https://cdn.prectv2.lat/hls/10/cdn32/03fef2e1dc32365d4bddf51a5ef551a117113201369.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBiMmE2MWItYTVlMy00ZDRkLWIzMzQtOGY5NTU5NzM3OGYyXkEyXkFqcGc@._V1.jpg" group-title="10.FiLM BOXSET SERi FiLMLER", Cılgın Hırsız
 https://vidmody.com/vs/tt1323594
