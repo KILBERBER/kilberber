@@ -5104,6 +5104,9 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playli
 #EXTINF:-1 tvg-id="https://artitv.com.tr/" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", artı
 http://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iaatv.tmgrup.com.tr/4bef53/295/410/0/0/295/410?u=https://iatv.tmgrup.com.tr/2025/11/24/1763986313791.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", A.B.İ
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ddizi.im/diziresimleri/ailesaadetikapakdd-min.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Aile Saadeti
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Aile.Saadeti.SON.mkv
 
@@ -5533,6 +5536,9 @@ https://vidmody.com/vs/tt36584543/s1/e04
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/YZXFsPzghJdjD5OmNc4M4wSDzmu1auxgli0Z9mmo.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlM2ZkNTctODM5NC00YjVkLWJkZDctOGMwNmRlNTI0OGFlXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Jasmine 1.05
 https://vidmody.com/vs/tt36584543/s1/e05
 
+#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/YZXFsPzghJdjD5OmNc4M4wSDzmu1auxgli0Z9mmo.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlM2ZkNTctODM5NC00YjVkLWJkZDctOGMwNmRlNTI0OGFlXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Jasmine 1.06
+https://vidmody.com/vs/tt36584543/s1/e06
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRjN2NkYWItMWYwNi00MDE2LTlkZTMtYjJjYzk2OWFjZjdjXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Karma 1.01
 https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/10/cdn73/QJSKAL25BaUucqp1g0JsDmdpoTPxHztkJNQ1AlAL.mp4/index.m3u8
 
@@ -5755,7 +5761,7 @@ https://vidmody.com/vs/tt29921437/s1/e05
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.06
 https://vidmody.com/vs/tt29921437/s1/e06
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.07
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.07
 https://vidmody.com/vs/tt29921437/s1/e07
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08
