@@ -1917,20 +1917,20 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" group-title="0.KIL-SP0R  MAÇ", MAÇ KOLİK
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş -Çaykurrizespor 3-3
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_bjk_rize_17h_20ara_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Alanyaspor - Fenerbahçe 2-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_18_ala_fb_18h_18ocak_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Eyüpspor - Fenerbahçe 0-3
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_eyup_fb_17h_20ara_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş -
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Kasımpaşa 3-0
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_gs_kas_21ara_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Gençlerbirliği - Trabzonspor  4-3
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_genc_ts_17h_22ara_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Gaziantep FK 1-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_18_gs_antep_18h_17ocak_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Samsunspor 2-0
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_17_goz_sam_21ara_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe -
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kocaelispor - Trabzonspor 1-2
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_18_koca_ts_18h_18ocak_ip&secure=1
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL ʜᴅ
 http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
