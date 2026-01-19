@@ -3598,6 +3598,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="0.KIL-ULUSAL", 03.TV8    ᵁᴴᴰ⁺™
 http://95.174.71.114:80/TR-TV8/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://193.70.86.92/chlogo/logo/tv/tt/tv8_tr.png" group-title="0.KIL-ULUSAL", 03.TV8 01
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="0.KIL-ULUSAL", 03.TV8 01
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7uwoyq6usvp2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=2
 
@@ -10520,9 +10523,6 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", Zee BollyWorld
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY3MmRhMWMtY2FhNS00M2VmLWFmNzEtYTMyZWU0OTVlYzQ4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında 28 Years Later The Bone Temple
-https://imdb-video.media-imdb.com/mc/vi4122790681/vi4122790681_1080p.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Apex
 https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
 
@@ -10570,6 +10570,9 @@ https://imdb-video.media-imdb.com/mc/vi1738001177/vi1738001177_1080p.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YTY5ODQtOWUxYi00MGU5LWE0MGItZDkwODcyMzc3OGQ3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Undertone
 https://imdb-video.media-imdb.com/mc/vi2778385177/vi2778385177_480p.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWY0OTc3MTUtMTg3ZC00YmVmLTk5Y2MtMmRjYTE1YTIwMjliXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", 28 Yıl Sonra: Kemik Tapınağı rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/BCrEnIN9KE9l4TFZrZ8Nsf5JvGtp9Zx0nEPBuu3d.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM0ZjJkNGYtMTc4OC00MTYyLWI4OGMtYzVmNGU4OGM3MGUyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", A Melbourne Match
 https://vidmody.com/vs/tt39095960
@@ -10658,6 +10661,9 @@ https://vidmody.com/vs/tt3331548
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFkMjU5ZTQtMzA0Yi00M2VmLThlZWMtZWUwZTkxNmFkNDZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Oscar Shaw
 https://vidmody.com/vs/tt27674706
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1ZjAxY2ItZGQxNy00ZjM5LWI3YzctYzNhNjg2ZjhjNDZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Panggilan Dari Kubur rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/WGDCvGQR3DFZcAdOABrQq5FPeHPKQMQdUVyMcX1x.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQxYzgyNTEtZTQwYi00Y2ZiLWJlYmYtNWI3ZGNiM2Q2YjE3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", People You May Know
 Tanıyor Olabileceğin Kişiler
 https://vidmody.com/vs/tt5318534
@@ -10733,6 +10739,9 @@ https://vidmody.com/vs/tt27714915
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY4NjE4M2UtYTFjOC00NDE4LWE4YTQtMjlhMGY2NDI1YjA0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Confession
 https://srv13.cdnimages229.shop/hls/theconfession-2025-web-traltmp4-8AeBMa2FZsL.mp4/txt/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY4NjE4M2UtYTFjOC00NDE4LWE4YTQtMjlhMGY2NDI1YjA0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Confession rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/ZbhrBgr39gK1ZgS0DgzES3FxL97hfKYTGDdvbdcb.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI2ZGZjODMtZmEzYS00MWMxLWFkNWYtYjVkMzk5ODE4NzdlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Getback
 https://vidmody.com/vs/tt26570494
 
@@ -10757,12 +10766,21 @@ https://vidmody.com/vs/tt23172090
 Tuzak Evi 
 https://vidmody.com/vs/tt10799690
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI2NGY4OTQtYmYxOC00MjZmLWJmZmMtNDRkMzUwM2RlOTc3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Ty - Kosmos rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/7cAfTVAMmjYZBqwKo4Zo0UC7RePqu4aTp2jUl82C.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI2NGY4OTQtYmYxOC00MjZmLWJmZmMtNDRkMzUwM2RlOTc3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", U Are the Universe
 https://pixeldrain.com/api/file/WW1s1UYU
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3MjMxYTktZjQ0My00MDVlLWE1MzYtYjliNjFmNmNjMzQxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Veronica rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/rYSwaQpOFQyhWZuOLbfPTlHNvAfjJN3vfM1UmPPR.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Wicked: İyilik Uğruna
 Wicked: For Good 
 https://vidmody.com/vs/tt19847976
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlmMGJiM2QtMTVkZC00NTM1LWIyMjEtMWY0MjFlMzQ2ZDFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Ya No Quedan Junglas rec
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/4mtEYcAQr2tjeLwxGr5uNGDYYc1ppTadlufVoWLI.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEzYWE3ZDEtZWFkMS00MTUzLTg3NWQtMjhjNmVjOWUyYjZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Zebun
 https://vidmody.com/vs/tt11915106
