@@ -9827,13 +9827,19 @@ http://live.tv-youtube.workers.dev/?ID=UCA1d3HFGFUmkKr2JIUA5Vlw
 #EXTINF:-1 tvg-id="https://m.youtube.com/@wtcNFerit " tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="06.E SPOR GAMES", wtcN
 http://live.tv-youtube.workers.dev/?ID=UCFK97P1mRAY9tQ2PUDjubEA
 
-#EXTINF:-1 tvg-id="antena1hdd.tr" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA1HD.png" group-title="07.KIL ORTAYA KARISIK", ((Antena 1 Survivor
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/330px-Skai_TV_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor greece Skai Tv
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/330px-Skai_TV_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor greece Skai Tv intro 
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/202601/video/srvtrailer20260119.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="antena1hdd.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/250px-Logo_Antena_1_%282010%29.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Antena Tv
 https://goldvod.org/live/hpgdiscoo/123456/5373.m3u8
 
-#EXTINF:-1 tvg-id="antena1h.tr" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA1HD.png" group-title="07.KIL ORTAYA KARISIK", ((Antena 1 Survivor b
+#EXTINF:-1 tvg-id="antena1h.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/250px-Logo_Antena_1_%282010%29.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Antena Tv b
 https://goldvod.org/live/hpgdiscoo/123456/5372.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ANTENA1HD.png" group-title="07.KIL ORTAYA KARISIK", ((Antena 1 Survivor intro
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/250px-Logo_Antena_1_%282010%29.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Antena Tv intro
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 
 #EXTINF:-1 tvg-id="bigbrotherd.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova
