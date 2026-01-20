@@ -77,7 +77,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-id="http://stream.tvcdn.net/muzik/number-one-tv.m3u8" tvg-logo="https://i.imgur.com/02cDIBi.png" group-title="0.KIL-MÜZİK", 05.Number 1 b
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="0.KIL-MÜZİK", 06.Number 1 Aşk
+#EXTINF:-1 tvg-id="https://i.imgur.com/slwbux7.png" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="0.KIL-MÜZİK", 06.Number 1 Aşk
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="0.KIL-MÜZİK", 06.Number 1 Aşk b
@@ -152,7 +152,7 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png" group-title="0.KIL-MÜZİK", 12.Power Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="0.KIL-MÜZİK", 12.POWER SLOW b
+#EXTINF:-1 tvg-id="https://i.imgur.com/tQSoQXW.png" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="0.KIL-MÜZİK", 12.POWER SLOW b
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png" group-title="0.KIL-MÜZİK", 12.Power Slow c
@@ -179,13 +179,13 @@ http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png" group-title="0.KIL-MÜZİK", 14.Power Türk Akustik b
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" group-title="0.KIL-MÜZİK", 14.PowerTürk Akustik
+#EXTINF:-1 tvg-id="https://i.imgur.com/driabBO.png" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" group-title="0.KIL-MÜZİK", 14.PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="0.KIL-MÜZİK", 15.POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" group-title="0.KIL-MÜZİK", 15.Power Love b
+#EXTINF:-1 tvg-id="https://i.imgur.com/0RzUswR.png" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" group-title="0.KIL-MÜZİK", 15.Power Love b
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="0.KIL-MÜZİK", 15.Power Love c
@@ -197,7 +197,7 @@ http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png" group-title="0.KIL-MÜZİK", 15.Power Türk Taptaze b
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" group-title="0.KIL-MÜZİK", 15.PowerTürk Taptaze
+#EXTINF:-1 tvg-id="https://i.imgur.com/a5nW3HU.png https://i.imgur.com/driabBO.png" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" group-title="0.KIL-MÜZİK", 15.PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="0.KIL-MÜZİK", 16.Cadena Elite
@@ -1392,6 +1392,12 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="Panik TV" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="0.KIL-MÜZİK", Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="0.KIL-MÜZİK", Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="0.KIL-MÜZİK", Parranda Vallenata
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Party Tyme Karaoke
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=204
 
@@ -1407,8 +1413,14 @@ https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg" group-title="0.KIL-MÜZİK", PERSIANA SONNATI TV
 https://sonhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="0.KIL-MÜZİK", PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4lUwdME.png" group-title="0.KIL-MÜZİK", PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="0.KIL-MÜZİK", PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
@@ -1418,6 +1430,9 @@ https://cdn-3.pishow.tv/live/441/master.m3u8
 
 #EXTINF:-1 tvg-id="Qmusic.nl" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="0.KIL-MÜZİK", Qmusic
 https://stream.qmusic.nl/qmusic/videohls.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VX5e9Xt.png" group-title="0.KIL-MÜZİK", Qmusic Belgium
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
 
 #EXTINF:-1 tvg-id="QwestTV" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="0.KIL-MÜZİK", QwestTV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -1439,6 +1454,9 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 
 #EXTINF:-1 tvg-id="Radio Cuenca Estéreo" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="0.KIL-MÜZİK", Radio Cuenca Estéreo
 https://eu1.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gP2OT4S.png" group-title="0.KIL-MÜZİK", Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Radio Lola
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
@@ -1464,17 +1482,38 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.coolstreaming.us/img/ch/image72612344614.webp" group-title="0.KIL-MÜZİK", RADIO MILAZZO TV
 https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PcU35KQ.png" group-title="0.KIL-MÜZİK", Raj Musix Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp" group-title="0.KIL-MÜZİK", Rashid AlMajed
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", RTL 102.5
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="0.KIL-MÜZİK", RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Salto Brasa Music
 https://salto-streams.nl/hls/sotv1_high.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="0.KIL-MÜZİK", Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="0.KIL-MÜZİK", ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="0.KIL-MÜZİK", Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Sol Música
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-id="SOY Plancha TV" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="0.KIL-MÜZİK", SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="0.KIL-MÜZİK", SpektraTV
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://myspirit.tv/wp-content/uploads/2017/01/SpiritLogoFull244x86.png" group-title="0.KIL-MÜZİK", Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
@@ -1485,26 +1524,50 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="0.KIL-MÜZİK", Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rKkHhkX.png" group-title="0.KIL-MÜZİK", Stryk TV
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+
 #EXTINF:-1 tvg-id="STZ Telebista" tvg-logo="https://i.imgur.com/rFQuAEv.png" group-title="0.KIL-MÜZİK", STZ Telebista
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg" group-title="0.KIL-MÜZİK", Super Six
 https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="0.KIL-MÜZİK", Super TV
+https://live.supertv.ro/live/supertv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pzxUE0O.png" group-title="0.KIL-MÜZİK", Super TV (Romania)
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" group-title="0.KIL-MÜZİK", Supermúsica
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23139/surf-roots-tv/logo_20240523_220440_70.png" group-title="0.KIL-MÜZİK", Surf Roots TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MUSIC/images/LOGO_HD/image.png" group-title="0.KIL-MÜZİK", Surya Music
+http://103.140.254.2:3500/live/747.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="0.KIL-MÜZİK", T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tabbar_Hits.png" group-title="0.KIL-MÜZİK", Tabbar Hits
+https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
+
 #EXTINF:-1 tvg-id="TarangMusic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png" group-title="0.KIL-MÜZİK", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="0.KIL-MÜZİK", TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 
 #EXTINF:-1 tvg-id="Techno Warehouse (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="0.KIL-MÜZİK", Techno Warehouse (US)
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="0.KIL-MÜZİK", Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dPAPLsd.png" group-title="0.KIL-MÜZİK", TeleMusik Senegal
+https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tezaur TV" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="0.KIL-MÜZİK", Tezaur TV
 http://tezaur.mlbfan.org/tezaur/index.m3u8
@@ -1530,8 +1593,17 @@ https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 #EXTINF:-1 tvg-id="TropicalMusicTV.us" tvg-logo="https://i.imgur.com/h48pwLn.png" group-title="0.KIL-MÜZİK", Tropical Music TV
 https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VUzMQ9S.png" group-title="0.KIL-MÜZİK", Tunes 6
+http://103.140.254.2:3500/live/803.m3u8
+
 #EXTINF:-1 tvg-id="Turbo Mix Radio TV" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="0.KIL-MÜZİK", Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="0.KIL-MÜZİK", TV Éxitos
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="0.KIL-MÜZİK", TVOMIX
+https://cloud.tvomix.com/TVOMIX/index.m3u8
 
 #EXTINF:-1 tvg-id="TVONE Nicaragua" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="0.KIL-MÜZİK", TVONE Nicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
@@ -1541,6 +1613,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Türkmen Owazy (406p)" tvg-logo="https://i.imgur.com/Ap7l2jC.png" group-title="0.KIL-MÜZİK", Türkmen Owazy
 https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg" group-title="0.KIL-MÜZİK", Ultimate TV
+https://stream.galaxyott.live/live/utv/index.m3u8
 
 #EXTINF:-1 tvg-id="V Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="0.KIL-MÜZİK", V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
@@ -1553,6 +1628,30 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Verbena TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo 70s
+https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="0.KIL-MÜZİK", Vevo Country
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="0.KIL-MÜZİK", Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="0.KIL-MÜZİK", Vevo Retro Rock
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="0.KIL-MÜZİK", VH1 East
+https://fl1.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
@@ -1572,6 +1671,12 @@ https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg" group-title="0.KIL-MÜZİK", Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="0.KIL-MÜZİK", Wanasah
+https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="0.KIL-MÜZİK", X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
 #EXTINF:-1 tvg-id="ZBMusic.in@HD" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="0.KIL-MÜZİK", ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 
@@ -1583,6 +1688,9 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-MÜZİK", ZFM Zoetermeer
 https://zfmzoetermeer.nl/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="0.KIL-MÜZİK", Zoom Global
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/W4zhWby6/Zztv.png" group-title="0.KIL-MÜZİK", ZZ ❤️
 https://muzzikbalkan-live.morescreens.com/mts-a4/576p/chunklist.m3u8?video_id=56&token=798194fd9766ad7ce6fec329e54e54a0939ab5e9&authority_instance_id=spectar-prd-muzzikbalkan
@@ -7499,8 +7607,14 @@ http://87.121.104.29:145/akustikturku/stream.m3u8
 #EXTINF:-1 tvg-id="okyanus" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Okyanus Sesleri
 http://87.121.104.29:145/okyanus/stream.m3u8
 
+#EXTINF:-1 tvg-id="ormansesleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Orman Sesleri
+http://87.121.104.29:145/ormansesleri/stream.m3u8
+
 #EXTINF:-1 tvg-id="rahatlamaseans" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlama
 http://87.121.104.29:145/rahatlamaseans/stream.m3u8
+
+#EXTINF:-1 tvg-id="rahatlaticises" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlatıcı Sesler
+http://87.121.104.29:145/rahatlaticises/stream.m3u8
 
 #EXTINF:-1 tvg-id="somine" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Şömine
 http://87.121.104.29:145/somine/stream.m3u8
