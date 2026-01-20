@@ -4858,6 +4858,9 @@ http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brukselturk.be/wp-content/uploads/2022/01/bruksel-logo2.jpg" group-title="00.KIL-DiZi-FİLM", 1.BRÜKSEL TÜRK
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Cine6
+https://tv191.radyotelekom.com.tr:3614/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="00.KIL-DiZi-FİLM", 1.cnbc-e
 https://cdn.tecostream.xyz/CNBC_E.m3u8
 
@@ -4891,11 +4894,20 @@ http://104.238.23.215/yt.php?ID=UCAJcU9SesgVqsJ8M0l7zYrA&ext=.m3u8
 #EXTINF:-1 tvg-id="https://youtube.com/channel/UCulg-mlXf314L1pemPqCVng/FilmAt%C3%B6lyesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="00.KIL-DiZi-FİLM", 1.Film Atölyesi
 http://104.238.23.215/yt.php?ID=UCulg-mlXf314L1pemPqCVng&ext=.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Film Klub
+https://tv191.radyotelekom.com.tr:3468/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Filmax
+https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.FilmBox extra
 http://195.189.60.31:8003/play/a0fe/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.FilmBox premium
 http://195.189.60.31:8003/play/a0f6/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Filtv
+https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Fusion 2
 https://a8.radyotelekom.com.tr:3976/stream/play.m3u8
@@ -4920,6 +4932,9 @@ http://208.79.153.42/akamaissh101/ssh101/HBBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Htv Sinema
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.isviçretv
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="00.KIL-DiZi-FİLM", 1.KANAL PULUS
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
@@ -4975,9 +4990,6 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="tv logo" group-title="00.KIL-DiZi-FİLM", 1.Planet Aksiyon
 http://208.79.153.42/akamaissh101/ssh101/planet_aksiyon1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://r.resimlink.com/JhZ4a.png" group-title="00.KIL-DiZi-FİLM", 1.Play Sinema
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.PLAY SİNEMA
 https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
 
@@ -4987,8 +4999,14 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Pofidix Film
 http://104.238.23.216/d/live/out.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Rativa tv
+https://tv191.radyotelekom.com.tr:3012/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Retro tv
 https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Rizetürk
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s320/rizeturktv.png" group-title="00.KIL-DiZi-FİLM", 1.RIZE TÜRK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
@@ -5110,6 +5128,9 @@ http://vizi.vizi.workers.dev/?ID=96
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_sinema.png" group-title="00.KIL-DiZi-FİLM", 1.Vizi Sinema
 http://vizi.vizi.workers.dev/?ID=94
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Vizion wild
+https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Klasik
 http://vizi.vizi.workers.dev/?ID=11
 
@@ -5148,6 +5169,9 @@ http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.YEŞİLÇAM 3
 http://162.212.179.33:80/gin-trn09/gt-yesilcam-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" group-title="00.KIL-DiZi-FİLM", 1.Şaban tv
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.canlitvme.com/poster/saban-tv.png" group-title="00.KIL-DiZi-FİLM", 1.Şaban Tv
 https://canlitvme.ismailturret.workers.dev/sabantv.m3u8
@@ -7391,94 +7415,94 @@ https://yayin.santraltr.com/hls/tvsms.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" group-title="02.KIL-MÜZİK WEB", Zeyno TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
-#EXTINF:-1 tvg-id="arzufilm" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 0.Arzu Film Yeşilçam
+#EXTINF:-1 tvg-id="arzufilm" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Arzu Film Yeşilçam
 http://87.121.104.29:145/arzufilm/stream.m3u8
 
-#EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 0.Gülşah Film
+#EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Gülşah Film
 http://87.121.104.29:145/gulsahfilm/stream.m3u8
 
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kemal Sunal
+#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kemal Sunal
 http://87.121.104.29:145/kemalsunal/stream.m3u8
 
-#EXTINF:-1 tvg-id="arkadasimhosgeldin" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 1.Arkadaşım Hoş Geldin
+#EXTINF:-1 tvg-id="arkadasimhosgeldin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Arkadaşım Hoş Geldin
 http://87.121.104.29:145/arkadasimhosgeldin/stream.m3u8
 
-#EXTINF:-1 tvg-id="guldurguldur" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 1.Güldür Güldür
+#EXTINF:-1 tvg-id="guldurguldur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Güldür Güldür
 http://87.121.104.29:145/guldurguldur/stream.m3u8
 
-#EXTINF:-1 tvg-id="tolgshow" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 1.Tolgshow
+#EXTINF:-1 tvg-id="tolgshow" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Tolgshow
 http://87.121.104.29:145/tolgshow/stream.m3u8
 
-#EXTINF:-1 tvg-id="cgh2" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 1.Çok Güzel Hareketler 2 
+#EXTINF:-1 tvg-id="cgh2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Çok Güzel Hareketler 2 
 http://87.121.104.29:145/cgh2/stream.m3u8
 
-#EXTINF:-1 tvg-id="avrupayakasi" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 2.Avrupa Yakası
+#EXTINF:-1 tvg-id="avrupayakasi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Avrupa Yakası
 http://87.121.104.29:145/avrupayakasi/stream.m3u8
 
-#EXTINF:-1 tvg-id="cennetmahallesi" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 2.Cennet Mahallesi
+#EXTINF:-1 tvg-id="cennetmahallesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Cennet Mahallesi
 http://87.121.104.29:145/cennetmahallesi/stream.m3u8
 
-#EXTINF:-1 tvg-id="cocuklarduymasin" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 2.Çocuklar Duymasın
+#EXTINF:-1 tvg-id="cocuklarduymasin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Çocuklar Duymasın
 http://87.121.104.29:145/cocuklarduymasin/stream.m3u8
 
-#EXTINF:-1 tvg-id="adanalı" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Adanalı
+#EXTINF:-1 tvg-id="adanalı" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Adanalı
 http://87.121.104.29:145/adanalı/stream.m3u8
 
-#EXTINF:-1 tvg-id="askimemnu" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Aşk-ı Memnu
+#EXTINF:-1 tvg-id="askimemnu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Aşk-ı Memnu
 http://87.121.104.29:145/askimemnu/stream.m3u8
 
-#EXTINF:-1 tvg-id="behzatc" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Behzat Ç.
+#EXTINF:-1 tvg-id="behzatc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Behzat Ç.
 http://87.121.104.29:145/behzatc/stream.m3u8
 
-#EXTINF:-1 tvg-id="edho" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Eşkıya Dünyaya Hükümdar Olmaz
+#EXTINF:-1 tvg-id="edho" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Eşkıya Dünyaya Hükümdar Olmaz
 http://87.121.104.29:145/edho/stream.m3u8
 
-#EXTINF:-1 tvg-id="gullergunahlar" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Güller ve Günahlar
+#EXTINF:-1 tvg-id="gullergunahlar" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Güller ve Günahlar
 http://87.121.104.29:145/gullergunahlar/stream.m3u8
 
-#EXTINF:-1 tvg-id="kurtlarvadisi" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi
+#EXTINF:-1 tvg-id="kurtlarvadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi
 http://87.121.104.29:145/kurtlarvadisi/stream.m3u8
 
-#EXTINF:-1 tvg-id="kurtlarvadisipusu" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi Pusu
+#EXTINF:-1 tvg-id="kurtlarvadisipusu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi Pusu
 http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
 
-#EXTINF:-1 tvg-id="kuzeygunay" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kuzey Güney
+#EXTINF:-1 tvg-id="kuzeygunay" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kuzey Güney
 http://87.121.104.29:145/kuzeygunay/stream.m3u8
 
-#EXTINF:-1 tvg-id="leylamecnun" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Leyla ile Mecnun
+#EXTINF:-1 tvg-id="leylamecnun" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Leyla ile Mecnun
 http://87.121.104.29:145/leylamecnun/stream.m3u8
 
-#EXTINF:-1 tvg-id="medcezir" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Medcezir
+#EXTINF:-1 tvg-id="medcezir" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Medcezir
 http://87.121.104.29:145/medcezir/stream.m3u8
 
-#EXTINF:-1 tvg-id="sakaryafirat" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sakarya Fırat
+#EXTINF:-1 tvg-id="sakaryafirat" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sakarya Fırat
 http://87.121.104.29:145/sakaryafirat/stream.m3u8
 
-#EXTINF:-1 tvg-id="sihirliannem" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sihirli Annem
+#EXTINF:-1 tvg-id="sihirliannem" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sihirli Annem
 http://87.121.104.29:145/sihirliannem/stream.m3u8
 
-#EXTINF:-1 tvg-id="soz" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Söz
+#EXTINF:-1 tvg-id="soz" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Söz
 http://87.121.104.29:145/soz/stream.m3u8
 
-#EXTINF:-1 tvg-id="trtnostalji" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.TRT Nostalji
+#EXTINF:-1 tvg-id="trtnostalji" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.TRT Nostalji
 http://87.121.104.29:145/trtnostalji/stream.m3u8
 
-#EXTINF:-1 tvg-id="yaprakdokumu" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Yaprak Dökümü
+#EXTINF:-1 tvg-id="yaprakdokumu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Yaprak Dökümü
 http://87.121.104.29:145/yaprakdokumu/stream.m3u8
 
-#EXTINF:-1 tvg-id="zenginkfakiro" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", 3.Zengin Kız Fakir Oğlan
+#EXTINF:-1 tvg-id="zenginkfakiro" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Zengin Kız Fakir Oğlan
 http://87.121.104.29:145/zenginkfakiro/stream.m3u8
 
-#EXTINF:-1 tvg-id="akustikturku" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", Akustik Türküler
+#EXTINF:-1 tvg-id="akustikturku" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Akustik Türküler
 http://87.121.104.29:145/akustikturku/stream.m3u8
 
-#EXTINF:-1 tvg-id="okyanus" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", Okyanus Sesleri
+#EXTINF:-1 tvg-id="okyanus" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Okyanus Sesleri
 http://87.121.104.29:145/okyanus/stream.m3u8
 
-#EXTINF:-1 tvg-id="rahatlamaseans" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlama
+#EXTINF:-1 tvg-id="rahatlamaseans" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlama
 http://87.121.104.29:145/rahatlamaseans/stream.m3u8
 
-#EXTINF:-1 tvg-id="somine" tvg-logo="noimage.png" group-title="02.KIL-YOUTUBE CANLI", Şömine
+#EXTINF:-1 tvg-id="somine" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Şömine
 http://87.121.104.29:145/somine/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.jpg" group-title="03.KIL-RADYO", 90'LAR
