@@ -1926,6 +1926,27 @@ https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="0.KIL-MÜZİK", Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="okyanus" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Okyanus Sesleri
+http://87.121.104.29:145/okyanus/stream.m3u8
+
+#EXTINF:-1 tvg-id="ormansesleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Orman Sesleri
+http://87.121.104.29:145/ormansesleri/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1Relax.png" group-title="0.KIL-RELAX", 01.RAHATLA
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="rahatlamaseans" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Rahatlama
+http://87.121.104.29:145/rahatlamaseans/stream.m3u8
+
+#EXTINF:-1 tvg-id="rahatlaticises" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Rahatlatıcı Sesler
+http://87.121.104.29:145/rahatlaticises/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="0.KIL-RELAX", 01.şömine
+http://iptv.prosto.tv:7000/ch331/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="somine" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-RELAX", 01.Şömine
+http://87.121.104.29:145/somine/stream.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif" group-title="0.KIL-RELAX", 01.şömine 
 https://cdn.tecostream.xyz/Somine_TV.m3u8
 
@@ -5701,6 +5722,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iatv.tmgrup.com.tr/2024/12/26/500x268/1735234833458.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms
+https://k1.df856-54hilsnz.xyz/storage/media/917abff5a66faca37a600d0f51dfab84-720.mp4/gomindex.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.01
 https://vidmody.com/vs/tt10795658/s3/e01
 
@@ -5941,7 +5965,7 @@ https://newyork5.store/cdn/down/94daa5c23268234380208171e8b75f2c/Original/Origin
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w768/q85/52565.jpeg" group-title="00.KIL-DiZi-TRENT", Gassal 2.10 Çirkin Değiliz... Hiçbirimiz
 https://roka4.shop/cdn/down/a1d8b04b615efdd8924c97680f03dc1b/Original/Original.txt
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.01
+#EXTINF:-1 tvg-id="https://dizigom104.com/ https://k3.df856-54hilsnz.xyz/storage/media/dd8f01e28495453793a5a1723f35b9b1-720.mp4/gomindex.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.01
 https://s230.rapidrame.com/hls2/01/00025/wy83ona2jxc4_,l,.urlset/master.m3u8?t=7FiXL915Ndtc3BpLTIcuERzg8Pqo9VY1TDn5-uQ1FJ4&s=1769108028&e=86400&f=129573&srv=s433&i=0.0&sp=0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.02
@@ -6193,8 +6217,8 @@ https://vidmody.com/vs/tt29921437/s1/e06
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.07
 https://vidmody.com/vs/tt29921437/s1/e07
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08
-https://vidmody.com/vs/tt29921437/s1/e08
+#EXTINF:-1 tvg-id="https://vidmody.com/vs/tt29921437/s1/e08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/JquktSomQtFJAIHzWuSbLy1AtvJNInkI25vVESRJ.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.09
 https://vidmody.com/vs/tt29921437/s1/e09
