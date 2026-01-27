@@ -270,11 +270,11 @@ http://live.tv-youtube.workers.dev/?ID=UCoRXPcv8XK5fAplLbk9PTww
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-MÜZİK", 19.K-pop Vibing witch @kbsworldtv
 http://live.tv-youtube.workers.dev/?ID=UC5BMQOsAB8hKUyHu9KI6yig
 
-#EXTINF:-1 tvg-id="https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play a
-https://cors-anywhere.yidianzhishi.cn/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="https://kpoptv.htforum.net/" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play a
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kpop TV Play 720p" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play b
-https://cors-anywhere.yidianzhishi.cn/https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+#EXTINF:-1 tvg-id="https://kpoptv.htforum.net/" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="0.KIL-MÜZİK", 19.KpopTV Play b
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="0.KIL-MÜZİK", 19.Lolipop Playlist
 http://live.tv-youtube.workers.dev/?ID=UCwKVKcZvjKZgzL4jwx9cqjQ
@@ -5698,8 +5698,11 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iatv.tmgrup.com.tr/2024/12/26/500x268/1735234833458.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.01
 https://k1.df856-54hilsnz.xyz/storage/media/917abff5a66faca37a600d0f51dfab84-720.mp4/gomindex.m3u8
+
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.02
+https://k2.df856-54hilsnz.xyz/storage/media/9ec3edbff684b305973117f51c908d9d-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.01
 https://vidmody.com/vs/tt10795658/s3/e01
@@ -9149,25 +9152,31 @@ https://goldvod.org/live/hpgdiscoo/123456/5372.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/250px-Logo_Antena_1_%282010%29.svg.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Antena Tv intro
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Vavoo Antena Tv
+https://huhu.to/play/1878508890/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" group-title="07.KIL ORTAYA KARISIK", (((Survivor Romania Vavoo Antena Tv
+https://huhu.to/play/1631861196/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 1 gold
 https://goldvod.org/live/hpgdiscoo/123456/1477.m3u8
 
 #EXTINF:-1 tvg-id="https://huhu.to/play/2757997483/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 1 gold
 https://goldvod.org/live/hpgdiscoo/123456/1478.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 1 huhu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 1 huhu
 https://huhu.to/play/2757997483/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
 
 #EXTINF:-1 tvg-id="https://huhu.to/play/3821259131/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 2 gold
 https://goldvod.org/live/hpgdiscoo/123456/1479.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 2 huhu
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother Vip Kosova 2 huhu
 https://huhu.to/play/3821259131/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
 
-#EXTINF:-1 tvg-id="https://b3626b.sksktotun.xyz/hls/0/stream.m3u8 https://b3626b.sksktotun.xyz/memfs/edd14522-bcf3-47ba-964a-44b736b60c91_output_0.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother VIP Kosova Live 1
-https://b3626b.sksktotun.xyz/memfs/fa0ef1e2-f215-47d6-b83f-72c7811f659c.m3u8
+#EXTINF:-1 tvg-id="https://s1.bbvipks.com/fetch_m3u8_1.php" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother VIP Kosova Live 1
+https://bbb11.sksktotun.xyz/memfs/6717c9ec-4e7d-47b4-ad35-d7669b775ebc.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother VIP Kosova Live 2
+#EXTINF:-1 tvg-id="https://s1.bbvipks.com/fetch_m3u8_2.php" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Big_Brother_VIP_Kosova_logo.png/500px-Big_Brother_VIP_Kosova_logo.png" group-title="07.KIL ORTAYA KARISIK", ((Big Brother VIP Kosova Live 2
 https://ng1s.krejtutten.xyz/memfs/7fa4a9f1-bda4-49f0-9623-7d2d9162e760.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/American_Ninja_Warrior_Logo.jpg" group-title="07.KIL ORTAYA KARISIK", (American Ninja Warrior
@@ -9872,6 +9881,9 @@ https://imdb-video.media-imdb.com/mc/vi312593177/vi312593177_1080p.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Supergirl
 https://imdb-video.media-imdb.com/mc/vi849398553/vi849398553_1080p.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyODQzZjAtNmYxYS00YjNiLWEzYTMtNzgyZWE5ODBkZDVhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Süper Mario Galaksi Meet Yoshi
+https://imdb-video.media-imdb.com/mc/vi3700345625/hls/vi3700345625_8000k.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında The Bride
 https://imdb-video.media-imdb.com/mc/vi3229862681/hls/vi3229862681_8000k.m3u8
 
@@ -10032,6 +10044,9 @@ https://vidmody.com/vs/tt33068674
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA3ZTljMDktNTQ2ZC00YWJlLWJiNzktOThkNzE4NjM0MmZkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Labinak: Mereka Ada di Sini
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/nlnxvtn7XsR43fKQwhgyKRFj7FE2f1bFFB7V4WxO.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJmYjcwMTMtMDU1ZC00ZGI5LTlmZDAtODI3NDA2ZTE5ZGVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Merhamet Yok
+https://flm.rpmvid.com/hls/zj9VavWNBoKQTgtYQ-_hoQ/js/v1feamnk/txuxra/tt/index-f2-v1-a1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJkN2U5YWEtYWJkNi00YmFjLWFhMDQtYmM2OWIxMWViZmJmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Mother of Flies
 https://s230.rapidrame.com/hls2/01/00025/77rjgbdrez9i_,l,.urlset/master.m3u8?t=HJt4-cTu_iR1BNCSXFQyiSR5gReRpXi1tXNGkAdfCfY&s=1769187323&e=86400&f=129596&srv=s433&i=0.0&sp=0
 
@@ -10083,6 +10098,14 @@ https://vidmody.com/vs/tt37018900
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFhMjY5NGQtYWFlNS00MDZmLTkwNzAtNjdjMzQzMTQxY2U3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sesimi Takip Et
 Follow My Voice
 https://vidmody.com/vs/tt23899310
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkODA1MTgtNTdjNS00NWU5LTllNDEtMjA3MDdhYTVhYTFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sessiz Gece, Kanlı Gece
+Silent Night, Deadly Night
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://vidlop.com/m3/dE9yckNzYzRWelV5cktzUTVJaFNRWE11amIvNldMR2drVXZ1MWpZS2RJWnppeWdoWUdCWUFGNXFFNkplUWdybllQTU83M2l4dmNMYlFkbWtDSUJNbHgzbHhMOFBmMG5lSTlFcy8ySTB1UFBucHk4REJsNVVHZFRMUThvWDJ4c3lFREtiQzBVMlIyRUlHR1FnazNodTl3Qng4dVJXWUQ4aHV4dG1vaUFBUkdsVGE1akJGaWsybk1ndXArYUFvVDVERTFmcjlVdHJSNnhhUisyWTJpVHdVcVhlYisxS0YxRUdBcE9NK2REQkJwWEVSeVo2R1JuZU5xdmZ1cnZoOThVcm1sdi9FMHM3NUNNbWlXRXBEWWtsRUw3V05BRXBmTndYQ2ZuQ3RJbFUxN1E9|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sessiz Tepe: Dönüş
+Return to Silent Hill
+https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://vidlop.com/m3/UXRKY3JHRkk5UXF4dlo2UWI3S2d4QTAxZjhhdi9GVTk3bkJESVF2YzY0SzJHTnVRenFWUkVhVTZJWHhoMGIwZXYwb0V3dlQ3YStlQ0FYTUVmU3hLanlZOXBDdXU2ZmQzaVVVZkt3dWZqRERuU2h1MmI4dXFValFQNVpkZXlYUmdnMU51Vm54djRTSi90bUdhUFZUTHJqdUl2OFlOMEFHZjc1MFlhRmNmWFRQUTdmUFJOajQ3RXEza1Fsczl0cmV1UFdXOUp0T2x4amJ5Tm9vT2VCeDlERmRKSTVmb3RjYkFTVlA3ek9KSmd2NElWRHpNdStqZDhROUNHTkhockx4dkJEWFNuT3p2b0RCcVBtaW1PVnNVamFnU1dOdWVLc1FadTRxbGs2Qmw3K009|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sihirbazlar Çetesi 3 Daha Bir Şey Görmediniz
 Now You See Me: Now You Dont 
