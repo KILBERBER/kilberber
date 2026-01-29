@@ -3802,38 +3802,41 @@ http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" group-title="0.KIL-SPOR KARIŞIK", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/trt1/trt1.isml/trt1.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT 1     ᵁᴴᴰ⁺™
-http://95.174.71.114:80/TR-TRT1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1
-http://95.174.71.114:80/TR-TRT1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 A
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 B
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetrt1.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 C
-http://vizi.vizi.workers.dev/?ID=1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 uydu
+http://95.174.71.114:80/TR-TRT1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 uydu2
+http://95.174.71.114:80/TR-TRT1/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 uydu3
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 vizi
+https://tv.cdn-vizi.workers.dev/?ID=1
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 web
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" group-title="0.KIL-ULUSAL", 01.TRT1 web
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2 dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/trt2/trt2.isml/trt2.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2 uydu
 http://95.174.71.114:80/TR-TRT2/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.Trt2 A
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.Trt2 uydu2
 http://87.246.54.249:8085/TRT2/index.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2 B
-http://vizi.vizi.workers.dev/?ID=34
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17935952.png" group-title="0.KIL-ULUSAL", 01.TRT2 web
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936228.png" group-title="0.KIL-ULUSAL", 01.TRTAvaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -4233,6 +4236,69 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="0.KIL-ULUSAL", 16.TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/360_BNa.png" group-title="0.KIL-ULUSAL", 360 TV
+https://tv.cdn-vizi.workers.dev/?ID=29
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a2_tv_4s5.png" group-title="0.KIL-ULUSAL", A2 TV
+https://tv.cdn-vizi.workers.dev/?ID=26
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/atv_5qb.png" group-title="0.KIL-ULUSAL", ATV
+https://tv.cdn-vizi.workers.dev/?ID=2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Atv dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/atv.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/beyaz_tv_j7S.png" group-title="0.KIL-ULUSAL", Beyaz TV
+https://tv.cdn-vizi.workers.dev/?ID=9
+
+#EXTINF:-1 tvg-id="86" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cine1_iPa.png" group-title="0.KIL-ULUSAL", Cine 1
+https://tv.cdn-vizi.workers.dev/?ID=86
+
+#EXTINF:-1 tvg-id="89" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cnbc_e_4ke.png" group-title="0.KIL-ULUSAL", CNBC-e
+https://tv.cdn-vizi.workers.dev/?ID=89
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_tv_dGf.png" group-title="0.KIL-ULUSAL", Fox TV
+https://tv.cdn-vizi.workers.dev/?ID=4
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_PSS.png" group-title="0.KIL-ULUSAL", Kanal 7
+https://tv.cdn-vizi.workers.dev/?ID=7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Kanal D dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/kanald/kanald.isml/kanald.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Now dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_max_Ke7.png" group-title="0.KIL-ULUSAL", Show Max
+https://tv.cdn-vizi.workers.dev/?ID=30
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_lNk.png" group-title="0.KIL-ULUSAL", Show TV
+https://tv.cdn-vizi.workers.dev/?ID=3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Show TV  dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/showtv/showtv.isml/showtv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", Star dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/star/star.isml/star.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/star_tv_3ey.png" group-title="0.KIL-ULUSAL", Star TV
+https://tv.cdn-vizi.workers.dev/?ID=5
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_spor_GlG.png" group-title="0.KIL-ULUSAL", TRT Spor
+https://tv.cdn-vizi.workers.dev/?ID=20
+
+#EXTINF:-1 tvg-id="72" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv4_Vz8.png" group-title="0.KIL-ULUSAL", TV 4
+https://tv.cdn-vizi.workers.dev/?ID=72
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/teve2_cNO.png" group-title="0.KIL-ULUSAL", TV2
+https://tv.cdn-vizi.workers.dev/?ID=27
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_334.png" group-title="0.KIL-ULUSAL", TV8
+https://tv.cdn-vizi.workers.dev/?ID=8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-ULUSAL", TV8 dsmart go
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="0.KIL-YEREL", Afyon türk
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
@@ -5428,20 +5494,17 @@ http://104.238.23.215/yt.php?ID=UCUd3o920A_ijCRaTRRg8LSg&ext=.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="00.KIL-DiZi-FİLM", 1.Viyana TV ʜᴅ
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_belgesel.png" group-title="00.KIL-DiZi-FİLM", 1.Vizi Belgesel
-http://vizi.vizi.workers.dev/?ID=96
+#EXTINF:-1 tvg-id="96" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_belgesel.png" group-title="00.KIL-DiZi-FİLM", 1.Vizi Belgesel
+https://tv.cdn-vizi.workers.dev/?ID=96
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_sinema.png" group-title="00.KIL-DiZi-FİLM", 1.Vizi Sinema
-http://vizi.vizi.workers.dev/?ID=94
+#EXTINF:-1 tvg-id="94" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vizi_sinema.png" group-title="00.KIL-DiZi-FİLM", 1.Vizi Sinema
+https://tv.cdn-vizi.workers.dev/?ID=94
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.Vizion wild
-https://tv191.radyotelekom.com.tr:3835/stream/play.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Klasik
+https://tv.cdn-vizi.workers.dev/?ID=11
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_klasik_eQm.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Klasik
-http://vizi.vizi.workers.dev/?ID=11
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Komedi
-http://vizi.vizi.workers.dev/?ID=10
+#EXTINF:-1 tvg-id="10" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/viziturk_komedi_TmR.png" group-title="00.KIL-DiZi-FİLM", 1.ViziTürk Komedi
+https://tv.cdn-vizi.workers.dev/?ID=10
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.vizon TURK
 https://novamax.cinemax6.com:3760/stream/play.m3u8
@@ -5944,14 +6007,17 @@ https://newyork5.store/cdn/down/94daa5c23268234380208171e8b75f2c/Original/Origin
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w768/q85/52565.jpeg" group-title="00.KIL-DiZi-TRENT", Gassal 2.10 Çirkin Değiliz... Hiçbirimiz
 https://roka4.shop/cdn/down/a1d8b04b615efdd8924c97680f03dc1b/Original/Original.txt
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/ https://k3.df856-54hilsnz.xyz/storage/media/dd8f01e28495453793a5a1723f35b9b1-720.mp4/gomindex.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.01
-https://s230.rapidrame.com/hls2/01/00025/wy83ona2jxc4_,l,.urlset/master.m3u8?t=7FiXL915Ndtc3BpLTIcuERzg8Pqo9VY1TDn5-uQ1FJ4&s=1769108028&e=86400&f=129573&srv=s433&i=0.0&sp=0
+#EXTINF:-1 tvg-id="https://dizigom104.com/ https://s230.rapidrame.com/hls2/01/00025/wy83ona2jxc4_,l,.urlset/master.m3u8?t=7FiXL915Ndtc3BpLTIcuERzg8Pqo9VY1TDn5-uQ1FJ4&s=1769108028&e=86400&f=129573&srv=s433&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.01
+https://k3.df856-54hilsnz.xyz/storage/media/dd8f01e28495453793a5a1723f35b9b1-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.02
-https://s430.rapidrame.com/hls2/01/00025/aykfhuqd07oh_,l,.urlset/master.m3u8?t=PuTO3_HEdXqWoOlJE176r96hIVZM4dvEdeX50Ul_I5k&s=1769108286&e=86400&f=129574&i=0.0&sp=0
+https://k1.df856-54hilsnz.xyz/storage/media/0eec342c78fb2056cb3cdf58f8c5322e-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.03
-https://s433.rapidrame.com/hls2/01/00025/ouomjqcrwmda_,l,.urlset/master.m3u8?t=xREVWnNgqUenHY54FrqmenxdDvm3ElrQjuNkHQQzpPI&s=1769108577&e=86400&f=129575&i=0.0&sp=0
+https://k2.df856-54hilsnz.xyz/storage/media/684903607ce7dbb50803795b67320d1e-720.mp4/gomindex.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.04
+https://k3.df856-54hilsnz.xyz/storage/media/31420b69047e229c6dfb3d669646c6d7-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/YZXFsPzghJdjD5OmNc4M4wSDzmu1auxgli0Z9mmo.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlM2ZkNTctODM5NC00YjVkLWJkZDctOGMwNmRlNTI0OGFlXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Jasmine 1.01
 https://vidmody.com/vs/tt36584543/s1/e01
@@ -10071,6 +10137,9 @@ https://vidmody.com/vs/tt31539698
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY0ODI2ODQtNGI3OS00NmY2LWJjODItYjRhOThjMzRjMjMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Reverence
 https://vidmody.com/vs/tt27817912
 
+#EXTINF:-1 tvg-id="https://srv12.cdnimages42.shop/hls/revolverlily-2023-altyazimp4-5ADsumrosH2.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ3NDM4YmQtMDU0Zi00N2RiLWIzYzQtNmU1ZTMyODIzYzgxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Revolver Lily
+https://box-1085-r.vmeas.cloud/hls/,xqx2pigy7nokjiqbtgcs5jazuvr5ripd36gjfk46npsqzz3ryw7zq2cut3yq,.urlset/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0YTk3MDAtZjMwNy00ZjRmLTgzOWEtMzcyNDE0NTMwZDI1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Ricky Gervais: Mortality
 https://vidmody.com/vs/tt32767869
 
@@ -10182,7 +10251,7 @@ https://vidmody.com/vs/tt30629563
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYzOTVlN2YtODM1Yi00NzNmLWFlMjUtNjdiN2UyYjMxZjM3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Yangın Yeri: Çukur rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/AHaoNRwnZSUw2dqhEQpz6UnpXynEmpumK9yzcqcO.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Yıkım Ekibi - The Wrecking Crew
+#EXTINF:-1 tvg-id="https://vs4.gamephotos.pro/v/The.Wrecking.Crew.2026.WEB-DL.1080p.DUAL.H.264-HDM/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcyMmYxZmMtMjg5MC00NWMzLTgyNDEtOGI2MWEzMmFmNmVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Yıkım Ekibi - The Wrecking Crew
 https://srv12.cdnimages739.shop/hls/thewreckingcrew-2026-webdl-trdualmp4-UwNiagboLwr.mp4/txt/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWEzYWE3ZDEtZWFkMS00MTUzLTg3NWQtMjhjNmVjOWUyYjZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Zebun
