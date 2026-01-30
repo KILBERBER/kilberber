@@ -2270,17 +2270,14 @@ http://104.238.23.182/yt1/s/0tv.m3u8
 #EXTINF:-1 tvg-id="https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Tivibu Spor Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
-https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
-
-#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
-https://api.codetabs.com/v1/proxy/?quest=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport a
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport b
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
 http://tv.atomspor.workers.dev/?ID=bein-sports-1
+
+#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport a
+https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
 #EXTINF:-1 tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/ https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivebiraz1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Birazcıkspor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
@@ -2380,6 +2377,9 @@ https://nextpulse.sbs/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 rec php
 https://live.tecostream.xyz/BeinSports1HD.php
+
+#EXTINF:-1 tvg-id="https://www.sporcafe6.xyz/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
+https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukobs1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 #EXTINF:-1 tvg-id="https://www.sporcafe6.xyz/" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
 https://dga1op10s1u3leo.ee086cf9635f72.click/live/selcukbeinsports1/playlist.m3u8|referer=https://www.xyzsports248.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
