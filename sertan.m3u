@@ -5871,6 +5871,9 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ddizi.im/diziresimleri/yalicapkinikapak.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Yalı Çapkını
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://nqg6bkpsnhen.merlincdn.net//files/slides/mobile-banner-image-01a6aad2-3096-4e31-a1b5-e314000a8f89.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Yeraltı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iatv.tmgrup.com.tr/2024/12/26/500x268/1735234833458.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
@@ -5880,23 +5883,8 @@ https://k1.df856-54hilsnz.xyz/storage/media/917abff5a66faca37a600d0f51dfab84-720
 #EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.02
 https://k2.df856-54hilsnz.xyz/storage/media/9ec3edbff684b305973117f51c908d9d-720.mp4/gomindex.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.01
-https://vidmody.com/vs/tt10795658/s3/e01
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.02
-https://vidmody.com/vs/tt10795658/s3/e02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.03
-https://vidmody.com/vs/tt10795658/s3/e03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.04
-https://vidmody.com/vs/tt10795658/s3/e04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.05
-https://vidmody.com/vs/tt10795658/s3/e05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk3MDUwYjQtY2EyNi00NTZkLWI4ZmUtNjgzYTQ0OGQ2ZTk2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Alice in Borderland 3.06
-https://vidmody.com/vs/tt10795658/s3/e06
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.03
+https://k2.df856-54hilsnz.xyz/storage/media/2a3e7f1be0dbf9a56e527cd8a8a9cb41-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAzNTM3NjYtNmUzZS00NTk3LWExMDMtZmUyNWEyNGQxY2E1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Ayrılık da Sevdaya Dahil 1.01
 https://cors-anywhere.yidianzhishi.cn/https://load.prectv63.lol/hls/12/cdn1280/ST8omsgz7UG94JPDEjKDyIc1N3N4DzeRooEezSNi.mp4/index.m3u8
@@ -5975,42 +5963,6 @@ https://vidmody.com/vs/tt33043892/s1/e09
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZmYyMDUtY2NiOC00ZDgwLWE2NGUtYTAyZWE4ZmNjMTU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Dexter Diriliş 1.10 Ve Hepimiz İçin Adalet...
 https://vidmody.com/vs/tt33043892/s1/e10
-
-#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://tuomasturriago.com/storage/2025/10/ju7gvQUWuYfzITgereqAcQ8yX2H-683x1024.webp" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.01
-https://vidmody.com/vs/tt35664835/s1/e01
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.02
-https://vidmody.com/vs/tt35664835/s1/e02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.03
-https://vidmody.com/vs/tt35664835/s1/e03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.04
-https://vidmody.com/vs/tt35664835/s1/e04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.05
-https://vidmody.com/vs/tt35664835/s1/e05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.06
-https://vidmody.com/vs/tt35664835/s1/e06
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.07
-https://vidmody.com/vs/tt35664835/s1/e07
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.08
-https://vidmody.com/vs/tt35664835/s1/e08
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.09
-https://vidmody.com/vs/tt35664835/s1/e09
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.10
-https://vidmody.com/vs/tt35664835/s1/e10
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.11
-https://vidmody.com/vs/tt35664835/s1/e11
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlZWRjNzgtYTM4MS00NjIzLWIyYjQtMzQ2MjFiNDg5NTc3XkEyXkFqcGc@._V1_.jpg" group-title="00.KIL-DiZi-TRENT", En Güçlü Asya 1.12
-https://vidmody.com/vs/tt35664835/s1/e12
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmZWEwNjAtNmVhNi00ZjE4LWEwNTItZDZlZDE0YmE2MDY3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 1.1 Kuru murad
 https://vs7.photour.org/v/Ersan.Kuneri.S01E01.WEB-DL.1080p.H.264-HDM/master.m3u8
@@ -6255,30 +6207,6 @@ https://vidmody.com/vs/tt31027788/s2/e13
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQsHm9yTiPrhsQjK6BS24Beys3fng5nweMaGMhRZe7xqrCrrU4Zj6SHaE&s=10" group-title="00.KIL-DiZi-TRENT", Mahsun J 3.00 Yılbaşı Özel
 https://vidmody.com/vs/tt31027788/s3/e01
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.01
-https://vidmody.com/vs/tt34692112/s1/e01
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.02
-https://vidmody.com/vs/tt34692112/s1/e02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.03
-https://vidmody.com/vs/tt34692112/s1/e03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.04
-https://vidmody.com/vs/tt34692112/s1/e04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.05
-https://vidmody.com/vs/tt34692112/s1/e05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.06
-https://vidmody.com/vs/tt34692112/s1/e06
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.07
-https://vidmody.com/vs/tt34692112/s1/e07
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/78/2078-76346233@2x.jpg" group-title="00.KIL-DiZi-TRENT", Platonik: Mavi Dolunay Otel 1.08
-https://vidmody.com/vs/tt34692112/s1/e08
-
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/10/cdn73/Da3xHZWPYcbdTHTsMdpRZmWdN1ZiRgPozetrZJZ8.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.01 Biz Bizleriz
 https://vidmody.com/vs/tt22202452/s1/e01
 
@@ -6305,30 +6233,6 @@ https://vidmody.com/vs/tt22202452/s1/e08
 
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/10/cdn73/Da3xHZWPYcbdTHTsMdpRZmWdN1ZiRgPozetrZJZ8.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Pluribus 1.09 La Chica o El Mundo
 https://vidmody.com/vs/tt22202452/s1/e09
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.01
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/10/cdn32/aca75c75cc40f37a6fe490ca3d0145eb17165282537.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.02
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/10/cdn32/6dcda5c4a35301a592ecb1e66d45fdbc171652824414.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.03
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/10/cdn32/137f57180ac30fbbb8641d6381d2847317171393599.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.04
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/11/cdn60/6b37e281402a3aef06bb246fe178be32171776367915.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.05
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/11/cdn60/9daeab5881b1f66c020fd2602151552917183677317.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.06
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/11/cdn60/edae6f03bf0ad971902b6e6cc319d86117189682525.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.07
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/11/cdn60/d1006388fae3f8aa7f07dca8d2858385171957052114.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VjMGZkNTgtMWM0Mi00YzUwLWExN2EtNmYxODk1MzIxNjE5XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", RU 1.08
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/11/cdn60/bfe02c48a06ccee5516253c9cc5bfb03172038950514.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVjZDZiZmItNmRiNi00ZmE4LWEyZjgtMzU5Y2E5ZmNkZDU1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Sekizinci Aile 1.01
 https://vidmody.com/vs/tt38781098/s1/e01
@@ -6375,14 +6279,17 @@ https://vidmody.com/vs/tt29921437/s1/e06
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.07
 https://vidmody.com/vs/tt29921437/s1/e07
 
-#EXTINF:-1 tvg-id="https://vidmody.com/vs/tt29921437/s1/e08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08
+#EXTINF:-1 tvg-id="https://vidmody.com/vs/tt29921437/s1/e08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08 alt
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/ay1aMcFmoP92WzJWpfyg5accV1R0lhzEcqeVWxRm.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="https://vidmody.com/vs/tt29921437/s1/e08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.08 tr
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/JquktSomQtFJAIHzWuSbLy1AtvJNInkI25vVESRJ.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.09
-https://vidmody.com/vs/tt29921437/s1/e09
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.09 alt
+https://k1.df856-54hilsnz.xyz/storage/media/503cea4f60e1e1a817c89cb694f81723-720.mp4/gomindex.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.10
-https://vidmody.com/vs/tt29921437/s1/e10
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.09 tr
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/KtalXe9CjwJrMj4ub2IlbDJZRGinhKdK75zBcQEk.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZkNTE0OWMtNWYwZS00NTJmLTlmMDMtOTc3MWE5NDUxNzEyXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The Copenhagen Test 1.01
 https://vidmody.com/vs/tt31314791/s1/e01
@@ -6455,46 +6362,6 @@ https://vidmody.com/vs/tt3581920/s2/e06
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ0M2E3NmUtYjExYy00ZTg5LWFlMDktZWQ5YTRhNWY0N2M2XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The Last of Us 2.07 Yakınsama
 https://vidmody.com/vs/tt3581920/s2/e07
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.01
-https://vidmody.com/vs/tt30645193/s1/e01
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.02
-https://vidmody.com/vs/tt30645193/s1/e02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.03
-https://vidmody.com/vs/tt30645193/s1/e03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.04
-https://vidmody.com/vs/tt30645193/s1/e04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM4OTcxYjAtM2YyMS00MmMyLWIwYjMtOWRiNGVkZTUxNjU3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The War Between the Land and the Sea 1.05
-https://vidmody.com/vs/tt30645193/s1/e05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry
-O: Derrye Hoş Geldiniz 1.01
-https://vidmody.com/vs/tt19244304/s1/e01
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.02
-https://vidmody.com/vs/tt19244304/s1/e02
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.03
-https://vidmody.com/vs/tt19244304/s1/e03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.04
-https://vidmody.com/vs/tt19244304/s1/e04
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.05
-https://vidmody.com/vs/tt19244304/s1/e05
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.06
-https://vidmody.com/vs/tt19244304/s1/e06
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.07
-https://vidmody.com/vs/tt19244304/s1/e07
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZlN2JlNDItM2RhYy00MTNiLTk0YWEtNmFhOThiYzgyNTlhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", IT: Welcome to Derry O: Derrye Hoş Geldiniz 1.08
-https://vidmody.com/vs/tt19244304/s1/e08
 
 #EXTINF:-1 tvg-id="Belgesel TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/belgesel.png" group-title="01.KIL-BELGESEL", ((Belgesel TV
 https://goldvod.org/live/hpgdiscoo/123456/103.m3u8
@@ -9958,6 +9825,9 @@ https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Avengers: Doomsday (2026)
 https://imdb-video.media-imdb.com/mc/vi1068354329/vi1068354329_1080p.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ3NDAyMGYtMmZkYy00ZGFlLTlhYjAtYmRiOGM0OTQxMTVjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Biao ren - Blades of the Guardians
+https://imdb-video.media-imdb.com/mc/vi2448673561/hls/vi2448673561_8000k.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhOWNiMGItYjIwZi00MzNiLTk1MDEtNGMyYjFmYmU3ZTVlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Disclosure Day
 https://imdb-video.media-imdb.com/mc/vi2460338969/vi2460338969_1080p.mp4
 
@@ -9972,6 +9842,9 @@ https://imdb-video.media-imdb.com/mc/vi105367577/vi105367577_1080p.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNDJhMjMtZTc4My00MGExLWJjN2MtNWRlNWJmMjcyOTZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Mortal Combat 2
 https://imdb-video.media-imdb.com/vi2977548313/1701734515261-esrwmn-1760221346633.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk2YzRjYmItNTA5Mi00ODczLTljYzUtOWE1ZDFkODhlZWJlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Scream 7
+https://imdb-video.media-imdb.com/mc/vi2272184345/hls/vi2272184345_8000k.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ3OWQ2YjUtZDMyZC00NGYxLTlkY2ItMzdjYTViM2E0YTJlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Shelter
 https://imdb-video.media-imdb.com/mc/vi397789977/hls/vi397789977_8000k.m3u8
@@ -10299,6 +10172,9 @@ https://vidmody.com/vs/tt26570494
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJmMTY3NmQtOTIwZS00YmE5LWEzZTEtYjM0YjkxNTEwNzI5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Grieving rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/shDGtoqkiSHgfZ9Kh0CZabbuTUT7DRRkbhEqoQgH.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyNDY4OTYtNmQ4ZS00OTNmLTkyNGMtODRhNWUyN2VkNTFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Housemaid - Hizmetçi
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/hXoS3yHrpGMB9qUMYlQzuT1RFHUFPFIfH1YnUIlQ.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJiNWFmNDItZDhjOS00NDRmLTk4ZjgtYzM1YmMxNGZkN2EwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Last Viking
 Den sidste viking
 https://vidmody.com/vs/tt27817389
@@ -10314,6 +10190,9 @@ https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMyNzM2ZTUtOTBlZS00ZTExLTliZjYtZDkzYzQxOTQ3ZDUzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Internship
 https://vidmody.com/vs/tt38238651
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjczOTU1NjMtOGQ5Ny00ZGRmLTk0NWUtNGIyOTBjZDUzNDQ3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Tormento
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/frW0ZL4zNYqxXwTBIdxq0lP6GWudrfm9O9nsEITq.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE5NzE5ZDYtYzAyZi00YzU2LWE4ZWEtYjM5MDdjZTdjYjk0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Toz Yumağı
 Dust Bunny
