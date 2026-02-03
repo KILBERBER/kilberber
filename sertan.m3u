@@ -2240,14 +2240,14 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Konyaspor 2-1
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_bjk_konya_20h_31ocak_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe 
-
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Kayseri 4-0
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_gs_kay_20h_1sub_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Karagümrük 2-1
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_goz_kara_20h_31ocak_ip&secure=1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kocaelispor -Fenerbahçe 0-2
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_koca_fb_20h_2subat_ip&secure=1
 
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-gol.jpg" group-title="0.KIL-SP0R  MAÇ", RADYO GOL ʜᴅ
 http://live.tv-youtube.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
@@ -10017,6 +10017,9 @@ https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/T
 Rental Family
 https://vidmody.com/vs/tt14142060
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiMTVhODAtMmRjNC00MmNiLTg0OGItOWFmZGU5NTM1YzRmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Kompromat
+https://srv12.cdnimages2066.sbs/hls/kompromat-2022-altyazimp4-Dksv7sWXMdF.mp4/txt/master.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzVkOTg3ODEtMTJjMS00YjBmLWJkOWMtNmE3YmVjNTc5MTlkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Kısa Ziyaret Uzun Hikaye
 The Travellers
 https://vidmody.com/vs/tt33068674
@@ -10163,6 +10166,9 @@ https://vidmody.com/vs/tt27714915
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY4NjE4M2UtYTFjOC00NDE4LWE4YTQtMjlhMGY2NDI1YjA0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Confession
 https://srv13.cdnimages229.shop/hls/theconfession-2025-web-traltmp4-8AeBMa2FZsL.mp4/txt/master.txt
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI0YTBlMGMtYjA4NS00N2M4LTk3NjQtYjZhYTJlODNlZmUzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Dutchman
+https://hls12.playmix.uno/hls/thedutchman-2025-altyazimp4-IeNVbQ67vID.mp4/master.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTlmMGJiM2QtMTVkZC00NTM1LWIyMjEtMWY0MjFlMzQ2ZDFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Gentleman  Ya no quedan junglas rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/4mtEYcAQr2tjeLwxGr5uNGDYYc1ppTadlufVoWLI.mp4/index.m3u8
 
@@ -10172,12 +10178,15 @@ https://vidmody.com/vs/tt26570494
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTJmMTY3NmQtOTIwZS00YmE5LWEzZTEtYjM0YjkxNTEwNzI5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Grieving rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/shDGtoqkiSHgfZ9Kh0CZabbuTUT7DRRkbhEqoQgH.mp4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyNDY4OTYtNmQ4ZS00OTNmLTkyNGMtODRhNWUyN2VkNTFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Housemaid - Hizmetçi
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/hXoS3yHrpGMB9qUMYlQzuT1RFHUFPFIfH1YnUIlQ.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/hXoS3yHrpGMB9qUMYlQzuT1RFHUFPFIfH1YnUIlQ.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyNDY4OTYtNmQ4ZS00OTNmLTkyNGMtODRhNWUyN2VkNTFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Housemaid - Hizmetçi
+https://srv12.cdnimages372.shop/hls/thehousemaid-2025-altyazimp4-CUorCH7UA8P.mp4/txt/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJiNWFmNDItZDhjOS00NDRmLTk4ZjgtYzM1YmMxNGZkN2EwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Last Viking
 Den sidste viking
 https://vidmody.com/vs/tt27817389
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViOTRlZGYtZWE3OS00OTBlLWI5NTItMmJkZjYzNWEyNmIzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Plague
+https://hls12.playmix.uno/hls/theplague-2025-altyazimp4-Aj08nRfYvBZ.mp4/master.txt
 
 #EXTINF:-1 tvg-id="https://pixeldrain.com/api/file/tBwrtVRT" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4MmM4MTgtZjNmYi00NjkzLWIzZWYtMWFlYWE0NzE4MzI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Rip
 https://vidmody.com/vs/tt32642706
@@ -10207,6 +10216,9 @@ https://pixeldrain.com/api/file/WW1s1UYU
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI3MjMxYTktZjQ0My00MDVlLWE1MzYtYjliNjFmNmNjMzQxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Veronica rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/rYSwaQpOFQyhWZuOLbfPTlHNvAfjJN3vfM1UmPPR.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQwZDIzMWEtZDNkOS00ODI5LWI1YmYtNDU3MTM0NWQ0MDVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", We Bury the Dead
+https://balancehls9.playmix.uno/hls/weburythedead-2024-altyazimp4-ELsutBDRl5c.mp4/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU0MzZkODAtNmRjZC00NDg3LWJmNDgtMDcxMjk4MTA4OWFjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Wick Is Pain
 https://srv13.cdnimages19.shop/hls/wickispain-2025-web-traltmp4-YdwiGlpvK9u.mp4/txt/master.txt
