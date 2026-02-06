@@ -23,14 +23,8 @@ https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310519663101870451/WpKVsqlJuaeOkuWZ.png" group-title="0.KIL-MÜZİK", 04.4Turkpop
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="https://www.parsatv.com/thumb.php?src=https://www.parsatv.com/index_files/channels/bizmusic.jpg" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/626.jpg" group-title="0.KIL-MÜZİK", 04.biz müzik 
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.EZGI  Müzik
 https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="https://www.aparatchi.com/turkish-live-tv/turkish-entertainment-tv/itv-turkish-music" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="0.KIL-MÜZİK", 04.iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.kntv
 https://cdn4.yayin.com.tr/kntv/video.m3u8
@@ -43,9 +37,6 @@ http://xantv.site:41480/MahniTV/video.m3u8
 
 #EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://i.imgur.com/lEIFDwo.png" group-title="0.KIL-MÜZİK", 04.Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png" group-title="0.KIL-MÜZİK", 04.MMN Channel
-http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.technettv.com/channel/32194/logo_256.jpg" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/11-2025/585.jpg" group-title="0.KIL-MÜZİK", 04.Music Azerbaijan Hd
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
@@ -62,7 +53,7 @@ https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-id="https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8" tvg-logo="https://slowkaradeniztv.com/slowkaradeniztv.png" group-title="0.KIL-MÜZİK", 04.Slow Karadeniz
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8" tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" group-title="0.KIL-MÜZİK", 04.Tempo TV
+#EXTINF:-1 tvg-id="http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo.png" group-title="0.KIL-MÜZİK", 04.Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files.manuscdn.com/user_upload_by_module/session_file/310519663101870451/PeLnPBFnefNKNRHU.png" group-title="0.KIL-MÜZİK", 04.YANSIMA MÜZiK HD 
@@ -1229,6 +1220,9 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" group-title="0.KIL-MÜZİK", Biz Music
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="https://www.parsatv.com/thumb.php?src=https://www.parsatv.com/index_files/channels/bizmusic.jpg" tvg-logo="https://media.mediabay.tv/www_data/newlogos/channels/626.jpg" group-title="0.KIL-MÜZİK", biz müzik 
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="0.KIL-MÜZİK", BOKTV
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 
@@ -1373,8 +1367,14 @@ https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="0.KIL-MÜZİK", FUSION TV 
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gemgroup.tv/assets/images/custom/logo.png" group-title="0.KIL-MÜZİK", gem mifa
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="0.KIL-MÜZİK", GEM Mifa
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gemgroup.tv/assets/images/custom/logo.png" group-title="0.KIL-MÜZİK", gem mifa +
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qlI7o7V.png" group-title="0.KIL-MÜZİK", GEM Mifa Plus
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
@@ -9934,6 +9934,9 @@ https://vidmody.com/vs/tt13663146
 Avatar: Fire and Ash
 https://vidmody.com/vs/tt1757678
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM0ZDA2MGUtNjI4Yi00MTExLWI3NDgtYjM5YWUxOWI4ZDMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Aşkımız Bu Gece Kaybolsa Bile Oneul Bam, Segyeeseo Yi Sarangyi Sarajinda Haedo
+https://vidrame.pro/vr/get/8e5865a5/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBlNzgzMGUtYThhZC00NGNkLTg3NGItOTgxMjM1MzIyZWI5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Aşkın Yüzü
 https://hls12.playmix.uno/hls/askinyuzu-2025-webdlmp4-7VuwBt79wJH.mp4/master.txt
 
@@ -10021,6 +10024,9 @@ https://srv12.cdnimages130.shop/hls/grizzlynight-2026-altyazimp4-pA1gdhgWXZt.mp4
 The Roses
 https://vidmody.com/vs/tt31973693
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIzYjE2NGYtZWIzZS00ZmFiLWE5ODMtNzY4OTRmNDVkMzQwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Gündelik İşçi Day Labor
+https://vidrame.pro/vr/get/94ad7951/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzIwYjJkNWItMWI1ZS00M2IyLWEwMjEtZmI2MWRjOTI1ZDQ0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Handsome Guys
 Haenseomgaijeu
 https://vidmody.com/vs/tt32475217
@@ -10080,6 +10086,9 @@ https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/H
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJiYWNhZTEtYjE2Ni00NmM3LWFiNGEtNDQ1NjI5M2EyZjcxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", My Sister s Bones rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/yDIWXUfmfG8PshV8glA6aJlKR7HNb8OMYVONLbeF.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NGUxNDUtNjg3Yi00ZTZjLWIwOTUtNDBjYWY5ZjVmZGI4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Napolyon Napoleon
+https://vidrame.pro/vr/get/510a3c42/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNmOWY1ZGUtNjQ2ZC00MDZkLTk2OTItNWRlODY0YjZhMjA0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Near Death rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/JklAM1hkmsyTzW8L9JJGDWPm6I6sSJRN1R4L482j.mp4/index.m3u8
@@ -10181,8 +10190,8 @@ https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/l
 #EXTINF:-1 tvg-id="https://srv13.cdnimages212.shop/hls/caughtstealing-2025-web-trdualmp4-VqdiJQcQAh0.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk0YTIyYmMtMTJjOC00NmNiLTkxMTktYTU0ZDFhNjJlMTJiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Suçüstü Caught Stealing
 https://vidrame.pro/vr/get/920502b1/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdlYmM2YmEtMmQ3Zi00ZjAxLTg2ZjctNzU3NDVkY2RiOTBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", SüngerBob: Korsan Macerası
-https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/9rmI14CTQR7FJJYJtZi8cOIBEwsCabRKxV0drdXN.mp4/index.m3u8
+#EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/9rmI14CTQR7FJJYJtZi8cOIBEwsCabRKxV0drdXN.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdlYmM2YmEtMmQ3Zi00ZjAxLTg2ZjctNzU3NDVkY2RiOTBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", SüngerBob: Korsan Macerası The SpongeBob Movie: Search for SquarePants
+https://vidrame.pro/vr/get/2b0b6143/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU0Njg5MGMtODBhZS00MDAxLWIzMGMtYmRkZDY3NzhiNjY1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sınır Avcıları
 Border Hunters
