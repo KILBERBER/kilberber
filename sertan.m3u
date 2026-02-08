@@ -5646,9 +5646,6 @@ https://dsmartgo-live.ercdn.net/rtint/rtint.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-action-hd-buyuk.png" group-title="00.KIL-DiZi-FİLM", (0.beinmovies action1
 http://65.108.239.207/bsaction1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.EKONOMİK TV
-http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-1-hd-buyuk.png" group-title="00.KIL-DiZi-FİLM", (0.beinmovies box1
 http://65.108.239.207/box1/index.m3u8
 
@@ -5952,6 +5949,9 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.denizpostasitv.com/wp-content/uploads/2019/02/logo-web.png" group-title="00.KIL-DiZi-FİLM", 1.Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="00.KIL-DiZi-FİLM", 1.EKONOMİK TV
+http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://euro90tv.com/wp-content/uploads/2025/03/eurp90tvlogo-e1742857590803.jpg" group-title="00.KIL-DiZi-FİLM", 1.Euro 90
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/euro90tv.m3u8
 
@@ -5972,6 +5972,9 @@ https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Fusion TV
 http://208.79.153.42/akamaissh101/ssh101/084952510aa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Unnamed-removebg-preview.png" group-title="00.KIL-DiZi-FİLM", 1.FIX TV
+https://cdn4.yayin.com.tr/arti/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Crystal_Project_film.png" group-title="00.KIL-DiZi-FİLM", 1.Htv Sinema
 https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
@@ -9528,6 +9531,9 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936012.png" group-title="05.KIL-ÇOCUK", TRT EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="05.KIL-ÇOCUK", TRT genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="05.KIL-ÇOCUK", TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
@@ -10598,8 +10604,11 @@ https://vidmody.com/vs/tt23899310
 Silent Night, Deadly Night
 https://srv13.cdnimages1508.shop/hls/silentnightdeadlynight-2025-web-traltmp4-6KQf57EHnul.mp4/txt/master.txt
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sessiz Tepe Dönüş Return to Silent Hill
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sessiz Tepe Dönüş
 https://flm.rpmvid.com/hls/4MtyTbY0wOhM9XSdZaH2Uw/urp/v1feamnk/k3mvzh/tt/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sessiz Tepe: Dönüş Return to Silent Hill
+https://srv12.cdnimages964.shop/hls/returntosilenthill-2026-hcaltyazimp4-LnW34K4PL4a.mp4/txt/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sihirbazlar Çetesi 3 Daha Bir Şey Görmediniz
 Now You See Me: Now You Dont 
