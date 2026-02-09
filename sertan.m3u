@@ -2234,20 +2234,20 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" group-title="0.KIL-SP0R  MAÇ", MAÇ KOLİK
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Antalyaspor - Trabzonspor 1-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_ant_ts_20h_30ocak_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Alanyaspor 2-2
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_bjk_ala_21h_8sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Konyaspor 2-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_bjk_konya_20h_31ocak_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe - Gençlerbirliği 3-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_fb_genc_21h_9sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Kayseri 4-0
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_gs_kay_20h_1sub_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Konyaspor - Göztepe 0-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_kon_goz_21h_8sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Karagümrük 2-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_goz_kara_20h_31ocak_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Rizespor - Galatasaray 0-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_riz_gs_21h_8sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Kocaelispor -Fenerbahçe 0-2
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_20_koca_fb_20h_2subat_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Samsunspor - Trabzonspor 0-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_sam_ts_7sub_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" group-title="0.KIL-SP0R  MAÇ", Sports TV web
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -2270,13 +2270,13 @@ https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ", Tivibu Spor Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
 
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport 1080p
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport a
+#EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport 720p
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 
-#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport b
+#EXTINF:-1 tvg-id="http://atomspor.issargin.workers.dev/?ID=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Atomsport php
 http://tv.atomspor.workers.dev/?ID=bein-sports-1
 
 #EXTINF:-1 tvg-id="https://birazcikspor.com/ https://birazcikspor32.xyz/ https://wandering-pond-ff44.sadjj2390092.workers.dev/checklist/androstreamlivebiraz1.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.birazspor.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Birazcıkspor
@@ -2378,11 +2378,11 @@ https://nextpulse.sbs/static/bs1.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1rec.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 rec php
 https://live.tecostream.xyz/BeinSports1HD.php
 
-#EXTINF:-1 tvg-id="https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
-https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
+
+#EXTINF:-1 tvg-id="https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
+https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk b
 https://cors-anywhere.yidianzhishi.cn/https://dga1op10s1u3leo.38f3bb9511487c.click/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/‎|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
@@ -2394,7 +2394,7 @@ https://cors-anywhere.yidianzhishi.cn/https://dga1op10s1u3leo.38f3bb9511487c.cli
 https://nnbbs.cfd/bein_sports_1_hd/main.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.smartbahis.jpg" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Smartbahis a
-https://nnbbs.cfd/sportplus/7542726/main.m3u8
+https://ttcom.cfd/sportplus/7546055/main.m3u8
 
 #EXTINF:-1 tvg-id="https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.sporcafe.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Sporcafe b
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8?_HLS_skip=YES
@@ -8244,102 +8244,6 @@ https://yayin.santraltr.com/hls/tvsms.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvsms.club/wp-content/uploads/2017/04/tvsmsclub.png" group-title="02.KIL-MÜZİK WEB", Zeyno TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
-#EXTINF:-1 tvg-id="arzufilm" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Arzu Film Yeşilçam
-http://87.121.104.29:145/arzufilm/stream.m3u8
-
-#EXTINF:-1 tvg-id="gulsahfilm" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Gülşah Film
-http://87.121.104.29:145/gulsahfilm/stream.m3u8
-
-#EXTINF:-1 tvg-id="kemalsunal" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 0.Kemal Sunal
-http://87.121.104.29:145/kemalsunal/stream.m3u8
-
-#EXTINF:-1 tvg-id="arkadasimhosgeldin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Arkadaşım Hoş Geldin
-http://87.121.104.29:145/arkadasimhosgeldin/stream.m3u8
-
-#EXTINF:-1 tvg-id="guldurguldur" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Güldür Güldür
-http://87.121.104.29:145/guldurguldur/stream.m3u8
-
-#EXTINF:-1 tvg-id="tolgshow" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Tolgshow
-http://87.121.104.29:145/tolgshow/stream.m3u8
-
-#EXTINF:-1 tvg-id="cgh2" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 1.Çok Güzel Hareketler 2 
-http://87.121.104.29:145/cgh2/stream.m3u8
-
-#EXTINF:-1 tvg-id="avrupayakasi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Avrupa Yakası
-http://87.121.104.29:145/avrupayakasi/stream.m3u8
-
-#EXTINF:-1 tvg-id="cennetmahallesi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Cennet Mahallesi
-http://87.121.104.29:145/cennetmahallesi/stream.m3u8
-
-#EXTINF:-1 tvg-id="cocuklarduymasin" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 2.Çocuklar Duymasın
-http://87.121.104.29:145/cocuklarduymasin/stream.m3u8
-
-#EXTINF:-1 tvg-id="adanalı" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Adanalı
-http://87.121.104.29:145/adanalı/stream.m3u8
-
-#EXTINF:-1 tvg-id="askimemnu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Aşk-ı Memnu
-http://87.121.104.29:145/askimemnu/stream.m3u8
-
-#EXTINF:-1 tvg-id="behzatc" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Behzat Ç.
-http://87.121.104.29:145/behzatc/stream.m3u8
-
-#EXTINF:-1 tvg-id="edho" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Eşkıya Dünyaya Hükümdar Olmaz
-http://87.121.104.29:145/edho/stream.m3u8
-
-#EXTINF:-1 tvg-id="gullergunahlar" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Güller ve Günahlar
-http://87.121.104.29:145/gullergunahlar/stream.m3u8
-
-#EXTINF:-1 tvg-id="kurtlarvadisi" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi
-http://87.121.104.29:145/kurtlarvadisi/stream.m3u8
-
-#EXTINF:-1 tvg-id="kurtlarvadisipusu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kurtlar Vadisi Pusu
-http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
-
-#EXTINF:-1 tvg-id="kuzeygunay" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Kuzey Güney
-http://87.121.104.29:145/kuzeygunay/stream.m3u8
-
-#EXTINF:-1 tvg-id="leylamecnun" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Leyla ile Mecnun
-http://87.121.104.29:145/leylamecnun/stream.m3u8
-
-#EXTINF:-1 tvg-id="medcezir" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Medcezir
-http://87.121.104.29:145/medcezir/stream.m3u8
-
-#EXTINF:-1 tvg-id="sakaryafirat" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sakarya Fırat
-http://87.121.104.29:145/sakaryafirat/stream.m3u8
-
-#EXTINF:-1 tvg-id="sihirliannem" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Sihirli Annem
-http://87.121.104.29:145/sihirliannem/stream.m3u8
-
-#EXTINF:-1 tvg-id="soz" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Söz
-http://87.121.104.29:145/soz/stream.m3u8
-
-#EXTINF:-1 tvg-id="trtnostalji" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.TRT Nostalji
-http://87.121.104.29:145/trtnostalji/stream.m3u8
-
-#EXTINF:-1 tvg-id="yaprakdokumu" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Yaprak Dökümü
-http://87.121.104.29:145/yaprakdokumu/stream.m3u8
-
-#EXTINF:-1 tvg-id="zenginkfakiro" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", 3.Zengin Kız Fakir Oğlan
-http://87.121.104.29:145/zenginkfakiro/stream.m3u8
-
-#EXTINF:-1 tvg-id="akustikturku" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Akustik Türküler
-http://87.121.104.29:145/akustikturku/stream.m3u8
-
-#EXTINF:-1 tvg-id="okyanus" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Okyanus Sesleri
-http://87.121.104.29:145/okyanus/stream.m3u8
-
-#EXTINF:-1 tvg-id="ormansesleri" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Orman Sesleri
-http://87.121.104.29:145/ormansesleri/stream.m3u8
-
-#EXTINF:-1 tvg-id="rahatlamaseans" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlama
-http://87.121.104.29:145/rahatlamaseans/stream.m3u8
-
-#EXTINF:-1 tvg-id="rahatlaticises" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Rahatlatıcı Sesler
-http://87.121.104.29:145/rahatlaticises/stream.m3u8
-
-#EXTINF:-1 tvg-id="somine" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/ytb.png" group-title="02.KIL-YOUTUBE CANLI", Şömine
-http://87.121.104.29:145/somine/stream.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.jpg" group-title="03.KIL-RADYO", 90'LAR
 http://37.247.98.8/stream/166/
 
@@ -9245,6 +9149,12 @@ https://hls-01-radiorecord.hostingradio.ru/record-symph/96/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiorecord.ru/upload/stations_images/sd90_image600_gray_outline.png" group-title="03.KIL-RADYO WORLD", Супердискотека 90-х
 https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-MOBESE", 0.AL QURAN AL KAREEM TV
+http://149.100.19.144:33004/play/a03u
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="04.KIL-MOBESE", 0.AL SUNNAH AL NABAWIYAH
+http://149.100.19.144:33004/play/a03v
 
 #EXTINF:-1 tvg-id="http://vizi.vizi.workers.dev/?ID=66" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_h0h.png" group-title="04.KIL-MOBESE", 0.KabeTV
 http://ch14.tv/live/ch4teenquran/playlist.m3u8
@@ -10293,6 +10203,9 @@ https://imdb-video.media-imdb.com/mc/vi1082903321/vi1082903321_1080p.mp4
 #EXTINF:-1 tvg-id="https://imdb-video.media-imdb.com/mc/vi1901512729/hls/vi1901512729_8000k.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg1MmRiODQtMjU1OC00Nzc5LTlhNjktNzllMmUwODIzMDU2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Michael
 https://imdb-video.media-imdb.com/mc/vi1901512729/vi1901512729_1080p.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ4MzMwYWQtZmFiNy00NmJiLWExNmEtMzgzNGE2ZDQ4NWMzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Minions & Monsters
+https://imdb-video.media-imdb.com/mc/vi2684275481/vi2684275481_1080p.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MjM5M2ItMTU0My00YzI2LTg5NzEtZGNmN2ZmNzhiNjQ1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Moana
 https://imdb-video.media-imdb.com/mc/vi105367577/vi105367577_1080p.mp4
 
@@ -10414,6 +10327,9 @@ https://srv12.cdnimages60.shop/hls/djahmet-2025-webdlmp4-MQlUtRDqrB1.mp4/txt/mas
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NiOTdjNGEtOWFkZC00MzA4LWE0NzEtNTZlZWQxMzE2ZDEyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Doctor Plague
 https://vidmody.com/vs/tt31511146
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Dolunay Katilleri
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/ssUf64pzvDEsh8vqKZM0tZ9fK9xnBEnMktdw9bAN.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUxOWRkN2UtZjBlMS00NWU0LWE2M2ItZmY5MDJjMzlhYTk4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Downton Abbey The Grand Finale rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/AmfEjbB7wps1rI3CxeRuQHBQfGtRardmYb78CitO.mp4/index.m3u8
@@ -10777,6 +10693,517 @@ https://vidrame.pro/vr/get/3bb8dde2/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ0ODljZmQtYjRlYi00MmU1LWJjM2MtNDdmM2Q5MDI3MDFjXkEyXkFqcGc@._V1_QL75_UX350_.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", 0000 Kilometre
 https://vidmody.com/vs/tt31852587
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRlMjk5OWEtZTNlZi00NWVlLTk5YjUtNDA1ZmIzYmQyYzU0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Alemde 1 Gece
+https://vidrame.pro/vr/get/b07bac0e/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODdhNzQ1YjktYjNjNy00N2Y1LWJmMWYtOTBkNTMzMjAzNmY2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Arapsaçı
+https://vidrame.pro/vr/get/16a74652/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEyMjhiYzUtMmUxYi00MjlkLWE5MGQtMWQwOTAxMGYxYWFiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşk Nerede?
+https://vidrame.pro/vr/get/78104a1b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM2YzBiZWYtNjhlZS00ODlkLThmMGUtNGZiMjMyY2Y3MzNhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", B.O.K. Bi O Kalmıştı
+https://vidrame.pro/vr/get/9d1f9acb/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY2MjhhOWEtMTJkYi00NGIxLWIyZWMtNmQzZjBkODQxMDk5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Baba Mirası
+https://vidrame.pro/vr/get/f9ef07c3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ0MWUyY2ItOGEyMC00Y2JkLWFmNmUtOWUwN2NkODRjZjk0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Babaların Babası
+https://vidrame.pro/vr/get/ea921542/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmNzNhMDItYTNjZC00ODIyLWJmZjMtM2FmYmRjMTA1YTkyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Beni De Götür
+https://vidrame.pro/vr/get/156a9e87/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgwMTVlMjQtM2FkYS00MDJmLWI5MDMtMzhkYzM0ZTUxNmRhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bizim Hikaye
+https://vidrame.pro/vr/get/65f7d674/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBkNjViZTItMWVjYy00YjllLTkyOGEtMzU1ZGFkZjI4OGRkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bizum Uşaklar
+https://vidrame.pro/vr/get/820c5bcc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FkYmNhOTYtZTBjMi00NTQyLTg1OTYtZDdkOWM5OGNiYTAzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Can Tertip
+https://vidrame.pro/vr/get/336a7baa/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUzZmMxMGEtN2I0OS00OGU0LTg3YTAtMDk4Yjg0M2IwYmJkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Chef
+https://vidrame.pro/vr/get/d6f424c4/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZiNDY4MzAtYzZhYy00Mjg2LWJmMzgtMjMwMDgzMWVkNWRmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dalavere
+https://vidrame.pro/vr/get/0aa0ffed/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIzOGJiZjAtNGY3Mi00N2ZhLWEwMWMtNTg2NTI5NWQ5MmU2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Değiştir Bakalım
+https://vidrame.pro/vr/get/5640f037/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJhZDc4NzUtMDc3Yi00ODY4LWE1YzctOTNlMmNjNzE1NjdjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dolanma
+https://vidrame.pro/vr/get/2409765b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ3MDY2NDk1Ml5BMl5BanBnXkFtZTgwMTI4MjI4MDE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Erkekler
+https://vidrame.pro/vr/get/96395c04/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVlNzFiMGMtN2U2ZC00YWRmLWE1NGMtMmJmN2QwOTZiOTg1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Eski Köye Yeni Adet 
+https://vidrame.pro/vr/get/6b26ee38/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliNzQxMTgtOGRlZC00NjljLTk3YWYtNDg2NTc3OTg1ODIxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Eve Dönüş
+https://vidrame.pro/vr/get/e492080d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZkYTEzNzItYzY2Zi00ZDM1LThjZmUtNTQyOGQ1ZDBkMmM3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hür Köle
+https://vidrame.pro/vr/get/b8bfeb29/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BODdlZjFiODYtNDIxOS00Y2M3LWE0NWEtOGQ1NzI0M2M3NGRiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Güller
+https://vidrame.pro/vr/get/cea9cb10/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJiZjk2OWItY2QzYS00NjNkLThjY2ItOWM3NGY4OTg2N2M1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Güvercin Hırsızları
+https://vidrame.pro/vr/get/a4443f44/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ5MzUxNDQ2Ml5BMl5BanBnXkFtZTgwNDU3NjI1MzE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hadi insallah
+https://vidrame.pro/vr/get/697ed582/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk5ZjZlOTYtYTNiOS00Zjc1LWJjNDctMDExZDY2YzJjZjlkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Halef
+https://vidrame.pro/vr/get/da60dd0f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U2ODUyYTMtZDAxOS00MTYxLTk0MjktZDc0NDlhYzViM2FhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hasbihal
+https://vidrame.pro/vr/get/722d0645/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWFlYzZhZGEtN2FkYy00ZjY3LTk3YjgtYzBmMTc5ODliN2Q2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hesapta Aşk
+https://vidrame.pro/vr/get/e4e0b470/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMwNTNmMGYtNzA1Ny00NmRhLThkMGYtNTZiYWUxNTcwMjAwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", İyi ki Doğdun Abla 
+https://vidrame.pro/vr/get/eb9b7e2a/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQzNTI4MGYtN2Y2Ny00Mzc0LThlMGMtNWY2YWI3YTQxMzJmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kadere Tutsak
+https://vidrame.pro/vr/get/c75ca3a3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4ZTk1OTgtNTY1Yi00MWRlLTg3MDYtOTc3NDNiNjQ5ZDQ3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kasap Havası
+https://vidrame.pro/vr/get/f0f150f9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI2YTUwNDMtYjFiYS00Y2M2LTk3OTUtOGU0NDg5ZDE5OWZmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Keşif
+https://vidrame.pro/vr/get/64a9424e/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTBjMzFjZDgtNWM5MS00NTQ0LWJlNzktMTRlYzZhZTVkZGQzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kiki ile Miki Alatura
+https://vidrame.pro/vr/get/e927256b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA0OWU3MTktZjcxNC00ZDMzLThjODQtMzgwMTkzZWUyN2Q4XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kim Daha Mutlu?
+https://vidrame.pro/vr/get/5ef5fa3d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI5ZDEyOWItZmY2NC00NDdiLThmNDUtNDhkYjllNTkzY2ZiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Koca Dünya
+https://vidrame.pro/vr/get/9bd836c3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjVmYjJmODAtODk5MS00MDFjLTg1YzktYTM5MjE5OTE2ZDBhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kraliçe Lear
+https://vidrame.pro/vr/get/021af4cc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFiNTczZGQtNTRjZC00NTg5LTlkN2QtNjkyNWFkZWJkZmFiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Köpek filmi
+https://vidrame.pro/vr/get/0ce4a309/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhmODUyM2EtMmQwMS00MGM2LWIzNWMtYTViNWEzMjhhZDFhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kızkaçıran
+https://vidrame.pro/vr/get/518ed98d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNlMWIyOWUtN2NiNS00YjkyLWJjOGMtM2Y0NzMyZmIzMjMxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Maskeli Krolar
+https://vidrame.pro/vr/get/a20cddbe/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0MzAzNTY1Ml5BMl5BanBnXkFtZTgwNjc3MTE1NzE@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Melekleri Taşıyan Adam
+https://vidrame.pro/vr/get/b92cd35d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZjMzU4N2QtMWI2Zi00NzViLTgzYzAtMDg4YWQ2NzRlZjFmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Mezeci Çırağı
+https://vidrame.pro/vr/get/b5bed438/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJhOWI4MTYtNzMxNS00M2RkLWI1NDUtZWY0ZDUxYzE0MTJiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Nasipse Adayız
+https://vidrame.pro/vr/get/f19c838f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ3ZDZjOTEtNDEyNy00MzZhLTk5NDUtMWQ3YmMzNTFlYjhiXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Arada
+https://vidrame.pro/vr/get/a96a0003/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk1ZTEzZGUtY2U3Ni00NTQxLTkxZDctMjI0MzcwMDViNDAyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşkın Gören Gözlere İhtiyacı Yok
+https://vidrame.pro/vr/get/0c3d5afa/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI5MDhhYjUtOTQ1MS00NjdkLWIxMTUtZWVkOTFhYzBlMGI2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Babaannem
+https://vidrame.pro/vr/get/79b8f6fc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBjNWU5ZDQtZDhjYy00OWM1LTk2M2EtYzcyOWM4OTQzZDg3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Beyaz Balina
+https://vidrame.pro/vr/get/1858bf7d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JiMjgwMDEtNzAzZC00MGM4LWI4YmQtMTlmMTRjNzJlYzFlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Daha
+https://vidrame.pro/vr/get/990bbd27/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjE1ZjJjOGQtMmM3NS00MzQ0LWJmN2UtM2ZkZTBjMTNhZjVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kar
+https://vidrame.pro/vr/get/b7011b1f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg1MjA3Y2EtOThkMy00ODhkLWFhYzctYmQ2OTVhZDNkNzI1XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", 3 kagitçilar
+https://vidrame.pro/vr/get/4b066fa1/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJiYjQ2MGItZDA5Zi00OTg3LTllYjItNzVmNTI0MDRjYTM2XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Benden Hikâyesi
+https://vidrame.pro/vr/get/d6d2547b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc3ZTA5ZWYtMmZkYS00MWZlLWI1ZmItM2RhYWI1ZTU2OTZkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Güneşi Söndürmem Gerek
+https://vidrame.pro/vr/get/84976e38/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kiraz Mevsimi 
+https://vidrame.pro/vr/get/3c33f316/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Put Seylere
+https://vidrame.pro/vr/get/7a016cf5/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Soygun (2022)
+https://vidrame.pro/vr/get/7c561b07/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yola Çikmak
+https://vidrame.pro/vr/get/a89591eb/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Babasının Kızı
+https://vidrame.pro/vr/get/43d5248f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Börü
+https://vidrame.pro/vr/get/b69a3b8c/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cinayet Süsü
+https://vidrame.pro/vr/get/30c8deb5/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Delisin Delisin
+https://vidrame.pro/vr/get/42acab71/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Geçmişteki Sır
+https://vidrame.pro/vr/get/3550d091/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", İğne deliği (2009)
+Köprüdekiler
+https://vidrame.pro/vr/get/fff557dc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kafes
+https://vidrame.pro/vr/get/059c9a59/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kara Bela 
+https://vidrame.pro/vr/get/012b0f77/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Nadide Hayat
+https://vidrame.pro/vr/get/4e6da0f1/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Patron Mutlu Son İstiyor
+https://vidrame.pro/vr/get/7b204286/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Senden Bana Kalan
+https://vidrame.pro/vr/get/84d631e6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Senin Hikayen
+https://vidrame.pro/vr/get/d8a85ddb/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Sevimli Tehlikeli
+https://vidrame.pro/vr/get/cc36dfb8/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Sonsuz Aşk
+https://vidrame.pro/vr/get/90bbb2ed/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Toz Ruhu 
+https://vidrame.pro/vr/get/36b3bc83/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yağmur Rengi
+https://vidrame.pro/vr/get/a5f43692/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Acı Tatlı Ekşi
+https://vidrame.pro/vr/get/5e153a35/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Amatör Hayat
+https://vidrame.pro/vr/get/3750ceeb/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşk Geliyorum Demez
+https://vidrame.pro/vr/get/58a5de0c/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşka Dair
+https://vidrame.pro/vr/get/9c1e6a45/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bayramlık
+https://vidrame.pro/vr/get/d02a0ff4/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Biricik Sevgilim
+https://vidrame.pro/vr/get/e5b8bfc1/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Köy Dügünü
+https://vidrame.pro/vr/get/899375c8/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Meşru Gayrimeşru
+https://vidrame.pro/vr/get/54c9558b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Nefesim kesilene kadar
+https://vidrame.pro/vr/get/c22942b5/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Oyun Bitti
+https://vidrame.pro/vr/get/2249b8ea/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Seni Gidi Seni
+https://vidrame.pro/vr/get/a2234d5e/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yalancı Şahit
+https://vidrame.pro/vr/get/3725d087/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Acı Aşk
+https://vidrame.pro/vr/get/ffdf287e/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aydede
+https://vidrame.pro/vr/get/9da11cb6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bağcık
+https://vidrame.pro/vr/get/de330964/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bir Ömrün Sonbaharı
+https://vidrame.pro/vr/get/439a310a/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Damat Takımı
+https://vidrame.pro/vr/get/c025bac5/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dayı: Bir Adamın Hikâyesi
+https://vidrame.pro/vr/get/96f878b2/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Gelecek Uzun Sürer
+https://vidrame.pro/vr/get/a6a4270d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Geri Sayım
+https://vidrame.pro/vr/get/81995448/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hayat Var
+https://vidrame.pro/vr/get/dc67a8d6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Her Şeyin Başı Merkür
+https://vidrame.pro/vr/get/d3672bfc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kadınlara Mahsus
+https://vidrame.pro/vr/get/8d5cb5f5/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kar Masalı
+https://vidrame.pro/vr/get/05624551/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kosmos
+https://vidrame.pro/vr/get/d907a430/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Mahşerin Üç Delisi
+https://vidrame.pro/vr/get/72dff9d9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Mutlu Aile Defteri
+https://vidrame.pro/vr/get/af928641/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Sonbahar
+https://vidrame.pro/vr/get/2af6e249/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Soygun Oyunu: Büyük Vurgun
+https://vidrame.pro/vr/get/5c72bd5b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", The İmam
+https://vidrame.pro/vr/get/4be51573/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Yol Kenarı
+https://vidrame.pro/vr/get/1f4a94a0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Anadolu Kartalları
+https://vidrame.pro/vr/get/ea4917c3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ankara Yazı Veda Mektubu
+https://vidrame.pro/vr/get/6fd46d52/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Annem (2019)
+https://vidrame.pro/vr/get/cd4be811/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ask Tesadüfleri Sever
+https://vidrame.pro/vr/get/f06a4795/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Asli Gibidir
+https://vidrame.pro/vr/get/ae1b4ab9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ay Lav Yu
+https://vidrame.pro/vr/get/8203543d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ay Lav Yu Tuu
+https://vidrame.pro/vr/get/4fc9f7e1/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşk Bu Mu? (2018)
+https://vidrame.pro/vr/get/9bf105e4/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşk Tesadüfleri Sever 2
+https://vidrame.pro/vr/get/7e954f2b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Aşık (2016)
+https://vidrame.pro/vr/get/31c66e5a/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bana Git De (2016)
+https://vidrame.pro/vr/get/4c59c132/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bayram Abi (2016)
+https://vidrame.pro/vr/get/c7cbd369/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bebek Geliyorum Demez
+https://vidrame.pro/vr/get/eda3b6c0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Beginner (2017)
+https://vidrame.pro/vr/get/981bfe01/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Belalılar (2017)
+https://vidrame.pro/vr/get/9cef48a0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bende Kal
+https://vidrame.pro/vr/get/b926a69f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bir Nefes Yeter
+https://vidrame.pro/vr/get/24eb9ff9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Biz Babasız Büyüdük
+https://vidrame.pro/vr/get/8a7b78e3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Biz Size Döneriz
+https://vidrame.pro/vr/get/4d782db3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bozkır - Kuşlara Bak Kuşlara
+https://vidrame.pro/vr/get/b5335eed/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Bütün Saadetler Mümkündür
+https://vidrame.pro/vr/get/6110391c/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Can Feda
+https://vidrame.pro/vr/get/60e12c82/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Canakkale 1915
+https://vidrame.pro/vr/get/a7d07030/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cenaze İşleri
+https://vidrame.pro/vr/get/017f4ffc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cesedin Ölümü
+https://vidrame.pro/vr/get/997a7a36/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Ciçero
+https://vidrame.pro/vr/get/a86c3490/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Cok Filim Hareketler Bunlar (2010)
+https://vidrame.pro/vr/get/ec262c46/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dadaş
+https://vidrame.pro/vr/get/4bcf9db2/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Damat Koğuşu
+https://vidrame.pro/vr/get/84b173c9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Detay (2015)
+https://vidrame.pro/vr/get/978413ab/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dönerse Senindir
+https://vidrame.pro/vr/get/89a165ce/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dünya Hali (2018)
+https://vidrame.pro/vr/get/0cd7e7c2/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Dünyanın En Güzel Kokusu
+https://vidrame.pro/vr/get/a96e3aa6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Emanet (2016)
+https://vidrame.pro/vr/get/dd652814/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Emicem Hospital 
+https://vidrame.pro/vr/get/350cb833/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", En Uzun Gece (2019)
+https://vidrame.pro/vr/get/1ccf8132/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Erkek tarafı testosteron
+https://vidrame.pro/vr/get/0c0c53fc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Evliya Çelebi ve Ölümsüzlük Suyu
+https://vidrame.pro/vr/get/0fbe8ea9/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Eyvah Karım
+https://vidrame.pro/vr/get/de7ba048/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Gerçek Kesit: Manyak
+https://vidrame.pro/vr/get/c5f9cc59/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Git Başımdan
+https://vidrame.pro/vr/get/13729c9b/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Göktaşı
+https://vidrame.pro/vr/get/398aa9f4/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Göçebe (2017)
+https://vidrame.pro/vr/get/7836554d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Gürbüz: Hadi Allaha Emanet
+https://vidrame.pro/vr/get/7455a199/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Güvercin (2018)
+https://vidrame.pro/vr/get/328461f3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hadi Be Oğlum
+https://vidrame.pro/vr/get/8f7c9d29/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hasret Bitti (2016)
+https://vidrame.pro/vr/get/d7c85940/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hemen Döneriz (2019)
+https://vidrame.pro/vr/get/e7af2e6f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Her Şey Aşktan 
+https://vidrame.pro/vr/get/ab901476/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Hürkuş: Göklerdeki Kahraman
+https://vidrame.pro/vr/get/4e3e98dc/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", ikimizin Yerine (2016)
+https://vidrame.pro/vr/get/5457f0b6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", ikinci Şans 
+https://vidrame.pro/vr/get/11e4e6aa/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", ilk Öpücük (2017)
+https://vidrame.pro/vr/get/c6a437d0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", istasyon (2020)
+https://vidrame.pro/vr/get/e19200d6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", içerdekiler
+https://vidrame.pro/vr/get/606fccaa/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", işe Yarar Bir Şey (2017)
+https://vidrame.pro/vr/get/76414ca0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kapi (2019)
+https://vidrame.pro/vr/get/b47bc15a/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kar Korsanları
+https://vidrame.pro/vr/get/c96f5178/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kardesler 2018
+https://vidrame.pro/vr/get/0b591d20/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kariyer (2015)
+https://vidrame.pro/vr/get/7df101fe/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Karınca Kapanı (2014)
+https://vidrame.pro/vr/get/62c71880/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kaygı (2017)
+https://vidrame.pro/vr/get/e64be193/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kimse Bizi Konuşmasın
+https://vidrame.pro/vr/get/a5d65a2d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Korku Komedi: Bana Normal Aktiviteler 
+https://vidrame.pro/vr/get/a2bc133d/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Krallar Kulübü
+https://vidrame.pro/vr/get/afb8cec6/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kurtuluş Son Durak 
+https://vidrame.pro/vr/get/a5ff6718/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kuşatma Yedi Uyuyanlar
+https://vidrame.pro/vr/get/953f36b0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kötü Çocuk (2017)
+https://vidrame.pro/vr/get/ee3e33f0/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Küçük Kıyamet (2006)
+https://vidrame.pro/vr/get/c0273228/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kırk Yalan 
+https://vidrame.pro/vr/get/5de45a9f/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kızım ve Ben (2018)
+https://vidrame.pro/vr/get/b6238c15/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="08.FiLM YERLİ-YEŞİLÇAM", Leblebi Tozu 
+https://vidrame.pro/vr/get/c3febdb8/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiY2Q3Y2UtYTE2NS00M2JkLTkyMTYtZjAzYzViYTViMmMxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", 1 Kezban 1 Mahmut: Adana Yollarında
 https://vidmody.com/vs/tt5775012
@@ -11979,13 +12406,8 @@ https://vidmody.com/vs/tt33131804
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMyZWEwZDctZWEwYy00OTgyLTlhMzUtOGVhYzczYTU1NmFhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Koparan Kardeşler
 https://vidmody.com/mm/tt33131804/main/index-v1-a1.gif
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlNDEyNTAtMDIzZi00OTcyLTgzNDQtMjMwNDc0NjY2YTAxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kor (2016)
-https://p1.photostack.net/v/tmapdmnq45xq/master.m3u8
-
-#EXTINF:-1 tvg-id="https://s230.rapidrame.com/hls2/01/00018/tmapdmnq45xq_,l,.urlset/master.m3u8?t=8sSJRUH5fq5z9spCqJlb6SF1Un0DX1iRS6OOedUVuw0&s=1765227297&e=86400&f=90024&srv=s429&i=0.0&sp=0" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlNDEyNTAtMDIzZi00OTcyLTgzNDQtMjMwNDc0NjY2YTAxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kor Ember (2016)
-
-
-https://box-1029-f.vmeas.cloud/hls/xqx2pezu3zokjiqbtg4cbikbwxqgs7a6abp3sfahzbaf54mxoochwhlvzota/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="https://p1.photostack.net/v/tmapdmnq45xq/master.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhlNDEyNTAtMDIzZi00OTcyLTgzNDQtMjMwNDc0NjY2YTAxXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Kor (2016)
+https://vidrame.pro/vr/get/c9974095/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I1NDdlNmMtYWRhMC00OTE3LWFhMjktNGIwMDAwMzliNjBjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YERLİ-YEŞİLÇAM", Korkusuz Cengaver 1976
 https://videos.files.wordpress.com/KOS1M2Z3/korkusuz-cengaver-1080p_mp4.adaptive_4.m3u8
@@ -15176,6 +15598,9 @@ https://vidmody.com/vs/tt0245844
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.prectv39.sbs/uploads/cache/poster_thumb/uploads/jpg/5c256204e0a1b764546479fe59f27acb.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Monte Cristo Kontu Le Comte de Monte-Cristo (2024)
 https://vidmody.com/vs/tt26446278
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1.jpg" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Morgan
+https://vidrame.pro/vr/get/02a932d2/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://hdfilmsitesi.me/uploads/filmler/2025-06/morgan-killer-doll.webp" group-title="09.FiLM KARIŞIK-ESKİ KLASiK VS", Morgan: Killer Doll 
 https://vidmody.com/vs/tt34477893
