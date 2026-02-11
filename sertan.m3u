@@ -2,10 +2,13 @@
 #EXTINF:-1 tvg-id="https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8" tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17936234.png" group-title="0.KIL-MÜZİK", 01.trt müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.DREAM
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Dream_TV_logosu.png" group-title="0.KIL-MÜZİK", 02.Dream TV
+https://dsmartgo-live.ercdn.net/dreamtv/dreamtv.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.DREAM türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.Dream a
+#EXTINF:-1 tvg-id="https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="0.KIL-MÜZİK", 02.Dream türk a
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20140429232956%21Kral_TV_logosu.png" group-title="0.KIL-MÜZİK", 03.KRAL
@@ -6743,6 +6746,12 @@ https://k1.df856-54hilsnz.xyz/storage/media/503cea4f60e1e1a817c89cb694f81723-720
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.09 tr
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/KtalXe9CjwJrMj4ub2IlbDJZRGinhKdK75zBcQEk.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.10 alt
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/ypxmve6EQ1kqhPC6PaObh73fgu98KzIAByV40ZF2.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQ1NDUwYjEtYTYzYS00YTc3LTgzOTEtZTM0ZDhhMGM3ODAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Spartacus: House of Ashur 1.10 tr
+https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/s9lx86srUiClI9Mya8Q6Ec7ahOfxJhePXcX7HphK.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZkNTE0OWMtNWYwZS00NTJmLTlmMDMtOTc3MWE5NDUxNzEyXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", The Copenhagen Test 1.01
 https://vidmody.com/vs/tt31314791/s1/e01
