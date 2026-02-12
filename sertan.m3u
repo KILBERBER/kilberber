@@ -1175,11 +1175,17 @@ https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="0.KIL-MÜZİK", 7S Music
 http://202.164.50.194:8000/play/a026/index.m3u8
 
+#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="0.KIL-MÜZİK", 9X Jalwa
+https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aZ0f85I.png" group-title="0.KIL-MÜZİK", 9X Jhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="0.KIL-MÜZİK", 9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="0.KIL-MÜZİK", 9XM
+https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="0.KIL-MÜZİK", 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
@@ -1771,6 +1777,21 @@ http://hls.tmacaraibes.com/live/index.m3u8
 
 #EXTINF:-1 tvg-id="TopEstrada TV" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="0.KIL-MÜZİK", TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="0.KIL-MÜZİK", Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="0.KIL-MÜZİK", Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="0.KIL-MÜZİK", Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="0.KIL-MÜZİK", Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="0.KIL-MÜZİK", Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Tropi Q 99.7 FM" tvg-logo="https://i.imgur.com/5rPdHhb.png" group-title="0.KIL-MÜZİK", Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
@@ -2386,6 +2407,12 @@ https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/se
 
 #EXTINF:-1 tvg-id="https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-1/playlist.m3u8|referer=https://www.sporcafe-cc312b798596.xyz/&|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android  (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/selcukobs1/playlist.m3u8?_HLS_skip=YES
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a proxy
+https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukbeinsports1.m3u8
+
+#EXTINF:-1 tvg-id="BEIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk a proxy b
+https://turkuaz.tecostream.xyz/proxy?url=https://calm-cell-7dd5.evtvtv534.workers.dev/selcukobs1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/main/1selcuk.png" group-title="0.KIL-SP0R  MAÇ", v.Bein Sport 1 Selçuk b
 https://cors-anywhere.yidianzhishi.cn/https://dga1op10s1u3leo.38f3bb9511487c.click/live/selcukbeinsports1/playlist.m3u8|referer=https://www.selcuksportshd1837.xyz/‎|user-agent=Dalvik/2.1.0 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android
@@ -6441,59 +6468,59 @@ https://vs4.photour.org/v/Ersan.Kuneri.S01E07.WEB-DL.1080p.H.264-HDM/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmZWEwNjAtNmVhNi00ZjE4LWEwNTItZDZlZDE0YmE2MDY3XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 1.8 Doyamadım
 https://vs1.photour.org/v/Ersan.Kuneri.S01E08.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="https://www.diziyo15.net/diziizle/ersan-kuneri-yerli-dizi-hd-izle/" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.1Kötü Yol
-https://roka4.shop/cdn/down/4aadf4d15e8fe920234807f1bef9172f/Original/Original.txt
+#EXTINF:-1 tvg-id="https://www.diziyo15.net/diziizle/ersan-kuneri-yerli-dizi-hd-izle/https://roka4.shop/cdn/down/4aadf4d15e8fe920234807f1bef9172f/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.1Kötü Yol
+https://vs11.photoflix.org/v/Ersan.Kuneri.S02E01.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.2 Kaymak Zamanı
-https://roka4.shop/cdn/down/877eef3b56c44e6dd5bd8d0fef05aaff/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/877eef3b56c44e6dd5bd8d0fef05aaff/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.2 Kaymak Zamanı
+https://vs11.photour.org/v/Ersan.Kuneri.S02E02.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.3 Hamur İşi
-https://roka4.shop/cdn/down/6e059f2d3ca75525637c8cde3d8bedab/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/6e059f2d3ca75525637c8cde3d8bedab/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.3 Hamur İşi
+https://vs15.photofunia.pro/v/Ersan.Kuneri.S02E03.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.4 Yaprak Sarması
-https://roka4.shop/cdn/down/3ada1af8a6d84a3ea8fee4373210fe64/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/3ada1af8a6d84a3ea8fee4373210fe64/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.4 Yaprak Sarması
+https://vs9.photomag.biz/v/Ersan.Kuneri.S02E04.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.5 Acı Baba
-https://roka4.shop/cdn/down/354404ac035c73dde52e83319fceb1c2/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/354404ac035c73dde52e83319fceb1c2/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.5 Acı Baba
+https://vs16.photoflix.org/v/Ersan.Kuneri.S02E05.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.6 Sahne Tozu
-https://roka4.shop/cdn/down/1ac2125c0b55d40119cc4daaeef4ceec/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/1ac2125c0b55d40119cc4daaeef4ceec/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.6 Sahne Tozu
+https://vs18.photoflix.org/v/Ersan.Kuneri.S02E06.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.7 Nekes Hayat
-https://roka4.shop/cdn/down/882e91161c54fb8d1e1dd78ae25b7be7/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/882e91161c54fb8d1e1dd78ae25b7be7/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.7 Nekes Hayat
+https://vs11.pictureflix.org/v/Ersan.Kuneri.S02E07.WEB-DL.1080p.H.264-HDM/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.8 Şekerpaşa
-https://roka4.shop/cdn/down/17ed4f2df7a58c0b1ed215733236e260/Original/Original.txt
+#EXTINF:-1 tvg-id="https://roka4.shop/cdn/down/17ed4f2df7a58c0b1ed215733236e260/Original/Original.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzNmMWUtYWQ3ZS00ZWVhLThjNmUtNmM1NWM0NDc3MjAwXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Erşan Kuneri 2.8 Şekerpaşa
+https://vs11.gamephotos.pro/v/Ersan.Kuneri.S02E08.WEB-DL.1080p.H.264-HDM/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.01 Ben, Gassal
-https://mezeler5.shop/cdn/down/366a0c0cd433b7aa3d08f6fa9c8b6f80/Original/Original.txt
+https://mezeler6.shop/cdn/down/366a0c0cd433b7aa3d08f6fa9c8b6f80/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.02 Kim Kalacak Nazım?
-https://mezeler5.shop/cdn/down/5aaed0a26c5bdb4214e7942a33d08ac2/Original/Original.txt
+https://mezeler6.shop/cdn/down/5aaed0a26c5bdb4214e7942a33d08ac2/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.03 Helvalar ve Sırları
-https://mezeler5.shop/cdn/down/85157ae4f8125633e60c49f547564244/Original/Original.txt
+https://mezeler6.shop/cdn/down/85157ae4f8125633e60c49f547564244/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.04 Ölünün Manzaraya İhtiyacı Olmaz
-https://mezeler5.shop/cdn/down/a3c643e8815c60a2df4061c875654175/Original/Original.txt
+https://mezeler6.shop/cdn/down/a3c643e8815c60a2df4061c875654175/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.05 Merak Ettim... Neden Evlenmezmişsin Benimle?
-https://mezeler5.shop/cdn/down/2694d66f09342f9f9f8e5b2fc147f7b0/Original/Original.txt
+https://mezeler6.shop/cdn/down/2694d66f09342f9f9f8e5b2fc147f7b0/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.06 Aşk ve Ölüm
-https://mezeler5.shop/cdn/down/689b72160e7ed63f9a3513a2b791938c/Original/Original.txt
+https://mezeler6.shop/cdn/down/689b72160e7ed63f9a3513a2b791938c/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.07 Kimsenin İstemediği Bir Adam
-https://mezeler5.shop/cdn/down/01a066fd0cd966f4c75a315f60198bb6/Original/Original.txt
+https://mezeler6.shop/cdn/down/01a066fd0cd966f4c75a315f60198bb6/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.08 Ben Kaldım
-https://mezeler5.shop/cdn/down/2a47f92fe8e71f2988d48f15e93ce69d/Original/Original.txt
+https://mezeler6.shop/cdn/down/2a47f92fe8e71f2988d48f15e93ce69d/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.09 Hiç Bilmeseydim Özgürdüm...
-https://mezeler5.shop/cdn/down/3fb9e8e36b3f6c0da035a1b5106ce647/Original/Original.txt
+https://mezeler6.shop/cdn/down/3fb9e8e36b3f6c0da035a1b5106ce647/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/37/Gassal.jpg" group-title="00.KIL-DiZi-TRENT", Gassal 1.10.Ben ve Çocuklar
-https://mezeler5.shop/cdn/down/34399f683c199c2bceaa8b70535694ed/Original/Original.txt
+https://mezeler6.shop/cdn/down/34399f683c199c2bceaa8b70535694ed/Original/Original.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w768/q85/52565.jpeg" group-title="00.KIL-DiZi-TRENT", Gassal 2.01  9 Ay Beklememiş Bir Baba
 https://newyork5.store/cdn/down/517b1eacce8b56b583f70b1ac3a62b7c/Original/Original.txt
@@ -6539,6 +6566,9 @@ https://k3.df856-54hilsnz.xyz/storage/media/31420b69047e229c6dfb3d669646c6d7-720
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.05
 https://k1.df856-54hilsnz.xyz/storage/media/c5dfb87c25e7d01eebfa1aae2eb9e079-720.mp4/gomindex.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Güzellik - The Beauty 1.06
+https://hizmir6.shop/cdn/down/d5946c9e7ea7aac1e7565385a6cd45d5/Original/Original.txt
 
 #EXTINF:-1 tvg-id="https://1.nejyoner19.workers.dev/?url=https://load.rectv2024live.com/hls/1/cdn788/YZXFsPzghJdjD5OmNc4M4wSDzmu1auxgli0Z9mmo.mp4/index.m3u8" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdlM2ZkNTctODM5NC00YjVkLWJkZDctOGMwNmRlNTI0OGFlXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Jasmine 1.01
 https://vidmody.com/vs/tt36584543/s1/e01
@@ -9540,20 +9570,8 @@ https://streams.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Kung_Fu_%282021_TV_series%29_Title_Card.png" group-title="07.KIL ORTAYA KARISIK", (Kung Fu+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="07.KIL ORTAYA KARISIK", (Masterchef
-https://bit.ly/masterchefBR?profile=inspirationFreeTV.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="07.KIL ORTAYA KARISIK", (Masterchef 24H
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="07.KIL ORTAYA KARISIK", (MasterChef Arj
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="07.KIL ORTAYA KARISIK", (MasterChef Br
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lOuySbz.png" group-title="07.KIL ORTAYA KARISIK", (MasterChef Danmarks
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c19edbf535220007075c4e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.pinimg.com/736x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" group-title="07.KIL ORTAYA KARISIK", (Mr bean
 https://fl1001.bozztv.com/ushba45/index.m3u8
@@ -9576,22 +9594,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/80/Survivor-T%C3%BCrkiye.png/500px-Survivor-T%C3%BCrkiye.png" group-title="07.KIL ORTAYA KARISIK", (Survivor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e7b24744c60007c1f6fc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=296&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/80/Survivor-T%C3%BCrkiye.png/500px-Survivor-T%C3%BCrkiye.png" group-title="07.KIL ORTAYA KARISIK", (Survivor
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ytimg.com/vi/t4XyFHEw3FA/maxresdefault.jpg" group-title="07.KIL ORTAYA KARISIK", (The Benny Hill Show
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="USBB4400018LR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20240520T220200SQUARE.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Ar
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Wipeout_2011_logo.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout es
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Xtra (Australia)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20240520T220200SQUARE.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Xtra (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Wipeout_reboot_logo.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Xtra (CA)
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20240520T220200SQUARE.png" group-title="07.KIL ORTAYA KARISIK", (Wipeout Xtra (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lgca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore
@@ -9599,15 +9608,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG_1751300628513.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore arj
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=377ba761-af3a-11f0-bdb9-07c03d4196d7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ad585d09-7143-4d22-98a3-51b44597448a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore espanol
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (x.Acapulco Shore español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (X.Acapulco Shore Latin
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", (x.Big Brother
 https://stitcher.pluto.tv/stitch/hls/channel/6661f11a41af6400080e90d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55
@@ -9618,26 +9618,8 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="07.KIL ORTAYA KARISIK", A Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 
-#EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/LHLKQ6Y/FB4B185401E9/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-classic-flix/logo_20250205_005636_68.png" group-title="07.KIL ORTAYA KARISIK", A-Z Classic Flix
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/4Z5TUCQ/FD530620E192/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-western-grit/logo_20250205_010126_68.png" group-title="07.KIL ORTAYA KARISIK", A-Z Western Grit
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="https://143.244.60.30/ABC_EAST/index.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="07.KIL ORTAYA KARISIK", Abc east
-http://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e72a55131ffe44f85845456ed45a407d.webp" group-title="07.KIL ORTAYA KARISIK", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/aci-on-the-go/logo_20250220_231008_70.png" group-title="07.KIL ORTAYA KARISIK", ACI On The Go
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/RD16KOPRXE0O9L4VAXVJ/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="07.KIL ORTAYA KARISIK", AFV en Esp
-https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="07.KIL ORTAYA KARISIK", AFV Family
-https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="07.KIL ORTAYA KARISIK", AFV it
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
@@ -9648,23 +9630,11 @@ https://linear-12.frequency.stream/dist/distrotv/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="https://linear-12.frequency.stream/dist/distrotv/12/hls/master/playlist.m3u8" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/logo_20231219_184146_68.png" group-title="07.KIL ORTAYA KARISIK", Always Funny 1
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-pranks-and-fails/logo_20240806_224655_70.png" group-title="07.KIL ORTAYA KARISIK", Always Funny Pranks & Fails
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny-pranks-and-fails/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23135/always-funny-pranks-and-fails/logo_20240806_224655_70.png" group-title="07.KIL ORTAYA KARISIK", Always Funny Pranks & Fails
-https://linear-863.frequency.stream/dist/distrotv/863/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.amcnetworks.com/amc/theme/web/amc_logo_bk_bg.png" group-title="07.KIL ORTAYA KARISIK", AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", amc +
 http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QJtwJoS.png" group-title="07.KIL ORTAYA KARISIK", AMC Stories
-https://bit.ly/3CmcVEq?profile=inspirationlivetv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", AMC Thrillers
-https://bit.ly/3DVMI2j
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/EVD0aIt.png" group-title="07.KIL ORTAYA KARISIK", AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
@@ -9672,44 +9642,11 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="07.KIL ORTAYA KARISIK", AMC+ East
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="07.KIL ORTAYA KARISIK", Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="07.KIL ORTAYA KARISIK", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", BollyWorld
-https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22969/bowery-classics/logo_20231219_185008_54.png" group-title="07.KIL ORTAYA KARISIK", Bowery Classics
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bowery-classics/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" group-title="07.KIL ORTAYA KARISIK", Box Cinema
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
-
 #EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="07.KIL ORTAYA KARISIK", Camera Smile TV
 https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="07.KIL ORTAYA KARISIK", Camera Smile TV
 https://bozztv.com/gusa/gusa-camerasmile/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ssl-cdn.carbontv.com/app/webroot/files/assets/cams/tablet_logo_image/1675974626/600x600_Tablet%20Logo_large.png" group-title="07.KIL ORTAYA KARISIK", CarbonTV
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/aad6c91a-874a-44db-96a5-3efbc5e8c208.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png" group-title="07.KIL ORTAYA KARISIK", Cartoon Classics
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Cbs east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="07.KIL ORTAYA KARISIK", Cbs east
-https://143.244.60.30/CBSEAST/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png" group-title="07.KIL ORTAYA KARISIK", Chicas Guapas TV
-https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=10&partner=distro&ads.rnd=6oy7&ads.env_i=f27b4063-47b6-47da-80fb-4f71be5f15fa&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=393&ads.height=221&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=95.70.153.75&ads.geo=TR&ads.lat=37.84480&ads.long=27.83860&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=140186&ads.show_id=5324&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CFashion%2CStyle%2CLifestyle%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Chicas%20Guapas%20TV&ads.episodetitle=Chicas%20Guapas%20TV&ads.keywords=women%2Cfashion%2Cstyle%2Cbeauty&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250717
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/chicas-guapas-tv/logo_20250513_211005_70.png" group-title="07.KIL ORTAYA KARISIK", Chicas Guapas TV
-https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=140186&ads.show_id=5324&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CFashion%2CStyle%2CLifestyle%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Chicas%20Guapas%20TV&ads.episodetitle=Chicas%20Guapas%20TV&ads.keywords=women%2Cfashion%2Cstyle%2Cbeauty&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20250614
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23212/cigar-tv/logo_20250318_223344_70.png" group-title="07.KIL ORTAYA KARISIK", Cigar TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="07.KIL ORTAYA KARISIK", Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -9720,23 +9657,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1963&live=1&avo
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/cinepride/logo_20231219_192429_27.png" group-title="07.KIL ORTAYA KARISIK", Cinepride
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1963&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=cinepride&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
 
-#EXTINF:-1 tvg-id="Dummhttps://dr2t9f8nivbc6.cloudfront.net/hls/S4ANNVQ/336348FCA0A7/m.m3u8y" tvg-logo="https://a.jsrdn.com/hls/23195/colorizedtv/logo_20241210_234659_68.png" group-title="07.KIL ORTAYA KARISIK", Colorized.TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png" group-title="07.KIL ORTAYA KARISIK", Comedy Classics
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/conspired-tv/logo_20250617_210841_70.png" group-title="07.KIL ORTAYA KARISIK", Conspired TV
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ZF55Q00YTY4CLB5L2DMQ/hls3/now,-1m/m.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/73HlRCg.png" group-title="07.KIL ORTAYA KARISIK", Cowboy Tv
 https://wisecdn3.wiseplayout.com/cowboytv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" group-title="07.KIL ORTAYA KARISIK", ENCORE+
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
-
-#EXTINF:-1 tvg-id="Epix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", Epix
-http://143.244.60.30/EPIX/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", FailArmy Internacional
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
@@ -9750,62 +9672,17 @@ http://84.17.40.25/FX/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="07.KIL ORTAYA KARISIK", FXX
 http://84.17.40.25/FXX/index.m3u8
 
-#EXTINF:-1 tvg-id="Fyi" tvg-logo="https://i.imgur.com/PggQk7F.png" group-title="07.KIL ORTAYA KARISIK", Fyi
-http://212.102.60.231/FYI/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20231219_202129_68.png" group-title="07.KIL ORTAYA KARISIK", Galxy TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1967&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=galxy-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22915/galxy-tv/logo_20231219_202129_68.png" group-title="07.KIL ORTAYA KARISIK", Galxy TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1967&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=galxy-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240704
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-the-vault/logo_20231219_202231_70.png" group-title="07.KIL ORTAYA KARISIK", GlewedTV The Vault
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-the-vault/master.m3u8
-
-#EXTINF:-1 tvg-id="Grit tv" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="07.KIL ORTAYA KARISIK", Grit tv
-http://212.102.60.231/GRIT_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://grittv.com/static/media/gritxtra-logo-filled.62136a3e5a0d018b8546.png" group-title="07.KIL ORTAYA KARISIK", gritextra
-https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/gritos-tv-by-trinian/logo_20250617_214111_70.png" group-title="07.KIL ORTAYA KARISIK", Gritos TV by Trinian
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/manifest.m3u8
-
 #EXTINF:-1 tvg-id="grjngo-es" tvg-logo="https://i.imgur.com/wFqhK3p.png" group-title="07.KIL ORTAYA KARISIK", Grjngo (Original)
 https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=418509ee-537b-4bf7-9d6c-3cfd77fc77b4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
 
-#EXTINF:-1 tvg-id="Hallmark drrama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/512px-Hallmark_Family_2024.svg.png" group-title="07.KIL ORTAYA KARISIK", Hallmark drrama
-http://212.102.60.231/HALLMARK_DRAMA/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Hallmark Movies & More
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", HBO
-http://212.102.60.231/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="07.KIL ORTAYA KARISIK", HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbo zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png" group-title="07.KIL ORTAYA KARISIK", Hbo zone
-http://212.102.60.231/HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="Hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="07.KIL ORTAYA KARISIK", Hgtv
-http://212.102.60.231/HGTV/index.m3u8
-
 #EXTINF:-1 tvg-id="https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8" tvg-logo="https://a.jsrdn.com/hls/22930/horror-machine/logo_20231219_213950_56.png" group-title="07.KIL ORTAYA KARISIK", Horror Machine
 https://linear-82.frequency.stream/dist/distrotv/82/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="07.KIL ORTAYA KARISIK", iFC Films Picks
-https://bit.ly/3T2BL51?profile=inspirationlivetv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/logo_20241210_231749_68.png" group-title="07.KIL ORTAYA KARISIK", indieBox
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/Z96BJ80GR1PEGK44E0SS/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", iON Mystery
-https://bit.ly/41RusiQ?/playlist/4200k.m3u8
-
-#EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="07.KIL ORTAYA KARISIK", Just for Laughs
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-logo="https://i.imgur.com/HjVEVMJ.png" group-title="07.KIL ORTAYA KARISIK", Just for Laughs Gags
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
@@ -9816,56 +9693,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="07.KIL ORTAYA KARISIK", Juste pour Rire
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 
-#EXTINF:-1 tvg-id="https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kwelitv/24-25-3009.m3u8" tvg-logo="https://a.jsrdn.com/hls/22870/kwelitv/logo_20231219_214912_70.png" group-title="07.KIL ORTAYA KARISIK", KweliTV
-https://amg00562-amg00562c1-distrotv-us-3009.playouts.now.amagi.tv/fc18f0fd-e782-48b7-9a8d-8d02f7835940/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23024/life-style-by-triptic/logo_20231219_215112_55.png" group-title="07.KIL ORTAYA KARISIK", Life Style by Triptic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="07.KIL ORTAYA KARISIK", Lifetime
-http://212.102.60.231/LIFETIME/index.m3u8
-
 #EXTINF:-1 tvg-id="mavtv-motorsports-network-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1af70ab-1f78-4af7-97c5-bcf61aa1acf7.jpeg" group-title="07.KIL ORTAYA KARISIK", MAVTV International (Original)
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5458&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=215734dc-55ee-41e8-95af-ab56cfd08edd&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/mi-miedo-canal/logo_20250617_215415_70.png" group-title="07.KIL ORTAYA KARISIK", Mi Miedo Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/mi-raza-canal/logo_20250617_214629_70.png" group-title="07.KIL ORTAYA KARISIK", Mi Raza Canal
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/mi-raza-canal-plus/logo_20250617_215110_70.png" group-title="07.KIL ORTAYA KARISIK", Mi Raza Canal Plus
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="07.KIL ORTAYA KARISIK", Minute 5 Crafts
-https://bit.ly/3QLfTvi?profile=inspirationFreeTV.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22728/monarch/logo_20231219_215904_69.png" group-title="07.KIL ORTAYA KARISIK", Monarch
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.moviefone.com/legacy/assets/moviefone-website-logo.png" group-title="07.KIL ORTAYA KARISIK", Movie Fone tv
-https://bit.ly/48t1sBR?profile=inspirationFreeTV.m3u8
-
-#EXTINF:-1 tvg-id="Msnbc" tvg-logo="https://i.imgur.com/kGUR6NE.png" group-title="07.KIL ORTAYA KARISIK", Msnbc
-http://212.102.60.231/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="07.KIL ORTAYA KARISIK", MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Newsmax2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", Newsmax 2
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/nigbati-tv/logo_20250109_233418_70.png" group-title="07.KIL ORTAYA KARISIK", Nigbati TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/no-limits/logo_20250429_221937_70.png" group-title="07.KIL ORTAYA KARISIK", No Limits
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6DXIB7DLH5HTNUBIQX3/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/logo_20250225_225158_70.png" group-title="07.KIL ORTAYA KARISIK", NOMADslow tv
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/old-west-tv/logo_20241119_225939_68.png" group-title="07.KIL ORTAYA KARISIK", Old West TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/ourvinyl/logo_20250211_203651_70.png" group-title="07.KIL ORTAYA KARISIK", OurVinyl
 https://d2bs6p84qq6krv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OurVinyl/459.m3u8
@@ -9875,21 +9710,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="07.KIL ORTAYA KARISIK", Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Paramount Movie Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Paramount Movie Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", Paramount Movie Channel
-https://bit.ly/ParamountMovie_m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Paramount+ Picks
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Paramount+ Picks
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="07.KIL ORTAYA KARISIK", People are Awesome Spain
 https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
@@ -9903,26 +9723,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718a
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UKTKf7X.png" group-title="07.KIL ORTAYA KARISIK", Pluto TV Hunter
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CON
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Pluto TV Western
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4bdb635ce813b38639e6a3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Pluto TV Western b
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630dd3b2605f140007e002f5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Pluto TV Westerns
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_webvtt.m3u8" tvg-logo="https://vipotv.com/wp-content/uploads/2023/07/popstar-tv-live-vipotv-america.png" group-title="07.KIL ORTAYA KARISIK", Popstar tv
 https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/d4xEiXX.png" group-title="07.KIL ORTAYA KARISIK", Popstar! TV
 https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/powertube-tv/logo_20250617_213124_70.png" group-title="07.KIL ORTAYA KARISIK", POWERtube TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powertube-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23077/real-life-tv/logo_20231219_221246_66.png" group-title="07.KIL ORTAYA KARISIK", Real Life TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-life-tv/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummyhttps://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8" tvg-logo="https://a.jsrdn.com/hls/22919/revry-her/logo_20231219_221435_68.png" group-title="07.KIL ORTAYA KARISIK", Revry Her
 https://linear-73.frequency.stream/dist/distrotv/73/hls/master/playlist.m3u8
@@ -9930,29 +9735,11 @@ https://linear-73.frequency.stream/dist/distrotv/73/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/TTwc1rR/saglikch.png" group-title="07.KIL ORTAYA KARISIK", SAĞLIK CHANNEL
 https://live.euromediacenter.com/saglikchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/TTwc1rR/saglikch.png" group-title="07.KIL ORTAYA KARISIK", SAĞLIK CHANNEL
-https://live.euromediacenter.com/saglikchannel/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/screams-tv-by-trinian/logo_20250617_213711_70.png" group-title="07.KIL ORTAYA KARISIK", Screams TV by Trinian
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8
-
-#EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="07.KIL ORTAYA KARISIK", Shout! Factory TV
-https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="07.KIL ORTAYA KARISIK", Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kiFjSW4.png" group-title="07.KIL ORTAYA KARISIK", The Pet Collective
-https://bit.ly/3sYLlrg?profile=inspirationlivetv.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", The Walking Dead Universe
 https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZGIlA51.png" group-title="07.KIL ORTAYA KARISIK", Trailers
-https://bit.ly/3RzVB7W?profile=inspirationlivetv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23113/true-hollywood-network/logo_20231219_223721_65.png" group-title="07.KIL ORTAYA KARISIK", True Hollywood Network
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-hollywood-network/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dwr98qb.png" group-title="07.KIL ORTAYA KARISIK", TVS Western Movie
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
@@ -9960,26 +9747,14 @@ https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=h
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="07.KIL ORTAYA KARISIK", Türkiye Klinikleri
 http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23064/unchainedtv/logo_20250617_212400_70.png" group-title="07.KIL ORTAYA KARISIK", UnchainedTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="07.KIL ORTAYA KARISIK", Uni TV
 https://cdn-unitv.yayin.com.tr/unitv/unitv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="https://dr2t9f8nivbc6.cloudfront.net/hls/EM636FY/A9CE3959655A/m.m3u8" tvg-logo="https://a.jsrdn.com/hls/23195/urban-action-channel/logo_20250205_002523_70.png" group-title="07.KIL ORTAYA KARISIK", Urban Action Channel
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-id="https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8" tvg-logo="https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg" group-title="07.KIL ORTAYA KARISIK", Usa Game Show Network East
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.uskudar.edu.tr/assets/img/uskudar-televizyonu-logo.png" group-title="07.KIL ORTAYA KARISIK", Usküdar Üniversitesi TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23195/viajar-tv/logo_20250102_223334_36.png" group-title="07.KIL ORTAYA KARISIK", Viajar TV
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/VOGUE_LOGO.svg/langfr-110px-VOGUE_LOGO.svg.png" group-title="07.KIL ORTAYA KARISIK", Vogue
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="07.KIL ORTAYA KARISIK", Wanted: Dead or Alive
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
@@ -9993,29 +9768,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1970&live=1&avo
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nNy9oTx.png" group-title="07.KIL ORTAYA KARISIK", Western TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", Western TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="07.KIL ORTAYA KARISIK", WOMAN KADIN TV
 https://embedlp.b-cdn.net/womantv.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Acapulco Shore usa
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Acapulco Shore usa b
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.All Reality by WE tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20240709T002120SQUARE.png" group-title="07.KIL ORTAYA KARISIK", x.All Reality WE tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20240520T221403SQUARE.png" group-title="07.KIL ORTAYA KARISIK", x.All Weddings WE tv
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.AMC en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Bad Girls Club
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
@@ -10023,92 +9777,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-id="BarRescue.us" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Bar Rescue
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce96-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=257eaf62-d268-45a0-8abf-fe20817952f9
 
-#EXTINF:-1 tvg-id="60a3d889a5b3690008dc7fe8" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Bar Rescue
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Baywatch
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce97-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f25ee872-2318-41f5-9217-d8d7a6edc084
-
-#EXTINF:-1 tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20240709T002042SQUARE.png" group-title="07.KIL ORTAYA KARISIK", x.Baywatch
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Baywatch tubi
-https://lnc-baywatch.tubi.video/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Baywatch uk
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e672d4676bf00076a3837/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Best of The Drew Barrymore Show
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61858ac0491af10007f8ce4f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.beIN SPORTS XTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.beIN SPORTS XTRA en español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20240520T222838SQUARE.png" group-title="07.KIL ORTAYA KARISIK", x.Bounce XL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.COPS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20240520T215826SQUARE.png" group-title="07.KIL ORTAYA KARISIK", x.Dallas Cowboys Cheer
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="DallasCowboysCheerleaders.us" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Dallas Cowboys Cheerleaders
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Dogs 24/7
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Emergencia 911
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.FOX Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="5f77977bd924d80007eee60c" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Mission Impossible
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.MTV Spankin New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Paramount Movie Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Rescue 911
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="5efbd39f8c4ce900075d7698" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Star Trek
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.Star Trek Voyager
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f77879983bec60007e2a196/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Stargate
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Stories by AMC
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.The Walking Dead en español
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=377b8053-af3a-11f0-bdb9-07c03d4196d7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a7a9ec4-9d45-424e-b797-0ce5f9b93838&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.The Walking Dead eng es
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.The Walking Dead Universe
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3772f4d2-af3a-11f0-bdb9-07c03d4196d7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=063b0b48-eff9-424c-b9f5-b1f5b087e72f&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="07.KIL ORTAYA KARISIK", x.The Walking Dead Universe
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", x.Ink Master
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60807fd5db701400078219c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22823/young-hollywood/logo_20231219_224434_70.png" group-title="07.KIL ORTAYA KARISIK", Young Hollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://codefashion.bg/wp-content/uploads/2025/06/codefashion-new-logo.png" group-title="07.KIL ORTAYA KARISIK", z.Code Fashion
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
@@ -10128,50 +9804,17 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="07.KIL ORTAYA KARISIK", Z.FASHION ONE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", z.FASHION TV
-https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="07.KIL ORTAYA KARISIK", z.FASHION TV Czech & Slovak
 https://lb.streaming.sk/fashiontv/stream/chunklist_w407729389.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV Asia
-https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV Bikini
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV Czech
 https://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV Europe
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV New York
-https://fash1043.cloudycdn.services/slive/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV Paris
-https://fash1043.cloudycdn.services/slive/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.FTV International
-https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.GEMS TV
 https://la1.gemporia.com/abrgemporiausgfx/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.Jewellery Maker
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/b8a8f825-a737-4dc1-b429-5fa2ce9460f5.png" group-title="07.KIL ORTAYA KARISIK", z.Just Vogue TV
-https://tivi191.ozelip.com:3873/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20231219_214555_68.png" group-title="07.KIL ORTAYA KARISIK", z.Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.tvcdn.net/761a811e-7a9f-4861-ab73-f5b9ea792d5d.png" group-title="07.KIL ORTAYA KARISIK", z.Moda Magazin TV
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13388&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="07.KIL ORTAYA KARISIK", z.QVC Beauty
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
@@ -10190,9 +9833,6 @@ https://cdn.wfc.tv/cdn/stream-eng.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/World_Fashion_logo.jpg/500px-World_Fashion_logo.jpg" group-title="07.KIL ORTAYA KARISIK", z.World Fashion Ru
 https://cdn.wfc.tv/cdn/stream-rus.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/22882/zee-bollyworld/logo_20240326_225354_70.png" group-title="07.KIL ORTAYA KARISIK", Zee BollyWorld
-https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126290&ads.show_id=5065&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2CClassic%20Movies%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=hi&ads.showtitle=Zee%20BollyWorld&ads.episodetitle=Zee%20BollyWorld&ads.keywords=Zee%2CBollyWorld%2CBollywood%2CClassic&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live&ads.vf=20240831
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc4YzA5NTEtYzliYy00M2NhLWE1MjItNWNkNjE4NzMyOWIyXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", (Yakında Apex
 https://imdb-video.media-imdb.com/mc/vi1890568985/vi1890568985_1080p.mp4
@@ -10407,8 +10047,8 @@ https://srv13.cdnimages863.shop/hls/hicbirseynormaldegil-2024-webmp4-UTTHgqf6D5Z
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkNGJmNWUtNjVkMC00NTJhLTk5N2UtYmZlODdmM2UzNTRlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Honey Dont!
 https://vidmody.com/vs/tt30645201
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM2MzYxZTgtMDUyYS00MmMwLWE4MjctNDBjYzJjOWVlNDVhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", irmandade: Kardeşlik İsyanı State of Fear
-https://hls12.playmix.uno/hls/salvegeralirmandade-2026-webdl-trdualmp4-q7cR7jI8rDm.mp4/master.txt
+#EXTINF:-1 tvg-id="https://hls12.playmix.uno/hls/salvegeralirmandade-2026-webdl-trdualmp4-q7cR7jI8rDm.mp4/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM2MzYxZTgtMDUyYS00MmMwLWE4MjctNDBjYzJjOWVlNDVhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", irmandade: Kardeşlik İsyanı State of Fear
+https://vidrame.pro/vr/get/a1c662b6/master.m3u8
 
 #EXTINF:-1 tvg-id="https://srv12.cdnimages1748.shop/hls/itsawonderfulknife-2023-webdl-trdualmp4-eOYrGSvtkwG.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY3M2E1YjEtY2U0Ny00ZTNlLThmNjAtY2E0NjRkNzdkZmZlXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", its a Wonderful Knife
 https://vidrame.pro/vr/get/6040f0e9/master.m3u8
@@ -10533,6 +10173,9 @@ https://vidrame.pro/vr/get/2b942091/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY0NDM4OGYtNGY2Ny00NWRhLThiMzEtODdiMWIwZmUxMGFhXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Self-Help
 https://vidmody.com/vs/tt37018900
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0N2YzMTItYmQyNi00MjdjLTk4NDYtOGU5NzhkM2RiMmEzXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sesim Geliyor Mu? Is This Thing On?
+https://balancehls12.playmix.uno/hls/isthisthingon-2025-altyazimp4-46ERZq1Gz17.mp4/master.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFhMjY5NGQtYWFlNS00MDZmLTkwNzAtNjdjMzQzMTQxY2U3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Sesimi Takip Et
 Follow My Voice
 https://vidmody.com/vs/tt23899310
@@ -10639,6 +10282,10 @@ https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/a
 
 #EXTINF:-1 tvg-id="https://pixeldrain.com/api/file/jh8igmLJ" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQzMzhlMGYtNjZmMy00YzhmLWI3OTgtYjQzNDNkYzhkOTg5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Muppet Show
 https://vidrame.pro/vr/get/14794db7/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdhYmQ4ZTMtYjI3Yy00OTFjLWI5YWYtNDkwYTQ0Y2Y4ZDNkXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Night 
+Gaua
+https://srv12.cdnimages2172.shop/hls/thenight-2025-altyazimp4-RhCWDsw3lWI.mp4/txt/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMmQwZjktZjQ3Yy00MzJjLTliYzYtNzIxMWE0MWM0M2U0XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", The Paradise of Thorns
 https://srv12.cdnimages893.shop/hls/theparadiseofthorns-2024-altyazimp4-G12X54Rdr4n.mp4/txt/master.txt
