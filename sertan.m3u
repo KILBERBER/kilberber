@@ -311,9 +311,6 @@ https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="0.KIL-MÜZİK", 20.TRACE UK
 https://d3b13j525hja2q.cloudfront.net/23073/Uk/encrypted.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban      eu
-http://95.67.12.82:9068
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban      fr
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
@@ -322,6 +319,9 @@ https://amg01131-tracetv-traceurbanes-samsungspain-c6yeo.amagi.tv/playlist/amg01
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban a
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.Trace Urban Afrika
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/canada1/traceurban/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fr.trace.tv/trace-urban/wp-content/uploads/sites/18/2016/11/logo_urban.png" group-title="0.KIL-MÜZİK", 20.trace urban b
 https://amg01076-lightningintern-traceurban-samsungnz-5x2cu.amagi.tv/playlist/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
@@ -3024,539 +3024,158 @@ https://huhu.to/play/1453692314/index.m3u8|referer=https://huhu.to/&|user-agent=
 #EXTINF:-1 tvg-id="BEIN SPOTS1 SD (1)" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.huhu.png" group-title="0.KIL-SP0R  MAÇ VPN HUHU.TO", BEIN SPOTS1 SD (1)
 https://huhu.to/play/143239535/index.m3u8|referer=https://huhu.to/&|user-agent=HUHU/1.0
 
-#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-1-premium-rs.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Arena 1 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT1PREMIUMRS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/8808_A-Sports-Logo_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", A SPORTS
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/asports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-2-premium-rs.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Arena 2 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT2PREMIUMRS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/86862_acc-networkjpg_zqyhbcc7ngjq1o22gz5uw1d3o_150x150.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ACC NETWORK USA
+http://tv.rapidstreamz.workers.dev/?ID=https://sp.visiona.top:8443/us1new/ACCN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/arena-3-premium-rs.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Arena 3 Premium RS
-https://stream.yiannisko-10f.workers.dev/sid=ARENASPORT3PREMIUMRS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/35101_download_16_optimized.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ALTITUDE SPORTS
+http://tv.rapidstreamz.workers.dev/?ID=https://us1.visiona.top:8443/sports/alt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Arena Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT1SK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/53562_images_28_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO CRICKET
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/astro2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Arena Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=ARNSPORT2SK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Arena
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astroarena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-1-french-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports 1 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT1FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Arena2
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astroarena2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-2-french-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports 2 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT2FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Football
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astro4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/bein-sports-3-french-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports 3 FR
-https://stream.yiannisko-10f.workers.dev/sid=BEINSPORT3FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Grand Stand
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astro3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-4-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 4 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX4FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Premier Lig1
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astro1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-5-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 5 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX5FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/54841_Astro_Supersport_Plus_PyeongChang_2018_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ASTRO SUPERSPORT Premier Lig2
+http://tv.rapidstreamz.workers.dev/?ID=https://af.visiona.top:8443/sports/astro2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-6-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 6 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX6FR
+#EXTINF:-1 tvg-id="2774" tvg-logo="http://img.rapidstreams.io/1/data/images/30124_axs_optimized.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", AXS TV USA
+http://tv.rapidstreamz.workers.dev/?ID=https://us1.visiona.top:8443/sports2/axsusa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-7-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 7 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX7FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo53/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-8-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 8 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX8FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 2
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo54/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/horizontal/bein-sports-9-max-hz-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN Sports Max 9 FR
-https://stream.yiannisko-10f.workers.dev/sid=beINMAX9FR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 3
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo55/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bein-sports-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS USA
-https://stream.yiannisko-10f.workers.dev/sid=beINSPORTSUS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 4
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo56/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cablenet.Sports.1.cy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cablenet Sports 1 CY
-https://stream.yiannisko-10f.workers.dev/sid=Cablenet1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 5
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo57/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cablenet.Sports.2.cy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cablenet Sports 2 CY
-https://stream.yiannisko-10f.workers.dev/sid=Cablenet2
+#EXTINF:-1 tvg-id="https://zx.visiona.top:8443/sportshdd/argo58/playlist.m3u8" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 6
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo59/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/canal11-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal 11 PT
-https://stream.yiannisko-10f.workers.dev/sid=Canal11
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 7
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo62/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.pl" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Extra 1 PL
-https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/1065_19569_ben1.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS AR 8
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/argo61/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.pl" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Extra 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=CLPLExtra2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS ENG 1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/bein1en/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-foot-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Foot FR
-https://stream.yiannisko-10f.workers.dev/sid=FOOTPLUSFR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS ENG 2
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/bein2en/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport 2 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 2 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP2AF
+#EXTINF:-1 tvg-id="2252" tvg-logo="http://img.rapidstreams.io/1/data/images/68670_BEINENG_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", BEIN SPORTS ENG 3
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/bein3en/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-2-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT2PL
+#EXTINF:-1 tvg-id="1669" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS FR 1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/bein1fr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport 3 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 3 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP3AF
+#EXTINF:-1 tvg-id="1670" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS FR 2
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/bein2fr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.3.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-3-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 3 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT3PL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/20572_images_1_10_150x150.jpeg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS FR 3
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/bein3fr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-360-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 360 FR
-https://stream.yiannisko-10f.workers.dev/sid=CANALS360
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS PREMIUM 1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/bein1prem/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport 4 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 4 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP4AF
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS PREMIUM 2
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/beinprem2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-4-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 4 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT4PL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/3676_bein 1 premi.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS PREMIUM 3
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/beinprem3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport 5 AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 5 AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP5AF
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/30568_beinusa.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS USA1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/usbeinsportshd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-5-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport 5 PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORT5PL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/65866_XTRA_2_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS XTRA 1
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/xtra1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+ Sport AFR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport AFR
-https://stream.yiannisko-10f.workers.dev/sid=CNPLSP1AF
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/65866_XTRA_2_150x150.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", beIN SPORTS XTRA 2
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports2/beinxtra2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal+.Sport.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-sport-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport FR
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTFR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/43598_Big-Ten-Network-Logo_150x150.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", BIG TEN NETWORK
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/BTN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/canal-plus-sport-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canal+ Sport PL
-https://stream.yiannisko-10f.workers.dev/sid=CANALSPORTPL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports NetOne
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/netone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", CBS Sports Network
-https://stream.yiannisko-10f.workers.dev/sid=CBSSPORTSNETWORK
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports NetOntario
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/netontario/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 1 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports NetPacific
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/netpacific/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-2-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 2 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports Nets 360
+https://zx.visiona.top:8443/sportshdd/net360/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-3-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 3 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports NetWest
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/netwest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-4-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 4 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports NetWorld
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sportshdd/networld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-5-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 5 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Canada Sports Sppitt
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/sports/sppitt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-6-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 6 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/57779_CBS_SPORT_150x150.jpg" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", CBSSN
+http://tv.rapidstreamz.workers.dev/?ID=https://zx.visiona.top:8443/us1new/CBSSportsNetworkUSA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-7-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 7 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://img.rapidstreams.io/1/data/images/7359_download_17_optimized.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", CHICAGO SPORTS NETWORK
+http://tv.rapidstreamz.workers.dev/?ID=https://us1.visiona.top:8443/sports/chsn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-8-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 8 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT8
+#EXTINF:-1 tvg-id="ElevenSports1PL" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 1 Poland
+http://live.freeshot.workers.dev/?ID=ElevenSports1PL
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-9-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport 9 GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORT9
+#EXTINF:-1 tvg-id="ElevenSports2PL" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 2 Poland
+http://live.freeshot.workers.dev/?ID=ElevenSports2PL
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.Highlights.HD.gr" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Cosmote Sport HL GR
-https://stream.yiannisko-10f.workers.dev/sid=COSMOTESPORTHG
+#EXTINF:-1 tvg-id="ElevenSports3PL" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 3 Poland
+http://live.freeshot.workers.dev/?ID=ElevenSports3PL
 
-#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 1 DE
-https://stream.yiannisko-10f.workers.dev/sid=DAZNDE
+#EXTINF:-1 tvg-id="ElevenSports3PL" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 4 Poland
+http://live.freeshot.workers.dev/?ID=ElevenSports4PL
 
-#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-1-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 1 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN1ES
+#EXTINF:-1 tvg-id="Motowizja" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Motowizja
+http://live.freeshot.workers.dev/?ID=Motowizja
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 1 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN1
+#EXTINF:-1 tvg-id="PolsatSportFight" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport Fight Poland
+http://live.freeshot.workers.dev/?ID=PolsatSportFight
 
-#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn2-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 2 DE
-https://stream.yiannisko-10f.workers.dev/sid=DAZN2DE
+#EXTINF:-1 tvg-id="SkySportF1DE" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport F1 DE
+http://live.freeshot.workers.dev/?ID=SkySportF1DE
 
-#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-2-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 2 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN2ES
+#EXTINF:-1 tvg-id="SkySportGolfDE" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Golf DE
+http://live.freeshot.workers.dev/?ID=SkySportGolfDE
 
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 2 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN2
+#EXTINF:-1 tvg-id="SkySportMixDE" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Mix DE
+http://live.freeshot.workers.dev/?ID=SkySportMixDE
 
-#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-3-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 3 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN3ES
-
-#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 3 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN3
-
-#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-4-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 4 ESP
-https://stream.yiannisko-10f.workers.dev/sid=DAZN4ES
-
-#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 4 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN4
-
-#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN 5 PT
-https://stream.yiannisko-10f.workers.dev/sid=ELEVEN5
-
-#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN LaLiga
-https://stream.yiannisko-10f.workers.dev/sid=DAZNLaLiga
-
-#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/dazn-channel-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", DAZN IT
-https://stream.yiannisko-10f.workers.dev/sid=ZonaDAZN
-
-#EXTINF:-1 tvg-id="Diema.Sport.2.HD.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport2-hd-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Diema Sport 2 BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport2
-
-#EXTINF:-1 tvg-id="Diema.Sport.3.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport3-hd-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Diema Sport 3 BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport3
-
-#EXTINF:-1 tvg-id="Diema.Sport.HD.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/diema-sport-hd-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Diema Sport BG
-https://stream.yiannisko-10f.workers.dev/sid=DiemaSport
-
-#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-1-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Digi Sport 1 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT1
-
-#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-2-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Digi Sport 2 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT2
-
-#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-3-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Digi Sport 3 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT3
-
-#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/digi-sport-4-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Digi Sport 4 RO
-https://stream.yiannisko-10f.workers.dev/sid=DIGISPORT4
-
-#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-1-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 1 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports1PL
-
-#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-2-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 2 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports2PL
-
-#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-3-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 3 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports3PL
-
-#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/eleven-sports-4-int.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Eleven Sports 4 PL
-https://stream.yiannisko-10f.workers.dev/sid=ElevenSports4PL
-
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN
-https://stream.yiannisko-10f.workers.dev/sid=ESPN
-
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-2-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN 2
-https://stream.yiannisko-10f.workers.dev/sid=ESPN2
-
-#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-2-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN 2 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN2NL
-
-#EXTINF:-1 tvg-id="ESPN.3.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-3-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN 3 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN3NL
-
-#EXTINF:-1 tvg-id="ESPN.4.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-4-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN 4 NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN4NL
-
-#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/espn-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN NL
-https://stream.yiannisko-10f.workers.dev/sid=ESPN1NL
-
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-sec-hz-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN SEC Network
-https://stream.yiannisko-10f.workers.dev/sid=ESPNSECNETWORK
-
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", ESPN U
-https://stream.yiannisko-10f.workers.dev/sid=ESPNU
-
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", FOX Deportes
-https://stream.yiannisko-10f.workers.dev/sid=FOXDEPORTES
-
-#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", FS1
-https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS1
-
-#EXTINF:-1 tvg-id="FS2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", FS2
-https://stream.yiannisko-10f.workers.dev/sid=FOXSPORTS2
-
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-prime-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", KHL Prime RU
-https://stream.yiannisko-10f.workers.dev/sid=KHLPrime
-
-#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/khl-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", KHL RU
-https://stream.yiannisko-10f.workers.dev/sid=KHLTV
-
-#EXTINF:-1 tvg-id="laliga-tv.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/laliga-tv-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", LaLiga TV
-https://stream.yiannisko-10f.workers.dev/sid=ViaplayLaLigaUK
-
-#EXTINF:-1 tvg-id="match futbol 1.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-1-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Match Football 1 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV
-
-#EXTINF:-1 tvg-id="match futbol 2.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-2-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Match Football 2 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV2
-
-#EXTINF:-1 tvg-id="match futbol 3.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-futbol-3-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Match Football 3 RU
-https://stream.yiannisko-10f.workers.dev/sid=MatchTV3
-
-#EXTINF:-1 tvg-id="MAX.Sport.1.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-1-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Max Sport 1 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSportBG
-
-#EXTINF:-1 tvg-id="MAX.Sport.2.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-2-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Max Sport 2 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport2BG
-
-#EXTINF:-1 tvg-id="MAX.Sport.3.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-3-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Max Sport 3 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport3BG
-
-#EXTINF:-1 tvg-id="MAX.Sport.4.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/max-sport-4-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Max Sport 4 BG
-https://stream.yiannisko-10f.workers.dev/sid=MaxSport4BG
-
-#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Movistar Deportes
-https://stream.yiannisko-10f.workers.dev/sid=MDEPORTES
-
-#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Movistar LaLiga
-https://stream.yiannisko-10f.workers.dev/sid=LALIGAES
-
-#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-por-movistar-plus-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Movistar Liga de Campeones
-https://stream.yiannisko-10f.workers.dev/sid=MLIGADECAMPEONES
-
-#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-1-cz.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT1CZ
-
-#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/nova-sport-2-cz.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORT2CZ
-
-#EXTINF:-1 tvg-id="Нова.Спорт.bg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-sport-bg.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sport BG
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTBG
-
-#EXTINF:-1 tvg-id="Novasports1.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-1-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 1 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS1
-
-#EXTINF:-1 tvg-id="Novasports2.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-2-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 2 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS2
-
-#EXTINF:-1 tvg-id="Novasports3.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-3-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 3 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS3
-
-#EXTINF:-1 tvg-id="Novasports4.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-4-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 4 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS4
-
-#EXTINF:-1 tvg-id="Novasports5.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-5-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 5 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS5
-
-#EXTINF:-1 tvg-id="Novasports6.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-6-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports 6 GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTS6
-
-#EXTINF:-1 tvg-id="Novasports.Premier.League.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-premier-league.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports Premier League GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPL
-
-#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports Prime GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSPR
-
-#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Nova Sports Start GR
-https://stream.yiannisko-10f.workers.dev/sid=NOVASPORTSST
-
-#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport 1
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTPL
-
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-2-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport 2
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTEXTRA
-
-#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-3-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport 3
-https://stream.yiannisko-10f.workers.dev/sid=POLSATSPORTNEWS
-
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-1-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport Premium 1
-https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium1
-
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-sport-premium-2-pl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Polsat Sport Premium 2
-https://stream.yiannisko-10f.workers.dev/sid=PolsatSportPremium2
-
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Premier Sports 1
-https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS1
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Premier Sports 2
-https://stream.yiannisko-10f.workers.dev/sid=PREMIERSPORTS2
-
-#EXTINF:-1 tvg-id="Prima.Sport.1.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-1-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Prima Sport 1 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport1
-
-#EXTINF:-1 tvg-id="Prima.Sport.2.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-2-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Prima Sport 2 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport2
-
-#EXTINF:-1 tvg-id="Prima.Sport.3.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-3-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Prima Sport 3 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport3
-
-#EXTINF:-1 tvg-id="Prima.Sport.4.(HD).ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/prima-sport-4-ro.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Prima Sport 4 RO
-https://stream.yiannisko-10f.workers.dev/sid=PrimaSport4
-
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Rai Sport
-https://stream.yiannisko-10f.workers.dev/sid=RAISportIT
-
-#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/rmc-sport-1-fr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", RMC Sport 1 FR
-https://stream.yiannisko-10f.workers.dev/sid=RMCSPORT1FR
-
-#EXTINF:-1 tvg-id="Setanta Sports 1.ru" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Setanta Sports 1 RU
-https://stream.yiannisko-10f.workers.dev/sid=Setanta1RU
-
-#EXTINF:-1 tvg-id="Setanta Sports 2.ru" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Setanta Sports 2 RU
-https://stream.yiannisko-10f.workers.dev/sid=Setanta2RU
-
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-austria-1-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Austria 1
-https://stream.yiannisko-10f.workers.dev/sid=SkySportAustria
-
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-1-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Bundesliga DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsBundesliga
-
-#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Calcio IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportCalcioIT
-
-#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Max IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMaxIT
-
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Mix DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMixDE
-
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-mix-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Mix IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportMixIT
-
-#EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport News DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsNewsDE
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Premier League DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportPremierLeagueDE
-
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Tennis DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsTennisDE
-
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Tennis IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportTennisIT
-
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Top Event DE
-https://stream.yiannisko-10f.workers.dev/sid=SkySportTopEvent
-
-#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Uno IT
-https://stream.yiannisko-10f.workers.dev/sid=SkySportUnoIT
-
-#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports F1
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsF1
-
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports Football
-https://stream.yiannisko-10f.workers.dev/sid=SkySportsFootballUK
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports Main Event
-https://stream.yiannisko-10f.workers.dev/sid=skysportsmainevent
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports Mix
-https://stream.yiannisko-10f.workers.dev/sid=skysportsmixuk
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports News
-https://stream.yiannisko-10f.workers.dev/sid=skysportsnews
-
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports NFL
-https://stream.yiannisko-10f.workers.dev/sid=skysportsaction
-
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports Premier League
-https://stream.yiannisko-10f.workers.dev/sid=skysportspremierleague
-
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports Tennis
-https://stream.yiannisko-10f.workers.dev/sid=skysportstennisuk
-
-#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sports+
-https://stream.yiannisko-10f.workers.dev/sid=skysportsplus
-
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport 1 CZ
-https://stream.yiannisko-10f.workers.dev/sid=SPORT1CZ
-
-#EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="noimage.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport 2 CZ
-https://stream.yiannisko-10f.workers.dev/sid=SPORT2CZ
-
-#EXTINF:-1 tvg-id="SK.4.HD.(SR/BIH).ba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/sportklub-4-hr.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport Klub 4 RS
-https://stream.yiannisko-10f.workers.dev/sid=SPORTKLUB4RS
-
-#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-1-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 1 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT1
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-2-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 2 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT2
-
-#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-3-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 3 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT3
-
-#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-4-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 4 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT4
-
-#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-5-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 5 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT5
-
-#EXTINF:-1 tvg-id="SPORT.TV6.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-6-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV 6 PT
-https://stream.yiannisko-10f.workers.dev/sid=SPT6
-
-#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/portugal/sport-tv-mais-pt.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sport TV+ PT
-https://stream.yiannisko-10f.workers.dev/sid=SPTPlus
-
-#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportdigital-fussball.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", SportDigital DE
-https://stream.yiannisko-10f.workers.dev/sid=sportdigitalfussball
-
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet 360
-https://stream.yiannisko-10f.workers.dev/sid=Sportsnet360
-
-#EXTINF:-1 tvg-id="Sportsnet.East.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet East
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetEast
-
-#EXTINF:-1 tvg-id="Sportsnet.One.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet One
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetOne
-
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet Ontario
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetOntario
-
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet West
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetWest
-
-#EXTINF:-1 tvg-id="Sportsnet.World.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sportsnet World
-https://stream.yiannisko-10f.workers.dev/sid=SportsnetWorld
-
-#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-tennis-it.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Super Tennis IT
-https://stream.yiannisko-10f.workers.dev/sid=Supertennis
-
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Teledeporte
-https://stream.yiannisko-10f.workers.dev/sid=TELEDEPORTEES
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-hz-us.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Tennis Channel
-https://stream.yiannisko-10f.workers.dev/sid=TENNISCHANNEL
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TNT Sports 1
-https://stream.yiannisko-10f.workers.dev/sid=TNT1UK
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TNT Sports 2
-https://stream.yiannisko-10f.workers.dev/sid=tntsports2
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TNT Sports 3
-https://stream.yiannisko-10f.workers.dev/sid=tntsports3
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TNT Sports 4
-https://stream.yiannisko-10f.workers.dev/sid=tntsports4
-
-#EXTINF:-1 tvg-id="TSN.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TSN1
-https://stream.yiannisko-10f.workers.dev/sid=TSN1
-
-#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TSN2
-https://stream.yiannisko-10f.workers.dev/sid=TSN2
-
-#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TSN3
-https://stream.yiannisko-10f.workers.dev/sid=TSN3
-
-#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TSN4
-https://stream.yiannisko-10f.workers.dev/sid=TSN4
-
-#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TSN5
-https://stream.yiannisko-10f.workers.dev/sid=TSN5
-
-#EXTINF:-1 tvg-id="TVA.Sports.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tva-sports-ca.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", TVA Sports CA
-https://stream.yiannisko-10f.workers.dev/sid=TVASports
-
-#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Vamos!
-https://stream.yiannisko-10f.workers.dev/sid=VamosES
-
-#EXTINF:-1 tvg-id="viju sport.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/viju-plus-sport-ru.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Viju+ Sport RU
-https://stream.yiannisko-10f.workers.dev/sid=VijuPLUSSport
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport 2 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport2
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.3.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport 3 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport3
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport 4 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport4
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-5-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport 5 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport5
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-6-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport 6 NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport6
-
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Ziggo Sport NL
-https://stream.yiannisko-10f.workers.dev/sid=ZiggoSport
+#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png" group-title="0.KIL-SP0R  MAÇ YABANCI KANALLAR", Sky Sport Premier League DE
+http://live.freeshot.workers.dev/?ID=SkySportPremierLeagueDE
 
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png" group-title="0.KIL-SPOR KARIŞIK", 01.FB Tv
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
@@ -10034,9 +9653,9 @@ https://vidmody.com/vs/tt20198774
 2 Hazte la muerta
 https://vidmody.com/vs/tt34793095
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRkNWI2YzgtOTc2NC00M2NmLTk4NGMtYjAyZjE5NGYyZTBhXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="08.FiLM YENi 2026", Predator: Vahşi Topraklar
+#EXTINF:-1 tvg-id="https://srv12.cdnimages213.shop/hls/predatorbadlands-2025-webdl-trdualmp4-ve0pI25sJ39.mp4/txt/master.txt" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRkNWI2YzgtOTc2NC00M2NmLTk4NGMtYjAyZjE5NGYyZTBhXkEyXkFqcGc@._V1_QL75_UX310_.jpg" group-title="08.FiLM YENi 2026", Predator: Vahşi Topraklar
 Predator: Badlands 
-https://srv12.cdnimages213.shop/hls/predatorbadlands-2025-webdl-trdualmp4-ve0pI25sJ39.mp4/txt/master.txt
+https://vidrame.pro/vr/get/ce312502/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MDI3MjctMGQ1My00ODI1LWFmNjctMjdlNDdiYzcyMWMwXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Primate
 Primat
