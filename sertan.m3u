@@ -2270,20 +2270,20 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=7yj1ajgk7th3&app=d
 #EXTINF:-1 tvg-id="GOLTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Mackolik_favicon.png" group-title="0.KIL-SP0R  MAÇ", MAÇ KOLİK
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Beşiktaş - Alanyaspor 2-2
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_bjk_ala_21h_8sub_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Başakşehir - Beşiktaş 2-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_bas_bjk_22h_15sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Fenerbahçe - Gençlerbirliği 3-1
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_fb_genc_21h_9sub_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Galatasaray - Eyüpspor 5-1
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_gs_eyup_22h_13sub_ip&secure=1
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Konyaspor - Göztepe 0-0
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_kon_goz_21h_8sub_ip&secure=1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Rizespor - Galatasaray 0-3
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_riz_gs_21h_8sub_ip&secure=1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Göztepe - Kayserispor 0-0
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_goz_kay_22h_15sub_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Samsunspor - Trabzonspor 0-3
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_21_sam_ts_7sub_ip&secure=1
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.trnt.png" group-title="0.KIL-SP0R  MAÇ", Ozet.Trabzonspor - Fenerbahçe 2-3
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20252026_22_ts_fb_22h_14sub_ip&secure=1
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vod.sportstv.com.tr/categoryicons/Anasayfa-1647964073-icon.png" group-title="0.KIL-SP0R  MAÇ", Sports TV web
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -6219,17 +6219,20 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhY2Y5MjktZGUzOC00NzkyLWJiYWItZTEzMGZjNGFjMmQyXkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-SONBÖLÜMLER", Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.01
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.01 Gezgin Şövalye
 https://k1.df856-54hilsnz.xyz/storage/media/917abff5a66faca37a600d0f51dfab84-720.mp4/gomindex.m3u8
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.02
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.02 Tuzlu Sığır Eti
 https://k2.df856-54hilsnz.xyz/storage/media/9ec3edbff684b305973117f51c908d9d-720.mp4/gomindex.m3u8
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.03
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.03 Yağver
 https://k2.df856-54hilsnz.xyz/storage/media/2a3e7f1be0dbf9a56e527cd8a8a9cb41-720.mp4/gomindex.m3u8
 
-#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.04
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.04 Yedi
 https://k2.df856-54hilsnz.xyz/storage/media/8c7434e8108e7cb8ea9c5b3788e57d04-720.mp4/gomindex.m3u8
+
+#EXTINF:-1 tvg-id="https://dizigom104.com/" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", A Knight of the Seven Kingdoms 1.05
+https://k2.df856-54hilsnz.xyz/storage/media/db9a2a2ef906026a0ca96b16328c2826-720.mp4/gomindex.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjAzNTM3NjYtNmUzZS00NTk3LWExMDMtZmUyNWEyNGQxY2E1XkEyXkFqcGc@._V1.jpg" group-title="00.KIL-DiZi-TRENT", Ayrılık da Sevdaya Dahil 1.01
 https://cors-anywhere.yidianzhishi.cn/https://load.prectv63.lol/hls/12/cdn1280/ST8omsgz7UG94JPDEjKDyIc1N3N4DzeRooEezSNi.mp4/index.m3u8
@@ -9740,6 +9743,10 @@ https://vidmody.com/vs/tt3331548
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzODNkYWUtMmMzOC00NzZjLTlkMTctOTkwM2I2ZWI1MTlmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Nuremberg rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/g29IwxfYw4s1Rv5pCYXNGPeMjonC257tOycWC76c.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZTFjYjQtOGRiYS00ZWZjLWJmYTMtYWY0ZDMzMjM5YmY5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Olü Adamın Teli 
+Dead Man's Wire
+https://srv13.cdnimages2116.shop/hls/deadmanswire-2025-altyaziscreenmp4-0cbfPZhWV5Y.mp4/txt/master.txt
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThlNDMzYTItMGE1MS00Mzg5LWIyOWMtZjA1NzVmNzhmZWVmXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Olümün Sesi
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/KXIC4Nck2yFdBQEPLQ5EPzAsmiBI71ZxTRigFjuq.mp4/index.m3u8
 
@@ -9748,6 +9755,9 @@ https://vidmody.com/vs/tt27674706
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGE1ZjAxY2ItZGQxNy00ZjM5LWI3YzctYzNhNjg2ZjhjNDZjXkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Panggilan Dari Kubur rec
 https://1.nejyoner19.workers.dev/?url=https://load.prectv63.lol/hls/12/cdn1280/WGDCvGQR3DFZcAdOABrQq5FPeHPKQMQdUVyMcX1x.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYwN2JkMjMtYjRkZi00NjMxLTk0ZmQtN2VkMTEwM2MyNDg5XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", Paranormal Cuma
+https://srv13.cdnimages562.shop/hls/paranormalcuma-2024-webmp4-sDor6H8GS3J.mp4/txt/master.txt
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQxYzgyNTEtZTQwYi00Y2ZiLWJlYmYtNWI3ZGNiM2Q2YjE3XkEyXkFqcGc@._V1.jpg" group-title="08.FiLM YENi 2026", People You May Know
 Tanıyor Olabileceğin Kişiler
